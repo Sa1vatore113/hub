@@ -1,33 +1,32 @@
 name: Update Gamer Calendar Data
 
 on:
-schedule:
-- cron: '0 0 * * *' # Запуск каждую полночь
-workflow_dispatch: # Позволяет запустить вручную кнопкой
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
-build:
-runs-on: ubuntu-latest
-steps:
-- name: Checkout code
-uses: actions/checkout@v3
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
 
-  - name: Set up Python
-    uses: actions/set-python@v4
-    with:
-      python-version: '3.9'
+      - name: Set up Python
+        uses: actions/set-python@v4
+        with:
+          python-version: '3.9'
 
-  - name: Install dependencies
-    run: |
-      pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-  - name: Run update script
-    run: python update_data.py
+      - name: Run update script
+        run: python update_data.py
 
-  - name: Commit and push changes
-    run: |
-      git config --global user.name "GamerHub-Bot"
-      git config --global user.email "bot@gamerhub.com"
-      git add data.json
-      git commit -m "Auto-update calendar data" || exit 0
-      git push
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GamerHub-Bot"
+          git config --global user.email "bot@gamerhub.com"
+          git add data.json
+          git commit -m "Auto-update calendar data" || exit 0
+          git push
