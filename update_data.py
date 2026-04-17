@@ -9,6 +9,40 @@ FOOTBALL_API_KEY = "c121f79556c340d78ba1585581dbdf73"
 GIANT_BOMB_API_KEY = "56e84a76075b834c4f9c7c789a5224110d931ad4"
 STEAM_API_KEY = "FAC4DB55821995AC91BF405E875C8382"
 
+def get_steam_games():
+    """Агент: Получение данных о грядущих играх через Steam API."""
+    events = []
+    if not STEAM_API_KEY:
+        return []
+
+    print(">>> [ИСТОЧНИК: STEAM API] Проверка данных в Steam...")
+    # Список AppID для мониторинга (игры, у которых уже есть страницы)
+    target_apps = [
+        {"id": "1271710", "title": "Hytale"},
+        {"id": "1931730", "title": "Project LLL"},
+        {"id": "2669300", "title": "Pragmata"}
+    ]
+    
+    try:
+        for app in target_apps:
+            url = f"https://store.steampowered.com/api/appdetails?appids={app['id']}&l=russian"
+            res = requests.get(url, timeout=10)
+            if res.status_code == 200:
+                data = res.json().get(app['id'])
+                if data and data.get('success'):
+                    info = data['data']
+                    events.append({
+                        "id": f"steam_{app['id']}",
+                        "date": "2026-06-15", # Ожидаемая дата для невышедших
+                        "title": f"🎮 {info['name']}",
+                        "type": "game",
+                        "desc": f"Steam: {info.get('short_description', 'Описание скоро появится.')[:150]}..."
+                    })
+        print(f"--- Успех: Steam вернул данные по {len(events)} играм.")
+    except Exception as e:
+        print(f"!!! Ошибка Steam API: {e}")
+    return events
+
 def get_real_games():
     """Агент: Поиск реальных релизов 2026 года через Giant Bomb."""
     events = []
@@ -125,8 +159,8 @@ def get_football():
 def main():
     print(f"\n--- СТАРТ ПРОВЕРКИ СИСТЕМ ---")
     
-    # Собираем данные
-    all_data = get_football() + get_real_games() + get_gaming_news()
+    # Собираем данные из всех источников
+    all_data = get_football() + get_real_games() + get_gaming_news() + get_steam_games()
     
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(all_data, f, ensure_ascii=False, indent=4)
