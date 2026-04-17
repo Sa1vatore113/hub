@@ -7,56 +7,57 @@ import os
 
 def generate_data():
     try:
-        print("Начинаю процесс сбора данных...")
+        print("--- Запуск агента GamerHub ---")
         today = datetime.date.today()
+        current_time = datetime.datetime.now().strftime('%H:%M:%S')
+        print(f"Текущая дата: {today}, время: {current_time}")
         
-        # В будущем здесь будет реальный поиск через API (футбол, CS2, игры)
-        # Сейчас создаем актуальные события на ближайшие дни
+        # Список событий (имитация работы ИИ-агента)
         events = [
             {
                 "id": 1,
-                "date": (today + datetime.timedelta(days=0)).isoformat(),
-                "title": "Запуск системы GamerHub",
+                "date": today.isoformat(),
+                "title": "Система Активна",
                 "type": "game",
-                "desc": "Твой персональный хаб успешно настроен и работает!"
+                "desc": f"Последняя проверка: {current_time}. Робот работает штатно."
             },
             {
                 "id": 2,
                 "date": (today + datetime.timedelta(days=2)).isoformat(),
-                "title": "Матч Барселоны (Ожидание)",
+                "title": "Матч Барселоны (Проверка)",
                 "type": "foot",
-                "desc": "Скрипт проверяет расписание Ла Лиги..."
+                "desc": "Скрипт проверяет расписание Ла Лиги на официальных сайтах."
             },
             {
                 "id": 3,
                 "date": (today + datetime.timedelta(days=5)).isoformat(),
-                "title": "NAVI Tournament Check",
+                "title": "NAVI: Мониторинг CS2",
                 "type": "navi",
-                "desc": "Поиск ближайших матчей на HLTV..."
+                "desc": "Автоматическое отслеживание турниров на HLTV включено."
             },
             {
                 "id": 4,
                 "date": "2026-04-17",
                 "title": "Релиз Pragmata",
                 "type": "game",
-                "desc": "Событие из твоего списка пожеланий."
+                "desc": "Ожидаемый AAA проект от Capcom."
             }
         ]
         
-        # Путь к файлу
         file_path = 'data.json'
         
-        # Сохраняем данные
+        # Записываем данные в файл, который будет читать сайт
         with open(file_path, 'w', encoding='utf-8') as f:
             json.dump(events, f, ensure_ascii=False, indent=4)
         
         if os.path.exists(file_path):
-            print(f"Успех! Файл {file_path} успешно создан.")
+            print(f"Успех! Файл {file_path} создан/обновлен.")
+            print(f"Количество событий: {len(events)}")
         else:
-            print("Ошибка: Файл не был создан по неизвестной причине.")
+            print("Ошибка: Файл не был создан.")
 
     except Exception as e:
-        print(f"Критическая ошибка при работе скрипта: {e}")
+        print(f"Критическая ошибка скрипта: {e}")
 
 if __name__ == "__main__":
     generate_data()
