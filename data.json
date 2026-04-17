@@ -5,7 +5,7 @@
         "title": "⚽ Barça — Celta",
         "type": "foot",
         "time": "19:30",
-        "desc": "Primera Division"
+        "desc": "Матч Барселоны. Primera Division."
     },
     {
         "id": "f_544527",
@@ -13,7 +13,7 @@
         "title": "⚽ Getafe — Barça",
         "type": "foot",
         "time": "14:15",
-        "desc": "Primera Division"
+        "desc": "Матч Барселоны. Primera Division."
     },
     {
         "id": "f_544548",
@@ -21,7 +21,7 @@
         "title": "⚽ Osasuna — Barça",
         "type": "foot",
         "time": "19:00",
-        "desc": "Primera Division"
+        "desc": "Матч Барселоны. Primera Division."
     },
     {
         "id": "f_544553",
@@ -29,7 +29,7 @@
         "title": "⚽ Barça — Real Madrid",
         "type": "foot",
         "time": "19:00",
-        "desc": "Primera Division"
+        "desc": "Матч Барселоны. Primera Division."
     },
     {
         "id": "f_544561",
@@ -37,75 +37,68 @@
         "title": "⚽ Alavés — Barça",
         "type": "foot",
         "time": "00:00",
-        "desc": "Primera Division"
+        "desc": "Матч Барселоны. Primera Division."
     },
     {
-        "id": "gold_🎮 Forza Horizon 6",
-        "date": "2026-05-19",
-        "title": "🎮 Forza Horizon 6",
-        "type": "game",
-        "desc": "Ожидаемый релиз на PC и Xbox Series X."
-    },
-    {
-        "id": "gold_🎮 Solasta 2",
-        "date": "2026-03-12",
-        "title": "🎮 Solasta 2",
-        "type": "game",
-        "desc": "Продолжение тактической RPG."
-    },
-    {
-        "id": "gold_🎮 Crimson Desert",
-        "date": "2026-03-19",
-        "title": "🎮 Crimson Desert",
-        "type": "game",
-        "desc": "Масштабный open-world экшен от Pearl Abyss."
-    },
-    {
-        "id": "gold_🎮 Nioh 3",
-        "date": "2026-02-06",
-        "title": "🎮 Nioh 3",
-        "type": "game",
-        "desc": "Продолжение хардкорного самурайского экшена."
-    },
-    {
-        "id": "gold_🎮 Demon Tides",
-        "date": "2026-02-19",
-        "title": "🎮 Demon Tides",
-        "type": "game",
-        "desc": "Новый проект в жанре темного фэнтези."
-    },
-    {
-        "id": "gold_🎮 Pragmata",
-        "date": "2026-04-17",
-        "title": "🎮 Pragmata",
-        "type": "game",
-        "desc": "Долгожданный AAA-проект от Capcom."
-    },
-    {
-        "id": "gold_🎮 Grand Theft Auto VI",
+        "id": "gold_-8197241409380369573",
         "date": "2026-10-24",
         "title": "🎮 Grand Theft Auto VI",
         "type": "game",
-        "desc": "Главный релиз десятилетия. Ожидаемое окно выхода."
+        "desc": "Главный мировой релиз. Возвращение в Вайс-Сити."
     },
     {
-        "id": "news_2179472898455343300",
+        "id": "gold_-1839173920949631121",
         "date": "2026-04-17",
-        "title": "📰 Нелинейность и космический ужас — главное о Direct...",
+        "title": "🎮 Pragmata",
+        "type": "game",
+        "desc": "Загадочный экшен от Capcom в научно-фантастическом сеттинге."
+    },
+    {
+        "id": "gold_2077121927064360853",
+        "date": "2026-05-19",
+        "title": "🎮 Forza Horizon 6",
+        "type": "game",
+        "desc": "Новое поколение гоночного фестиваля."
+    },
+    {
+        "id": "gold_-3141631525816618668",
+        "date": "2026-08-12",
+        "title": "🎮 The Witcher: Polaris",
+        "type": "game",
+        "desc": "Начало новой саги во вселенной Ведьмака."
+    },
+    {
+        "id": "gold_-2982020547727457862",
+        "date": "2026-03-05",
+        "title": "🎮 Hytale Full Release",
+        "type": "game",
+        "desc": "Амбициозная песочница с элементами RPG."
+    },
+    {
+        "id": "news_956056525512390875",
+        "date": "2026-04-17",
+        "title": "📰 Нелинейность и космический ужас — главное о D...",
         "type": "news",
         "desc": "Нелинейность и космический ужас — главное о Directive 8020 в свежем трейлере"
     },
     {
-        "id": "news_6690990085795393018",
+        "id": "news_-6841252029199474117",
         "date": "2026-04-17",
-        "title": "📰 Состоялся релиз Pragmata — игроки довольны новинко...",
+        "title": "📰 Состоялся релиз Pragmata — игроки довольны но...",
         "type": "news",
         "desc": "Состоялся релиз Pragmata — игроки довольны новинкой от Capcom "
     },
     {
-        "id": "news_-7373693709533667443",
+        "id": "news_-7551630965879471355",
+        "date": "2026-04-16",
+        "title": "📰 Анонсирована Metro 2039. Смотрите кинематогра...",
+        "type": "news",
+        "desc": "Анонсирована Metro 2039. Смотрите кинематографический трейлер и немного геймплея"
+    },
+    {
+        "id": "news_7011634565839736960",
         "date": "2026-04-17",
-        "title": "📰 Для BioShock Remastered вышел масштабный геймплейн...",
+        "title": "📰 Для BioShock Remastered вышел масштабный гейм...",
         "type": "news",
         "desc": "Для BioShock Remastered вышел масштабный геймплейный мод"
     },
@@ -115,6 +108,6 @@
         "title": "🏆 NAVI — FaZe Clan",
         "type": "navi",
         "time": "19:30",
-        "desc": "PGL Major 2026. Прямая трансляция финала."
+        "desc": "PGL Major 2026. Прямая трансляция решающего матча."
     }
 ]
