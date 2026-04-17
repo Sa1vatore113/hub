@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -29,4 +31,5 @@ jobs:
           git config --global user.email "bot@gamerhub.com"
           git add data.json
           git commit -m "Auto-update calendar data" || exit 0
-          git push
+          git pull --rebase origin main
+          git push origin main
