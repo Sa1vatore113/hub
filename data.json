@@ -1,85 +1,120 @@
 [
     {
-        "id": "news_-1574060902341678617",
+        "id": "f_544532",
+        "date": "2026-04-22",
+        "title": "⚽ Barça — Celta",
+        "type": "foot",
+        "time": "19:30",
+        "desc": "Primera Division"
+    },
+    {
+        "id": "f_544527",
+        "date": "2026-04-25",
+        "title": "⚽ Getafe — Barça",
+        "type": "foot",
+        "time": "14:15",
+        "desc": "Primera Division"
+    },
+    {
+        "id": "f_544548",
+        "date": "2026-05-02",
+        "title": "⚽ Osasuna — Barça",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Primera Division"
+    },
+    {
+        "id": "f_544553",
+        "date": "2026-05-10",
+        "title": "⚽ Barça — Real Madrid",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Primera Division"
+    },
+    {
+        "id": "f_544561",
+        "date": "2026-05-13",
+        "title": "⚽ Alavés — Barça",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Primera Division"
+    },
+    {
+        "id": "gold_🎮 Forza Horizon 6",
+        "date": "2026-05-19",
+        "title": "🎮 Forza Horizon 6",
+        "type": "game",
+        "desc": "Ожидаемый релиз на PC и Xbox Series X."
+    },
+    {
+        "id": "gold_🎮 Solasta 2",
+        "date": "2026-03-12",
+        "title": "🎮 Solasta 2",
+        "type": "game",
+        "desc": "Продолжение тактической RPG."
+    },
+    {
+        "id": "gold_🎮 Crimson Desert",
+        "date": "2026-03-19",
+        "title": "🎮 Crimson Desert",
+        "type": "game",
+        "desc": "Масштабный open-world экшен от Pearl Abyss."
+    },
+    {
+        "id": "gold_🎮 Nioh 3",
+        "date": "2026-02-06",
+        "title": "🎮 Nioh 3",
+        "type": "game",
+        "desc": "Продолжение хардкорного самурайского экшена."
+    },
+    {
+        "id": "gold_🎮 Demon Tides",
+        "date": "2026-02-19",
+        "title": "🎮 Demon Tides",
+        "type": "game",
+        "desc": "Новый проект в жанре темного фэнтези."
+    },
+    {
+        "id": "gold_🎮 Pragmata",
+        "date": "2026-04-17",
+        "title": "🎮 Pragmata",
+        "type": "game",
+        "desc": "Долгожданный AAA-проект от Capcom."
+    },
+    {
+        "id": "gold_🎮 Grand Theft Auto VI",
+        "date": "2026-10-24",
+        "title": "🎮 Grand Theft Auto VI",
+        "type": "game",
+        "desc": "Главный релиз десятилетия. Ожидаемое окно выхода."
+    },
+    {
+        "id": "news_2179472898455343300",
         "date": "2026-04-17",
         "title": "📰 Нелинейность и космический ужас — главное о Direct...",
         "type": "news",
         "desc": "Нелинейность и космический ужас — главное о Directive 8020 в свежем трейлере"
     },
     {
-        "id": "news_-9062886765995988939",
+        "id": "news_6690990085795393018",
         "date": "2026-04-17",
         "title": "📰 Состоялся релиз Pragmata — игроки довольны новинко...",
         "type": "news",
         "desc": "Состоялся релиз Pragmata — игроки довольны новинкой от Capcom "
     },
     {
-        "id": "news_-7508605146090926233",
-        "date": "2026-04-16",
-        "title": "📰 Анонсирована Metro 2039. Смотрите кинематографичес...",
-        "type": "news",
-        "desc": "Анонсирована Metro 2039. Смотрите кинематографический трейлер и немного геймплея"
-    },
-    {
-        "id": "news_8875670890240218552",
-        "date": "2026-04-17",
-        "title": "📰 \"Будущее скрывает больше ответов\": Bloober Team пр...",
-        "type": "news",
-        "desc": "\"Будущее скрывает больше ответов\": Bloober Team продолжает тизерить что-то связанное с Cronos: The New Dawn"
-    },
-    {
-        "id": "news_-9219160704972036355",
+        "id": "news_-7373693709533667443",
         "date": "2026-04-17",
         "title": "📰 Для BioShock Remastered вышел масштабный геймплейн...",
         "type": "news",
         "desc": "Для BioShock Remastered вышел масштабный геймплейный мод"
     },
     {
-        "id": "foot_544532",
-        "date": "2026-04-22",
-        "title": "⚽ Barça — Celta",
-        "type": "foot",
-        "time": "19:30",
-        "desc": "Primera Division. Camp Nou."
-    },
-    {
-        "id": "foot_544527",
-        "date": "2026-04-25",
-        "title": "⚽ Getafe — Barça",
-        "type": "foot",
-        "time": "14:15",
-        "desc": "Primera Division. Camp Nou."
-    },
-    {
-        "id": "foot_544548",
-        "date": "2026-05-02",
-        "title": "⚽ Osasuna — Barça",
-        "type": "foot",
-        "time": "19:00",
-        "desc": "Primera Division. Camp Nou."
-    },
-    {
-        "id": "foot_544553",
-        "date": "2026-05-10",
-        "title": "⚽ Barça — Real Madrid",
-        "type": "foot",
-        "time": "19:00",
-        "desc": "Primera Division. Camp Nou."
-    },
-    {
-        "id": "foot_544561",
-        "date": "2026-05-13",
-        "title": "⚽ Alavés — Barça",
-        "type": "foot",
-        "time": "00:00",
-        "desc": "Primera Division. Camp Nou."
-    },
-    {
-        "id": "navi_major_2026",
+        "id": "navi_major",
         "date": "2026-04-17",
         "title": "🏆 NAVI — FaZe Clan",
         "type": "navi",
         "time": "19:30",
-        "desc": "PGL Major 2026. Решающая битва. Смотрим на официальных каналах."
+        "desc": "PGL Major 2026. Прямая трансляция финала."
     }
 ]
