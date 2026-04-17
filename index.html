@@ -8,17 +8,64 @@
     <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
     <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/framer-motion@10.16.4/dist/framer-motion.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Plus Jakarta Sans', sans-serif; background: #050505; color: #fff; }
-        .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; background: rgba(255,255,255,0.05); border-radius: 12px; overflow: hidden; }
-        .day { background: #080808; min-height: 90px; padding: 8px; transition: 0.2s; }
+        body { 
+            font-family: 'Plus Jakarta Sans', sans-serif; 
+            background: #030303; 
+            color: #fff; 
+            overflow: hidden;
+        }
+        .calendar-grid { 
+            display: grid; 
+            grid-template-columns: repeat(7, 1fr); 
+            gap: 1px; 
+            background: rgba(255,255,255,0.03); 
+            border-radius: 16px; 
+            overflow: hidden; 
+            border: 1px solid rgba(255,255,255,0.05);
+        }
+        .day { 
+            background: #080808; 
+            min-height: 110px; 
+            padding: 12px; 
+            transition: all 0.3s ease; 
+            position: relative;
+        }
         .day:hover { background: #0c0c0c; }
-        .event { font-size: 9px; padding: 2px 6px; border-radius: 4px; margin-bottom: 2px; font-weight: 700; text-transform: uppercase; border-left: 2px solid transparent; }
+        .day.today { background: rgba(250, 204, 21, 0.03); }
+        .day.today::after {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0;
+            height: 2px;
+            background: #facc15;
+        }
+        .event { 
+            font-size: 10px; 
+            padding: 4px 8px; 
+            border-radius: 6px; 
+            margin-bottom: 4px; 
+            font-weight: 700; 
+            text-transform: uppercase; 
+            cursor: pointer;
+            transition: transform 0.2s;
+            border-left: 3px solid transparent;
+        }
+        .event:hover { transform: scale(1.02); }
         .type-game { background: rgba(59,130,246,0.1); color: #60a5fa; border-color: #3b82f6; }
         .type-navi { background: rgba(250,204,21,0.1); color: #facc15; border-color: #facc15; }
         .type-foot { background: rgba(239,68,68,0.1); color: #f87171; border-color: #ef4444; }
-        .glass { background: rgba(255,255,255,0.02); backdrop-filter: blur(10px); border: 1px solid rgba(255,255,255,0.05); }
+        
+        .glass { 
+            background: rgba(255,255,255,0.02); 
+            backdrop-filter: blur(20px); 
+            border: 1px solid rgba(255,255,255,0.05); 
+        }
+        
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-thumb { background: #222; border-radius: 10px; }
     </style>
 </head>
 <body>
@@ -29,88 +76,156 @@
         const App = () => {
             const [viewDate, setViewDate] = useState(new Date());
             const [events, setEvents] = useState([]);
-            const [loading, setLoading] = useState(true);
+            const [selectedEvent, setSelectedEvent] = useState(null);
+            const [filter, setFilter] = useState('all');
 
-            // Загрузка данных из автоматического файла
             useEffect(() => {
                 fetch('data.json')
                     .then(res => res.json())
-                    .then(data => { setEvents(data); setLoading(false); })
+                    .then(data => setEvents(data))
                     .catch(() => {
-                        // Если файла еще нет, покажем пример
                         setEvents([
-                            { date: '2026-04-17', title: 'NAVI vs G2', type: 'navi' },
-                            { date: '2026-04-22', title: 'Barca - Celta', type: 'foot' }
+                            { date: '2026-04-17', title: 'NAVI vs G2', type: 'navi', desc: 'PGL Major Copenhagen. Bo3 Match.', time: '19:00' },
+                            { date: '2026-04-22', title: 'Barca - Celta', type: 'foot', desc: 'La Liga - Round 33. Camp Nou.', time: '21:00' }
                         ]);
-                        setLoading(false);
                     });
             }, []);
 
             const calendar = useMemo(() => {
                 const year = viewDate.getFullYear();
                 const month = viewDate.getMonth();
-                const days = new Date(year, month + 1, 0).getDate();
-                let first = new Date(year, month, 1).getDay();
-                first = first === 0 ? 6 : first - 1;
+                const daysInMonth = new Date(year, month + 1, 0).getDate();
+                let firstDay = new Date(year, month, 1).getDay();
+                firstDay = firstDay === 0 ? 6 : firstDay - 1;
 
                 const grid = [];
-                for (let i = 0; i < first; i++) grid.push(null);
-                for (let i = 1; i <= days; i++) {
+                for (let i = 0; i < firstDay; i++) grid.push(null);
+                for (let i = 1; i <= daysInMonth; i++) {
                     const dStr = `${year}-${String(month + 1).padStart(2, '0')}-${String(i).padStart(2, '0')}`;
-                    grid.push({ day: i, events: events.filter(e => e.date === dStr) });
+                    const dayEvents = events.filter(e => e.date === dStr && (filter === 'all' || e.type === filter));
+                    grid.push({ day: i, date: dStr, events: dayEvents });
                 }
                 return grid;
-            }, [viewDate, events]);
+            }, [viewDate, events, filter]);
+
+            const isToday = (dateStr) => {
+                const today = new Date();
+                return dateStr === `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+            };
 
             return (
-                <div className="flex flex-col lg:flex-row min-h-screen">
-                    <aside className="w-full lg:w-64 bg-[#080808] border-r border-white/5 p-8 flex flex-col">
-                        <div className="text-xl font-black mb-10 tracking-tighter uppercase">Gamer<span className="text-yellow-400">Hub</span></div>
-                        <div className="space-y-4 flex-1">
-                            <div className="text-[10px] text-zinc-500 font-bold uppercase tracking-widest">Категории</div>
-                            <div className="flex items-center gap-3 text-sm text-blue-400"><div className="w-2 h-2 rounded-full bg-blue-500"></div> Игры</div>
-                            <div className="flex items-center gap-3 text-sm text-yellow-400"><div className="w-2 h-2 rounded-full bg-yellow-400"></div> NAVI</div>
-                            <div className="flex items-center gap-3 text-sm text-red-400"><div className="w-2 h-2 rounded-full bg-red-500"></div> Футбол</div>
+                <div className="flex flex-col lg:flex-row h-screen overflow-hidden">
+                    {/* Sidebar */}
+                    <aside className="w-full lg:w-72 bg-[#080808] border-r border-white/5 p-8 flex flex-col z-10">
+                        <div className="text-2xl font-black mb-12 tracking-tighter uppercase flex items-center gap-2">
+                            <div className="w-8 h-8 bg-yellow-400 rounded-lg"></div>
+                            Gamer<span className="text-yellow-400">Hub</span>
                         </div>
-                        <div className="p-4 glass rounded-xl mt-10">
-                            <div className="text-[10px] text-zinc-500 font-bold mb-1">АВТОМАТИЗАЦИЯ</div>
-                            <div className="text-[10px] text-green-400 font-bold flex items-center gap-2">
-                                <div className="w-1.5 h-1.5 bg-green-400 rounded-full animate-pulse"></div> ACTIVE
+                        
+                        <div className="space-y-6 flex-1">
+                            <div className="text-[10px] text-zinc-500 font-bold uppercase tracking-[0.2em]">Фильтр событий</div>
+                            <nav className="space-y-1">
+                                {[
+                                    { id: 'all', label: 'Все события', color: 'bg-white' },
+                                    { id: 'game', label: 'AAA Игры', color: 'bg-blue-500' },
+                                    { id: 'navi', label: 'Матчи NAVI', color: 'bg-yellow-400' },
+                                    { id: 'foot', label: 'Футбол', color: 'bg-red-500' }
+                                ].map(item => (
+                                    <button 
+                                        key={item.id}
+                                        onClick={() => setFilter(item.id)}
+                                        className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all border ${filter === item.id ? 'bg-white/10 border-white/10 text-white' : 'border-transparent text-zinc-500 hover:text-zinc-300'}`}
+                                    >
+                                        <div className={`w-1.5 h-1.5 rounded-full ${item.color}`}></div>
+                                        <span className="text-sm font-semibold">{item.label}</span>
+                                    </button>
+                                ))}
+                            </nav>
+                        </div>
+
+                        <div className="p-5 glass rounded-2xl">
+                            <div className="text-[10px] text-zinc-500 font-bold mb-2 uppercase">Синхронизация</div>
+                            <div className="flex items-center gap-2 text-[11px] text-green-400 font-bold uppercase tracking-wider">
+                                <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
+                                Live Data Active
                             </div>
                         </div>
                     </aside>
 
-                    <main className="flex-1 p-6 lg:p-12">
-                        <div className="flex justify-between items-end mb-8">
-                            <div>
-                                <h2 className="text-3xl font-bold uppercase tracking-tighter">{viewDate.toLocaleString('ru', { month: 'long', year: 'numeric' })}</h2>
-                                <p className="text-zinc-500 text-xs">Автоматическое обновление каждый день в 00:00</p>
-                            </div>
-                            <div className="flex gap-2">
-                                <button onClick={() => setViewDate(new Date(viewDate.setMonth(viewDate.getMonth() - 1)))} className="p-2 glass rounded-lg hover:bg-white/5">←</button>
-                                <button onClick={() => setViewDate(new Date())} className="px-4 py-2 glass rounded-lg text-xs font-bold uppercase">Сегодня</button>
-                                <button onClick={() => setViewDate(new Date(viewDate.setMonth(viewDate.getMonth() + 1)))} className="p-2 glass rounded-lg hover:bg-white/5">→</button>
-                            </div>
-                        </div>
-
-                        <div className="calendar-grid">
-                            {['Пн','Вт','Ср','Чт','Пт','Сб','Вс'].map(d => (
-                                <div key={d} className="p-3 text-center text-[10px] font-bold text-zinc-600 uppercase">{d}</div>
-                            ))}
-                            {calendar.map((d, i) => (
-                                <div key={i} className={`day ${!d ? 'opacity-10' : ''}`}>
-                                    {d && (
-                                        <>
-                                            <div className="text-xs font-bold text-zinc-500 mb-2">{d.day}</div>
-                                            {d.events.map((e, idx) => (
-                                                <div key={idx} className={`event type-${e.type}`}>{e.title}</div>
-                                            ))}
-                                        </>
-                                    )}
+                    {/* Main */}
+                    <main className="flex-1 p-6 lg:p-10 overflow-y-auto bg-[#030303] relative">
+                        <div className="max-w-6xl mx-auto">
+                            <div className="flex flex-col md:flex-row justify-between items-start md:items-end mb-10 gap-4">
+                                <div>
+                                    <h2 className="text-5xl font-black uppercase tracking-tighter mb-2">
+                                        {viewDate.toLocaleString('ru', { month: 'long' })}
+                                        <span className="text-zinc-800 ml-4">{viewDate.getFullYear()}</span>
+                                    </h2>
+                                    <p className="text-zinc-500 font-medium tracking-tight uppercase text-xs">Автоматическое обновление через GitHub Actions</p>
                                 </div>
-                            ))}
+                                <div className="flex gap-2 p-1.5 glass rounded-2xl">
+                                    <button onClick={() => setViewDate(new Date(viewDate.setMonth(viewDate.getMonth() - 1)))} className="w-10 h-10 flex items-center justify-center hover:bg-white/5 rounded-xl transition">←</button>
+                                    <button onClick={() => setViewDate(new Date())} className="px-6 py-2 text-[10px] font-black uppercase tracking-widest hover:bg-white/5 rounded-xl">Сегодня</button>
+                                    <button onClick={() => setViewDate(new Date(viewDate.setMonth(viewDate.getMonth() + 1)))} className="w-10 h-10 flex items-center justify-center hover:bg-white/5 rounded-xl transition">→</button>
+                                </div>
+                            </div>
+
+                            <div className="calendar-grid shadow-2xl">
+                                {['Пн','Вт','Ср','Чт','Пт','Сб','Вс'].map(d => (
+                                    <div key={d} className="p-4 text-center text-[10px] font-black text-zinc-600 uppercase bg-[#0a0a0a]">{d}</div>
+                                ))}
+                                {calendar.map((d, i) => (
+                                    <div key={i} className={`day ${!d ? 'opacity-10' : ''} ${d && isToday(d.date) ? 'today' : ''}`}>
+                                        {d && (
+                                            <>
+                                                <div className="text-xs font-bold text-zinc-500 mb-3">{d.day}</div>
+                                                <div className="space-y-1">
+                                                    {d.events.map((e, idx) => (
+                                                        <div 
+                                                            key={idx} 
+                                                            onClick={() => setSelectedEvent(e)}
+                                                            className={`event type-${e.type}`}
+                                                        >
+                                                            {e.title}
+                                                        </div>
+                                                    ))}
+                                                </div>
+                                            </>
+                                        )}
+                                    </div>
+                                ))}
+                            </div>
                         </div>
                     </main>
+
+                    {/* Right Panel (Details) */}
+                    {selectedEvent && (
+                        <div className="fixed inset-y-0 right-0 w-full lg:w-96 glass border-l border-white/10 z-20 p-10 flex flex-col shadow-2xl animate-in slide-in-from-right duration-300">
+                            <button onClick={() => setSelectedEvent(null)} className="absolute top-6 right-6 text-zinc-500 hover:text-white transition">Закрыть ✕</button>
+                            
+                            <div className={`w-12 h-1 rounded-full mb-8 ${selectedEvent.type === 'game' ? 'bg-blue-500' : selectedEvent.type === 'navi' ? 'bg-yellow-400' : 'bg-red-500'}`}></div>
+                            
+                            <div className="text-[10px] font-black text-zinc-500 uppercase tracking-[0.3em] mb-4">
+                                {new Date(selectedEvent.date).toLocaleDateString('ru', { day: 'numeric', month: 'long' })}
+                                {selectedEvent.time && <span className="ml-2 text-white opacity-40">• {selectedEvent.time}</span>}
+                            </div>
+                            
+                            <h3 className="text-3xl font-black leading-tight mb-6 uppercase tracking-tighter italic">{selectedEvent.title}</h3>
+                            
+                            <div className="bg-white/5 rounded-3xl p-6 mb-8">
+                                <p className="text-sm text-zinc-400 leading-relaxed font-medium">
+                                    {selectedEvent.desc}
+                                </p>
+                            </div>
+                            
+                            {selectedEvent.type === 'foot' && (
+                                <div className="mt-auto p-6 border border-white/5 rounded-3xl text-center">
+                                    <div className="text-[10px] font-bold text-zinc-600 uppercase mb-2">Статистика встреч</div>
+                                    <div className="text-lg font-black text-red-400">Barca Win Prob: 64%</div>
+                                </div>
+                            )}
+                        </div>
+                    )}
                 </div>
             );
         };
