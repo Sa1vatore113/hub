@@ -1,77 +1,79 @@
 [
     {
-        "id": "foot_544532",
+        "id": "f_544532",
         "date": "2026-04-22",
         "title": "⚽ Barça — Celta",
         "type": "foot",
-        "time": "19:30",
-        "desc": "Реальный матч: Primera Division. Удачи Барсе!"
+        "desc": "Primera Division"
     },
     {
-        "id": "foot_544527",
+        "id": "f_544527",
         "date": "2026-04-25",
         "title": "⚽ Getafe — Barça",
         "type": "foot",
-        "time": "14:15",
-        "desc": "Реальный матч: Primera Division. Удачи Барсе!"
+        "desc": "Primera Division"
     },
     {
-        "id": "foot_544548",
+        "id": "f_544548",
         "date": "2026-05-02",
         "title": "⚽ Osasuna — Barça",
         "type": "foot",
-        "time": "19:00",
-        "desc": "Реальный матч: Primera Division. Удачи Барсе!"
+        "desc": "Primera Division"
     },
     {
-        "id": "foot_544553",
+        "id": "f_544553",
         "date": "2026-05-10",
         "title": "⚽ Barça — Real Madrid",
         "type": "foot",
-        "time": "19:00",
-        "desc": "Реальный матч: Primera Division. Удачи Барсе!"
+        "desc": "Primera Division"
     },
     {
-        "id": "foot_544561",
+        "id": "f_544561",
         "date": "2026-05-13",
         "title": "⚽ Alavés — Barça",
         "type": "foot",
-        "time": "00:00",
-        "desc": "Реальный матч: Primera Division. Удачи Барсе!"
+        "desc": "Primera Division"
     },
     {
-        "id": "gold_4165595515613158427",
+        "id": "gold_3757420876510218694",
         "date": "2026-10-24",
         "title": "🎮 Grand Theft Auto VI [HIT]",
         "type": "game",
-        "desc": "Главный мировой релиз. Возвращение в Вайс-Сити."
+        "desc": "Главный релиз."
     },
     {
-        "id": "gold_-4529847062099488736",
+        "id": "n_182261368722217650",
         "date": "2026-04-17",
-        "title": "🎮 Pragmata [HIT]",
+        "title": "📰 Нелинейность и космический ужас — главно...",
+        "type": "news",
+        "desc": "Нелинейность и космический ужас — главное о Directive 8020 в свежем трейлере"
+    },
+    {
+        "id": "n_-6194929034763933840",
+        "date": "2026-04-17",
+        "title": "📰 Состоялся релиз Pragmata — игроки доволь...",
+        "type": "news",
+        "desc": "Состоялся релиз Pragmata — игроки довольны новинкой от Capcom "
+    },
+    {
+        "id": "steam_1271710",
+        "date": "2026-06-15",
+        "title": "🎮 LEWDAPOCALYPSE Hentai Evil",
         "type": "game",
-        "desc": "Загадочный экшен от Capcom."
+        "desc": "Steam: Это игра про Зомби, Вирусы, Любовь, Секс и Злые Корпорации. Вам предстоит прорваться к спасению, через орды Зомби, Монст..."
     },
     {
-        "id": "news_1068287485161274406",
-        "date": "2026-04-17",
-        "title": "📰 Нелинейность и космический ужас — главное о D...",
-        "type": "news",
-        "desc": "Свежая новость от stopgame: Нелинейность и космический ужас — главное о Directive 8020 в свежем трейлере"
+        "id": "steam_1931730",
+        "date": "2026-06-15",
+        "title": "🎮 Fort Solis",
+        "type": "game",
+        "desc": "Steam: Fort Solis — захватывающий сюжетный триллер о Красной планете...."
     },
     {
-        "id": "news_670719527261785202",
-        "date": "2026-04-17",
-        "title": "📰 Состоялся релиз Pragmata — игроки довольны но...",
-        "type": "news",
-        "desc": "Свежая новость от stopgame: Состоялся релиз Pragmata — игроки довольны новинкой от Capcom "
-    },
-    {
-        "id": "news_5410187905919294038",
-        "date": "2026-04-17",
-        "title": "📰 Для BioShock Remastered вышел масштабный гейм...",
-        "type": "news",
-        "desc": "Свежая новость от www: Для BioShock Remastered вышел масштабный геймплейный мод"
+        "id": "steam_2669300",
+        "date": "2026-06-15",
+        "title": "🎮 Farm Invaders",
+        "type": "game",
+        "desc": "Steam: Farm Invaders is a casual, roguelite, bullet hell featuring Daisy, an angry cow seeking revenge for her abducted friend...."
     }
 ]
