@@ -48,93 +48,117 @@
         "id": "navi_ps_1449765",
         "date": "2026-04-18",
         "time": "07:00",
-        "title": "🏆 Round 1: Xtreme vs Na`Vi",
+        "title": "🏆 Dota 2: Round 1: Xtreme vs Na`Vi",
         "type": "navi",
-        "desc": "Турнир: PGL. Статус: NOT_STARTED. Формат: best_of.",
-        "url": "https://www.hltv.org/matches"
+        "desc": "Турнир: PGL. Статус: NOT_STARTED.",
+        "url": "https://liquipedia.net/"
     },
     {
         "id": "steam_4561040",
-        "date": "2026-04-20",
+        "date": "2026-04-17",
         "title": "🎮 The Lustful Bride",
         "type": "game",
-        "desc": "Steam Release: Скоро выйдет. The Lustful Bride — откровенная визуальная новелла для взрослых в стиле мультика. Обычная свадебная ...",
+        "desc": "Steam (game): Скоро выйдет. The Lustful Bride — откровенная визуальная новелла для взрослых в стиле мультика. Обычная свадебная церемония превращает...",
         "url": "https://store.steampowered.com/app/4561040"
     },
     {
         "id": "steam_4180230",
-        "date": "2026-04-20",
+        "date": "2026-04-17",
         "title": "🎮 The Forest Watches",
         "type": "game",
-        "desc": "Steam Release: 17 апр. 2026 г.. Вы — новый член лесного культа. Выполняйте назначенные ритуалы, соблюдайте их правила и раскрывайте ...",
+        "desc": "Steam (game): 17 апр. 2026 г.. Вы — новый член лесного культа. Выполняйте назначенные ритуалы, соблюдайте их правила и раскрывайте тревожащие тайны лес...",
         "url": "https://store.steampowered.com/app/4180230"
     },
     {
-        "id": "steam_4519390",
-        "date": "2026-04-20",
-        "title": "🎮 Airborne Empire Deluxe Booklet + Theme",
-        "type": "game",
-        "desc": "Steam Release: 17 апр. 2026 г.. Поддержите разработчиков и погрузитесь ещё глубже в мир Airborne Empire с помощью этого цифрового пу...",
-        "url": "https://store.steampowered.com/app/4519390"
-    },
-    {
-        "id": "steam_4519320",
-        "date": "2026-04-20",
-        "title": "🎮 Airborne Empire Soundtrack",
-        "type": "game",
-        "desc": "Steam Release: 17 апр. 2026 г.. Погрузитесь в прекрасный мир Airborne Empire с его оригинальным саундтреком, написанным Полом Обри....",
-        "url": "https://store.steampowered.com/app/4519320"
-    },
-    {
         "id": "steam_4275970",
-        "date": "2026-04-20",
+        "date": "2026-04-17",
         "title": "🎮 Dead Rush",
         "type": "game",
-        "desc": "Steam Release: Скоро выйдет. Dead Rush — это аркадный FPS-шутер, сочетающий динамичный экшен, стилизованную графику и бесконечные...",
+        "desc": "Steam (game): Скоро выйдет. Dead Rush — это аркадный FPS-шутер, сочетающий динамичный экшен, стилизованную графику и бесконечные волны зомби. Выбира...",
         "url": "https://store.steampowered.com/app/4275970"
     },
     {
         "id": "steam_4566950",
-        "date": "2026-04-20",
+        "date": "2026-04-17",
         "title": "🎮 Mawgate",
         "type": "game",
-        "desc": "Steam Release: 17 апр. 2026 г.. Maria Moore is wrongfully imprisoned in the dreaded Mawgate Asylum. To survive she must do things sh...",
+        "desc": "Steam (game): 17 апр. 2026 г.. Maria Moore is wrongfully imprisoned in the dreaded Mawgate Asylum. To survive she must do things she never thought hers...",
         "url": "https://store.steampowered.com/app/4566950"
     },
     {
         "id": "steam_4221940",
-        "date": "2026-04-20",
+        "date": "2026-04-17",
         "title": "🎮 Convenience Store Simulator",
         "type": "game",
-        "desc": "Steam Release: 17 апр. 2026 г.. Игра об управлении собственным магазином. Работайте на кассе, варите кофе, пополняйте полки и нанима...",
+        "desc": "Steam (game): 17 апр. 2026 г.. Игра об управлении собственным магазином. Работайте на кассе, варите кофе, пополняйте полки и нанимайте персонал, украша...",
         "url": "https://store.steampowered.com/app/4221940"
     },
     {
-        "id": "steam_4439350",
-        "date": "2026-04-20",
-        "title": "🎮 Rogue Slime: PC Edition Demo",
+        "id": "steam_3440060",
+        "date": "2026-04-17",
+        "title": "🎮 Cralon",
         "type": "game",
-        "desc": "Steam Release: 17 апр. 2026 г.. Rogue Slime is a turn-based roguelite focused on an energy-driven item system. Use energies into you...",
-        "url": "https://store.steampowered.com/app/4439350"
+        "desc": "Steam (game): 17 апр. 2026 г.. Cralon — инди-игра в жанре immersive sim dungeon crawler, с элементами RPG и приключений, вдохновлённая классикой подзем...",
+        "url": "https://store.steampowered.com/app/3440060"
     },
     {
-        "id": "steam_2398740",
-        "date": "2026-04-20",
-        "title": "🎮 SpaceSlog Custom Character in Game Access",
+        "id": "steam_3562090",
+        "date": "2026-04-17",
+        "title": "🎮 Fremd Wagen: Mod Chaos",
         "type": "game",
-        "desc": "Steam Release: 17 апр. 2026 г.. This DLC gives you access to create a custom character in SpaceSlog via our reward system on our web...",
-        "url": "https://store.steampowered.com/app/2398740"
+        "desc": "Steam (game): 17 апр. 2026 г.. Fremd Wagen: Моддинг Хаос. Самый разочаровывающий математический мод-симулятор. Чтобы избежать крахов, убедитесь, что ва...",
+        "url": "https://store.steampowered.com/app/3562090"
     },
     {
-        "id": "steam_2398780",
-        "date": "2026-04-20",
-        "title": "🎮 SpaceSlog Soundtrack",
+        "id": "steam_4272290",
+        "date": "2026-04-17",
+        "title": "🎮 Sanctum Ruins",
         "type": "game",
-        "desc": "Steam Release: 17 апр. 2026 г.. The official soundtrack for SpaceSlog....",
-        "url": "https://store.steampowered.com/app/2398780"
+        "desc": "Steam (game): 17 апр. 2026 г.. A strategic roguelike deck-builder. Build your deck, master 8 unique classes, and conquer the Sanctum in quick sessions....",
+        "url": "https://store.steampowered.com/app/4272290"
     },
     {
-        "id": "n_2778672588934494466",
+        "id": "steam_4463060",
+        "date": "2026-04-17",
+        "title": "🎮 数独GO SudokuGo",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Расслабляющая игра в судоку с миллионами головоломок для отдыха и тренировки логики....",
+        "url": "https://store.steampowered.com/app/4463060"
+    },
+    {
+        "id": "steam_4395390",
+        "date": "2026-04-17",
+        "title": "🎮 Dinosaur Adventure 3-D (1999 Version)",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Join Rolf, the brave dinosaur, and his pteranodon sidekick Pterrance on a fun-filled adventure through the fascinating w...",
+        "url": "https://store.steampowered.com/app/4395390"
+    },
+    {
+        "id": "steam_4395370",
+        "date": "2026-04-17",
+        "title": "🎮 3D Dinosaur Adventure",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. In 3D Dinosaur Adventure, players explore the Triassic, Jurassic, and Cretaceous periods and learn about Dinosaurs. They...",
+        "url": "https://store.steampowered.com/app/4395370"
+    },
+    {
+        "id": "steam_4400910",
+        "date": "2026-04-17",
+        "title": "🎮 Forbidden Snack",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Your character moves for itself !!! Hitting a wall will change direction. Use this and other mechanics to your advantage...",
+        "url": "https://store.steampowered.com/app/4400910"
+    },
+    {
+        "id": "steam_4373570",
+        "date": "2026-04-17",
+        "title": "🎮 鬼サザエトリ(Oni Sazae Tori)",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Free diving and shell collecting 2D action game...",
+        "url": "https://store.steampowered.com/app/4373570"
+    },
+    {
+        "id": "n_-342465211466823407",
         "date": "2026-04-17",
         "title": "📰 Нелинейность и космический ужас — главное о D...",
         "type": "news",
@@ -142,7 +166,7 @@
         "url": "https://stopgame.ru/newsdata/71182/nelineynost_i_kosmicheskiy_uzhas_glavnoe_o_directive_8020_v_svezhem_trailere"
     },
     {
-        "id": "n_-2148316302769964500",
+        "id": "n_-3265134595459288819",
         "date": "2026-04-17",
         "title": "📰 Состоялся релиз Pragmata — игроки довольны но...",
         "type": "news",
@@ -150,7 +174,7 @@
         "url": "https://stopgame.ru/newsdata/71181/sostoyalsya_reliz_pragmata_igroki_dovolny_novinkoy_ot_capcom"
     },
     {
-        "id": "n_-8848945720692916457",
+        "id": "n_-7202334742051045706",
         "date": "2026-04-16",
         "title": "📰 Анонсирована Metro 2039. Смотрите кинематогра...",
         "type": "news",
@@ -158,7 +182,7 @@
         "url": "https://stopgame.ru/newsdata/71173/anonsirovana_metro_2039_smotrite_kinematograficheskiy_trailer_i_nemnogo_geympleya"
     },
     {
-        "id": "n_7840242975695059239",
+        "id": "n_-8220248353744538262",
         "date": "2026-04-17",
         "title": "📰 Разработчики анонсировали новый контент для B...",
         "type": "news",
@@ -166,7 +190,7 @@
         "url": "https://www.playground.ru/borderlands_4/news/razrabotchiki_anonsirovali_novyj_kontent_dlya_borderlands_4_na_blizhajshie_mesyatsy-1838811#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-2520582678883824214",
+        "id": "n_2376231726180718396",
         "date": "2026-04-17",
         "title": "📰 Starfield на PS5 уже продаётся со скидкой спу...",
         "type": "news",
