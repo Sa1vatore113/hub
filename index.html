@@ -1,0 +1,251 @@
+﻿<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gamer Hub | My Personal Calendar</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+    <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #0a0a0a;
+            color: #ededed;
+            overflow-x: hidden;
+        }
+
+        .glass-card {
+            background: rgba(23, 23, 23, 0.8);
+            backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+            .glass-card:hover {
+                border-color: rgba(255, 255, 255, 0.15);
+                transform: translateY(-2px);
+                box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
+            }
+        /* Custom scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #0a0a0a;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #262626;
+            border-radius: 10px;
+        }
+
+            ::-webkit-scrollbar-thumb:hover {
+                background: #404040;
+            }
+
+        .calendar-grid {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+        }
+    </style>
+</head>
+<body>
+    <div id="root"></div>
+
+    <script type="text/babel">
+        const { useState, useMemo } = React;
+
+        // Встроенные SVG иконки для надежности
+        const Icons = {
+            Calendar: () => <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect width="18" height="18" x="3" y="4" rx="2" ry="2"/><line x1="16" x2="16" y1="2" y2="6"/><line x1="8" x2="8" y1="2" y2="6"/><line x1="3" x2="21" y1="10" y2="10"/></svg>,
+            Gamepad: () => <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><line x1="6" x2="10" y1="12" y2="12"/><line x1="8" x2="8" y1="10" y2="14"/><line x1="15" x2="15.01" y1="13" y2="13"/><line x1="18" x2="18.01" y1="11" y2="11"/><rect width="20" height="12" x="2" y="6" rx="2"/></svg>,
+            Trophy: () => <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6"/><path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18"/><path d="M4 22h16"/><path d="M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"/><path d="M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"/><path d="M18 2H6v7a6 6 0 0 0 12 0V2Z"/></svg>,
+            Star: ({ filled }) => <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill={filled ? "currentColor" : "none"} stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>,
+            ChevronLeft: () => <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m15 18-6-6 6-6"/></svg>,
+            ChevronRight: () => <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m9 18 6-6-6-6"/></svg>,
+            Activity: () => <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+        };
+
+        const INITIAL_DATA = [
+            { id: 1, date: '2026-04-17', title: 'Pragmata (Release)', type: 'game', importance: 'high', desc: 'Долгожданный экшен от Capcom' },
+            { id: 2, date: '2026-04-22', title: 'Барселона — Сельта', type: 'football', importance: 'medium', desc: 'Ла Лига, 33 тур' },
+            { id: 3, date: '2026-04-25', title: 'Бавария — Барселона', type: 'football', importance: 'high', desc: 'Лига Чемпионов, Полуфинал (Первый матч)' },
+            { id: 4, date: '2026-04-28', title: 'Diablo IV: Expansion', type: 'game', importance: 'high', desc: 'Крупное дополнение' },
+            { id: 5, date: '2026-05-03', title: 'Барселона — Бавария', type: 'football', importance: 'high', desc: 'Лига Чемпионов, Ответный матч' },
+            { id: 6, date: '2026-05-10', title: 'Эль Класико: Барса — Реал', type: 'football', importance: 'high', desc: 'Главный матч сезона' },
+            { id: 7, date: '2026-06-03', title: 'BLAST Major 2026', type: 'navi', importance: 'high', desc: 'NAVI начинают путь на мейджоре' },
+            { id: 8, date: '2026-06-15', title: 'Hytale (Early Access)', type: 'game', importance: 'medium', desc: 'Интересный проект для коопа' },
+            { id: 10, date: '2026-05-27', title: '007 First Light', type: 'game', importance: 'high', desc: 'Новая игра про Бонда' }
+        ];
+
+        const App = () => {
+            const [currentDate, setCurrentDate] = useState(new Date(2026, 3, 1));
+            const [filter, setFilter] = useState('all');
+            const [events] = useState(INITIAL_DATA);
+
+            const filteredEvents = useMemo(() => {
+                const year = currentDate.getFullYear();
+                const month = currentDate.getMonth();
+                const monthEvents = events.filter(e => {
+                    const d = new Date(e.date);
+                    return d.getFullYear() === year && d.getMonth() === month;
+                });
+                return filter === 'all' ? monthEvents : monthEvents.filter(e => e.type === filter);
+            }, [filter, currentDate, events]);
+
+            const daysInMonth = (date) => new Date(date.getFullYear(), date.getMonth() + 1, 0).getDate();
+            const firstDayOfMonth = (date) => {
+                let day = new Date(date.getFullYear(), date.getMonth(), 1).getDay();
+                return day === 0 ? 6 : day - 1; // Пн = 0
+            };
+
+            const monthNames = ["Январь", "Февраль", "Март", "Апрель", "Май", "Июнь", "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"];
+
+            const calendarDays = useMemo(() => {
+                const totalDays = daysInMonth(currentDate);
+                const offset = firstDayOfMonth(currentDate);
+                const days = [];
+
+                for (let i = 0; i < offset; i++) days.push(null);
+
+                for (let i = 1; i <= totalDays; i++) {
+                    const dateStr = `${currentDate.getFullYear()}-${String(currentDate.getMonth() + 1).padStart(2, '0')}-${String(i).padStart(2, '0')}`;
+                    const dayEvents = events.filter(e => e.date === dateStr);
+                    days.push({ day: i, date: dateStr, events: dayEvents });
+                }
+                return days;
+            }, [currentDate, events]);
+
+            const changeMonth = (offset) => {
+                const newDate = new Date(currentDate.setMonth(currentDate.getMonth() + offset));
+                setCurrentDate(new Date(newDate));
+            };
+
+            return (
+                <div className="min-h-screen flex flex-col md:flex-row">
+                    {/* Sidebar */}
+                    <aside className="w-full md:w-64 bg-[#0f0f0f] border-r border-white/5 p-6 flex flex-col gap-8">
+                        <div className="flex items-center gap-3">
+                            <div className="w-10 h-10 bg-yellow-400 rounded-xl flex items-center justify-center text-black shadow-lg shadow-yellow-400/20">
+                                <Icons.Gamepad />
+                            </div>
+                            <h1 className="text-xl font-bold tracking-tight">GAMER<span className="text-yellow-400">HUB</span></h1>
+                        </div>
+
+                        <nav className="space-y-2">
+                            {[
+                                { id: 'all', label: 'Весь календарь', icon: Icons.Calendar, color: 'white' },
+                                { id: 'game', label: 'AAA Игры', icon: Icons.Gamepad, color: 'blue-400' },
+                                { id: 'navi', label: 'NAVI (CS2)', icon: Icons.Trophy, color: 'yellow-400' },
+                                { id: 'football', label: 'Футбол', icon: Icons.Activity, color: 'red-400' }
+                            ].map(item => (
+                                <button
+                                    key={item.id}
+                                    onClick={() => setFilter(item.id)}
+                                    className={`w-full flex items-center gap-3 px-4 py-3 rounded-xl transition-all ${
+                                        filter === item.id ? 'bg-white/10 text-white' : 'text-zinc-500 hover:text-zinc-300'
+                                    }`}
+                                >
+                                    <item.icon />
+                                    <span className="font-medium text-sm">{item.label}</span>
+                                </button>
+                            ))}
+                        </nav>
+
+                        <div className="mt-auto pt-6 border-t border-white/5">
+                            <div className="glass-card p-4 rounded-2xl">
+                                <p className="text-[10px] text-zinc-500 uppercase font-bold mb-2">Статус</p>
+                                <div className="flex items-center gap-2 text-xs text-green-400">
+                                    <div className="w-1.5 h-1.5 bg-green-400 rounded-full animate-pulse"></div>
+                                    Данные актуальны
+                                </div>
+                            </div>
+                        </div>
+                    </aside>
+
+                    {/* Main Content */}
+                    <main className="flex-1 p-6 md:p-10 max-h-screen overflow-y-auto">
+                        <header className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 mb-10">
+                            <div>
+                                <h2 className="text-3xl font-bold mb-1">{monthNames[currentDate.getMonth()]} {currentDate.getFullYear()}</h2>
+                                <p className="text-zinc-500 text-sm">Событий в этом месяце: {filteredEvents.length}</p>
+                            </div>
+                            <div className="flex items-center gap-2 bg-white/5 p-1 rounded-xl">
+                                <button onClick={() => changeMonth(-1)} className="p-2 hover:bg-white/10 rounded-lg transition-colors text-zinc-400"><Icons.ChevronLeft /></button>
+                                <button onClick={() => setCurrentDate(new Date(2026, 3, 1))} className="px-4 py-1 text-xs font-semibold hover:bg-white/10 rounded-lg transition-colors">2026</button>
+                                <button onClick={() => changeMonth(1)} className="p-2 hover:bg-white/10 rounded-lg transition-colors text-zinc-400"><Icons.ChevronRight /></button>
+                            </div>
+                        </header>
+
+                        <div className="grid grid-cols-1 xl:grid-cols-3 gap-8">
+                            {/* Calendar Grid */}
+                            <div className="xl:col-span-2">
+                                <div className="calendar-grid gap-px bg-white/5 border border-white/5 rounded-2xl overflow-hidden shadow-2xl">
+                                    {['Пн', 'Вт', 'Ср', 'Чт', 'Пт', 'Сб', 'Вс'].map(d => (
+                                        <div key={d} className="bg-[#121212] p-3 text-center text-[10px] font-bold text-zinc-500 uppercase tracking-widest">{d}</div>
+                                    ))}
+                                    {calendarDays.map((d, i) => (
+                                        <div key={i} className={`min-h-[100px] bg-[#0d0d0d] p-2 transition-colors border-t border-white/5 ${!d ? 'opacity-10' : 'hover:bg-white/[0.02]'}`}>
+                                            {d && (
+                                                <>
+                                                    <span className="text-xs font-medium text-zinc-600 mb-1 block">
+                                                        {d.day}
+                                                    </span>
+                                                    <div className="space-y-1">
+                                                        {d.events.map(e => (
+                                                            <div key={e.id} className={`text-[9px] px-1.5 py-0.5 rounded-sm truncate font-bold uppercase tracking-tighter ${
+                                                                e.type === 'game' ? 'bg-blue-500/10 text-blue-400 border-l-2 border-blue-500' :
+                                                                e.type === 'navi' ? 'bg-yellow-500/10 text-yellow-400 border-l-2 border-yellow-500' :
+                                                                'bg-red-500/10 text-red-400 border-l-2 border-red-500'
+                                                            }`}>
+                                                                {e.title}
+                                                            </div>
+                                                        ))}
+                                                    </div>
+                                                </>
+                                            )}
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+
+                            {/* Upcoming Events List */}
+                            <div className="space-y-6">
+                                <h3 className="text-sm font-bold flex items-center gap-2 uppercase tracking-widest text-zinc-400">
+                                    <Icons.Star /> Предстоящее
+                                </h3>
+                                <div className="space-y-3">
+                                    {filteredEvents.length > 0 ? filteredEvents.slice(0, 5).map(e => (
+                                        <div key={e.id} className="glass-card p-4 rounded-xl relative overflow-hidden group">
+                                            <div className={`absolute top-0 left-0 w-1 h-full ${
+                                                e.type === 'game' ? 'bg-blue-500' :
+                                                e.type === 'navi' ? 'bg-yellow-400' :
+                                                'bg-red-500'
+                                            }`} />
+                                            <div className="flex justify-between items-start mb-1">
+                                                <span className="text-[10px] font-bold text-zinc-500 uppercase">{new Date(e.date).toLocaleDateString('ru-RU', { day: 'numeric', month: 'short' })}</span>
+                                                {e.importance === 'high' && <Icons.Star filled={true} className="text-yellow-400" />}
+                                            </div>
+                                            <h4 className="font-bold text-sm leading-tight mb-1">{e.title}</h4>
+                                            <p className="text-[11px] text-zinc-500 leading-relaxed">{e.desc}</p>
+                                        </div>
+                                    )) : (
+                                        <div className="text-center py-10 text-zinc-600 text-sm">Нет событий в этом месяце</div>
+                                    )}
+                                </div>
+                            </div>
+                        </div>
+                    </main>
+                </div>
+            );
+        };
+
+        const root = ReactDOM.createRoot(document.getElementById('root'));
+        root.render(<App />);
+    </script>
+</body>
+</html>
