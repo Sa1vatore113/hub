@@ -13,8 +13,9 @@ def get_steam_games():
     """Агент: Получение данных о грядущих играх через Steam API."""
     print(">>> [ИСТОЧНИК: STEAM API] Проверка данных в Steam...")
     events = []
+    
     if not STEAM_API_KEY:
-        print("--- Пропуск: Ключ Steam не задан.")
+        print("--- Пропуск: Ключ Steam не задан (пустая строка).")
         return []
 
     # Список AppID популярных ожидаемых игр
@@ -39,7 +40,7 @@ def get_steam_games():
                         "type": "game",
                         "desc": f"Steam: {info.get('short_description', '')[:120]}..."
                     })
-        print(f"--- Успех: Найдено {len(events)} записей в Steam.")
+        print(f"--- Успех: Steam вернул данные по {len(events)} играм.")
     except Exception as e:
         print(f"!!! Ошибка Steam: {e}")
     return events
@@ -113,9 +114,16 @@ def get_football():
         headers = {'X-Auth-Token': FOOTBALL_API_KEY}
         res = requests.get("https://api.football-data.org/v4/teams/81/matches?status=SCHEDULED", headers=headers, timeout=10)
         for m in res.json().get('matches', [])[:5]:
-            evs.append({"id": f"f_{m['id']}", "date": m['utcDate'].split('T')[0], "title": f"⚽ {m['homeTeam']['shortName']} — {m['awayTeam']['shortName']}", "type": "foot", "desc": m['competition']['name']})
+            evs.append({
+                "id": f"f_{m['id']}", 
+                "date": m['utcDate'].split('T')[0], 
+                "title": f"⚽ {m['homeTeam']['shortName']} — {m['awayTeam']['shortName']}", 
+                "type": "foot", 
+                "desc": m['competition']['name']
+            })
         print(f"--- Успех: {len(evs)} матчей.")
-    except: pass
+    except Exception as e:
+        print(f"!!! Ошибка футбола: {e}")
     return evs
 
 def main():
@@ -127,3 +135,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
