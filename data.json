@@ -1,30 +1,64 @@
 [
     {
-        "id": "navi_1",
-        "date": "2026-04-17",
-        "title": "NAVI vs FaZe Clan",
-        "type": "navi",
-        "desc": "PGL Major 2026 - Elimination Stage. Начало в 19:00."
-    },
-    {
-        "id": "navi_2",
-        "date": "2026-04-18",
-        "title": "NAVI vs Spirit (TBD)",
-        "type": "navi",
-        "desc": "Возможный матч плей-офф. Следим за результатами."
-    },
-    {
-        "id": "barca_1",
-        "date": "2026-04-19",
-        "title": "Барселона — Атлетико",
+        "id": "foot_544532",
+        "date": "2026-04-22",
+        "title": "Barça — Celta",
         "type": "foot",
-        "desc": "Ла Лига. Важнейший матч за 2-е место."
+        "time": "19:30",
+        "desc": "Primera Division. Стадион: TBD"
+    },
+    {
+        "id": "foot_544527",
+        "date": "2026-04-25",
+        "title": "Getafe — Barça",
+        "type": "foot",
+        "time": "14:15",
+        "desc": "Primera Division. Стадион: TBD"
+    },
+    {
+        "id": "foot_544548",
+        "date": "2026-05-02",
+        "title": "Osasuna — Barça",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Primera Division. Стадион: TBD"
+    },
+    {
+        "id": "foot_544553",
+        "date": "2026-05-10",
+        "title": "Barça — Real Madrid",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Primera Division. Стадион: TBD"
+    },
+    {
+        "id": "foot_544561",
+        "date": "2026-05-13",
+        "title": "Alavés — Barça",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Primera Division. Стадион: TBD"
+    },
+    {
+        "id": "navi_live",
+        "date": "2026-04-17",
+        "title": "NAVI — FaZe Clan",
+        "type": "navi",
+        "time": "19:30",
+        "desc": "PGL Major 2026. Решающий матч за выход в следующую стадию."
     },
     {
         "id": "game_1",
         "date": "2026-04-17",
-        "title": "Pragmata Release",
+        "title": "Pragmata (Capcom)",
         "type": "game",
-        "desc": "AAA-экшен от Capcom."
+        "desc": "Официальный релиз от Capcom."
+    },
+    {
+        "id": "game_2",
+        "date": "2026-04-29",
+        "title": "GTA VI Trailer 3",
+        "type": "game",
+        "desc": "Ожидаемый трейлер от Rockstar."
     }
 ]
