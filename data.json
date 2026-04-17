@@ -1,1 +1,200 @@
-
+[
+    {
+        "id": "f_544532",
+        "date": "2026-04-22",
+        "title": "⚽ Barça — Celta",
+        "type": "foot",
+        "time": "19:30",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Celta+match"
+    },
+    {
+        "id": "f_544527",
+        "date": "2026-04-25",
+        "title": "⚽ Getafe — Barça",
+        "type": "foot",
+        "time": "14:15",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Getafe+—+Barça+match"
+    },
+    {
+        "id": "f_544548",
+        "date": "2026-05-02",
+        "title": "⚽ Osasuna — Barça",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Osasuna+—+Barça+match"
+    },
+    {
+        "id": "f_544553",
+        "date": "2026-05-10",
+        "title": "⚽ Barça — Real Madrid",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
+    },
+    {
+        "id": "f_544561",
+        "date": "2026-05-13",
+        "title": "⚽ Alavés — Barça",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Alavés+—+Barça+match"
+    },
+    {
+        "id": "navi_ps_1449765",
+        "date": "2026-04-18",
+        "time": "07:00",
+        "title": "🏆 Dota 2: Round 1: Xtreme vs Na`Vi",
+        "type": "navi",
+        "desc": "Турнир: PGL. Статус: NOT_STARTED.",
+        "url": "https://liquipedia.net/"
+    },
+    {
+        "id": "steam_4561040",
+        "date": "2026-04-17",
+        "title": "🎮 The Lustful Bride",
+        "type": "game",
+        "desc": "Steam (game): Скоро выйдет. The Lustful Bride — откровенная визуальная новелла для взрослых в стиле мультика. Обычная свадебная церемония превращает...",
+        "url": "https://store.steampowered.com/app/4561040"
+    },
+    {
+        "id": "steam_4180230",
+        "date": "2026-04-17",
+        "title": "🎮 The Forest Watches",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Вы — новый член лесного культа. Выполняйте назначенные ритуалы, соблюдайте их правила и раскрывайте тревожащие тайны лес...",
+        "url": "https://store.steampowered.com/app/4180230"
+    },
+    {
+        "id": "steam_4275970",
+        "date": "2026-04-17",
+        "title": "🎮 Dead Rush",
+        "type": "game",
+        "desc": "Steam (game): Скоро выйдет. Dead Rush — это аркадный FPS-шутер, сочетающий динамичный экшен, стилизованную графику и бесконечные волны зомби. Выбира...",
+        "url": "https://store.steampowered.com/app/4275970"
+    },
+    {
+        "id": "steam_4566950",
+        "date": "2026-04-17",
+        "title": "🎮 Mawgate",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Maria Moore is wrongfully imprisoned in the dreaded Mawgate Asylum. To survive she must do things she never thought hers...",
+        "url": "https://store.steampowered.com/app/4566950"
+    },
+    {
+        "id": "steam_4221940",
+        "date": "2026-04-17",
+        "title": "🎮 Convenience Store Simulator",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Игра об управлении собственным магазином. Работайте на кассе, варите кофе, пополняйте полки и нанимайте персонал, украша...",
+        "url": "https://store.steampowered.com/app/4221940"
+    },
+    {
+        "id": "steam_3440060",
+        "date": "2026-04-17",
+        "title": "🎮 Cralon",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Cralon — инди-игра в жанре immersive sim dungeon crawler, с элементами RPG и приключений, вдохновлённая классикой подзем...",
+        "url": "https://store.steampowered.com/app/3440060"
+    },
+    {
+        "id": "steam_3562090",
+        "date": "2026-04-17",
+        "title": "🎮 Fremd Wagen: Mod Chaos",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Fremd Wagen: Моддинг Хаос. Самый разочаровывающий математический мод-симулятор. Чтобы избежать крахов, убедитесь, что ва...",
+        "url": "https://store.steampowered.com/app/3562090"
+    },
+    {
+        "id": "steam_4272290",
+        "date": "2026-04-17",
+        "title": "🎮 Sanctum Ruins",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. A strategic roguelike deck-builder. Build your deck, master 8 unique classes, and conquer the Sanctum in quick sessions....",
+        "url": "https://store.steampowered.com/app/4272290"
+    },
+    {
+        "id": "steam_4463060",
+        "date": "2026-04-17",
+        "title": "🎮 数独GO SudokuGo",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Расслабляющая игра в судоку с миллионами головоломок для отдыха и тренировки логики....",
+        "url": "https://store.steampowered.com/app/4463060"
+    },
+    {
+        "id": "steam_4395390",
+        "date": "2026-04-17",
+        "title": "🎮 Dinosaur Adventure 3-D (1999 Version)",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Join Rolf, the brave dinosaur, and his pteranodon sidekick Pterrance on a fun-filled adventure through the fascinating w...",
+        "url": "https://store.steampowered.com/app/4395390"
+    },
+    {
+        "id": "steam_4395370",
+        "date": "2026-04-17",
+        "title": "🎮 3D Dinosaur Adventure",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. In 3D Dinosaur Adventure, players explore the Triassic, Jurassic, and Cretaceous periods and learn about Dinosaurs. They...",
+        "url": "https://store.steampowered.com/app/4395370"
+    },
+    {
+        "id": "steam_4400910",
+        "date": "2026-04-17",
+        "title": "🎮 Forbidden Snack",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Your character moves for itself !!! Hitting a wall will change direction. Use this and other mechanics to your advantage...",
+        "url": "https://store.steampowered.com/app/4400910"
+    },
+    {
+        "id": "steam_4373570",
+        "date": "2026-04-17",
+        "title": "🎮 鬼サザエトリ(Oni Sazae Tori)",
+        "type": "game",
+        "desc": "Steam (game): 17 апр. 2026 г.. Free diving and shell collecting 2D action game...",
+        "url": "https://store.steampowered.com/app/4373570"
+    },
+    {
+        "id": "n_7972584975605377950",
+        "date": "2026-04-17",
+        "title": "📰 Нелинейность и космический ужас — главное о D...",
+        "type": "news",
+        "desc": "Нелинейность и космический ужас — главное о Directive 8020 в свежем трейлере",
+        "url": "https://stopgame.ru/newsdata/71182/nelineynost_i_kosmicheskiy_uzhas_glavnoe_o_directive_8020_v_svezhem_trailere"
+    },
+    {
+        "id": "n_7139583727300175629",
+        "date": "2026-04-17",
+        "title": "📰 Состоялся релиз Pragmata — игроки довольны но...",
+        "type": "news",
+        "desc": "Состоялся релиз Pragmata — игроки довольны новинкой от Capcom ",
+        "url": "https://stopgame.ru/newsdata/71181/sostoyalsya_reliz_pragmata_igroki_dovolny_novinkoy_ot_capcom"
+    },
+    {
+        "id": "n_6038693440841070774",
+        "date": "2026-04-16",
+        "title": "📰 Анонсирована Metro 2039. Смотрите кинематогра...",
+        "type": "news",
+        "desc": "Анонсирована Metro 2039. Смотрите кинематографический трейлер и немного геймплея",
+        "url": "https://stopgame.ru/newsdata/71173/anonsirovana_metro_2039_smotrite_kinematograficheskiy_trailer_i_nemnogo_geympleya"
+    },
+    {
+        "id": "n_-7535521223199453864",
+        "date": "2026-04-17",
+        "title": "📰 Разработчики анонсировали новый контент для B...",
+        "type": "news",
+        "desc": "Разработчики анонсировали новый контент для Borderlands 4 на ближайшие месяцы",
+        "url": "https://www.playground.ru/borderlands_4/news/razrabotchiki_anonsirovali_novyj_kontent_dlya_borderlands_4_na_blizhajshie_mesyatsy-1838811#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-9208995545854963091",
+        "date": "2026-04-17",
+        "title": "📰 Starfield на PS5 уже продаётся со скидкой спу...",
+        "type": "news",
+        "desc": "Starfield на PS5 уже продаётся со скидкой спустя несколько дней после релиза",
+        "url": "https://www.playground.ru/starfield/news/starfield_na_ps5_uzhe_prodayotsya_so_skidkoj_spustya_neskolko_dnej_posle_reliza-1838802#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    }
+]
