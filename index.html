@@ -3,23 +3,56 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gamer Hub | Digital Calendar</title>
+    <title>Gamer Hub | Цифровой Календарь</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
     <script src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
     <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
     <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <style>
-        body { font-family: 'Plus Jakarta Sans', sans-serif; background: #030303; color: #fff; overflow: hidden; }
-        .calendar-grid { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; background: rgba(255,255,255,0.03); border-radius: 16px; overflow: hidden; }
-        .day { background: #080808; min-height: 105px; padding: 10px; transition: 0.3s; }
+        body { 
+            font-family: 'Plus Jakarta Sans', sans-serif; 
+            background: #030303; 
+            color: #fff; 
+            overflow: hidden; 
+        }
+        .calendar-grid { 
+            display: grid; 
+            grid-template-columns: repeat(7, 1fr); 
+            gap: 1px; 
+            background: rgba(255,255,255,0.03); 
+            border-radius: 16px; 
+            overflow: hidden; 
+        }
+        .day { 
+            background: #080808; 
+            min-height: 110px; 
+            padding: 12px; 
+            transition: 0.3s; 
+            border-top: 1px solid rgba(255,255,255,0.02);
+        }
         .day:hover { background: #0c0c0c; }
-        .event { font-size: 9px; padding: 3px 6px; border-radius: 4px; margin-bottom: 3px; font-weight: 700; text-transform: uppercase; cursor: pointer; border-left: 2px solid transparent; }
+        .day.today { background: rgba(250, 204, 21, 0.03); }
+        .event { 
+            font-size: 9px; 
+            padding: 4px 8px; 
+            border-radius: 6px; 
+            margin-bottom: 4px; 
+            font-weight: 700; 
+            text-transform: uppercase; 
+            cursor: pointer; 
+            border-left: 2px solid transparent;
+            transition: all 0.2s;
+        }
+        .event:hover { transform: translateX(2px); filter: brightness(1.2); }
         .type-game { background: rgba(59,130,246,0.1); color: #60a5fa; border-color: #3b82f6; }
         .type-navi { background: rgba(250,204,21,0.1); color: #facc15; border-color: #facc15; }
         .type-foot { background: rgba(239,68,68,0.1); color: #f87171; border-color: #ef4444; }
         .type-news { background: rgba(168,85,247,0.1); color: #c084fc; border-color: #a855f7; }
-        .glass { background: rgba(255,255,255,0.02); backdrop-filter: blur(20px); border: 1px solid rgba(255,255,255,0.05); }
+        .glass { background: rgba(255,255,255,0.02); backdrop-filter: blur(24px); border: 1px solid rgba(255,255,255,0.05); }
+        
+        ::-webkit-scrollbar { width: 4px; }
+        ::-webkit-scrollbar-thumb { background: #222; border-radius: 10px; }
     </style>
 </head>
 <body>
@@ -33,56 +66,117 @@
             const [selected, setSelected] = useState(null);
             const [filter, setFilter] = useState('all');
 
+            // Загрузка данных из автоматического JSON файла
             useEffect(() => {
-                fetch('data.json').then(res => res.json()).then(data => setEvents(data)).catch(() => {});
+                fetch('data.json')
+                    .then(res => res.json())
+                    .then(data => setEvents(data))
+                    .catch(() => {
+                        // Резервные данные, если робот еще не создал файл
+                        setEvents([
+                            { date: '2026-04-17', title: 'NAVI против FaZe', type: 'navi', desc: 'Матч в рамках мейджора. Гранд-финал.', time: '19:30' },
+                            { date: '2026-04-17', title: '📰 Релиз Pragmata', type: 'news', desc: 'Capcom подтвердили дату выхода игры.', time: '12:00' }
+                        ]);
+                    });
             }, []);
+
+            const isToday = (dateStr) => {
+                const today = new Date();
+                return dateStr === `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+            };
 
             const grid = useMemo(() => {
                 const y = viewDate.getFullYear(), m = viewDate.getMonth();
                 const total = new Date(y, m + 1, 0).getDate();
                 let first = new Date(y, m, 1).getDay();
-                first = first === 0 ? 6 : first - 1;
+                first = first === 0 ? 6 : first - 1; // Сдвиг для Пн
                 const res = [];
                 for (let i = 0; i < first; i++) res.push(null);
                 for (let i = 1; i <= total; i++) {
                     const dStr = `${y}-${String(m + 1).padStart(2, '0')}-${String(i).padStart(2, '0')}`;
-                    res.push({ day: i, date: dStr, evs: events.filter(e => e.date === dStr && (filter === 'all' || e.type === filter)) });
+                    res.push({ 
+                        day: i, 
+                        date: dStr, 
+                        evs: events.filter(e => e.date === dStr && (filter === 'all' || e.type === filter)) 
+                    });
                 }
                 return res;
             }, [viewDate, events, filter]);
 
             return (
                 <div className="flex h-screen overflow-hidden">
+                    {/* Боковая панель */}
                     <aside className="w-64 bg-[#080808] border-r border-white/5 p-8 flex flex-col">
-                        <div className="text-xl font-black mb-10 tracking-tighter uppercase">Gamer<span className="text-yellow-400">Hub</span></div>
+                        <div className="flex items-center gap-2 mb-10">
+                            <div className="w-6 h-6 bg-yellow-400 rounded-md"></div>
+                            <div className="text-xl font-black tracking-tighter uppercase leading-none">Gamer<span className="text-yellow-400">Hub</span></div>
+                        </div>
+                        
                         <nav className="space-y-1 flex-1">
-                            {['all', 'game', 'navi', 'foot', 'news'].map(t => (
-                                <button key={t} onClick={() => setFilter(t)} className={`w-full text-left px-4 py-3 rounded-xl text-xs font-bold uppercase transition ${filter === t ? 'bg-white/10 text-white' : 'text-zinc-500'}`}>
-                                    {t === 'all' ? 'Все' : t === 'game' ? 'Игры' : t === 'navi' ? 'NAVI' : t === 'foot' ? 'Футбол' : 'Новости'}
+                            {[
+                                { id: 'all', label: 'Все события', color: 'bg-white' },
+                                { id: 'game', label: 'AAA Игры', color: 'bg-blue-500' },
+                                { id: 'navi', label: 'Матчи NAVI', color: 'bg-yellow-400' },
+                                { id: 'foot', label: 'Футбол', color: 'bg-red-500' },
+                                { id: 'news', label: 'Новости/Трейлеры', color: 'bg-purple-500' }
+                            ].map(t => (
+                                <button 
+                                    key={t.id} 
+                                    onClick={() => setFilter(t.id)} 
+                                    className={`w-full text-left px-4 py-3 rounded-xl text-[10px] font-bold uppercase transition flex items-center gap-3 ${filter === t.id ? 'bg-white/10 text-white' : 'text-zinc-500 hover:text-zinc-300'}`}
+                                >
+                                    <div className={`w-1.5 h-1.5 rounded-full ${t.color}`}></div>
+                                    {t.label}
                                 </button>
                             ))}
                         </nav>
-                        <div className="p-4 glass rounded-xl text-[10px] text-green-400 font-bold uppercase animate-pulse italic text-center">Live Sync Active</div>
+                        
+                        <div className="p-4 glass rounded-2xl">
+                            <div className="text-[9px] text-zinc-500 font-bold mb-2 uppercase tracking-widest">Статус</div>
+                            <div className="flex items-center gap-2 text-[10px] text-green-400 font-bold uppercase tracking-wider animate-pulse">
+                                <div className="w-1.5 h-1.5 bg-green-400 rounded-full"></div>
+                                Синхронизация активна
+                            </div>
+                        </div>
                     </aside>
 
-                    <main className="flex-1 p-10 overflow-y-auto">
-                        <div className="flex justify-between items-end mb-10">
-                            <h2 className="text-4xl font-black uppercase italic">{viewDate.toLocaleString('ru', { month: 'long', year: 'numeric' })}</h2>
-                            <div className="flex gap-2 p-1 glass rounded-xl">
-                                <button onClick={() => setViewDate(new Date(viewDate.setMonth(viewDate.getMonth() - 1)))} className="p-2 hover:bg-white/5 rounded-lg">←</button>
-                                <button onClick={() => setViewDate(new Date())} className="px-4 py-1 text-[10px] font-black uppercase">Сегодня</button>
-                                <button onClick={() => setViewDate(new Date(viewDate.setMonth(viewDate.getMonth() + 1)))} className="p-2 hover:bg-white/5 rounded-lg">→</button>
+                    {/* Основной календарь */}
+                    <main className="flex-1 p-10 overflow-y-auto relative bg-[#030303]">
+                        <div className="flex justify-between items-end mb-12">
+                            <div>
+                                <h2 className="text-5xl font-black uppercase italic tracking-tighter leading-none mb-2">
+                                    {viewDate.toLocaleString('ru', { month: 'long' })}
+                                    <span className="text-zinc-800 ml-4 font-black">{viewDate.getFullYear()}</span>
+                                </h2>
+                                <p className="text-zinc-600 text-[10px] font-bold uppercase tracking-[0.2em]">Твой личный игровой дашборд</p>
+                            </div>
+                            <div className="flex gap-2 p-1.5 glass rounded-2xl">
+                                <button onClick={() => setViewDate(new Date(viewDate.setMonth(viewDate.getMonth() - 1)))} className="p-2 hover:bg-white/10 rounded-xl transition text-zinc-400 hover:text-white text-lg">←</button>
+                                <button onClick={() => setViewDate(new Date())} className="px-6 py-2 text-[10px] font-black uppercase tracking-widest hover:bg-white/10 rounded-xl">Сегодня</button>
+                                <button onClick={() => setViewDate(new Date(viewDate.setMonth(viewDate.getMonth() + 1)))} className="p-2 hover:bg-white/10 rounded-xl transition text-zinc-400 hover:text-white text-lg">→</button>
                             </div>
                         </div>
 
-                        <div className="calendar-grid">
-                            {['Пн','Вт','Ср','Чт','Пт','Сб','Вс'].map(d => <div key={d} className="p-3 text-center text-[10px] font-black text-zinc-600 uppercase bg-[#0a0a0a]">{d}</div>)}
+                        <div className="calendar-grid shadow-2xl">
+                            {['Пн','Вт','Ср','Чт','Пт','Сб','Вс'].map(d => (
+                                <div key={d} className="p-4 text-center text-[10px] font-black text-zinc-600 uppercase bg-[#0a0a0a] border-b border-white/5">{d}</div>
+                            ))}
                             {grid.map((d, i) => (
-                                <div key={i} className={`day ${!d ? 'opacity-10' : ''}`}>
+                                <div key={i} className={`day ${!d ? 'opacity-10' : ''} ${d && isToday(d.date) ? 'today' : ''}`}>
                                     {d && (
                                         <>
-                                            <div className="text-[10px] font-bold text-zinc-600 mb-2">{d.day}</div>
-                                            {d.evs.map((e, idx) => <div key={idx} onClick={() => setSelected(e)} className={`event type-${e.type}`}>{e.title}</div>)}
+                                            <div className="text-[10px] font-bold text-zinc-600 mb-3">{d.day}</div>
+                                            <div className="space-y-1">
+                                                {d.evs.map((e, idx) => (
+                                                    <div 
+                                                        key={idx} 
+                                                        onClick={() => setSelected(e)} 
+                                                        className={`event type-${e.type}`}
+                                                    >
+                                                        {e.title}
+                                                    </div>
+                                                ))}
+                                            </div>
                                         </>
                                     )}
                                 </div>
@@ -90,13 +184,38 @@
                         </div>
                     </main>
 
+                    {/* Панель деталей */}
                     {selected && (
-                        <div className="fixed inset-y-0 right-0 w-80 glass border-l border-white/10 p-8 z-20 shadow-2xl animate-in slide-in-from-right duration-300">
-                            <button onClick={() => setSelected(null)} className="absolute top-4 right-4 text-zinc-500 hover:text-white">✕</button>
-                            <div className={`w-8 h-1 mb-6 ${selected.type==='game'?'bg-blue-500':selected.type==='navi'?'bg-yellow-400':selected.type==='news'?'bg-purple-500':'bg-red-500'}`}></div>
-                            <div className="text-[10px] font-black text-zinc-500 uppercase mb-2">{selected.date} {selected.time && `• ${selected.time}`}</div>
-                            <h3 className="text-xl font-black leading-tight uppercase mb-4">{selected.title}</h3>
-                            <p className="text-xs text-zinc-400 leading-relaxed">{selected.desc}</p>
+                        <div className="fixed inset-y-0 right-0 w-96 glass border-l border-white/10 p-10 z-20 shadow-2xl animate-in slide-in-from-right duration-300">
+                            <button onClick={() => setSelected(null)} className="absolute top-6 right-6 text-zinc-500 hover:text-white transition-colors">ЗАКРЫТЬ ✕</button>
+                            
+                            <div className={`w-12 h-1 mb-10 rounded-full ${
+                                selected.type === 'game' ? 'bg-blue-500' : 
+                                selected.type === 'navi' ? 'bg-yellow-400' : 
+                                selected.type === 'news' ? 'bg-purple-500' : 'bg-red-500'
+                            }`}></div>
+                            
+                            <div className="text-[10px] font-black text-zinc-500 uppercase tracking-[0.3em] mb-4">
+                                {new Date(selected.date).toLocaleDateString('ru', { day: 'numeric', month: 'long' })}
+                                {selected.time && <span className="ml-2 text-white/40">• {selected.time}</span>}
+                            </div>
+                            
+                            <h3 className="text-3xl font-black leading-tight uppercase mb-8 tracking-tighter italic">{selected.title}</h3>
+                            
+                            <div className="bg-white/5 rounded-3xl p-8 mb-8">
+                                <p className="text-sm text-zinc-400 leading-relaxed font-medium">
+                                    {selected.desc}
+                                </p>
+                            </div>
+                            
+                            <div className="mt-auto pt-6 border-t border-white/5">
+                                <div className="text-[9px] font-bold text-zinc-600 uppercase tracking-widest mb-2">Категория</div>
+                                <div className="text-sm font-bold uppercase tracking-tight italic">
+                                    {selected.type === 'game' ? 'Релиз AAA' : 
+                                     selected.type === 'navi' ? 'Киберспорт NAVI' : 
+                                     selected.type === 'news' ? 'Игровая Новость' : 'Футбольный Матч'}
+                                </div>
+                            </div>
                         </div>
                     )}
                 </div>
