@@ -1,1 +1,106 @@
-
+[
+    {
+        "id": "f_544532",
+        "date": "2026-04-22",
+        "title": "⚽ Barça — Celta",
+        "type": "foot",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Celta+match"
+    },
+    {
+        "id": "f_544527",
+        "date": "2026-04-25",
+        "title": "⚽ Getafe — Barça",
+        "type": "foot",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Getafe+—+Barça+match"
+    },
+    {
+        "id": "f_544548",
+        "date": "2026-05-02",
+        "title": "⚽ Osasuna — Barça",
+        "type": "foot",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Osasuna+—+Barça+match"
+    },
+    {
+        "id": "f_544553",
+        "date": "2026-05-10",
+        "title": "⚽ Barça — Real Madrid",
+        "type": "foot",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
+    },
+    {
+        "id": "f_544561",
+        "date": "2026-05-13",
+        "title": "⚽ Alavés — Barça",
+        "type": "foot",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Alavés+—+Barça+match"
+    },
+    {
+        "id": "gold_-1797473529207948095",
+        "date": "2026-10-24",
+        "title": "🎮 Grand Theft Auto VI [HIT]",
+        "type": "game",
+        "desc": "Главный мировой релиз. Ждем в Вайс-Сити.",
+        "url": "https://www.rockstargames.com/VI"
+    },
+    {
+        "id": "gold_6112431961551638627",
+        "date": "2026-04-17",
+        "title": "🎮 Pragmata [HIT]",
+        "type": "game",
+        "desc": "Научно-фантастический экшен от Capcom.",
+        "url": "https://www.capcom.co.jp/pragmata/"
+    },
+    {
+        "id": "gold_1146749593994776348",
+        "date": "2026-05-19",
+        "title": "🎮 Forza Horizon 6 [HIT]",
+        "type": "game",
+        "desc": "Новое поколение гонок.",
+        "url": "https://www.xbox.com/ru-RU/games/forza-horizon-5"
+    },
+    {
+        "id": "n_-1705989695490239659",
+        "date": "2026-04-17",
+        "title": "📰 Нелинейность и космический ужас — главное о D...",
+        "type": "news",
+        "desc": "Нелинейность и космический ужас — главное о Directive 8020 в свежем трейлере",
+        "url": "https://stopgame.ru/newsdata/71182/nelineynost_i_kosmicheskiy_uzhas_glavnoe_o_directive_8020_v_svezhem_trailere"
+    },
+    {
+        "id": "n_7272067328341669162",
+        "date": "2026-04-17",
+        "title": "📰 Состоялся релиз Pragmata — игроки довольны но...",
+        "type": "news",
+        "desc": "Состоялся релиз Pragmata — игроки довольны новинкой от Capcom ",
+        "url": "https://stopgame.ru/newsdata/71181/sostoyalsya_reliz_pragmata_igroki_dovolny_novinkoy_ot_capcom"
+    },
+    {
+        "id": "n_6762112344102779242",
+        "date": "2026-04-16",
+        "title": "📰 Анонсирована Metro 2039. Смотрите кинематогра...",
+        "type": "news",
+        "desc": "Анонсирована Metro 2039. Смотрите кинематографический трейлер и немного геймплея",
+        "url": "https://stopgame.ru/newsdata/71173/anonsirovana_metro_2039_smotrite_kinematograficheskiy_trailer_i_nemnogo_geympleya"
+    },
+    {
+        "id": "steam_1931730",
+        "date": "2026-06-15",
+        "title": "🎮 Fort Solis",
+        "type": "game",
+        "desc": "Steam: Fort Solis — захватывающий сюжетный триллер о Красной планете....",
+        "url": "https://store.steampowered.com/app/1931730"
+    },
+    {
+        "id": "steam_2669300",
+        "date": "2026-06-15",
+        "title": "🎮 Farm Invaders",
+        "type": "game",
+        "desc": "Steam: Farm Invaders is a casual, roguelite, bullet hell featuring Daisy, an angry cow seeking revenge for her abducted friend....",
+        "url": "https://store.steampowered.com/app/2669300"
+    }
+]
