@@ -4,14 +4,14 @@ import requests
 import os
 
 # СЮДА МОЖНО ВСТАВИТЬ СВОИ КЛЮЧИ ПОЗЖЕ
-FOOTBALL_API_KEY = "" # Получи на football-data.org бесплатно
+FOOTBALL_API_KEY = "c121f79556c340d78ba1585581dbdf73" # Получи на football-data.org бесплатно
 
 def get_real_football():
     """Попытка получить реальные матчи Барселоны."""
     today = datetime.date.today()
     events = []
     
-    if FOOTBALL_API_KEY: c121f79556c340d78ba1585581dbdf73
+    if FOOTBALL_API_KEY:
         try:
             # Запрос матчей Барселоны (ID команды 81)
             url = "https://api.football-data.org/v4/teams/81/matches?status=SCHEDULED"
