@@ -1,29 +1,36 @@
 [
     {
-        "id": "news_-4762009200402384703",
+        "id": "news_-1574060902341678617",
         "date": "2026-04-17",
-        "title": "📰 Нелинейность и космический ужас — главное о D...",
+        "title": "📰 Нелинейность и космический ужас — главное о Direct...",
         "type": "news",
         "desc": "Нелинейность и космический ужас — главное о Directive 8020 в свежем трейлере"
     },
     {
-        "id": "news_2534590739636263529",
+        "id": "news_-9062886765995988939",
         "date": "2026-04-17",
-        "title": "📰 Состоялся релиз Pragmata — игроки довольны но...",
+        "title": "📰 Состоялся релиз Pragmata — игроки довольны новинко...",
         "type": "news",
         "desc": "Состоялся релиз Pragmata — игроки довольны новинкой от Capcom "
     },
     {
-        "id": "news_1599517583806934589",
+        "id": "news_-7508605146090926233",
         "date": "2026-04-16",
-        "title": "📰 Анонсирована Metro 2039. Смотрите кинематогра...",
+        "title": "📰 Анонсирована Metro 2039. Смотрите кинематографичес...",
         "type": "news",
         "desc": "Анонсирована Metro 2039. Смотрите кинематографический трейлер и немного геймплея"
     },
     {
-        "id": "news_2647888948321779631",
+        "id": "news_8875670890240218552",
         "date": "2026-04-17",
-        "title": "📰 Для BioShock Remastered вышел масштабный гейм...",
+        "title": "📰 \"Будущее скрывает больше ответов\": Bloober Team пр...",
+        "type": "news",
+        "desc": "\"Будущее скрывает больше ответов\": Bloober Team продолжает тизерить что-то связанное с Cronos: The New Dawn"
+    },
+    {
+        "id": "news_-9219160704972036355",
+        "date": "2026-04-17",
+        "title": "📰 Для BioShock Remastered вышел масштабный геймплейн...",
         "type": "news",
         "desc": "Для BioShock Remastered вышел масштабный геймплейный мод"
     },
@@ -33,7 +40,7 @@
         "title": "⚽ Barça — Celta",
         "type": "foot",
         "time": "19:30",
-        "desc": "Primera Division. Официальный матч Барселоны."
+        "desc": "Primera Division. Camp Nou."
     },
     {
         "id": "foot_544527",
@@ -41,7 +48,7 @@
         "title": "⚽ Getafe — Barça",
         "type": "foot",
         "time": "14:15",
-        "desc": "Primera Division. Официальный матч Барселоны."
+        "desc": "Primera Division. Camp Nou."
     },
     {
         "id": "foot_544548",
@@ -49,7 +56,7 @@
         "title": "⚽ Osasuna — Barça",
         "type": "foot",
         "time": "19:00",
-        "desc": "Primera Division. Официальный матч Барселоны."
+        "desc": "Primera Division. Camp Nou."
     },
     {
         "id": "foot_544553",
@@ -57,7 +64,7 @@
         "title": "⚽ Barça — Real Madrid",
         "type": "foot",
         "time": "19:00",
-        "desc": "Primera Division. Официальный матч Барселоны."
+        "desc": "Primera Division. Camp Nou."
     },
     {
         "id": "foot_544561",
@@ -65,14 +72,14 @@
         "title": "⚽ Alavés — Barça",
         "type": "foot",
         "time": "00:00",
-        "desc": "Primera Division. Официальный матч Барселоны."
+        "desc": "Primera Division. Camp Nou."
     },
     {
-        "id": "navi_current",
+        "id": "navi_major_2026",
         "date": "2026-04-17",
         "title": "🏆 NAVI — FaZe Clan",
         "type": "navi",
         "time": "19:30",
-        "desc": "PGL Major 2026. Решающая битва. Не пропусти трансляцию!"
+        "desc": "PGL Major 2026. Решающая битва. Смотрим на официальных каналах."
     }
 ]
