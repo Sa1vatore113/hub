@@ -12,7 +12,9 @@ STEAM_API_KEY = "FAC4DB55821995AC91BF405E875C8382"
 def get_steam_games():
     """Агент: Получение данных о грядущих играх через Steam API."""
     events = []
+    # Если ключа нет, не падаем, а просто пропускаем
     if not STEAM_API_KEY:
+        print(">>> [ИСТОЧНИК: STEAM API] Ключ отсутствует. Пропуск.")
         return []
 
     print(">>> [ИСТОЧНИК: STEAM API] Проверка данных в Steam...")
@@ -25,6 +27,7 @@ def get_steam_games():
     
     try:
         for app in target_apps:
+            # Steam Store API работает и без ключа, но Web API Key нужен для других функций
             url = f"https://store.steampowered.com/api/appdetails?appids={app['id']}&l=russian"
             res = requests.get(url, timeout=10)
             if res.status_code == 200:
