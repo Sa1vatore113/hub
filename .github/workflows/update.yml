@@ -31,5 +31,6 @@ jobs:
           git config --global user.email "bot@gamerhub.com"
           git add data.json
           git commit -m "Auto-update calendar data" || exit 0
-          git pull --rebase origin main
+          # Стягиваем изменения и при конфликте в JSON оставляем результат скрипта
+          git pull --rebase -X theirs origin main
           git push origin main
