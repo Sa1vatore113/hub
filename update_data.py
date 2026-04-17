@@ -3,11 +3,11 @@ import datetime
 import requests
 import os
 
-# СЮДА МОЖНО ВСТАВИТЬ СВОИ КЛЮЧИ ПОЗЖЕ
-FOOTBALL_API_KEY = "c121f79556c340d78ba1585581dbdf73" # Получи на football-data.org бесплатно
+# Твой API ключ уже здесь
+FOOTBALL_API_KEY = "c121f79556c340d78ba1585581dbdf73"
 
 def get_real_football():
-    """Попытка получить реальные матчи Барселоны."""
+    """Получение реальных матчей Барселоны через API."""
     today = datetime.date.today()
     events = []
     
@@ -16,23 +16,27 @@ def get_real_football():
             # Запрос матчей Барселоны (ID команды 81)
             url = "https://api.football-data.org/v4/teams/81/matches?status=SCHEDULED"
             headers = {'X-Auth-Token': FOOTBALL_API_KEY}
-            response = requests.get(url, headers=headers)
-            data = response.json()
+            response = requests.get(url, headers=headers, timeout=10)
             
-            for match in data.get('matches', [])[:5]:
-                match_date = match['utcDate'].split('T')[0]
-                events.append({
-                    "id": f"foot_{match['id']}",
-                    "date": match_date,
-                    "title": f"{match['homeTeam']['shortName']} — {match['awayTeam']['shortName']}",
-                    "type": "foot",
-                    "time": match['utcDate'].split('T')[1][:5],
-                    "desc": f"{match['competition']['name']}. Стадион: {match['venue'] if 'venue' in match else 'TBD'}"
-                })
+            if response.status_code == 200:
+                data = response.json()
+                for match in data.get('matches', [])[:5]:
+                    match_date = match['utcDate'].split('T')[0]
+                    events.append({
+                        "id": f"foot_{match['id']}",
+                        "date": match_date,
+                        "title": f"{match['homeTeam']['shortName']} — {match['awayTeam']['shortName']}",
+                        "type": "foot",
+                        "time": match['utcDate'].split('T')[1][:5],
+                        "desc": f"{match['competition']['name']}. Стадион: {match['venue'] if 'venue' in match else 'TBD'}"
+                    })
+                print(f"Футбол: Найдено {len(events)} матчей.")
+            else:
+                print(f"Ошибка API футбола: Код {response.status_code}")
         except Exception as e:
-            print(f"Ошибка футбольного API: {e}")
+            print(f"Критическая ошибка футбольного API: {e}")
     
-    # Если ключа нет или ошибка, добавляем один реальный матч вручную на сегодня/завтра
+    # Резервный матч, если API не вернуло данных
     if not events:
         events.append({
             "id": "foot_mock",
@@ -40,15 +44,14 @@ def get_real_football():
             "title": "Барселона — Реал Мадрид",
             "type": "foot",
             "time": "21:00",
-            "desc": "Эль Класико! Прямая трансляция из Испании. Решающий матч сезона."
+            "desc": "Эль Класико! Данные добавлены в режиме ожидания API."
         })
     return events
 
 def get_navi_matches():
     """Сбор данных о NAVI (CS2)."""
     today = datetime.date.today()
-    # Пока HLTV не дает легкий API, мы будем использовать надежные источники или ручной фид
-    # В этой версии я прописал реальный матч, который ты упомянул
+    # На сегодня ставим реальный матч, который ты ждешь
     return [
         {
             "id": "navi_live",
@@ -56,7 +59,7 @@ def get_navi_matches():
             "title": "NAVI — FaZe Clan",
             "type": "navi",
             "time": "19:30",
-            "desc": "PGL Major 2026. Четвертьфинал. Победитель проходит в полуфинал."
+            "desc": "PGL Major 2026. Решающий матч за выход в следующую стадию."
         }
     ]
 
@@ -68,26 +71,31 @@ def get_aaa_games():
             "date": "2026-04-17",
             "title": "Pragmata (Capcom)",
             "type": "game",
-            "desc": "Официальный релиз нового IP от создателей Resident Evil."
+            "desc": "Официальный релиз от Capcom."
         },
         {
             "id": "game_2",
             "date": "2026-04-29",
             "title": "GTA VI Trailer 3",
             "type": "game",
-            "desc": "Ожидаемый показ нового геймплея от Rockstar Games."
+            "desc": "Ожидаемый трейлер от Rockstar."
         }
     ]
 
 def main():
     print("--- Сбор реальных данных начат ---")
     
+    # Собираем всё вместе
     all_data = get_real_football() + get_navi_matches() + get_aaa_games()
     
-    with open('data.json', 'w', encoding='utf-8') as f:
-        json.dump(all_data, f, ensure_ascii=False, indent=4)
-        
-    print(f"Готово! Собрано {len(all_data)} реальных событий.")
+    # Записываем в файл
+    try:
+        with open('data.json', 'w', encoding='utf-8') as f:
+            json.dump(all_data, f, ensure_ascii=False, indent=4)
+        print(f"Успешно сохранено {len(all_data)} событий в data.json.")
+    except Exception as e:
+        print(f"Ошибка при записи файла: {e}")
+        exit(1)
 
 if __name__ == "__main__":
     main()
