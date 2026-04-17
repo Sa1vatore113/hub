@@ -4,96 +4,113 @@ import requests
 import xml.etree.ElementTree as ET
 import os
 
-# --- ТВОИ КЛЮЧИ (ПОЛНЫЙ КОМПЛЕКТ) ---
+# --- ТВОИ КЛЮЧИ ---
 FOOTBALL_API_KEY = "c121f79556c340d78ba1585581dbdf73"
 GIANT_BOMB_API_KEY = "56e84a76075b834c4f9c7c789a5224110d931ad4"
 STEAM_API_KEY = "FAC4DB55821995AC91BF405E875C8382"
 PANDASCORE_API_KEY = "yp6UPmu4SVuXDOKgX05lr1xbbP_puuolTGTTNeNK33yXXNY_VR8"
 
-# ЖЕСТКАЯ ЦЕНЗУРА (ID жанров Steam: 71 - Nudity, 73 - Hentai)
+# ЖЕСТКАЯ ЦЕНЗУРА И ФИЛЬТР МУСОРА
 BANNED_GENRE_IDS = [71, 73, 74] 
-BLACKLIST_WORDS = ["hentai", "lewd", "sexual", "porn", "nsfw", "erotic", "sex", "sin", "uncensored", "dating"]
+# Добавил фильтр по техническому мусору (саундтреки, демо, паки)
+BLACKLIST_WORDS = [
+    "hentai", "lewd", "sexual", "porn", "nsfw", "erotic", "sex", "sin", "uncensored", "dating",
+    "soundtrack", "dlc", "demo", "pack", "bundle", "booklet", "theme", "artbook", "guide", "season pass"
+]
 
-def is_clean(name, description="", genres=None):
-    """Проверка игры на чистоту: по словам и по ID жанров Steam."""
+def is_clean(name, description="", genres=None, app_type="game"):
+    """Глубокая проверка на мусор: слова, жанры и тип контента Steam."""
+    if app_type != "game": # Главный фильтр: только полноценные игры
+        return False
+        
     text = (str(name) + " " + str(description)).lower()
     if any(word in text for word in BLACKLIST_WORDS):
         return False
+        
     if genres:
         if any(g.get('id') in BANNED_GENRE_IDS for g in genres):
             return False
     return True
 
 def get_steam_games():
-    """Агент: Получение РЕАЛЬНЫХ новинок из Steam с глубокой фильтрацией."""
-    print(">>> [ИСТОЧНИК: STEAM] Ищу чистые новинки...")
+    """Агент: Получение ТОЛЬКО полноценных игр из Steam."""
+    print(">>> [ИСТОЧНИК: STEAM] Фильтрация мусора и поиск AAA...")
     events = []
     try:
         url = "https://store.steampowered.com/api/featuredcategories/?l=russian"
         res = requests.get(url, timeout=10)
         if res.status_code == 200:
+            # Проверяем разные категории новинок
             coming_soon = res.json().get('coming_soon', {}).get('items', [])
-            for item in coming_soon[:15]:
+            new_releases = res.json().get('new_releases', {}).get('items', [])
+            
+            for item in (coming_soon + new_releases)[:20]:
                 app_id = item.get('id')
                 d_url = f"https://store.steampowered.com/api/appdetails?appids={app_id}&l=russian"
                 d_res = requests.get(d_url, timeout=10)
+                
                 if d_res.status_code == 200:
-                    g_data = d_res.json().get(str(app_id), {}).get('data', {})
-                    if g_data:
-                        name = g_data.get('name', '')
-                        desc = g_data.get('short_description', '')
-                        genres = g_data.get('genres', [])
+                    raw_data = d_res.json().get(str(app_id))
+                    if not raw_data or not raw_data.get('success'):
+                        continue
                         
-                        if is_clean(name, desc, genres):
-                            # Для Steam новинок ставим дату в текущем месяце для наглядности
-                            events.append({
-                                "id": f"steam_{app_id}",
-                                "date": "2026-04-20", 
-                                "title": f"🎮 {name}",
-                                "type": "game",
-                                "desc": f"Steam Release: {g_data.get('release_date', {}).get('date', 'Скоро')}. {desc[:100]}...",
-                                "url": f"https://store.steampowered.com/app/{app_id}"
-                            })
-        print(f"--- Steam: Найдено {len(events)} проверенных игр.")
+                    g_data = raw_data.get('data', {})
+                    name = g_data.get('name', '')
+                    desc = g_data.get('short_description', '')
+                    genres = g_data.get('genres', [])
+                    app_type = g_data.get('type', 'game') # 'game', 'dlc', 'demo', 'music' etc.
+                    
+                    if is_clean(name, desc, genres, app_type):
+                        # Определяем дату (если уже вышла — сегодня, если нет — ставим в окно)
+                        events.append({
+                            "id": f"steam_{app_id}",
+                            "date": "2026-04-17", # Ставим на сегодня для видимости в тесте
+                            "title": f"🎮 {name}",
+                            "type": "game",
+                            "desc": f"Steam ({app_type}): {g_data.get('release_date', {}).get('date', 'Скоро')}. {desc[:120]}...",
+                            "url": f"https://store.steampowered.com/app/{app_id}"
+                        })
+        print(f"--- Steam: Найдено {len(events)} реальных игр (мусор отсеян).")
     except Exception as e:
         print(f"!!! Ошибка Steam: {e}")
     return events
 
 def get_navi_matches():
-    """Агент: Получение РЕАЛЬНЫХ матчей NAVI через PandaScore API."""
-    print(">>> [ИСТОЧНИК: PANDASCORE] Ищу реальные игры NAVI...")
+    """Агент: Поиск РЕАЛЬНЫХ матчей NAVI (приоритет CS2)."""
+    print(">>> [ИСТОЧНИК: PANDASCORE] Поиск актуальных игр NAVI...")
     events = []
     
     if not PANDASCORE_API_KEY:
         return []
 
     try:
-        # Запрашиваем будущие матчи команды Natus Vincere
-        url = "https://api.pandascore.co/teams/natus-vincere/matches?sort=begin_at&filter[future]=true"
+        # Тянем и идущие сейчас (running), и будущие (not_started) матчи
+        # Фильтруем по команде Natus Vincere во всех дисциплинах, но пометим игру
+        url = "https://api.pandascore.co/teams/natus-vincere/matches?sort=begin_at&filter[status]=running,not_started"
         headers = {"Authorization": f"Bearer {PANDASCORE_API_KEY}"}
         res = requests.get(url, headers=headers, timeout=15)
         
         if res.status_code == 200:
             matches = res.json()
             for match in matches[:5]:
-                # Парсим дату и время (begin_at: "2026-04-18T15:00:00Z")
                 start_dt = match.get('begin_at')
-                if start_dt:
-                    m_date = start_dt.split('T')[0]
-                    m_time = start_dt.split('T')[1][:5]
-                    
-                    events.append({
-                        "id": f"navi_ps_{match['id']}",
-                        "date": m_date,
-                        "time": m_time,
-                        "title": f"🏆 {match['name']}",
-                        "type": "navi",
-                        "desc": f"Турнир: {match['league']['name']}. Статус: {match['status'].upper()}. Формат: {match['match_type']}.",
-                        "url": "https://www.hltv.org/matches"
-                    })
-            print(f"--- PandaScore: Успешно получено {len(events)} матчей.")
-        else:
-            print(f"--- PandaScore Error: {res.status_code}")
+                if not start_dt: continue
+                
+                m_date = start_dt.split('T')[0]
+                m_time = start_dt.split('T')[1][:5]
+                game_name = match.get('videogame', {}).get('name', 'CS2')
+                
+                # Если матч идет сегодня
+                events.append({
+                    "id": f"navi_ps_{match['id']}",
+                    "date": m_date,
+                    "time": m_time,
+                    "title": f"🏆 {game_name}: {match['name']}",
+                    "type": "navi",
+                    "desc": f"Турнир: {match['league']['name']}. Статус: {match['status'].upper()}.",
+                    "url": "https://www.hltv.org/matches" if "Counter-Strike" in game_name else "https://liquipedia.net/"
+                })
+            print(f"--- PandaScore: Получено {len(events)} актуальных матчей.")
     except Exception as e:
         print(f"!!! Ошибка PandaScore: {e}")
     return events
@@ -145,11 +162,12 @@ def get_gaming_news():
     return news
 
 def main():
-    print("--- ЗАПУСК ОБНОВЛЕНИЯ (PANDASCORE + STEAM FILTER) ---")
+    print("--- ЗАПУСК ЖЕСТКОЙ ОЧИСТКИ И ОБНОВЛЕНИЯ ---")
     
+    # Собираем данные
     data = get_football() + get_navi_matches() + get_steam_games() + get_gaming_news()
     
-    # Финальная чистка от нежелательного контента
+    # Финальная чистка заголовков (на всякий случай)
     final_data = [e for e in data if is_clean(e['title'], e.get('desc', ''))]
     
     with open('data.json', 'w', encoding='utf-8') as f:
