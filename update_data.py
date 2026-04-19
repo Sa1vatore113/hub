@@ -10,7 +10,7 @@ FOOTBALL_API_KEY = "c121f79556c340d78ba1585581dbdf73"
 PANDASCORE_API_KEY = "yp6UPmu4SVuXDOKgX05lr1xbbP_puuolTGTTNeNK33yXXNY_VR8"
 
 def get_stopgame_dates():
-    """Агент: Парсинг календаря релизов с StopGame.ru (PC игры)."""
+    """Агент: Парсинг календаря релизов с StopGame.ru на основе актуальной структуры классов."""
     print(">>> [ИСТОЧНИК: STOPGAME CALENDAR] Читаю даты релизов...")
     events = []
     url = "https://stopgame.ru/games/dates/pc"
@@ -25,46 +25,55 @@ def get_stopgame_dates():
             return []
 
         soup = BeautifulSoup(response.text, 'lxml')
-        # На StopGame игры обычно лежат в блоках по датам
-        # Ищем карточки игр
-        items = soup.find_all('div', class_=re.compile(r'item|_card_'))
         
-        for item in items[:30]:
+        # Ищем все карточки игр по атрибуту data-game-card
+        game_cards = soup.find_all('article', attrs={"data-game-card": True})
+        
+        months_map = {
+            'января': '01', 'февраля': '02', 'марта': '03', 'апреля': '04',
+            'мая': '05', 'июня': '06', 'июля': '07', 'августа': '08',
+            'сентября': '09', 'октября': '10', 'ноября': '11', 'декабря': '12'
+        }
+
+        for card in game_cards[:40]:
             try:
-                # Находим название
-                title_tag = item.find(['a', 'div'], class_=re.compile(r'title|name'))
-                if not title_tag: continue
+                # Название игры (класс содержит _game__title_)
+                title_tag = card.find('a', class_=re.compile(r'_game__title_'))
+                if not title_tag:
+                    continue
                 name = title_tag.text.strip()
+                game_url = "https://stopgame.ru" + title_tag['href']
 
-                # Находим дату
-                date_tag = item.find('div', class_=re.compile(r'date|release'))
-                if not date_tag: continue
-                date_text = date_tag.text.strip() # Например: "17 апреля 2026"
+                # Дата релиза (день и месяц, класс содержит _release-date_)
+                date_tag = card.find('div', class_=re.compile(r'_release-date_'))
+                if not date_tag:
+                    continue
+                date_text = date_tag.text.strip().lower() # Например: "1 апреля"
 
-                # Ссылка на игру
-                link_tag = item.find('a', href=True)
-                game_url = "https://stopgame.ru" + link_tag['href'] if link_tag else url
+                # Год релиза (обычно находится в футере карточки в отдельном span)
+                footer = card.find('div', class_=re.compile(r'_game__footer--left_'))
+                year_val = str(datetime.datetime.now().year)
+                if footer:
+                    spans = footer.find_all('span')
+                    for s in spans:
+                        text = s.text.strip()
+                        if text.isdigit() and len(text) == 4:
+                            year_val = text
+                            break
 
-                # Конвертируем "17 апреля 2026" в "2026-04-17"
-                months = {
-                    'января': '01', 'февраля': '02', 'марта': '03', 'апреля': '04',
-                    'мая': '05', 'июня': '06', 'июля': '07', 'августа': '08',
-                    'сентября': '09', 'октября': '10', 'ноября': '11', 'декабря': '12'
-                }
-                
-                parts = date_text.lower().split()
-                if len(parts) >= 3:
+                # Парсим "1 апреля" + год
+                parts = date_text.split()
+                if len(parts) >= 2:
                     day = parts[0].zfill(2)
-                    month = months.get(parts[1], '01')
-                    year = parts[2]
-                    clean_date = f"{year}-{month}-{day}"
+                    month = months_map.get(parts[1], '01')
+                    clean_date = f"{year_val}-{month}-{day}"
 
                     events.append({
-                        "id": f"sg_{hash(name)}",
+                        "id": f"sg_{hash(name + clean_date)}",
                         "date": clean_date,
                         "title": f"🎮 {name}",
                         "type": "game",
-                        "desc": f"Ожидаемый релиз на PC по данным StopGame. Дата: {date_text}",
+                        "desc": f"Релиз на PC (StopGame). Дата: {date_text} {year_val}г.",
                         "url": game_url
                     })
             except Exception as e:
@@ -96,7 +105,7 @@ def get_navi_matches():
                     if not start_dt: continue
                     
                     dt = datetime.datetime.strptime(start_dt, "%Y-%m-%dT%H:%M:%SZ")
-                    dt_local = dt + datetime.timedelta(hours=3) # Коррекция времени
+                    dt_local = dt + datetime.timedelta(hours=3) # Коррекция времени (МСК)
                     
                     events.append({
                         "id": f"navi_cs_{m['id']}",
