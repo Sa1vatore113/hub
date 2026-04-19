@@ -5,7 +5,6 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
-# Добавляем права на запись контента, чтобы бот мог пушить изменения
 permissions:
   contents: write
 
@@ -24,7 +23,7 @@ jobs:
           python-version: '3.9'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests beautifulsoup4 lxml
 
       - name: Run update script
         run: python update_data.py
@@ -34,5 +33,4 @@ jobs:
           git config --global user.name "GamerHub-Bot"
           git config --global user.email "bot@gamerhub.com"
           git add data.json
-          # Если изменений нет, просто выходим
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update calendar data" && git pull --rebase -X theirs origin main && git push origin main)
