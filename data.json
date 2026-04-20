@@ -45,7 +45,7 @@
         "url": "https://www.google.com/search?q=Alavés+—+Barça+match"
     },
     {
-        "id": "n_-3776267678723952618",
+        "id": "n_-7968803500272849599",
         "date": "2026-04-17",
         "title": "📰 Нелинейность и космический ужас — главное о D...",
         "type": "news",
@@ -53,7 +53,7 @@
         "url": "https://stopgame.ru/newsdata/71182/nelineynost_i_kosmicheskiy_uzhas_glavnoe_o_directive_8020_v_svezhem_trailere"
     },
     {
-        "id": "n_-1640838893660662827",
+        "id": "n_2463528661913185704",
         "date": "2026-04-17",
         "title": "📰 Состоялся релиз Pragmata — игроки довольны но...",
         "type": "news",
@@ -61,19 +61,27 @@
         "url": "https://stopgame.ru/newsdata/71181/sostoyalsya_reliz_pragmata_igroki_dovolny_novinkoy_ot_capcom"
     },
     {
-        "id": "n_1696265488841931359",
-        "date": "2026-04-19",
-        "title": "📰 Музыка Persona и Tower of Fantasy в одном мир...",
+        "id": "n_3314395036333563294",
+        "date": "2026-04-20",
+        "title": "📰 THQ Nordic готовит семь неанонсированных игр ...",
         "type": "news",
-        "desc": "Музыка Persona и Tower of Fantasy в одном мире: Neverness to Everness раскрыла коллаборации перед релизом",
-        "url": "https://www.playground.ru/neverness_to_everness/news/muzyka_persona_i_tower_of_fantasy_v_odnom_mire_neverness_to_everness_raskryla_kollaboratsii_pered_relizom-1839214#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "THQ Nordic готовит семь неанонсированных игр для Nintendo Switch 2",
+        "url": "https://www.playground.ru/misc/news/thq_nordic_gotovit_sem_neanonsirovannyh_igr_dlya_nintendo_switch_2-1839380#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_5922927465194040414",
-        "date": "2026-04-19",
-        "title": "📰 Город аномалий оживает: релизный трейлер Neve...",
+        "id": "n_2478428362158667941",
+        "date": "2026-04-20",
+        "title": "📰 Bandai Namco официально анонсировала Dragon B...",
         "type": "news",
-        "desc": "Город аномалий оживает: релизный трейлер Neverness to Everness раскрывает атмосферу и геймплей",
-        "url": "https://www.playground.ru/neverness_to_everness/news/gorod_anomalij_ozhivaet_reliznyj_trejler_neverness_to_everness_raskryvaet_atmosferu_i_gejmplej-1839213#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Bandai Namco официально анонсировала Dragon Ball Xenoverse 3",
+        "url": "https://www.playground.ru/dragon_ball_xenoverse_3/news/bandai_namco_ofitsialno_anonsirovala_dragon_ball_xenoverse_3-1839369#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_887807251531537298",
+        "date": "2026-04-19",
+        "title": "📰 Состоялся полноценный релиз воксельной страте...",
+        "type": "news",
+        "desc": "Состоялся полноценный релиз воксельной стратегии Castle Craft",
+        "url": "https://www.playground.ru/castle_craft/news/sostoyalsya_polnotsennyj_reliz_vokselnoj_strategii_castle_craft-1839327#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
