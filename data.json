@@ -40,48 +40,40 @@
         "date": "2026-05-13",
         "title": "⚽ Alavés — Barça",
         "type": "foot",
-        "time": "00:00",
+        "time": "19:30",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Alavés+—+Barça+match"
     },
     {
-        "id": "n_-7968803500272849599",
-        "date": "2026-04-17",
-        "title": "📰 Нелинейность и космический ужас — главное о D...",
-        "type": "news",
-        "desc": "Нелинейность и космический ужас — главное о Directive 8020 в свежем трейлере",
-        "url": "https://stopgame.ru/newsdata/71182/nelineynost_i_kosmicheskiy_uzhas_glavnoe_o_directive_8020_v_svezhem_trailere"
-    },
-    {
-        "id": "n_2463528661913185704",
-        "date": "2026-04-17",
-        "title": "📰 Состоялся релиз Pragmata — игроки довольны но...",
-        "type": "news",
-        "desc": "Состоялся релиз Pragmata — игроки довольны новинкой от Capcom ",
-        "url": "https://stopgame.ru/newsdata/71181/sostoyalsya_reliz_pragmata_igroki_dovolny_novinkoy_ot_capcom"
-    },
-    {
-        "id": "n_3314395036333563294",
+        "id": "n_4649403894931003598",
         "date": "2026-04-20",
-        "title": "📰 THQ Nordic готовит семь неанонсированных игр ...",
+        "title": "📰 Owlcat Games представила спутника с Катачана ...",
         "type": "news",
-        "desc": "THQ Nordic готовит семь неанонсированных игр для Nintendo Switch 2",
-        "url": "https://www.playground.ru/misc/news/thq_nordic_gotovit_sem_neanonsirovannyh_igr_dlya_nintendo_switch_2-1839380#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Owlcat Games представила спутника с Катачана в свежем трейлере Warhammer 40,000: Dark Heresy",
+        "url": "https://stopgame.ru/newsdata/71198/owlcat_games_predstavila_sputnika_s_katachana_v_svezhem_trailere_warhammer_40_000_dark_heresy"
     },
     {
-        "id": "n_2478428362158667941",
+        "id": "n_-5537595446317283620",
+        "date": "2026-04-21",
+        "title": "📰 В сеть слили кадры дебютного трейлера Assassi...",
+        "type": "news",
+        "desc": "В сеть слили кадры дебютного трейлера Assassin's Creed: Black Flag Resynced",
+        "url": "https://www.playground.ru/assassins_creed_4_black_flag/news/v_set_slili_kadry_debyutnogo_trejlera_assassins_creed_black_flag_resynced-1839569#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-5887698844854750701",
         "date": "2026-04-20",
-        "title": "📰 Bandai Namco официально анонсировала Dragon B...",
+        "title": "📰 Для симулятора проката подержаных видеокассет...",
         "type": "news",
-        "desc": "Bandai Namco официально анонсировала Dragon Ball Xenoverse 3",
-        "url": "https://www.playground.ru/dragon_ball_xenoverse_3/news/bandai_namco_ofitsialno_anonsirovala_dragon_ball_xenoverse_3-1839369#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Для симулятора проката подержаных видеокассет Retro Rewind анонсировали обновление с подержаными видеоиграми",
+        "url": "https://www.playground.ru/retro_rewind_video_store_simulator/news/dlya_simulyatora_prokata_poderzhanyh_videokasset_retro_rewind_anonsirovali_obnovlenie_s_poderzhanymi_videoigrami-1839564#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_887807251531537298",
-        "date": "2026-04-19",
-        "title": "📰 Состоялся полноценный релиз воксельной страте...",
+        "id": "n_6334494421918625514",
+        "date": "2026-04-20",
+        "title": "📰 Starfield впервые с момента своего выхода воз...",
         "type": "news",
-        "desc": "Состоялся полноценный релиз воксельной стратегии Castle Craft",
-        "url": "https://www.playground.ru/castle_craft/news/sostoyalsya_polnotsennyj_reliz_vokselnoj_strategii_castle_craft-1839327#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Starfield впервые с момента своего выхода возглавила еженедельные чарты продаж игр в США благодаря релизу на PS5",
+        "url": "https://www.playground.ru/starfield/news/starfield_vpervye_s_momenta_svoego_vyhoda_vozglavila_ezhenedelnye_charty_prodazh_igr_v_ssha_blagodarya_relizu_na_ps5-1839552#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
