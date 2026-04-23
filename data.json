@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_544532",
-        "date": "2026-04-22",
-        "title": "⚽ Barça — Celta",
-        "type": "foot",
-        "time": "19:30",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Celta+match"
-    },
-    {
         "id": "f_544527",
         "date": "2026-04-25",
         "title": "⚽ Getafe — Barça",
@@ -45,27 +36,60 @@
         "url": "https://www.google.com/search?q=Alavés+—+Barça+match"
     },
     {
-        "id": "n_3142871622948650394",
+        "id": "f_544573",
+        "date": "2026-05-17",
+        "title": "⚽ Barça — Real Betis",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Real+Betis+match"
+    },
+    {
+        "id": "n_-5508309028856644087",
         "date": "2026-04-22",
-        "title": "📰 Динамичные битвы и атмосферная музыка в геймп...",
+        "title": "📰 Арсенал Бонда, механики HITMAN и режим испыта...",
         "type": "news",
-        "desc": "Динамичные битвы и атмосферная музыка в геймплейном трейлере RUINER 2",
-        "url": "https://stopgame.ru/newsdata/71225/dinamichnye_bitvy_i_atmosfernaya_muzyka_v_geympleynom_trailere_ruiner_2"
+        "desc": "Арсенал Бонда, механики HITMAN и режим испытаний — трейлер 007 First Light",
+        "url": "https://stopgame.ru/newsdata/71242/arsenal_bonda_mehaniki_hitman_i_rezhim_ispytaniy_trailer_007_first_light"
     },
     {
-        "id": "n_-5051784707191794730",
-        "date": "2026-04-21",
-        "title": "📰 Знакомимся с фракцией Техножрецов в новом тре...",
+        "id": "n_4206264443150152672",
+        "date": "2026-04-22",
+        "title": "📰 Дельфин Экко возвращается — анонсирован сборн...",
         "type": "news",
-        "desc": "Знакомимся с фракцией Техножрецов в новом трейлере Warhammer 40,000: Dawn of War IV",
-        "url": "https://stopgame.ru/newsdata/71213/znakomimsya_s_frakciey_tehnozhrecov_v_novom_trailere_warhammer_40_000_dawn_of_war_iv"
+        "desc": "Дельфин Экко возвращается — анонсирован сборник Ecco the Dolphin: Complete",
+        "url": "https://stopgame.ru/newsdata/71239/delfin_ekko_vozvraschaetsya_anonsirovan_sbornik_ecco_the_dolphin_complete"
     },
     {
-        "id": "n_5645056124423514444",
-        "date": "2026-04-21",
-        "title": "📰 Студия GrapeOcean Technologies анонсировала м...",
+        "id": "n_-1122246352997518818",
+        "date": "2026-04-22",
+        "title": "📰 Авторы аниме по Devil May Cry смонтировали ещ...",
         "type": "news",
-        "desc": "Студия GrapeOcean Technologies анонсировала мрачную ролевую игру Avaria: Iron Rule",
-        "url": "https://www.playground.ru/avaria_iron_rule/news/studiya_grapeocean_technologies_anonsirovala_mrachnuyu_rolevuyu_igru_avaria_iron_rule-1839779#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Авторы аниме по Devil May Cry смонтировали ещё один трейлер второго сезона",
+        "url": "https://stopgame.ru/newsdata/71232/avtory_anime_po_devil_may_cry_smontirovali_esche_odin_trailer_vtorogo_sezona"
+    },
+    {
+        "id": "n_-7378378141879602159",
+        "date": "2026-04-23",
+        "title": "📰 Слух: релиз GTA 6 всё ещё планируется на нояб...",
+        "type": "news",
+        "desc": "Слух: релиз GTA 6 всё ещё планируется на ноябрь 2026 года без новых переносов",
+        "url": "https://www.playground.ru/grand_theft_auto_6/news/sluh_reliz_gta_6_vsyo_eschyo_planiruetsya_na_noyabr_2026_goda_bez_novyh_perenosov-1840018#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-7686435893698764443",
+        "date": "2026-04-22",
+        "title": "📰 Неофициальная статистика показывает значитель...",
+        "type": "news",
+        "desc": "Неофициальная статистика показывает значительный отток игроков в Final Fantasy 14 перед анонсом версии 8.0",
+        "url": "https://www.playground.ru/final_fantasy_14_a_realm_reborn/news/neofitsialnaya_statistika_pokazyvaet_znachitelnyj_ottok_igrokov_v_final_fantasy_14_pered_anonsom_versii_8_0-1840013#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2285760410753630642",
+        "date": "2026-04-22",
+        "title": "📰 Серверы ролевой игры Dark December закроют сп...",
+        "type": "news",
+        "desc": "Серверы ролевой игры Dark December закроют спустя 4 месяца после релиза",
+        "url": "https://www.playground.ru/dark_december/news/servery_rolevoj_igry_dark_december_zakroyut_spustya_4_mesyatsa_posle_reliza-1840008#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
