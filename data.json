@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_544527",
-        "date": "2026-04-25",
-        "title": "⚽ Getafe — Barça",
-        "type": "foot",
-        "time": "14:15",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Getafe+—+Barça+match"
-    },
-    {
         "id": "f_544548",
         "date": "2026-05-02",
         "title": "⚽ Osasuna — Barça",
@@ -45,7 +36,16 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Betis+match"
     },
     {
-        "id": "n_8454641556378177670",
+        "id": "f_544589",
+        "date": "2026-05-24",
+        "title": "⚽ Valencia — Barça",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
+    },
+    {
+        "id": "n_8159082061740033617",
         "date": "2026-04-24",
         "title": "📰 Анонс Knuckle Paradise — пиксельного экшена п...",
         "type": "news",
@@ -53,7 +53,7 @@
         "url": "https://stopgame.ru/newsdata/71269/anons_knuckle_paradise_pikselnogo_ekshena_pro_bite_mord_i_boevuyu_kurochku"
     },
     {
-        "id": "n_4936194531670470006",
+        "id": "n_-8943200367910016517",
         "date": "2026-04-24",
         "title": "📰 Авторы Invincible VS представили трейлер сюже...",
         "type": "news",
@@ -61,7 +61,7 @@
         "url": "https://stopgame.ru/newsdata/71264/avtory_invincible_vs_predstavili_trailer_syuzhetnogo_rezhima"
     },
     {
-        "id": "n_2709134848210609092",
+        "id": "n_-2461528239564581428",
         "date": "2026-04-24",
         "title": "📰 Анонс Feather’s Edge — метроидвании про боево...",
         "type": "news",
@@ -69,19 +69,27 @@
         "url": "https://stopgame.ru/newsdata/71260/anons_feather_s_edge_metroidvanii_pro_boevogo_udoda"
     },
     {
-        "id": "n_-3367571275794510916",
-        "date": "2026-04-24",
-        "title": "📰 Состоялся полноценный релиз ролевой игры Стру...",
+        "id": "n_8084565591679840377",
+        "date": "2026-04-25",
+        "title": "📰 Анонсирована PUKEY GODDES SHOT TRICK - алкого...",
         "type": "news",
-        "desc": "Состоялся полноценный релиз ролевой игры Струны судьбы XI: Волшебный сон",
-        "url": "https://www.playground.ru/strings_of_fate_xi_magic_dream/news/sostoyalsya_polnotsennyj_reliz_rolevoj_igry_struny_sudby_xi_volshebnyj_son-1840489#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирована PUKEY GODDES SHOT TRICK - алкогольная русская рулетка, где нужно перепить демоницу",
+        "url": "https://www.playground.ru/misc/news/anonsirovana_pukey_goddes_shot_trick_alkogolnaya_russkaya_ruletka_gde_nuzhno_perepit_demonitsu-1840692#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-1689311753686682912",
-        "date": "2026-04-24",
-        "title": "📰 Состоялся релиз дополнения Морские истории дл...",
+        "id": "n_-9149419313330826384",
+        "date": "2026-04-25",
+        "title": "📰 Анонсировано обновление Jade Shadows: Constel...",
         "type": "news",
-        "desc": "Состоялся релиз дополнения Морские истории для ролевой игры Caribbean Legend",
-        "url": "https://www.playground.ru/caribbean_legend/news/sostoyalsya_reliz_dopolneniya_morskie_istorii_dlya_rolevoj_igry_caribbean_legend-1840486#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсировано обновление Jade Shadows: Constellations для Warframe: дети Сталкера, новый контент и переработка Нидуса",
+        "url": "https://www.playground.ru/warframe/news/anonsirovano_obnovlenie_jade_shadows_constellations_dlya_warframe_deti_stalkera_novyj_kontent_i_pererabotka_nidusa-1840674#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_6156742067636800264",
+        "date": "2026-04-25",
+        "title": "📰 Для \"Arknights\" анонсирован кроссовер с \"My L...",
+        "type": "news",
+        "desc": "Для \"Arknights\" анонсирован кроссовер с \"My Little Pony\"",
+        "url": "https://www.playground.ru/arknights/news/dlya_arknights_anonsirovan_krossover_s_my_little_pony-1840673#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
