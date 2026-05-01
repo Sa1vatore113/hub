@@ -45,12 +45,35 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "navi_cs_1438919",
+        "id": "n_-6376783123816663027",
+        "date": "2026-04-30",
+        "title": "📰 Анонсирована Wilderdark — стелс-хоррор про ди...",
+        "type": "news",
+        "desc": "Анонсирована Wilderdark — стелс-хоррор про динозавров",
+        "url": "https://stopgame.ru/newsdata/71327/anonsirovana_wilderdark_stels_horror_pro_dinozavrov"
+    },
+    {
+        "id": "n_7975171977461326409",
+        "date": "2026-04-30",
+        "title": "📰 Star Wars: Galactic Racer действительно старт...",
+        "type": "news",
+        "desc": "Star Wars: Galactic Racer действительно стартует 6 октября. Смотрите трейлер",
+        "url": "https://stopgame.ru/newsdata/71325/star_wars_galactic_racer_deystvitelno_startuet_6_oktyabrya_smotrite_trailer"
+    },
+    {
+        "id": "n_839218967482675008",
+        "date": "2026-04-30",
+        "title": "📰 Вышел первый трейлер фильма по Resident Evil ...",
+        "type": "news",
+        "desc": "Вышел первый трейлер фильма по Resident Evil от Зака Креггера",
+        "url": "https://stopgame.ru/newsdata/71324/vyshel_pervyy_trailer_filma_po_resident_evil_ot_zaka_kreggera"
+    },
+    {
+        "id": "n_-4957306863423956437",
         "date": "2026-05-01",
-        "time": "01:30",
-        "title": "🏆 CS2: Upper bracket final: NAVI vs GL",
-        "type": "navi",
-        "desc": "Турнир: BLAST Rivals. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
+        "title": "📰 Saros получила хвалебный трейлер и поздравлен...",
+        "type": "news",
+        "desc": "Saros получила хвалебный трейлер и поздравления от разработчиков студий Sony",
+        "url": "https://www.playground.ru/saros/news/saros_poluchila_hvalebnyj_trejler_i_pozdravleniya_ot_razrabotchikov_studij_sony-1841945#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
