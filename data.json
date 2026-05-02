@@ -45,35 +45,60 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "n_-6376783123816663027",
-        "date": "2026-04-30",
-        "title": "📰 Анонсирована Wilderdark — стелс-хоррор про ди...",
-        "type": "news",
-        "desc": "Анонсирована Wilderdark — стелс-хоррор про динозавров",
-        "url": "https://stopgame.ru/newsdata/71327/anonsirovana_wilderdark_stels_horror_pro_dinozavrov"
+        "id": "navi_cs_1448727",
+        "date": "2026-05-02",
+        "time": "20:30",
+        "title": "🏆 CS2: Semifinal 1: NAVI vs FaZe",
+        "type": "navi",
+        "desc": "Турнир: BLAST Rivals. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_7975171977461326409",
-        "date": "2026-04-30",
-        "title": "📰 Star Wars: Galactic Racer действительно старт...",
-        "type": "news",
-        "desc": "Star Wars: Galactic Racer действительно стартует 6 октября. Смотрите трейлер",
-        "url": "https://stopgame.ru/newsdata/71325/star_wars_galactic_racer_deystvitelno_startuet_6_oktyabrya_smotrite_trailer"
-    },
-    {
-        "id": "n_839218967482675008",
-        "date": "2026-04-30",
-        "title": "📰 Вышел первый трейлер фильма по Resident Evil ...",
-        "type": "news",
-        "desc": "Вышел первый трейлер фильма по Resident Evil от Зака Креггера",
-        "url": "https://stopgame.ru/newsdata/71324/vyshel_pervyy_trailer_filma_po_resident_evil_ot_zaka_kreggera"
-    },
-    {
-        "id": "n_-4957306863423956437",
+        "id": "n_-2937949882291258605",
         "date": "2026-05-01",
-        "title": "📰 Saros получила хвалебный трейлер и поздравлен...",
+        "title": "📰 Анонс Steam to Electric — воксельного симулят...",
         "type": "news",
-        "desc": "Saros получила хвалебный трейлер и поздравления от разработчиков студий Sony",
-        "url": "https://www.playground.ru/saros/news/saros_poluchila_hvalebnyj_trejler_i_pozdravleniya_ot_razrabotchikov_studij_sony-1841945#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонс Steam to Electric — воксельного симулятора железной дороги",
+        "url": "https://stopgame.ru/newsdata/71339/anons_steam_to_electric_vokselnogo_simulyatora_zheleznoy_dorogi"
+    },
+    {
+        "id": "n_5012291425470127172",
+        "date": "2026-05-02",
+        "title": "📰 Vitta Lucis: трейлер - игровой процесс...",
+        "type": "news",
+        "desc": "Vitta Lucis: трейлер - игровой процесс",
+        "url": "https://www.playground.ru/vitta_lucis/news/vitta_lucis_trejler_igrovoj_protsess-1842194#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-1780682819827816511",
+        "date": "2026-05-02",
+        "title": "📰 The Elder Scrolls IV: Oblivion Remastered спу...",
+        "type": "news",
+        "desc": "The Elder Scrolls IV: Oblivion Remastered спустя год после релиза всё ещё страдает от старых проблем",
+        "url": "https://www.playground.ru/elder_scrolls_4_oblivion_remastered/news/the_elder_scrolls_iv_oblivion_remastered_spustya_god_posle_reliza_vsyo_eschyo_stradaet_ot_staryh_problem-1842192#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_6673946560102400412",
+        "date": "2026-05-01",
+        "title": "📰 Студия Firaxis подвела итоги апреля для игры ...",
+        "type": "news",
+        "desc": "Студия Firaxis подвела итоги апреля для игры Civilization 7 и анонсировала новые обновления",
+        "url": "https://www.playground.ru/sid_meiers_civilization_7/news/studiya_firaxis_podvela_itogi_aprelya_dlya_igry_civilization_7_i_anonsirovala_novye_obnovleniya-1842175#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6806895364393480341",
+        "date": "2026-05-01",
+        "title": "📰 Представлен сюжетный трейлер \"Война Миров: Си...",
+        "type": "news",
+        "desc": "Представлен сюжетный трейлер \"Война Миров: Сибирь\"",
+        "url": "https://www.playground.ru/war_of_the_worlds_siberia/news/predstavlen_syuzhetnyj_trejler_vojna_mirov_sibir-1842166#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-8205409334336894406",
+        "date": "2026-05-01",
+        "title": "📰 Capcom тизерит скорое объявление даты релиза ...",
+        "type": "news",
+        "desc": "Capcom тизерит скорое объявление даты релиза Onimusha: Way Of The Sword",
+        "url": "https://www.playground.ru/onimusha_way_of_the_sword/news/capcom_tizerit_skoroe_obyavlenie_daty_reliza_onimusha_way_of_the_sword-1842141#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
