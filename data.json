@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_544548",
-        "date": "2026-05-02",
-        "title": "⚽ Osasuna — Barça",
-        "type": "foot",
-        "time": "19:00",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Osasuna+—+Barça+match"
-    },
-    {
         "id": "f_544553",
         "date": "2026-05-10",
         "title": "⚽ Barça — Real Madrid",
@@ -45,60 +36,36 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "navi_cs_1448727",
-        "date": "2026-05-02",
+        "id": "navi_cs_1448730",
+        "date": "2026-05-03",
         "time": "20:30",
-        "title": "🏆 CS2: Semifinal 1: NAVI vs FaZe",
+        "title": "🏆 CS2: Grand final: NAVI vs VIT",
         "type": "navi",
         "desc": "Турнир: BLAST Rivals. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-2937949882291258605",
-        "date": "2026-05-01",
-        "title": "📰 Анонс Steam to Electric — воксельного симулят...",
+        "id": "n_-1017636874628444475",
+        "date": "2026-05-03",
+        "title": "📰 Фанаты Grand Theft Auto 6 нашли дату нового т...",
         "type": "news",
-        "desc": "Анонс Steam to Electric — воксельного симулятора железной дороги",
-        "url": "https://stopgame.ru/newsdata/71339/anons_steam_to_electric_vokselnogo_simulyatora_zheleznoy_dorogi"
+        "desc": "Фанаты Grand Theft Auto 6 нашли дату нового трейлера на номерном знаке - новая теория указывает на 15 мая",
+        "url": "https://www.playground.ru/grand_theft_auto_6/news/fanaty_grand_theft_auto_6_nashli_datu_novogo_trejlera_na_nomernom_znake_novaya_teoriya_ukazyvaet_na_15_maya-1842379#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_5012291425470127172",
+        "id": "n_6431037042794398873",
         "date": "2026-05-02",
-        "title": "📰 Vitta Lucis: трейлер - игровой процесс...",
+        "title": "📰 Анонсирован файтинг Melty Blood: Twi-Lumina с...",
         "type": "news",
-        "desc": "Vitta Lucis: трейлер - игровой процесс",
-        "url": "https://www.playground.ru/vitta_lucis/news/vitta_lucis_trejler_igrovoj_protsess-1842194#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирован файтинг Melty Blood: Twi-Lumina с релизом в 2027 году",
+        "url": "https://www.playground.ru/misc/news/anonsirovan_fajting_melty_blood_twi_lumina_s_relizom_v_2027_godu-1842354#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-1780682819827816511",
+        "id": "n_4124764265703572618",
         "date": "2026-05-02",
-        "title": "📰 The Elder Scrolls IV: Oblivion Remastered спу...",
+        "title": "📰 Анонсирована версия System Shock 2: 25th Anni...",
         "type": "news",
-        "desc": "The Elder Scrolls IV: Oblivion Remastered спустя год после релиза всё ещё страдает от старых проблем",
-        "url": "https://www.playground.ru/elder_scrolls_4_oblivion_remastered/news/the_elder_scrolls_iv_oblivion_remastered_spustya_god_posle_reliza_vsyo_eschyo_stradaet_ot_staryh_problem-1842192#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_6673946560102400412",
-        "date": "2026-05-01",
-        "title": "📰 Студия Firaxis подвела итоги апреля для игры ...",
-        "type": "news",
-        "desc": "Студия Firaxis подвела итоги апреля для игры Civilization 7 и анонсировала новые обновления",
-        "url": "https://www.playground.ru/sid_meiers_civilization_7/news/studiya_firaxis_podvela_itogi_aprelya_dlya_igry_civilization_7_i_anonsirovala_novye_obnovleniya-1842175#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-6806895364393480341",
-        "date": "2026-05-01",
-        "title": "📰 Представлен сюжетный трейлер \"Война Миров: Си...",
-        "type": "news",
-        "desc": "Представлен сюжетный трейлер \"Война Миров: Сибирь\"",
-        "url": "https://www.playground.ru/war_of_the_worlds_siberia/news/predstavlen_syuzhetnyj_trejler_vojna_mirov_sibir-1842166#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-8205409334336894406",
-        "date": "2026-05-01",
-        "title": "📰 Capcom тизерит скорое объявление даты релиза ...",
-        "type": "news",
-        "desc": "Capcom тизерит скорое объявление даты релиза Onimusha: Way Of The Sword",
-        "url": "https://www.playground.ru/onimusha_way_of_the_sword/news/capcom_tizerit_skoroe_obyavlenie_daty_reliza_onimusha_way_of_the_sword-1842141#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирована версия System Shock 2: 25th Anniversary Remaster для консоли Nintendo Switch 2",
+        "url": "https://www.playground.ru/system_shock_2/news/anonsirovana_versiya_system_shock_2_25th_anniversary_remaster_dlya_konsoli_nintendo_switch_2-1842352#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
