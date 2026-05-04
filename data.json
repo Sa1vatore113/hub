@@ -34,38 +34,5 @@
         "time": "00:00",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
-    },
-    {
-        "id": "navi_cs_1448730",
-        "date": "2026-05-03",
-        "time": "20:30",
-        "title": "🏆 CS2: Grand final: NAVI vs VIT",
-        "type": "navi",
-        "desc": "Турнир: BLAST Rivals. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
-    },
-    {
-        "id": "n_-1017636874628444475",
-        "date": "2026-05-03",
-        "title": "📰 Фанаты Grand Theft Auto 6 нашли дату нового т...",
-        "type": "news",
-        "desc": "Фанаты Grand Theft Auto 6 нашли дату нового трейлера на номерном знаке - новая теория указывает на 15 мая",
-        "url": "https://www.playground.ru/grand_theft_auto_6/news/fanaty_grand_theft_auto_6_nashli_datu_novogo_trejlera_na_nomernom_znake_novaya_teoriya_ukazyvaet_na_15_maya-1842379#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_6431037042794398873",
-        "date": "2026-05-02",
-        "title": "📰 Анонсирован файтинг Melty Blood: Twi-Lumina с...",
-        "type": "news",
-        "desc": "Анонсирован файтинг Melty Blood: Twi-Lumina с релизом в 2027 году",
-        "url": "https://www.playground.ru/misc/news/anonsirovan_fajting_melty_blood_twi_lumina_s_relizom_v_2027_godu-1842354#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_4124764265703572618",
-        "date": "2026-05-02",
-        "title": "📰 Анонсирована версия System Shock 2: 25th Anni...",
-        "type": "news",
-        "desc": "Анонсирована версия System Shock 2: 25th Anniversary Remaster для консоли Nintendo Switch 2",
-        "url": "https://www.playground.ru/system_shock_2/news/anonsirovana_versiya_system_shock_2_25th_anniversary_remaster_dlya_konsoli_nintendo_switch_2-1842352#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
