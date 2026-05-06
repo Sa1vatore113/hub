@@ -22,7 +22,7 @@
         "date": "2026-05-17",
         "title": "⚽ Barça — Real Betis",
         "type": "foot",
-        "time": "00:00",
+        "time": "17:00",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Barça+—+Real+Betis+match"
     },
@@ -36,11 +36,19 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "n_-6962064902584481460",
-        "date": "2026-05-05",
-        "title": "📰 Создатели ремейка The Witcher и студия CD Pro...",
+        "id": "n_5577184367959598251",
+        "date": "2026-05-06",
+        "title": "📰 Авторы ремастеров GTA анонсировали BeastLink ...",
         "type": "news",
-        "desc": "Создатели ремейка The Witcher и студия CD Projekt Red работают над неанонсированным проектом на Unreal Engine 5",
-        "url": "https://www.playground.ru/misc/news/sozdateli_remejka_the_witcher_i_studiya_cd_projekt_red_rabotayut_nad_neanonsirovannym_proektom_na_unreal_engine_5-1842748#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Авторы ремастеров GTA анонсировали BeastLink — онлайн-экшен с кайдзю и разрушаемыми картами",
+        "url": "https://stopgame.ru/newsdata/71382/avtory_remasterov_gta_anonsirovali_beastlink_onlayn_ekshen_s_kaydzyu_i_razrushaemymi_kartami"
+    },
+    {
+        "id": "n_671226087054872979",
+        "date": "2026-05-06",
+        "title": "📰 Второй трейлер Grand Theft Auto 6 вышел ровно...",
+        "type": "news",
+        "desc": "Второй трейлер Grand Theft Auto 6 вышел ровно год назад",
+        "url": "https://www.playground.ru/gta_6/news/vtoroj_trejler_grand_theft_auto_6_vyshel_rovno_god_nazad-1842973#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
