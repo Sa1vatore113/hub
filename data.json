@@ -36,7 +36,23 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "n_5577184367959598251",
+        "id": "n_7199014281504101447",
+        "date": "2026-05-06",
+        "title": "📰 Классический экшен-платформер Dark Scrolls об...",
+        "type": "news",
+        "desc": "Классический экшен-платформер Dark Scrolls обрёл дату релиза — 28 мая",
+        "url": "https://stopgame.ru/newsdata/71387/klassicheskiy_ekshen_platformer_dark_scrolls_obrel_datu_reliza_28_maya"
+    },
+    {
+        "id": "n_-105986054719489661",
+        "date": "2026-05-06",
+        "title": "📰 Джефф Кили выпустил трейлер Summer Game Fest ...",
+        "type": "news",
+        "desc": "Джефф Кили выпустил трейлер Summer Game Fest 2026",
+        "url": "https://stopgame.ru/newsdata/71383/dzheff_kili_vypustil_trailer_summer_game_fest_2026"
+    },
+    {
+        "id": "n_8826798806914222466",
         "date": "2026-05-06",
         "title": "📰 Авторы ремастеров GTA анонсировали BeastLink ...",
         "type": "news",
@@ -44,11 +60,27 @@
         "url": "https://stopgame.ru/newsdata/71382/avtory_remasterov_gta_anonsirovali_beastlink_onlayn_ekshen_s_kaydzyu_i_razrushaemymi_kartami"
     },
     {
-        "id": "n_671226087054872979",
-        "date": "2026-05-06",
-        "title": "📰 Второй трейлер Grand Theft Auto 6 вышел ровно...",
+        "id": "n_-1516276330782227641",
+        "date": "2026-05-07",
+        "title": "📰 Датамайнеры Resident Evil Requiem нашли вырез...",
         "type": "news",
-        "desc": "Второй трейлер Grand Theft Auto 6 вышел ровно год назад",
-        "url": "https://www.playground.ru/gta_6/news/vtoroj_trejler_grand_theft_auto_6_vyshel_rovno_god_nazad-1842973#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Датамайнеры Resident Evil Requiem нашли вырезанного торговца, побочные миссии и механику расследований",
+        "url": "https://www.playground.ru/resident_evil_requiem/news/datamajnery_resident_evil_requiem_nashli_vyrezannogo_torgovtsa_pobochnye_missii_i_mehaniku_rassledovanij-1843210#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-3051355577281175235",
+        "date": "2026-05-07",
+        "title": "📰 Star Fox возвращается: Nintendo анонсировала ...",
+        "type": "news",
+        "desc": "Star Fox возвращается: Nintendo анонсировала новую игру для Switch 2",
+        "url": "https://www.playground.ru/misc/news/star_fox_vozvraschaetsya_nintendo_anonsirovala_novuyu_igru_dlya_switch_2-1843207#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-5191352223838653436",
+        "date": "2026-05-06",
+        "title": "📰 Разработчики анонсировали дополнение Galactic...",
+        "type": "news",
+        "desc": "Разработчики анонсировали дополнение Galactic Civilizations IV: Federations & Empires",
+        "url": "https://www.playground.ru/galactic_civilizations_4/news/razrabotchiki_anonsirovali_dopolnenie_galactic_civilizations_iv_federations_empires-1843184#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
