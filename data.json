@@ -19,35 +19,27 @@
     },
     {
         "id": "f_544589",
-        "date": "2026-05-24",
+        "date": "2026-05-23",
         "title": "⚽ Valencia — Barça",
         "type": "foot",
-        "time": "00:00",
+        "time": "19:00",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "n_-1422186029770336099",
-        "date": "2026-05-08",
-        "title": "📰 ZA/UM выложила геймплейный трейлер ZERO PARAD...",
+        "id": "n_6370006303673007393",
+        "date": "2026-05-11",
+        "title": "📰 Состоялся релиз Dusk — фанатского порта Legen...",
         "type": "news",
-        "desc": "ZA/UM выложила геймплейный трейлер ZERO PARADES: For Dead Spies",
-        "url": "https://stopgame.ru/newsdata/71428/za_um_vylozhila_geympleynyy_trailer_zero_parades_for_dead_spies"
+        "desc": "Состоялся релиз Dusk — фанатского порта Legend of Zelda: Twilight Princess для ПК",
+        "url": "https://stopgame.ru/newsdata/71449/sostoyalsya_reliz_dusk_fanatskogo_porta_legend_of_zelda_twilight_princess_dlya_pk"
     },
     {
-        "id": "n_6273909578802561782",
-        "date": "2026-05-08",
-        "title": "📰 THQ Nordic опубликовала трейлер городов в The...",
+        "id": "n_-7191543536161084989",
+        "date": "2026-05-11",
+        "title": "📰 Подводные красоты и опасности в геймплейном т...",
         "type": "news",
-        "desc": "THQ Nordic опубликовала трейлер городов в The Guild: Europa 1410",
-        "url": "https://stopgame.ru/newsdata/71426/thq_nordic_opublikovala_trailer_gorodov_v_the_guild_europa_1410"
-    },
-    {
-        "id": "n_5856701758557927710",
-        "date": "2026-05-08",
-        "title": "📰 Перезапуск визуальной новеллы Steins;Gate обр...",
-        "type": "news",
-        "desc": "Перезапуск визуальной новеллы Steins;Gate обрёл дату релиза — 20 августа",
-        "url": "https://stopgame.ru/newsdata/71425/perezapusk_vizualnoy_novelly_steins_gate_obrel_datu_reliza_20_avgusta"
+        "desc": "Подводные красоты и опасности в геймплейном трейлере Subnautica 2 ",
+        "url": "https://stopgame.ru/newsdata/71445/podvodnye_krasoty_i_opasnosti_v_geympleynom_trailere_subnautica_2"
     }
 ]
