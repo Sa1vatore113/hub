@@ -27,7 +27,23 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "n_6370006303673007393",
+        "id": "n_1247080529907900959",
+        "date": "2026-05-12",
+        "title": "📰 Новый трейлер LEGO Batman: Legacy of the Dark...",
+        "type": "news",
+        "desc": "Новый трейлер LEGO Batman: Legacy of the Dark Knight посвятили бонусам Deluxe-издания",
+        "url": "https://stopgame.ru/newsdata/71462/novyy_trailer_lego_batman_legacy_of_the_dark_knight_posvyatili_bonusam_deluxe_izdaniya"
+    },
+    {
+        "id": "n_-2107562866032823790",
+        "date": "2026-05-12",
+        "title": "📰 Анонс Nailcrown — кровавого бумер-шутера в се...",
+        "type": "news",
+        "desc": "Анонс Nailcrown — кровавого бумер-шутера в сеттинге тёмного фэнтези ",
+        "url": "https://stopgame.ru/newsdata/71458/anons_nailcrown_krovavogo_bumer_shutera_v_settinge_temnogo_fentezi"
+    },
+    {
+        "id": "n_-5528012703979189726",
         "date": "2026-05-11",
         "title": "📰 Состоялся релиз Dusk — фанатского порта Legen...",
         "type": "news",
@@ -35,11 +51,11 @@
         "url": "https://stopgame.ru/newsdata/71449/sostoyalsya_reliz_dusk_fanatskogo_porta_legend_of_zelda_twilight_princess_dlya_pk"
     },
     {
-        "id": "n_-7191543536161084989",
-        "date": "2026-05-11",
-        "title": "📰 Подводные красоты и опасности в геймплейном т...",
+        "id": "n_4524883352744080174",
+        "date": "2026-05-12",
+        "title": "📰 Настоящий клад Эдварда Кенуэя: Ubisoft анонси...",
         "type": "news",
-        "desc": "Подводные красоты и опасности в геймплейном трейлере Subnautica 2 ",
-        "url": "https://stopgame.ru/newsdata/71445/podvodnye_krasoty_i_opasnosti_v_geympleynom_trailere_subnautica_2"
+        "desc": "Настоящий клад Эдварда Кенуэя: Ubisoft анонсировала глобальный квест по AC: Black Flag Resynced с призом в $500 000",
+        "url": "https://www.playground.ru/assassins_creed_4_black_flag/news/nastoyaschij_klad_edvarda_kenueya_ubisoft_anonsirovala_globalnyj_kvest_po_ac_black_flag_resynced_s_prizom_v_500_000-1844372#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
