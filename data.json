@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_544561",
-        "date": "2026-05-13",
-        "title": "⚽ Alavés — Barça",
-        "type": "foot",
-        "time": "19:30",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Alavés+—+Barça+match"
-    },
-    {
         "id": "f_544573",
         "date": "2026-05-17",
         "title": "⚽ Barça — Real Betis",
@@ -27,35 +18,51 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "n_1247080529907900959",
-        "date": "2026-05-12",
-        "title": "📰 Новый трейлер LEGO Batman: Legacy of the Dark...",
+        "id": "n_5264025232833673796",
+        "date": "2026-05-13",
+        "title": "📰 Команда Croteam анонсировала The Talos Princi...",
         "type": "news",
-        "desc": "Новый трейлер LEGO Batman: Legacy of the Dark Knight посвятили бонусам Deluxe-издания",
-        "url": "https://stopgame.ru/newsdata/71462/novyy_trailer_lego_batman_legacy_of_the_dark_knight_posvyatili_bonusam_deluxe_izdaniya"
+        "desc": "Команда Croteam анонсировала The Talos Principle 3 — финальную часть эпической саги",
+        "url": "https://stopgame.ru/newsdata/71477/komanda_croteam_anonsirovala_the_talos_principle_3_finalnuyu_chast_epicheskoy_sagi"
     },
     {
-        "id": "n_-2107562866032823790",
-        "date": "2026-05-12",
-        "title": "📰 Анонс Nailcrown — кровавого бумер-шутера в се...",
+        "id": "n_7988639840596930557",
+        "date": "2026-05-13",
+        "title": "📰 Анонс платформера про рыжего кота Garfield — ...",
         "type": "news",
-        "desc": "Анонс Nailcrown — кровавого бумер-шутера в сеттинге тёмного фэнтези ",
-        "url": "https://stopgame.ru/newsdata/71458/anons_nailcrown_krovavogo_bumer_shutera_v_settinge_temnogo_fentezi"
+        "desc": "Анонс платформера про рыжего кота Garfield — Escape from Monday",
+        "url": "https://stopgame.ru/newsdata/71473/anons_platformera_pro_ryzhego_kota_garfield_escape_from_monday"
     },
     {
-        "id": "n_-5528012703979189726",
-        "date": "2026-05-11",
-        "title": "📰 Состоялся релиз Dusk — фанатского порта Legen...",
+        "id": "n_6226344136508779885",
+        "date": "2026-05-13",
+        "title": "📰 Анонс NOIR BLOOM — клона Katana ZERO от HONKI...",
         "type": "news",
-        "desc": "Состоялся релиз Dusk — фанатского порта Legend of Zelda: Twilight Princess для ПК",
-        "url": "https://stopgame.ru/newsdata/71449/sostoyalsya_reliz_dusk_fanatskogo_porta_legend_of_zelda_twilight_princess_dlya_pk"
+        "desc": "Анонс NOIR BLOOM — клона Katana ZERO от HONKI Games ",
+        "url": "https://stopgame.ru/newsdata/71472/anons_noir_bloom_klona_katana_zero_ot_honki_games"
     },
     {
-        "id": "n_4524883352744080174",
-        "date": "2026-05-12",
-        "title": "📰 Настоящий клад Эдварда Кенуэя: Ubisoft анонси...",
+        "id": "n_1380633773868688892",
+        "date": "2026-05-13",
+        "title": "📰 Дьявольский Динозавр делает «кусь» в геймплей...",
         "type": "news",
-        "desc": "Настоящий клад Эдварда Кенуэя: Ubisoft анонсировала глобальный квест по AC: Black Flag Resynced с призом в $500 000",
-        "url": "https://www.playground.ru/assassins_creed_4_black_flag/news/nastoyaschij_klad_edvarda_kenueya_ubisoft_anonsirovala_globalnyj_kvest_po_ac_black_flag_resynced_s_prizom_v_500_000-1844372#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Дьявольский Динозавр делает «кусь» в геймплейном трейлере Marvel Rivals",
+        "url": "https://stopgame.ru/newsdata/71469/dyavolskiy_dinozavr_delaet_kus_v_geympleynom_trailere_marvel_rivals"
+    },
+    {
+        "id": "n_7340346850230598925",
+        "date": "2026-05-14",
+        "title": "📰 Игроки начали создавать моды для Forza Horizo...",
+        "type": "news",
+        "desc": "Игроки начали создавать моды для Forza Horizon 6 ещё до официального релиза",
+        "url": "https://www.playground.ru/forza_horizon_6/news/igroki_nachali_sozdavat_mody_dlya_forza_horizon_6_eschyo_do_ofitsialnogo_reliza-1844627#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2416823929078818077",
+        "date": "2026-05-14",
+        "title": "📰 Deep Rock Galactic: Rogue Core получила новый...",
+        "type": "news",
+        "desc": "Deep Rock Galactic: Rogue Core получила новый геймплейный трейлер в стиле социальной рекламы",
+        "url": "https://www.playground.ru/deep_rock_galactic_rogue_core/news/deep_rock_galactic_rogue_core_poluchila_novyj_gejmplejnyj_trejler_v_stile_sotsialnoj_reklamy-1844612#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
