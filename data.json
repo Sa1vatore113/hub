@@ -18,51 +18,68 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "n_5264025232833673796",
-        "date": "2026-05-13",
-        "title": "📰 Команда Croteam анонсировала The Talos Princi...",
-        "type": "news",
-        "desc": "Команда Croteam анонсировала The Talos Principle 3 — финальную часть эпической саги",
-        "url": "https://stopgame.ru/newsdata/71477/komanda_croteam_anonsirovala_the_talos_principle_3_finalnuyu_chast_epicheskoy_sagi"
+        "id": "navi_cs_1474600",
+        "date": "2026-05-15",
+        "time": "23:30",
+        "title": "🏆 CS2: Quarterfinal 2: NAVI vs VIT",
+        "type": "navi",
+        "desc": "Турнир: IEM. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_7988639840596930557",
-        "date": "2026-05-13",
-        "title": "📰 Анонс платформера про рыжего кота Garfield — ...",
+        "id": "n_-4807097497026309013",
+        "date": "2026-05-15",
+        "title": "📰 «Закрывая глаза, я вижу лишь боль» — трейлер ...",
         "type": "news",
-        "desc": "Анонс платформера про рыжего кота Garfield — Escape from Monday",
-        "url": "https://stopgame.ru/newsdata/71473/anons_platformera_pro_ryzhego_kota_garfield_escape_from_monday"
+        "desc": "«Закрывая глаза, я вижу лишь боль» — трейлер хоррора Remothered: Red Nun&#039;s Legacy",
+        "url": "https://stopgame.ru/newsdata/71500/zakryvaya_glaza_ya_vizhu_lish_bol_trailer_horrora_remothered_red_nuns_legacy"
     },
     {
-        "id": "n_6226344136508779885",
-        "date": "2026-05-13",
-        "title": "📰 Анонс NOIR BLOOM — клона Katana ZERO от HONKI...",
-        "type": "news",
-        "desc": "Анонс NOIR BLOOM — клона Katana ZERO от HONKI Games ",
-        "url": "https://stopgame.ru/newsdata/71472/anons_noir_bloom_klona_katana_zero_ot_honki_games"
-    },
-    {
-        "id": "n_1380633773868688892",
-        "date": "2026-05-13",
-        "title": "📰 Дьявольский Динозавр делает «кусь» в геймплей...",
-        "type": "news",
-        "desc": "Дьявольский Динозавр делает «кусь» в геймплейном трейлере Marvel Rivals",
-        "url": "https://stopgame.ru/newsdata/71469/dyavolskiy_dinozavr_delaet_kus_v_geympleynom_trailere_marvel_rivals"
-    },
-    {
-        "id": "n_7340346850230598925",
+        "id": "n_-6525240856104060063",
         "date": "2026-05-14",
-        "title": "📰 Игроки начали создавать моды для Forza Horizo...",
+        "title": "📰 Анонсирована Pin-Crawl — необычный микс роугл...",
         "type": "news",
-        "desc": "Игроки начали создавать моды для Forza Horizon 6 ещё до официального релиза",
-        "url": "https://www.playground.ru/forza_horizon_6/news/igroki_nachali_sozdavat_mody_dlya_forza_horizon_6_eschyo_do_ofitsialnogo_reliza-1844627#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирована Pin-Crawl — необычный микс роуглайта и пинбола",
+        "url": "https://stopgame.ru/newsdata/71495/anonsirovana_pin_crawl_neobychnyy_miks_rouglayta_i_pinbola"
     },
     {
-        "id": "n_-2416823929078818077",
+        "id": "n_2627129572483151289",
         "date": "2026-05-14",
-        "title": "📰 Deep Rock Galactic: Rogue Core получила новый...",
+        "title": "📰 Уже не VR — Polyarc анонсировала Moss: The Fo...",
         "type": "news",
-        "desc": "Deep Rock Galactic: Rogue Core получила новый геймплейный трейлер в стиле социальной рекламы",
-        "url": "https://www.playground.ru/deep_rock_galactic_rogue_core/news/deep_rock_galactic_rogue_core_poluchila_novyj_gejmplejnyj_trejler_v_stile_sotsialnoj_reklamy-1844612#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Уже не VR — Polyarc анонсировала Moss: The Forgotten Relic",
+        "url": "https://stopgame.ru/newsdata/71494/uzhe_ne_vr_polyarc_anonsirovala_moss_the_forgotten_relic"
+    },
+    {
+        "id": "n_-518683841466389495",
+        "date": "2026-05-15",
+        "title": "📰 После релиза Subnautica 2 лидерство в списке ...",
+        "type": "news",
+        "desc": "После релиза Subnautica 2 лидерство в списке самых желанных игр Steam вернулось к Deadlock от Valve",
+        "url": "https://www.playground.ru/deadlock/news/posle_reliza_subnautica_2_liderstvo_v_spiske_samyh_zhelannyh_igr_steam_vernulos_k_deadlock_ot_valve-1844906#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6867445044477483068",
+        "date": "2026-05-14",
+        "title": "📰 Replaced впервые получила скидку в Steam всег...",
+        "type": "news",
+        "desc": "Replaced впервые получила скидку в Steam всего через месяц после релиза",
+        "url": "https://www.playground.ru/replaced/news/replaced_vpervye_poluchila_skidku_v_steam_vsego_cherez_mesyats_posle_reliza-1844874#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2400339684112592121",
+        "date": "2026-05-14",
+        "title": "📰 Новый трейлер 007: First Light знакомит с нас...",
+        "type": "news",
+        "desc": "Новый трейлер 007: First Light знакомит с наставником Бонда Джоном Гринвеем",
+        "url": "https://www.playground.ru/007_first_light/news/novyj_trejler_007_first_light_znakomit_s_nastavnikom_bonda_dzhonom_grinveem-1844857#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-3374125215385391569",
+        "date": "2026-05-14",
+        "title": "📰 Party Animals получила шквал негативных отзыв...",
+        "type": "news",
+        "desc": "Party Animals получила шквал негативных отзывов после анонса AI-конкурса с призовым фондом в $75,000",
+        "url": "https://www.playground.ru/party_animals/news/party_animals_poluchila_shkval_negativnyh_otzyvov_posle_anonsa_ai_konkursa_s_prizovym_fondom_v_75_000-1844853#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
