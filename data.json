@@ -4,7 +4,7 @@
         "date": "2026-05-17",
         "title": "⚽ Barça — Real Betis",
         "type": "foot",
-        "time": "17:00",
+        "time": "19:15",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Barça+—+Real+Betis+match"
     },
@@ -18,16 +18,24 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "navi_cs_1474600",
-        "date": "2026-05-15",
-        "time": "23:30",
-        "title": "🏆 CS2: Quarterfinal 2: NAVI vs VIT",
+        "id": "navi_cs_1474601",
+        "date": "2026-05-16",
+        "time": "20:15",
+        "title": "🏆 CS2: Semifinal 1: BB vs NAVI",
         "type": "navi",
         "desc": "Турнир: IEM. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-4807097497026309013",
+        "id": "n_-6256785150495092292",
+        "date": "2026-05-15",
+        "title": "📰 Новый трейлер 007 First Light посвятили наста...",
+        "type": "news",
+        "desc": "Новый трейлер 007 First Light посвятили наставнику главного героя",
+        "url": "https://stopgame.ru/newsdata/71507/novyy_trailer_007_first_light_posvyatili_nastavniku_glavnogo_geroya"
+    },
+    {
+        "id": "n_7177581075958268175",
         "date": "2026-05-15",
         "title": "📰 «Закрывая глаза, я вижу лишь боль» — трейлер ...",
         "type": "news",
@@ -35,51 +43,19 @@
         "url": "https://stopgame.ru/newsdata/71500/zakryvaya_glaza_ya_vizhu_lish_bol_trailer_horrora_remothered_red_nuns_legacy"
     },
     {
-        "id": "n_-6525240856104060063",
-        "date": "2026-05-14",
-        "title": "📰 Анонсирована Pin-Crawl — необычный микс роугл...",
+        "id": "n_2330519544986828171",
+        "date": "2026-05-16",
+        "title": "📰 Авторы Neverness to Everness раскрыли планы н...",
         "type": "news",
-        "desc": "Анонсирована Pin-Crawl — необычный микс роуглайта и пинбола",
-        "url": "https://stopgame.ru/newsdata/71495/anonsirovana_pin_crawl_neobychnyy_miks_rouglayta_i_pinbola"
+        "desc": "Авторы Neverness to Everness раскрыли планы на развитие игры после релиза",
+        "url": "https://www.playground.ru/neverness_to_everness/news/avtory_neverness_to_everness_raskryli_plany_na_razvitie_igry_posle_reliza-1845151#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_2627129572483151289",
-        "date": "2026-05-14",
-        "title": "📰 Уже не VR — Polyarc анонсировала Moss: The Fo...",
-        "type": "news",
-        "desc": "Уже не VR — Polyarc анонсировала Moss: The Forgotten Relic",
-        "url": "https://stopgame.ru/newsdata/71494/uzhe_ne_vr_polyarc_anonsirovala_moss_the_forgotten_relic"
-    },
-    {
-        "id": "n_-518683841466389495",
+        "id": "n_5332609986188851005",
         "date": "2026-05-15",
-        "title": "📰 После релиза Subnautica 2 лидерство в списке ...",
+        "title": "📰 Никому не нужен? Intel Core Ultra 7 270K Plus...",
         "type": "news",
-        "desc": "После релиза Subnautica 2 лидерство в списке самых желанных игр Steam вернулось к Deadlock от Valve",
-        "url": "https://www.playground.ru/deadlock/news/posle_reliza_subnautica_2_liderstvo_v_spiske_samyh_zhelannyh_igr_steam_vernulos_k_deadlock_ot_valve-1844906#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-6867445044477483068",
-        "date": "2026-05-14",
-        "title": "📰 Replaced впервые получила скидку в Steam всег...",
-        "type": "news",
-        "desc": "Replaced впервые получила скидку в Steam всего через месяц после релиза",
-        "url": "https://www.playground.ru/replaced/news/replaced_vpervye_poluchila_skidku_v_steam_vsego_cherez_mesyats_posle_reliza-1844874#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-2400339684112592121",
-        "date": "2026-05-14",
-        "title": "📰 Новый трейлер 007: First Light знакомит с нас...",
-        "type": "news",
-        "desc": "Новый трейлер 007: First Light знакомит с наставником Бонда Джоном Гринвеем",
-        "url": "https://www.playground.ru/007_first_light/news/novyj_trejler_007_first_light_znakomit_s_nastavnikom_bonda_dzhonom_grinveem-1844857#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-3374125215385391569",
-        "date": "2026-05-14",
-        "title": "📰 Party Animals получила шквал негативных отзыв...",
-        "type": "news",
-        "desc": "Party Animals получила шквал негативных отзывов после анонса AI-конкурса с призовым фондом в $75,000",
-        "url": "https://www.playground.ru/party_animals/news/party_animals_poluchila_shkval_negativnyh_otzyvov_posle_anonsa_ai_konkursa_s_prizovym_fondom_v_75_000-1844853#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Никому не нужен? Intel Core Ultra 7 270K Plus подешевел до $279,99 - на $20 ниже MSRP спустя 2 месяца после релиза",
+        "url": "https://www.playground.ru/misc/news/nikomu_ne_nuzhen_intel_core_ultra_7_270k_plus_podeshevel_do_279_99_na_20_nizhe_msrp_spustya_2_mesyatsa_posle_reliza-1845137#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
