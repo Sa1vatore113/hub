@@ -18,16 +18,16 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "navi_cs_1474601",
-        "date": "2026-05-16",
-        "time": "20:15",
-        "title": "🏆 CS2: Semifinal 1: BB vs NAVI",
+        "id": "navi_cs_1474605",
+        "date": "2026-05-17",
+        "time": "21:15",
+        "title": "🏆 CS2: Grand final: GL vs NAVI",
         "type": "navi",
         "desc": "Турнир: IEM. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-6256785150495092292",
+        "id": "n_-4377863194801023990",
         "date": "2026-05-15",
         "title": "📰 Новый трейлер 007 First Light посвятили наста...",
         "type": "news",
@@ -35,27 +35,19 @@
         "url": "https://stopgame.ru/newsdata/71507/novyy_trailer_007_first_light_posvyatili_nastavniku_glavnogo_geroya"
     },
     {
-        "id": "n_7177581075958268175",
-        "date": "2026-05-15",
-        "title": "📰 «Закрывая глаза, я вижу лишь боль» — трейлер ...",
+        "id": "n_1078720362345330020",
+        "date": "2026-05-17",
+        "title": "📰 Forza Horizon 6 заработала более $140 миллион...",
         "type": "news",
-        "desc": "«Закрывая глаза, я вижу лишь боль» — трейлер хоррора Remothered: Red Nun&#039;s Legacy",
-        "url": "https://stopgame.ru/newsdata/71500/zakryvaya_glaza_ya_vizhu_lish_bol_trailer_horrora_remothered_red_nuns_legacy"
+        "desc": "Forza Horizon 6 заработала более $140 миллионов ещё до полноценного релиза",
+        "url": "https://www.playground.ru/forza_horizon_6/news/forza_horizon_6_zarabotala_bolee_140_millionov_eschyo_do_polnotsennogo_reliza-1845342#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_2330519544986828171",
+        "id": "n_2261660626617792228",
         "date": "2026-05-16",
-        "title": "📰 Авторы Neverness to Everness раскрыли планы н...",
+        "title": "📰 Состоялся полноценный релиз градостроительног...",
         "type": "news",
-        "desc": "Авторы Neverness to Everness раскрыли планы на развитие игры после релиза",
-        "url": "https://www.playground.ru/neverness_to_everness/news/avtory_neverness_to_everness_raskryli_plany_na_razvitie_igry_posle_reliza-1845151#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_5332609986188851005",
-        "date": "2026-05-15",
-        "title": "📰 Никому не нужен? Intel Core Ultra 7 270K Plus...",
-        "type": "news",
-        "desc": "Никому не нужен? Intel Core Ultra 7 270K Plus подешевел до $279,99 - на $20 ниже MSRP спустя 2 месяца после релиза",
-        "url": "https://www.playground.ru/misc/news/nikomu_ne_nuzhen_intel_core_ultra_7_270k_plus_podeshevel_do_279_99_na_20_nizhe_msrp_spustya_2_mesyatsa_posle_reliza-1845137#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся полноценный релиз градостроительного симулятора Gold Gold Adventure Gold",
+        "url": "https://www.playground.ru/gold_gold_adventure_gold/news/sostoyalsya_polnotsennyj_reliz_gradostroitelnogo_simulyatora_gold_gold_adventure_gold-1845318#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
