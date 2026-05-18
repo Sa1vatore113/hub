@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_544573",
-        "date": "2026-05-17",
-        "title": "⚽ Barça — Real Betis",
-        "type": "foot",
-        "time": "19:15",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Real+Betis+match"
-    },
-    {
         "id": "f_544589",
         "date": "2026-05-23",
         "title": "⚽ Valencia — Barça",
@@ -18,16 +9,7 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "navi_cs_1474605",
-        "date": "2026-05-17",
-        "time": "21:15",
-        "title": "🏆 CS2: Grand final: GL vs NAVI",
-        "type": "navi",
-        "desc": "Турнир: IEM. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
-    },
-    {
-        "id": "n_-4377863194801023990",
+        "id": "n_-6666772932888718534",
         "date": "2026-05-15",
         "title": "📰 Новый трейлер 007 First Light посвятили наста...",
         "type": "news",
@@ -35,19 +17,35 @@
         "url": "https://stopgame.ru/newsdata/71507/novyy_trailer_007_first_light_posvyatili_nastavniku_glavnogo_geroya"
     },
     {
-        "id": "n_1078720362345330020",
-        "date": "2026-05-17",
-        "title": "📰 Forza Horizon 6 заработала более $140 миллион...",
+        "id": "n_-2198338277495863903",
+        "date": "2026-05-18",
+        "title": "📰 Take-Two потратила 50 миллионов долларов на с...",
         "type": "news",
-        "desc": "Forza Horizon 6 заработала более $140 миллионов ещё до полноценного релиза",
-        "url": "https://www.playground.ru/forza_horizon_6/news/forza_horizon_6_zarabotala_bolee_140_millionov_eschyo_do_polnotsennogo_reliza-1845342#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Take-Two потратила 50 миллионов долларов на смену визуального стиля Borderlands перед самым релизом",
+        "url": "https://www.playground.ru/borderlands/news/take_two_potratila_50_millionov_dollarov_na_smenu_vizualnogo_stilya_borderlands_pered_samym_relizom-1845480#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_2261660626617792228",
-        "date": "2026-05-16",
-        "title": "📰 Состоялся полноценный релиз градостроительног...",
+        "id": "n_6800636775092926704",
+        "date": "2026-05-17",
+        "title": "📰 Вышел трейлер финального эпизода \"Пацанов\"...",
         "type": "news",
-        "desc": "Состоялся полноценный релиз градостроительного симулятора Gold Gold Adventure Gold",
-        "url": "https://www.playground.ru/gold_gold_adventure_gold/news/sostoyalsya_polnotsennyj_reliz_gradostroitelnogo_simulyatora_gold_gold_adventure_gold-1845318#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Вышел трейлер финального эпизода \"Пацанов\"",
+        "url": "https://www.playground.ru/misc/news/vyshel_trejler_finalnogo_epizoda_patsanov-1845463#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6574190535256338175",
+        "date": "2026-05-17",
+        "title": "📰 Инсайд: Релиз Far Cry 7 намечен на 2027...",
+        "type": "news",
+        "desc": "Инсайд: Релиз Far Cry 7 намечен на 2027",
+        "url": "https://www.playground.ru/far_cry_7/news/insajd_reliz_far_cry_7_namechen_na_2027-1845459#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6126122558898207123",
+        "date": "2026-05-17",
+        "title": "📰 Только 6,7% игроков завершили основную сюжетн...",
+        "type": "news",
+        "desc": "Только 6,7% игроков завершили основную сюжетную линию Crimson Desert, хотя с момента релиза прошло почти два месяца",
+        "url": "https://www.playground.ru/crimson_desert/news/tolko_6_7_igrokov_zavershili_osnovnuyu_syuzhetnuyu_liniyu_crimson_desert_hotya_s_momenta_reliza_proshlo_pochti_dva_mesyatsa-1845435#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
