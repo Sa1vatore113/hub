@@ -9,19 +9,59 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
-        "id": "n_-329769017876401754",
-        "date": "2026-05-19",
-        "title": "📰 Анонсирована Mirth Island — добрая ритм-игра ...",
+        "id": "n_-5868074064254838173",
+        "date": "2026-05-21",
+        "title": "📰 Авторы Splitgate анонсировали Empulse — сетев...",
         "type": "news",
-        "desc": "Анонсирована Mirth Island — добрая ритм-игра про утёнка-актёра и его театр",
-        "url": "https://stopgame.ru/newsdata/71541/anonsirovana_mirth_island_dobraya_ritm_igra_pro_utenka_aktera_i_ego_teatr"
+        "desc": "Авторы Splitgate анонсировали Empulse — сетевой шутер в духе Titanfall",
+        "url": "https://stopgame.ru/newsdata/71557/avtory_splitgate_anonsirovali_empulse_setevoy_shuter_v_duhe_titanfall"
     },
     {
-        "id": "n_-6140462618904117929",
-        "date": "2026-05-19",
-        "title": "📰 У вас неожиданно потеплело или стало жарко? И...",
+        "id": "n_-5742360071220446104",
+        "date": "2026-05-20",
+        "title": "📰 Новый трейлер Clive Barker’s Hellraiser: Revi...",
         "type": "news",
-        "desc": "У вас неожиданно потеплело или стало жарко? Исследование показало, что рядом могут находиться крупные дата-центры",
-        "url": "https://www.playground.ru/misc/news/u_vas_neozhidanno_poteplelo_ili_stalo_zharko_issledovanie_pokazalo_chto_ryadom_mogut_nahoditsya_krupnye_data_tsentry-1845926#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Новый трейлер Clive Barker’s Hellraiser: Revival посвятили Конфигурации Генезиса",
+        "url": "https://stopgame.ru/newsdata/71549/novyy_trailer_clive_barker_s_hellraiser_revival_posvyatili_konfiguracii_genezisa"
+    },
+    {
+        "id": "n_3584628103870630808",
+        "date": "2026-05-20",
+        "title": "📰 Авторы симулятора жизни Paralives выпустили т...",
+        "type": "news",
+        "desc": "Авторы симулятора жизни Paralives выпустили трейлер и 45 минут геймплея ",
+        "url": "https://stopgame.ru/newsdata/71548/avtory_simulyatora_zhizni_paralives_vypustili_trailer_i_45_minut_geympleya"
+    },
+    {
+        "id": "n_8418761397187290599",
+        "date": "2026-05-21",
+        "title": "📰 Ubisoft довольна предзаказами Assassin's Cree...",
+        "type": "news",
+        "desc": "Ubisoft довольна предзаказами Assassin's Creed Black Flag Resynced и ждёт успешного релиза",
+        "url": "https://www.playground.ru/assassins_creed_4_black_flag/news/ubisoft_dovolna_predzakazami_assassins_creed_black_flag_resynced_i_zhdyot_uspeshnogo_reliza-1846177#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_3705710048404981214",
+        "date": "2026-05-20",
+        "title": "📰 Бывшие разработчики BioWare открыли новую сту...",
+        "type": "news",
+        "desc": "Бывшие разработчики BioWare открыли новую студию и анонсировали дебютную игру",
+        "url": "https://www.playground.ru/misc/news/byvshie_razrabotchiki_bioware_otkryli_novuyu_studiyu_i_anonsirovali_debyutnuyu_igru-1846160#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-4661418469214165396",
+        "date": "2026-05-20",
+        "title": "📰 Stranger Than Heaven получила новый трейлер с...",
+        "type": "news",
+        "desc": "Stranger Than Heaven получила новый трейлер с обзором боевой системы",
+        "url": "https://www.playground.ru/project_century/news/stranger_than_heaven_poluchila_novyj_trejler_s_obzorom_boevoj_sistemy-1846154#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_3800182649864190659",
+        "date": "2026-05-20",
+        "title": "📰 Amazon представила финальный трейлер \"Властел...",
+        "type": "news",
+        "desc": "Amazon представила финальный трейлер \"Властелинов вселенной\" - премьера фильма состоится 5 июня 2026 года",
+        "url": "https://www.playground.ru/misc/news/amazon_predstavila_finalnyj_trejler_vlastelinov_vselennoj_premera_filma_sostoitsya_5_iyunya_2026_goda-1846140#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
