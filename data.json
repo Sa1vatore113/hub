@@ -1,15 +1,22 @@
 [
     {
-        "id": "f_544589",
+        "id": "n_8392044517374368042",
         "date": "2026-05-23",
-        "title": "⚽ Valencia — Barça",
-        "type": "foot",
-        "time": "19:00",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
+        "title": "📰 Анонс Winter Whiskers — уютного симулятора уб...",
+        "type": "news",
+        "desc": "Анонс Winter Whiskers — уютного симулятора уборки снега с милыми животными",
+        "url": "https://stopgame.ru/newsdata/71590/anons_winter_whiskers_uyutnogo_simulyatora_uborki_snega_s_milymi_zhivotnymi"
     },
     {
-        "id": "n_-8494538493649777512",
+        "id": "n_-3564340757414948624",
+        "date": "2026-05-23",
+        "title": "📰 Все анонсы с «Аниме-Ле-Мана» от StopGame!...",
+        "type": "news",
+        "desc": "Все анонсы с «Аниме-Ле-Мана» от StopGame!",
+        "url": "https://stopgame.ru/newsdata/71587/vse_anonsy_s_anime_le_mana_ot_stopgame"
+    },
+    {
+        "id": "n_6223934116749878593",
         "date": "2026-05-22",
         "title": "📰 Infinity Ward готовится к анонсу следующей Ca...",
         "type": "news",
@@ -17,19 +24,19 @@
         "url": "https://stopgame.ru/newsdata/71583/infinity_ward_gotovitsya_k_anonsu_sleduyuschey_call_of_duty_modern_warfare"
     },
     {
-        "id": "n_3913753114230099247",
-        "date": "2026-05-22",
-        "title": "📰 Погони, стрельба и девушки в релизном трейлер...",
+        "id": "n_4495279400425572254",
+        "date": "2026-05-24",
+        "title": "📰 Мелочные корпораты: Rockstar и Nintendo сдвиг...",
         "type": "news",
-        "desc": "Погони, стрельба и девушки в релизном трейлере 007 First Light",
-        "url": "https://stopgame.ru/newsdata/71573/pogoni_strelba_i_devushki_v_reliznom_trailere_007_first_light"
+        "desc": "Мелочные корпораты: Rockstar и Nintendo сдвигают трейлеры назло инсайдерам",
+        "url": "https://www.playground.ru/gta_6/news/melochnye_korporaty_rockstar_i_nintendo_sdvigayut_trejlery_nazlo_insajderam-1846789#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-1041321709997474025",
-        "date": "2026-05-22",
-        "title": "📰 Состоялся полноценный релиз исторической град...",
+        "id": "n_-6719810909677107466",
+        "date": "2026-05-24",
+        "title": "📰 Страницы Neverness to Evernes появились в Ste...",
         "type": "news",
-        "desc": "Состоялся полноценный релиз исторической градостроительной стратегии Aztecs: The Last Sun",
-        "url": "https://www.playground.ru/aztecs_the_last_sun/news/sostoyalsya_polnotsennyj_reliz_istoricheskoj_gradostroitelnoj_strategii_aztecs_the_last_sun-1846603#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Страницы Neverness to Evernes появились в Steam и Epic Games Store - релиз ожидается в июле",
+        "url": "https://www.playground.ru/neverness_to_everness/news/stranitsy_neverness_to_evernes_poyavilis_v_steam_i_epic_games_store_reliz_ozhidaetsya_v_iyule-1846776#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
