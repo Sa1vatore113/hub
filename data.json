@@ -1,42 +1,34 @@
 [
     {
-        "id": "n_7999218948802949013",
-        "date": "2026-05-24",
-        "title": "📰 Авторы Rocket League анонсировали переезд на ...",
+        "id": "n_2034752132404636131",
+        "date": "2026-05-27",
+        "title": "📰 Кинематографический трейлер второго сезона Ma...",
         "type": "news",
-        "desc": "Авторы Rocket League анонсировали переезд на Unreal Engine 6",
-        "url": "https://stopgame.ru/newsdata/71593/avtory_rocket_league_anonsirovali_pereezd_na_unreal_engine_6"
+        "desc": "Кинематографический трейлер второго сезона Marathon",
+        "url": "https://stopgame.ru/newsdata/71620/kinematograficheskiy_trailer_vtorogo_sezona_marathon"
     },
     {
-        "id": "n_-4684549573372842915",
-        "date": "2026-05-23",
-        "title": "📰 Анонс Winter Whiskers — уютного симулятора уб...",
-        "type": "news",
-        "desc": "Анонс Winter Whiskers — уютного симулятора уборки снега с милыми животными",
-        "url": "https://stopgame.ru/newsdata/71590/anons_winter_whiskers_uyutnogo_simulyatora_uborki_snega_s_milymi_zhivotnymi"
-    },
-    {
-        "id": "n_6095334453040157934",
+        "id": "n_141172309747469063",
         "date": "2026-05-26",
-        "title": "📰 Похоже, Resonance: A Plague Tale Legacy выйде...",
+        "title": "📰 Релиз Persona 4 Revival не за горами — игра п...",
         "type": "news",
-        "desc": "Похоже, Resonance: A Plague Tale Legacy выйдет в августе - дата релиза появилась в австралийском Amazon",
-        "url": "https://www.playground.ru/resonance_a_plague_tale_legacy/news/pohozhe_resonance_a_plague_tale_legacy_vyjdet_v_avguste_data_reliza_poyavilas_v_avstralijskom_amazon-1847145#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релиз Persona 4 Revival не за горами — игра получила возрастной рейтинг в Южной Корее",
+        "url": "https://stopgame.ru/newsdata/71612/reliz_persona_4_revival_ne_za_gorami_igra_poluchila_vozrastnoy_reyting_v_yuzhnoy_koree"
     },
     {
-        "id": "n_-7303035426921428385",
-        "date": "2026-05-25",
-        "title": "📰 Анонсирована русская озвучка игры \"What Remai...",
+        "id": "n_7334068462200161953",
+        "date": "2026-05-27",
+        "title": "📰 Bungie представила мрачный кинематографически...",
         "type": "news",
-        "desc": "Анонсирована русская озвучка игры \"What Remains of Edith Finch\" от Chpok Street",
-        "url": "https://www.playground.ru/what_remains_of_edith_finch/news/anonsirovana_russkaya_ozvuchka_igry_what_remains_of_edith_finch_ot_chpok_street-1847130#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Bungie представила мрачный кинематографический трейлер второго сезона Marathon",
+        "url": "https://www.playground.ru/marathon/news/bungie_predstavila_mrachnyj_kinematograficheskij_trejler_vtorogo_sezona_marathon-1847353#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-577522469129149831",
-        "date": "2026-05-25",
-        "title": "📰 Когда детские сказки стали кошмаром: Состоялс...",
+        "id": "n_7066749705732975384",
+        "date": "2026-05-26",
+        "title": "📰 Анонсирован постапокалиптический приключенчес...",
         "type": "news",
-        "desc": "Когда детские сказки стали кошмаром: Состоялся полноценный релиз хоррора VASILISA",
-        "url": "https://www.playground.ru/vasilisa/news/kogda_detskie_skazki_stali_koshmarom_sostoyalsya_polnotsennyj_reliz_horrora_vasilisa-1847098#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирован постапокалиптический приключенческий симулятор Шаротанк",
+        "url": "https://www.playground.ru/misc/news/anonsirovan_postapokalipticheskij_priklyuchencheskij_simulyator_sharotank-1847315#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
