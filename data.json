@@ -1,34 +1,42 @@
 [
     {
-        "id": "n_2034752132404636131",
+        "id": "n_6245670948801624836",
         "date": "2026-05-27",
-        "title": "📰 Кинематографический трейлер второго сезона Ma...",
+        "title": "📰 Для The Witcher 3 анонсировано дополнение «Ба...",
         "type": "news",
-        "desc": "Кинематографический трейлер второго сезона Marathon",
-        "url": "https://stopgame.ru/newsdata/71620/kinematograficheskiy_trailer_vtorogo_sezona_marathon"
+        "desc": "Для The Witcher 3 анонсировано дополнение «Баллады прошлого»",
+        "url": "https://stopgame.ru/newsdata/71622/dlya_the_witcher_3_anonsirovano_dopolnenie_ballady_proshlogo"
     },
     {
-        "id": "n_141172309747469063",
-        "date": "2026-05-26",
-        "title": "📰 Релиз Persona 4 Revival не за горами — игра п...",
+        "id": "n_4456786043560864019",
+        "date": "2026-05-28",
+        "title": "📰 LEGO Batman: Legacy of the Dark Knight демонс...",
         "type": "news",
-        "desc": "Релиз Persona 4 Revival не за горами — игра получила возрастной рейтинг в Южной Корее",
-        "url": "https://stopgame.ru/newsdata/71612/reliz_persona_4_revival_ne_za_gorami_igra_poluchila_vozrastnoy_reyting_v_yuzhnoy_koree"
+        "desc": "LEGO Batman: Legacy of the Dark Knight демонстрирует высокие оценки в хвалебном трейлере",
+        "url": "https://www.playground.ru/lego_batman_legacy_of_the_dark_knight/news/lego_batman_legacy_of_the_dark_knight_demonstriruet_vysokie_otsenki_v_hvalebnom_trejlere-1847648#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_7334068462200161953",
+        "id": "n_6702468207384000469",
         "date": "2026-05-27",
-        "title": "📰 Bungie представила мрачный кинематографически...",
+        "title": "📰 Анонсирован и выпущен сборник Gobliiins Colle...",
         "type": "news",
-        "desc": "Bungie представила мрачный кинематографический трейлер второго сезона Marathon",
-        "url": "https://www.playground.ru/marathon/news/bungie_predstavila_mrachnyj_kinematograficheskij_trejler_vtorogo_sezona_marathon-1847353#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирован и выпущен сборник Gobliiins Collection для PlayStation 5, Xbox Series и Nintendo Switch",
+        "url": "https://www.playground.ru/gobliiins/news/anonsirovan_i_vypuschen_sbornik_gobliiins_collection_dlya_playstation_5_xbox_series_i_nintendo_switch-1847626#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_7066749705732975384",
-        "date": "2026-05-26",
-        "title": "📰 Анонсирован постапокалиптический приключенчес...",
+        "id": "n_3629440676249838566",
+        "date": "2026-05-27",
+        "title": "📰 Состоялся релиз научно-фантастической карточн...",
         "type": "news",
-        "desc": "Анонсирован постапокалиптический приключенческий симулятор Шаротанк",
-        "url": "https://www.playground.ru/misc/news/anonsirovan_postapokalipticheskij_priklyuchencheskij_simulyator_sharotank-1847315#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся релиз научно-фантастической карточной ролевой игры Echo Generation 2",
+        "url": "https://www.playground.ru/echo_generation_2/news/sostoyalsya_reliz_nauchno_fantasticheskoj_kartochnoj_rolevoj_igry_echo_generation_2-1847618#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_6612431061855167185",
+        "date": "2026-05-27",
+        "title": "📰 Состоялся релиз космического симулятора Starm...",
+        "type": "news",
+        "desc": "Состоялся релиз космического симулятора Starminer в раннем доступе Steam",
+        "url": "https://www.playground.ru/starminer/news/sostoyalsya_reliz_kosmicheskogo_simulyatora_starminer_v_rannem_dostupe_steam-1847617#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
