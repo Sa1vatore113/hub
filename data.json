@@ -1,42 +1,82 @@
 [
     {
-        "id": "n_2953910029009992404",
-        "date": "2026-05-28",
-        "title": "📰 Анонс Call of Duty: Modern Warfare 4...",
-        "type": "news",
-        "desc": "Анонс Call of Duty: Modern Warfare 4",
-        "url": "https://stopgame.ru/newsdata/71643/anons_call_of_duty_modern_warfare_4"
-    },
-    {
-        "id": "n_736769759584863556",
-        "date": "2026-05-28",
-        "title": "📰 Состоялся анонс Planet Zoo 2...",
-        "type": "news",
-        "desc": "Состоялся анонс Planet Zoo 2",
-        "url": "https://stopgame.ru/newsdata/71642/sostoyalsya_anons_planet_zoo_2"
-    },
-    {
-        "id": "n_5809952455991243183",
-        "date": "2026-05-28",
-        "title": "📰 Свежий трейлер Warhammer 40K: Dark Heresy пос...",
-        "type": "news",
-        "desc": "Свежий трейлер Warhammer 40K: Dark Heresy посвятили Лаартиру — спутнику из числа эльдар",
-        "url": "https://stopgame.ru/newsdata/71637/svezhiy_trailer_warhammer_40k_dark_heresy_posvyatili_laartiru_sputniku_iz_chisla_eldar"
-    },
-    {
-        "id": "n_-6966547356659719087",
+        "id": "n_5088502762829683254",
         "date": "2026-05-29",
-        "title": "📰 CDPR намекает: ещё несколько неанонсированных...",
+        "title": "📰 Алкоголь, руны и дворфы — анонсирована тактич...",
         "type": "news",
-        "desc": "CDPR намекает: ещё несколько неанонсированных проектов уже на продвинутой стадии и могут выйти в 2026 году",
-        "url": "https://www.playground.ru/misc/news/cdpr_namekaet_eschyo_neskolko_neanonsirovannyh_proektov_uzhe_na_prodvinutoj_stadii_i_mogut_vyjti_v_2026_godu-1847925#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Алкоголь, руны и дворфы — анонсирована тактическая RuneSmith",
+        "url": "https://stopgame.ru/newsdata/71666/alkogol_runy_i_dvorfy_anonsirovana_takticheskaya_runesmith"
     },
     {
-        "id": "n_-2187450375894491034",
-        "date": "2026-05-28",
-        "title": "📰 Новый трейлер Hawthorn показал масштабный мир...",
+        "id": "n_3726194553269407342",
+        "date": "2026-05-29",
+        "title": "📰 Анонсирована The Cat in the Hat: Rainy Day Ma...",
         "type": "news",
-        "desc": "Новый трейлер Hawthorn показал масштабный мир и уникальные события песочницы",
-        "url": "https://www.playground.ru/hawthorn/news/novyj_trejler_hawthorn_pokazal_masshtabnyj_mir_i_unikalnye_sobytiya_pesochnitsy-1847912#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирована The Cat in the Hat: Rainy Day Mayhem — вечериночная игра про Кота в шляпе",
+        "url": "https://stopgame.ru/newsdata/71661/anonsirovana_the_cat_in_the_hat_rainy_day_mayhem_vecherinochnaya_igra_pro_kota_v_shlyape"
+    },
+    {
+        "id": "n_-5351648844082615397",
+        "date": "2026-05-29",
+        "title": "📰 Анонс THERMOCLINE — пиксельной хоррор-RPG в д...",
+        "type": "news",
+        "desc": "Анонс THERMOCLINE — пиксельной хоррор-RPG в духе Fear &amp; Hunger",
+        "url": "https://stopgame.ru/newsdata/71657/anons_thermocline_pikselnoy_horror_rpg_v_duhe_fear_and_hunger"
+    },
+    {
+        "id": "n_-7450864570709449818",
+        "date": "2026-05-29",
+        "title": "📰 Геймплейный трейлер Silent Planet — метроидва...",
+        "type": "news",
+        "desc": "Геймплейный трейлер Silent Planet — метроидвании в сеттинге «готической научной фантастики»",
+        "url": "https://stopgame.ru/newsdata/71656/geympleynyy_trailer_silent_planet_metroidvanii_v_settinge_goticheskoy_nauchnoy_fantastiki"
+    },
+    {
+        "id": "n_-8754467182957714832",
+        "date": "2026-05-29",
+        "title": "📰 Mina the Hollower получила хвалебные отзывы и...",
+        "type": "news",
+        "desc": "Mina the Hollower получила хвалебные отзывы игроков прямо на релизе",
+        "url": "https://stopgame.ru/newsdata/71653/mina_the_hollower_poluchila_hvalebnye_otzyvy_igrokov_pryamo_na_relize"
+    },
+    {
+        "id": "n_-5898090543234960709",
+        "date": "2026-05-30",
+        "title": "📰 В Microsoft Store раньше времени появилась ст...",
+        "type": "news",
+        "desc": "В Microsoft Store раньше времени появилась страница неанонсированного переиздания Rayman Origins: Enhanced Edition",
+        "url": "https://www.playground.ru/rayman_origins/news/v_microsoft_store_ranshe_vremeni_poyavilas_stranitsa_neanonsirovannogo_pereizdaniya_rayman_origins_enhanced_edition-1848165#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_7926495702952926144",
+        "date": "2026-05-30",
+        "title": "📰 Слух: Bloober Team анонсирует новую AAA-игру ...",
+        "type": "news",
+        "desc": "Слух: Bloober Team анонсирует новую AAA-игру на Summer Game Fest",
+        "url": "https://www.playground.ru/misc/news/sluh_bloober_team_anonsiruet_novuyu_aaa_igru_na_summer_game_fest-1848164#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-9185110868026775310",
+        "date": "2026-05-29",
+        "title": "📰 Состоялся релиз бесплатной многопользовательс...",
+        "type": "news",
+        "desc": "Состоялся релиз бесплатной многопользовательской ролевой игры Anomaly Zone Renovation в раннем доступе Steam",
+        "url": "https://www.playground.ru/anomaly_zone/news/sostoyalsya_reliz_besplatnoj_mnogopolzovatelskoj_rolevoj_igry_anomaly_zone_renovation_v_rannem_dostupe_steam-1848143#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-4095703602530762723",
+        "date": "2026-05-29",
+        "title": "📰 Состоялся релиз дополнения The Syncretic & Th...",
+        "type": "news",
+        "desc": "Состоялся релиз дополнения The Syncretic & The Imperious для пошаговой стратегии ZEPHON",
+        "url": "https://www.playground.ru/zephon/news/sostoyalsya_reliz_dopolneniya_the_syncretic_the_imperious_dlya_poshagovoj_strategii_zephon-1848141#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-1075451225100745375",
+        "date": "2026-05-29",
+        "title": "📰 Мрачный экшен-RPG Mistfall Hunter получил тре...",
+        "type": "news",
+        "desc": "Мрачный экшен-RPG Mistfall Hunter получил трейлер игрового процесса выделяющий несколько ключевых особенностей проекта",
+        "url": "https://www.playground.ru/mistfall_hunter/news/mrachnyj_ekshen_rpg_mistfall_hunter_poluchil_trejler_igrovogo_protsessa_vydelyayuschij_neskolko_klyuchevyh_osobennostej_proekta-1848138#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
