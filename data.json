@@ -1,50 +1,114 @@
 [
     {
-        "id": "n_585394181448379652",
-        "date": "2026-06-04",
-        "title": "📰 Анонсирована Spyder: Agent 8 — шпионский стел...",
+        "id": "n_9199841252093215765",
+        "date": "2026-06-06",
+        "title": "📰 Анонс HOT WHEELS Infinite Rush — задорной гон...",
         "type": "news",
-        "desc": "Анонсирована Spyder: Agent 8 — шпионский стелс-экшен про милого робота-паучка",
-        "url": "https://stopgame.ru/newsdata/71731/anonsirovana_spyder_agent_8_shpionskiy_stels_ekshen_pro_milogo_robota_pauchka"
+        "desc": "Анонс HOT WHEELS Infinite Rush — задорной гонки про игрушечные машинки в открытом мире",
+        "url": "https://stopgame.ru/newsdata/71752/anons_hot_wheels_infinite_rush_zadornoy_gonki_pro_igrushechnye_mashinki_v_otkrytom_mire"
     },
     {
-        "id": "n_-4297426583995515869",
-        "date": "2026-06-04",
-        "title": "📰 Релиз файтинга Avatar Legends: The Fighting п...",
+        "id": "n_-8947462166117414172",
+        "date": "2026-06-06",
+        "title": "📰 Анонсирована Crosswinds — тёплое приключение ...",
         "type": "news",
-        "desc": "Релиз файтинга Avatar Legends: The Fighting перенесли на 23 июля",
-        "url": "https://stopgame.ru/newsdata/71723/reliz_faytinga_avatar_legends_the_fighting_perenesli_na_23_iyulya"
+        "desc": "Анонсирована Crosswinds — тёплое приключение про влюблённых аферистов",
+        "url": "https://stopgame.ru/newsdata/71747/anonsirovana_crosswinds_teploe_priklyuchenie_pro_vlyublennyh_aferistov"
     },
     {
-        "id": "n_-471134330554093215",
-        "date": "2026-06-04",
-        "title": "📰 Ремейк Black Flag, Stranger Than Heaven и не ...",
+        "id": "n_7702955113288313085",
+        "date": "2026-06-06",
+        "title": "📰 Состоялся анонс Guild Wars 3. Первый бета-тес...",
         "type": "news",
-        "desc": "Ремейк Black Flag, Stranger Than Heaven и не только в хайп-трейлере Summer Game Fest 2026",
-        "url": "https://stopgame.ru/newsdata/71722/remeyk_black_flag_stranger_than_heaven_i_ne_tolko_v_hayp_trailere_summer_game_fest_2026"
+        "desc": "Состоялся анонс Guild Wars 3. Первый бета-тест осенью 2027-го",
+        "url": "https://stopgame.ru/newsdata/71745/sostoyalsya_anons_guild_wars_3_pervyy_beta_test_osenyu_2027_go"
     },
     {
-        "id": "n_-8969130242219956465",
+        "id": "n_-8636191681923375412",
+        "date": "2026-06-06",
+        "title": "📰 Анонсирован ремейк Resident Evil Code: Veroni...",
+        "type": "news",
+        "desc": "Анонсирован ремейк Resident Evil Code: Veronica",
+        "url": "https://stopgame.ru/newsdata/71744/anonsirovan_remeyk_resident_evil_code_veronica"
+    },
+    {
+        "id": "n_6303416828392904605",
         "date": "2026-06-05",
-        "title": "📰 Дупликанты учатся плавать! Klei официально ан...",
+        "title": "📰 «Добро пожаловать в колонию» — состоялся рели...",
         "type": "news",
-        "desc": "Дупликанты учатся плавать! Klei официально анонсировала водное DLC для Oxygen Not Included",
-        "url": "https://www.playground.ru/oxygen_not_included/news/duplikanty_uchatsya_plavat_klei_ofitsialno_anonsirovala_vodnoe_dlc_dlya_oxygen_not_included-1849728#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "«Добро пожаловать в колонию» — состоялся релиз Gothic 1 Remake",
+        "url": "https://stopgame.ru/newsdata/71741/dobro_pozhalovat_v_koloniyu_sostoyalsya_reliz_gothic_1_remake"
     },
     {
-        "id": "n_-2645629596269091230",
+        "id": "n_3959352099621881347",
         "date": "2026-06-05",
-        "title": "📰 Объявлена дата выхода ролевого экшена Forsake...",
+        "title": "📰 Анонс Tempus Vitae — метроидвании от первого ...",
         "type": "news",
-        "desc": "Объявлена дата выхода ролевого экшена Forsaken Realms: Vahrin's Call от независимой студии Titan Roc",
-        "url": "https://www.playground.ru/forsaken_realms_vahrins_call/news/obyavlena_data_vyhoda_rolevogo_ekshena_forsaken_realms_vahrins_call_ot_nezavisimoj_studii_titan_roc-1849704#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонс Tempus Vitae — метроидвании от первого лица с путешествием во времени",
+        "url": "https://stopgame.ru/newsdata/71739/anons_tempus_vitae_metroidvanii_ot_pervogo_lica_s_puteshestviem_vo_vremeni"
     },
     {
-        "id": "n_-7790065430941376563",
-        "date": "2026-06-04",
-        "title": "📰 Две минуты мордобоя в геймлейном трейлере Sea...",
+        "id": "n_-992274101519102139",
+        "date": "2026-06-06",
+        "title": "📰 Для Fatekeeper вышло первое обновление после ...",
         "type": "news",
-        "desc": "Две минуты мордобоя в геймлейном трейлере Sealbreakers",
-        "url": "https://www.playground.ru/sealbreakers/news/dve_minuty_mordoboya_v_gejmlejnom_trejlere_sealbreakers-1849692#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Для Fatekeeper вышло первое обновление после релиза в раннем доступе",
+        "url": "https://www.playground.ru/fatekeeper/news/dlya_fatekeeper_vyshlo_pervoe_obnovlenie_posle_reliza_v_rannem_dostupe-1849992#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-3816173470221859584",
+        "date": "2026-06-06",
+        "title": "📰 Авторы 007 First Light раскрыли план поддержк...",
+        "type": "news",
+        "desc": "Авторы 007 First Light раскрыли план поддержки игры на первый год после релиза",
+        "url": "https://www.playground.ru/007_first_light/news/avtory_007_first_light_raskryli_plan_podderzhki_igry_na_pervyj_god_posle_reliza-1849988#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_8959310372346747222",
+        "date": "2026-06-06",
+        "title": "📰 Авторы Wardogs высмеяли споры о статистике St...",
+        "type": "news",
+        "desc": "Авторы Wardogs высмеяли споры о статистике Steam и признали неизбежное падение онлайна после релиза",
+        "url": "https://www.playground.ru/wardogs_2026/news/avtory_wardogs_vysmeyali_spory_o_statistike_steam_i_priznali_neizbezhnoe_padenie_onlajna_posle_reliza-1849987#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-5478539048412068288",
+        "date": "2026-06-06",
+        "title": "📰 Неожиданно анонсирована Trine 6: Together in ...",
+        "type": "news",
+        "desc": "Неожиданно анонсирована Trine 6: Together in Time - к трио искателей приключений присоединяются акробат и оруженосец",
+        "url": "https://www.playground.ru/trine_6_together_in_time/news/neozhidanno_anonsirovana_trine_6_together_in_time_k_trio_iskatelej_priklyuchenij_prisoedinyayutsya_akrobat_i_oruzhenosets-1849983#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-828702836049136654",
+        "date": "2026-06-06",
+        "title": "📰 Новый трейлер экшена Swords of Legends показа...",
+        "type": "news",
+        "desc": "Новый трейлер экшена Swords of Legends показал эффектные бои с боссами и духов-компаньонов",
+        "url": "https://www.playground.ru/sword_of_legends/news/novyj_trejler_ekshena_swords_of_legends_pokazal_effektnye_boi_s_bossami_i_duhov_kompanonov-1849979#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2284405191399569777",
+        "date": "2026-06-06",
+        "title": "📰 Сюжетная гонка с голливудским размахом: показ...",
+        "type": "news",
+        "desc": "Сюжетная гонка с голливудским размахом: показан геймплейный трейлер CLUTCH от создателей Forza Horizon",
+        "url": "https://www.playground.ru/clutch/news/syuzhetnaya_gonka_s_gollivudskim_razmahom_pokazan_gejmplejnyj_trejler_clutch_ot_sozdatelej_forza_horizon-1849976#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_1567319785180539138",
+        "date": "2026-06-06",
+        "title": "📰 Финал битвы Титанов - анонсирован масштабный ...",
+        "type": "news",
+        "desc": "Финал битвы Титанов - анонсирован масштабный экшен Attack on Titan 3",
+        "url": "https://www.playground.ru/attack_on_titan_3_a_o_t_3/news/final_bitvy_titanov_anonsirovan_masshtabnyj_ekshen_attack_on_titan_3-1849975#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6145668335261020097",
+        "date": "2026-06-06",
+        "title": "📰 Свежий трейлер Palworld на Summer Game Fest о...",
+        "type": "news",
+        "desc": "Свежий трейлер Palworld на Summer Game Fest объявляет о выходе релизной версии 1.0",
+        "url": "https://www.playground.ru/palworld/news/svezhij_trejler_palworld_na_summer_game_fest_obyavlyaet_o_vyhode_reliznoj_versii_1_0-1849972#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
