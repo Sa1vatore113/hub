@@ -1,6 +1,38 @@
 [
     {
-        "id": "n_-7357526720075961005",
+        "id": "n_8224918043471103371",
+        "date": "2026-06-08",
+        "title": "📰 Stronghold 4, новая Vampire: The Masquerade, ...",
+        "type": "news",
+        "desc": "Stronghold 4, новая Vampire: The Masquerade, ремастер Thief и другие анонсы с PC Gaming Show",
+        "url": "https://stopgame.ru/newsdata/71767/stronghold_4_novaya_vampire_the_masquerade_remaster_thief_i_drugie_anonsy_s_pc_gaming_show"
+    },
+    {
+        "id": "n_-7320390168020191560",
+        "date": "2026-06-07",
+        "title": "📰 Анонсы на XBOX Games Showcase — Gears of War:...",
+        "type": "news",
+        "desc": "Анонсы на XBOX Games Showcase — Gears of War: E-Day, Fable, Persona 6 и многое другое",
+        "url": "https://stopgame.ru/newsdata/71766/anonsy_na_xbox_games_showcase_gears_of_war_e_day_fable_persona_6_i_mnogoe_drugoe"
+    },
+    {
+        "id": "n_4119991755623756634",
+        "date": "2026-06-07",
+        "title": "📰 Ninja Theory анонсировала третью часть Hellbl...",
+        "type": "news",
+        "desc": "Ninja Theory анонсировала третью часть Hellblade и назвала её просто Senua",
+        "url": "https://stopgame.ru/newsdata/71765/ninja_theory_anonsirovala_tretyu_chast_hellblade_i_nazvala_ee_prosto_senua"
+    },
+    {
+        "id": "n_-9177414274279488545",
+        "date": "2026-06-07",
+        "title": "📰 Анонс Star Trek: Shadow Frontier — психологич...",
+        "type": "news",
+        "desc": "Анонс Star Trek: Shadow Frontier — психологического триллера по  Star Trek от Bloober Team",
+        "url": "https://stopgame.ru/newsdata/71762/anons_star_trek_shadow_frontier_psihologicheskogo_trillera_po_star_trek_ot_bloober_team"
+    },
+    {
+        "id": "n_-4537525802112027775",
         "date": "2026-06-06",
         "title": "📰 Анонсирована Trine 6: Together in Time...",
         "type": "news",
@@ -8,99 +40,35 @@
         "url": "https://stopgame.ru/newsdata/71755/anonsirovana_trine_6_together_in_time"
     },
     {
-        "id": "n_-6456569034406698508",
-        "date": "2026-06-06",
-        "title": "📰 Анонс HOT WHEELS Infinite Rush — задорной гон...",
-        "type": "news",
-        "desc": "Анонс HOT WHEELS Infinite Rush — задорной гонки про игрушечные машинки в открытом мире",
-        "url": "https://stopgame.ru/newsdata/71752/anons_hot_wheels_infinite_rush_zadornoy_gonki_pro_igrushechnye_mashinki_v_otkrytom_mire"
-    },
-    {
-        "id": "n_2693810519288639510",
-        "date": "2026-06-06",
-        "title": "📰 Анонсирована Crosswinds — тёплое приключение ...",
-        "type": "news",
-        "desc": "Анонсирована Crosswinds — тёплое приключение про влюблённых аферистов",
-        "url": "https://stopgame.ru/newsdata/71747/anonsirovana_crosswinds_teploe_priklyuchenie_pro_vlyublennyh_aferistov"
-    },
-    {
-        "id": "n_8145149644610730679",
-        "date": "2026-06-06",
-        "title": "📰 Состоялся анонс Guild Wars 3. Первый бета-тес...",
-        "type": "news",
-        "desc": "Состоялся анонс Guild Wars 3. Первый бета-тест осенью 2027-го",
-        "url": "https://stopgame.ru/newsdata/71745/sostoyalsya_anons_guild_wars_3_pervyy_beta_test_osenyu_2027_go"
-    },
-    {
-        "id": "n_591305476313486495",
-        "date": "2026-06-06",
-        "title": "📰 Анонсирован ремейк Resident Evil Code: Veroni...",
-        "type": "news",
-        "desc": "Анонсирован ремейк Resident Evil Code: Veronica",
-        "url": "https://stopgame.ru/newsdata/71744/anonsirovan_remeyk_resident_evil_code_veronica"
-    },
-    {
-        "id": "n_4812026933231961260",
-        "date": "2026-06-06",
-        "title": "📰 Все анонсы на Summer Game Fest 2026 — ремейк ...",
-        "type": "news",
-        "desc": "Все анонсы на Summer Game Fest 2026 — ремейк Code: Veronica, Alien: Isolation 2, Stellar Blade...",
-        "url": "https://stopgame.ru/newsdata/71743/vse_anonsy_na_summer_game_fest_2026_remeyk_code_veronica_alien_isolation_2_stellar_blade"
-    },
-    {
-        "id": "n_9069634599761310416",
+        "id": "n_5974982234969883262",
         "date": "2026-06-07",
-        "title": "📰 Время собирать пластик: очаровательная выдра ...",
+        "title": "📰 P.O.N. преодолела отметку в 800 тысяч вишлист...",
         "type": "news",
-        "desc": "Время собирать пластик: очаровательная выдра наводит порядок в анонсирующем трейлере My Otter Friends",
-        "url": "https://www.playground.ru/misc/news/vremya_sobirat_plastik_ocharovatelnaya_vydra_navodit_poryadok_v_anonsiruyuschem_trejlere_my_otter_friends-1850227#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "P.O.N. преодолела отметку в 800 тысяч вишлистов в Steam и получила новый трейлер",
+        "url": "https://www.playground.ru/pon/news/p_o_n_preodolela_otmetku_v_800_tysyach_vishlistov_v_steam_i_poluchila_novyj_trejler-1850448#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_2994261580556373052",
+        "id": "n_-4274956095521306300",
         "date": "2026-06-07",
-        "title": "📰 Авторы кооперативного хоррора CORDURA предста...",
+        "title": "📰 Разработчики The Division и Far Cry 3 анонсир...",
         "type": "news",
-        "desc": "Авторы кооперативного хоррора CORDURA представили первый геймплейный трейлер",
-        "url": "https://www.playground.ru/cordura/news/avtory_kooperativnogo_horrora_cordura_predstavili_pervyj_gejmplejnyj_trejler-1850224#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Разработчики The Division и Far Cry 3 анонсировали симулятор полетов Into the Wind",
+        "url": "https://www.playground.ru/into_the_wind/news/razrabotchiki_the_division_i_far_cry_3_anonsirovali_simulyator_poletov_into_the_wind-1850444#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-8578673084321230102",
+        "id": "n_-100330632785602400",
         "date": "2026-06-07",
-        "title": "📰 \"Свет в конце тоннеля сияет\": авторы Breathed...",
+        "title": "📰 Анонсирована сюжетная ролевая игра Vampire: T...",
         "type": "news",
-        "desc": "\"Свет в конце тоннеля сияет\": авторы Breathedge 2 анонсировали выход в ранний доступ и раскрыли дорожную карту",
-        "url": "https://www.playground.ru/breathedge_2/news/svet_v_kontse_tonnelya_siyaet_avtory_breathedge_2_anonsirovali_vyhod_v_rannij_dostup_i_raskryli_dorozhnuyu_kartu-1850216#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирована сюжетная ролевая игра Vampire: The Masquerade - Eternal Whispers",
+        "url": "https://www.playground.ru/vampire_the_masquerade_eternal_whispers/news/anonsirovana_syuzhetnaya_rolevaya_igra_vampire_the_masquerade_eternal_whispers-1850442#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_8749640197047058044",
+        "id": "n_-8685885773754973282",
         "date": "2026-06-07",
-        "title": "📰 Разработчики научно-фантастической RPG The Ex...",
+        "title": "📰 Анонсировано обновленное издание классическог...",
         "type": "news",
-        "desc": "Разработчики научно-фантастической RPG The Expanse Osiris Reborn показали новый геймплейный трейлер",
-        "url": "https://www.playground.ru/the_expanse_osiris_reborn/news/razrabotchiki_nauchno_fantasticheskoj_rpg_the_expanse_osiris_reborn_pokazali_novyj_gejmplejnyj_trejler-1850214#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-8648899346974849077",
-        "date": "2026-06-07",
-        "title": "📰 Разработчики Alkahest представили два новых г...",
-        "type": "news",
-        "desc": "Разработчики Alkahest представили два новых геймплейных трейлера на IGN Live и Future Games Show",
-        "url": "https://www.playground.ru/alkahest/news/razrabotchiki_alkahest_predstavili_dva_novyh_gejmplejnyh_trejlera_na_ign_live_i_future_games_show-1850209#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_6876869301605902559",
-        "date": "2026-06-07",
-        "title": "📰 Little Nightmares 3 получит дополнение The Ba...",
-        "type": "news",
-        "desc": "Little Nightmares 3 получит дополнение The Backstage - релиз уже 12 июня",
-        "url": "https://www.playground.ru/little_nightmares_3/news/little_nightmares_3_poluchit_dopolnenie_the_backstage_reliz_uzhe_12_iyunya-1850208#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_7639382968539734448",
-        "date": "2026-06-07",
-        "title": "📰 Новый трейлер Halloween: The Game демонстриру...",
-        "type": "news",
-        "desc": "Новый трейлер Halloween: The Game демонстрирует одиночную кампанию - релиз в сентябре",
-        "url": "https://www.playground.ru/halloween/news/novyj_trejler_halloween_the_game_demonstriruet_odinochnuyu_kampaniyu_reliz_v_sentyabre-1850204#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсировано обновленное издание классического стелс-экшена Thief: The Dark Project Remastered",
+        "url": "https://www.playground.ru/thief_the_dark_project/news/anonsirovano_obnovlennoe_izdanie_klassicheskogo_stels_ekshena_thief_the_dark_project_remastered-1850441#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
