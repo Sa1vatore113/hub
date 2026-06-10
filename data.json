@@ -2,74 +2,50 @@
     {
         "id": "navi_cs_1513122",
         "date": "2026-06-11",
-        "time": "12:00",
-        "title": "🏆 CS2: Round 1: NAVI vs TBD",
+        "time": "19:30",
+        "title": "🏆 CS2: Round 1: NAVI vs TS",
         "type": "navi",
         "desc": "Турнир: IEM. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-3161790884367692762",
-        "date": "2026-06-08",
-        "title": "📰 Сетевой шутер Empulse выйдет 24 июня. Смотрит...",
-        "type": "news",
-        "desc": "Сетевой шутер Empulse выйдет 24 июня. Смотрите геймплейный трейлер",
-        "url": "https://stopgame.ru/newsdata/71779/setevoy_shuter_empulse_vyydet_24_iyunya_smotrite_geympleynyy_trailer"
-    },
-    {
-        "id": "n_4163246395560911852",
-        "date": "2026-06-08",
-        "title": "📰 Джунгли и гигантские звери в релизном трейлер...",
-        "type": "news",
-        "desc": "Джунгли и гигантские звери в релизном трейлере DLC In the Jungle для Dave the Diver ",
-        "url": "https://stopgame.ru/newsdata/71775/dzhungli_i_gigantskie_zveri_v_reliznom_trailere_dlc_in_the_jungle_dlya_dave_the_diver"
-    },
-    {
-        "id": "n_-7173957529810945148",
-        "date": "2026-06-08",
-        "title": "📰 Анонс Carcass Clad — кооперативного хоррор-эк...",
-        "type": "news",
-        "desc": "Анонс Carcass Clad — кооперативного хоррор-экшена про танкистов от авторов Mouthwashing",
-        "url": "https://stopgame.ru/newsdata/71774/anons_carcass_clad_kooperativnogo_horror_ekshena_pro_tankistov_ot_avtorov_mouthwashing"
-    },
-    {
-        "id": "n_7388955191970893010",
-        "date": "2026-06-08",
-        "title": "📰 Для новой Fable анонсировали дополнение Order...",
-        "type": "news",
-        "desc": "Для новой Fable анонсировали дополнение Order of the Hero",
-        "url": "https://stopgame.ru/newsdata/71769/dlya_novoy_fable_anonsirovali_dopolnenie_order_of_the_hero"
-    },
-    {
-        "id": "n_-2889560879088389178",
-        "date": "2026-06-08",
-        "title": "📰 Stronghold 4, новая Vampire: The Masquerade, ...",
-        "type": "news",
-        "desc": "Stronghold 4, новая Vampire: The Masquerade, ремастер Thief и другие анонсы с PC Gaming Show",
-        "url": "https://stopgame.ru/newsdata/71767/stronghold_4_novaya_vampire_the_masquerade_remaster_thief_i_drugie_anonsy_s_pc_gaming_show"
-    },
-    {
-        "id": "n_-7375113399069007470",
-        "date": "2026-06-07",
-        "title": "📰 Анонсы на XBOX Games Showcase — Gears of War:...",
-        "type": "news",
-        "desc": "Анонсы на XBOX Games Showcase — Gears of War: E-Day, Fable, Persona 6 и многое другое",
-        "url": "https://stopgame.ru/newsdata/71766/anonsy_na_xbox_games_showcase_gears_of_war_e_day_fable_persona_6_i_mnogoe_drugoe"
-    },
-    {
-        "id": "n_844892182855875334",
+        "id": "n_-4984682648707372178",
         "date": "2026-06-09",
-        "title": "📰 Студия DarkSpeech подготовила русскую версию ...",
+        "title": "📰 Все анонсы на Nintendo Direct — новая Xenobla...",
         "type": "news",
-        "desc": "Студия DarkSpeech подготовила русскую версию геймплейного трейлера METRO 2039",
-        "url": "https://www.playground.ru/metro_4/news/studiya_darkspeech_podgotovila_russkuyu_versiyu_gejmplejnogo_trejlera_metro_2039-1850734#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Все анонсы на Nintendo Direct — новая Xenoblade, ремейк Ocarina of Time, Kingdom Hearts IV...",
+        "url": "https://stopgame.ru/newsdata/71789/vse_anonsy_na_nintendo_direct_novaya_xenoblade_remeyk_ocarina_of_time_kingdom_hearts_iv"
     },
     {
-        "id": "n_-72591467180982149",
+        "id": "n_7649812042057996017",
         "date": "2026-06-09",
-        "title": "📰 Для Sea of Thieves анонсирован бесплатный ред...",
+        "title": "📰 Сюжетный трейлер и системные требования Halo:...",
         "type": "news",
-        "desc": "Для Sea of Thieves анонсирован бесплатный редактор режимов Custom Seas",
-        "url": "https://www.playground.ru/sea_of_thieves/news/dlya_sea_of_thieves_anonsirovan_besplatnyj_redaktor_rezhimov_custom_seas-1850732#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Сюжетный трейлер и системные требования Halo: Campaign Evolved",
+        "url": "https://stopgame.ru/newsdata/71785/syuzhetnyy_trailer_i_sistemnye_trebovaniya_halo_campaign_evolved"
+    },
+    {
+        "id": "n_-8921314570908573946",
+        "date": "2026-06-10",
+        "title": "📰 Анонсирована версия Lords of the Fallen 2 для...",
+        "type": "news",
+        "desc": "Анонсирована версия Lords of the Fallen 2 для Nintendo Switch 2 - она выйдет одновременно со всеми другими платформами",
+        "url": "https://www.playground.ru/lords_of_the_fallen_2/news/anonsirovana_versiya_lords_of_the_fallen_2_dlya_nintendo_switch_2_ona_vyjdet_odnovremenno_so_vsemi_drugimi_platformami-1851023#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-5530773137294350280",
+        "date": "2026-06-09",
+        "title": "📰 Состоялся релиз 1-й главы фанатской кампании ...",
+        "type": "news",
+        "desc": "Состоялся релиз 1-й главы фанатской кампании Rise of the Alliance для Warcraft III: Reforged",
+        "url": "https://www.playground.ru/warcraft_3_reforged/news/sostoyalsya_reliz_1_j_glavy_fanatskoj_kampanii_rise_of_the_alliance_dlya_warcraft_iii_reforged-1851003#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_8250790252487007356",
+        "date": "2026-06-09",
+        "title": "📰 Разработчики King's Bounty: The Legend выпуст...",
+        "type": "news",
+        "desc": "Разработчики King's Bounty: The Legend выпустили финальное бета-обновление перед полноценным релизом патча",
+        "url": "https://www.playground.ru/kings_bounty_the_legend/news/razrabotchiki_kings_bounty_the_legend_vypustili_finalnoe_beta_obnovlenie_pered_polnotsennym_relizom_patcha-1850991#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
