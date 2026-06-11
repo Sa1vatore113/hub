@@ -9,43 +9,51 @@
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-4984682648707372178",
-        "date": "2026-06-09",
-        "title": "📰 Все анонсы на Nintendo Direct — новая Xenobla...",
-        "type": "news",
-        "desc": "Все анонсы на Nintendo Direct — новая Xenoblade, ремейк Ocarina of Time, Kingdom Hearts IV...",
-        "url": "https://stopgame.ru/newsdata/71789/vse_anonsy_na_nintendo_direct_novaya_xenoblade_remeyk_ocarina_of_time_kingdom_hearts_iv"
-    },
-    {
-        "id": "n_7649812042057996017",
-        "date": "2026-06-09",
-        "title": "📰 Сюжетный трейлер и системные требования Halo:...",
-        "type": "news",
-        "desc": "Сюжетный трейлер и системные требования Halo: Campaign Evolved",
-        "url": "https://stopgame.ru/newsdata/71785/syuzhetnyy_trailer_i_sistemnye_trebovaniya_halo_campaign_evolved"
-    },
-    {
-        "id": "n_-8921314570908573946",
+        "id": "n_8905366476318763222",
         "date": "2026-06-10",
-        "title": "📰 Анонсирована версия Lords of the Fallen 2 для...",
+        "title": "📰 Упоротый ролевой экшен Stupid Never Dies полу...",
         "type": "news",
-        "desc": "Анонсирована версия Lords of the Fallen 2 для Nintendo Switch 2 - она выйдет одновременно со всеми другими платформами",
-        "url": "https://www.playground.ru/lords_of_the_fallen_2/news/anonsirovana_versiya_lords_of_the_fallen_2_dlya_nintendo_switch_2_ona_vyjdet_odnovremenno_so_vsemi_drugimi_platformami-1851023#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Упоротый ролевой экшен Stupid Never Dies получил второй геймплейный трейлер и окно релиза",
+        "url": "https://stopgame.ru/newsdata/71797/uporotyy_rolevoy_ekshen_stupid_never_dies_poluchil_vtoroy_geympleynyy_trailer_i_okno_reliza"
     },
     {
-        "id": "n_-5530773137294350280",
-        "date": "2026-06-09",
-        "title": "📰 Состоялся релиз 1-й главы фанатской кампании ...",
+        "id": "n_-1936159386311772219",
+        "date": "2026-06-10",
+        "title": "📰 Capcom занята улучшением Dragon&#039;s Dogma ...",
         "type": "news",
-        "desc": "Состоялся релиз 1-й главы фанатской кампании Rise of the Alliance для Warcraft III: Reforged",
-        "url": "https://www.playground.ru/warcraft_3_reforged/news/sostoyalsya_reliz_1_j_glavy_fanatskoj_kampanii_rise_of_the_alliance_dlya_warcraft_iii_reforged-1851003#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Capcom занята улучшением Dragon&#039;s Dogma II перед релизом DLC",
+        "url": "https://stopgame.ru/newsdata/71795/capcom_zanyata_uluchsheniem_dragons_dogma_ii_pered_relizom_dlc"
     },
     {
-        "id": "n_8250790252487007356",
-        "date": "2026-06-09",
-        "title": "📰 Разработчики King's Bounty: The Legend выпуст...",
+        "id": "n_-8959743598610035193",
+        "date": "2026-06-11",
+        "title": "📰 Трейлер Spyro: A Realm Beyond набрал более 12...",
         "type": "news",
-        "desc": "Разработчики King's Bounty: The Legend выпустили финальное бета-обновление перед полноценным релизом патча",
-        "url": "https://www.playground.ru/kings_bounty_the_legend/news/razrabotchiki_kings_bounty_the_legend_vypustili_finalnoe_beta_obnovlenie_pered_polnotsennym_relizom_patcha-1850991#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Трейлер Spyro: A Realm Beyond набрал более 12 млн просмотров, превзойдя по этому показателю трейлер Crash Bandicoot 4",
+        "url": "https://www.playground.ru/spyro_a_realm_beyond/news/trejler_spyro_a_realm_beyond_nabral_bolee_12_mln_prosmotrov_prevzojdya_po_etomu_pokazatelyu_trejler_crash_bandicoot_4-1851328#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_59830576858879472",
+        "date": "2026-06-10",
+        "title": "📰 Геймплейный трейлер брутальной игры Nekome: N...",
+        "type": "news",
+        "desc": "Геймплейный трейлер брутальной игры Nekome: Nazi Hunter показывает взрывной экшен вместе с бесшумным стелсом",
+        "url": "https://www.playground.ru/nekome_nazi_hunter/news/gejmplejnyj_trejler_brutalnoj_igry_nekome_nazi_hunter_pokazyvaet_vzryvnoj_ekshen_vmeste_s_besshumnym_stelsom-1851296#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_8263541640279216032",
+        "date": "2026-06-10",
+        "title": "📰 Служба поддержки S.T.A.L.K.E.R. 2 случайно сл...",
+        "type": "news",
+        "desc": "Служба поддержки S.T.A.L.K.E.R. 2 случайно слила детали релиза первого DLC и патча 2.0",
+        "url": "https://www.playground.ru/stalker_2/news/sluzhba_podderzhki_s_t_a_l_k_e_r_2_sluchajno_slila_detali_reliza_pervogo_dlc_i_patcha_2_0-1851294#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_6065021281382626187",
+        "date": "2026-06-10",
+        "title": "📰 Bandai Namco анонсировала демо-версию ролевой...",
+        "type": "news",
+        "desc": "Bandai Namco анонсировала демо-версию ролевой игры Echoes of Aincrad",
+        "url": "https://www.playground.ru/echoes_of_aincrad/news/bandai_namco_anonsirovala_demo_versiyu_rolevoj_igry_echoes_of_aincrad-1851293#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
