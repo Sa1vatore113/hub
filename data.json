@@ -1,59 +1,59 @@
 [
     {
-        "id": "navi_cs_1513122",
-        "date": "2026-06-11",
-        "time": "19:30",
-        "title": "🏆 CS2: Round 1: NAVI vs TS",
+        "id": "navi_cs_1513132",
+        "date": "2026-06-12",
+        "time": "17:00",
+        "title": "🏆 CS2: Round 2: NAVI vs LGC",
         "type": "navi",
         "desc": "Турнир: IEM. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_8905366476318763222",
-        "date": "2026-06-10",
-        "title": "📰 Упоротый ролевой экшен Stupid Never Dies полу...",
-        "type": "news",
-        "desc": "Упоротый ролевой экшен Stupid Never Dies получил второй геймплейный трейлер и окно релиза",
-        "url": "https://stopgame.ru/newsdata/71797/uporotyy_rolevoy_ekshen_stupid_never_dies_poluchil_vtoroy_geympleynyy_trailer_i_okno_reliza"
-    },
-    {
-        "id": "n_-1936159386311772219",
-        "date": "2026-06-10",
-        "title": "📰 Capcom занята улучшением Dragon&#039;s Dogma ...",
-        "type": "news",
-        "desc": "Capcom занята улучшением Dragon&#039;s Dogma II перед релизом DLC",
-        "url": "https://stopgame.ru/newsdata/71795/capcom_zanyata_uluchsheniem_dragons_dogma_ii_pered_relizom_dlc"
-    },
-    {
-        "id": "n_-8959743598610035193",
+        "id": "n_-7454320380432096784",
         "date": "2026-06-11",
-        "title": "📰 Трейлер Spyro: A Realm Beyond набрал более 12...",
+        "title": "📰 Анонсирована The Detectorist Guild — воксельн...",
         "type": "news",
-        "desc": "Трейлер Spyro: A Realm Beyond набрал более 12 млн просмотров, превзойдя по этому показателю трейлер Crash Bandicoot 4",
-        "url": "https://www.playground.ru/spyro_a_realm_beyond/news/trejler_spyro_a_realm_beyond_nabral_bolee_12_mln_prosmotrov_prevzojdya_po_etomu_pokazatelyu_trejler_crash_bandicoot_4-1851328#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирована The Detectorist Guild — воксельный RPG-симулятор про поиски клада",
+        "url": "https://stopgame.ru/newsdata/71823/anonsirovana_the_detectorist_guild_vokselnyy_rpg_simulyator_pro_poiski_klada"
     },
     {
-        "id": "n_59830576858879472",
-        "date": "2026-06-10",
-        "title": "📰 Геймплейный трейлер брутальной игры Nekome: N...",
+        "id": "n_-2869313839767880962",
+        "date": "2026-06-11",
+        "title": "📰 Парные пистолеты и быстрый байк в геймплейном...",
         "type": "news",
-        "desc": "Геймплейный трейлер брутальной игры Nekome: Nazi Hunter показывает взрывной экшен вместе с бесшумным стелсом",
-        "url": "https://www.playground.ru/nekome_nazi_hunter/news/gejmplejnyj_trejler_brutalnoj_igry_nekome_nazi_hunter_pokazyvaet_vzryvnoj_ekshen_vmeste_s_besshumnym_stelsom-1851296#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Парные пистолеты и быстрый байк в геймплейном трейлере Шион — новой героини в Overwatch",
+        "url": "https://stopgame.ru/newsdata/71820/parnye_pistolety_i_bystryy_bayk_v_geympleynom_trailere_shion_novoy_geroini_v_overwatch"
     },
     {
-        "id": "n_8263541640279216032",
-        "date": "2026-06-10",
-        "title": "📰 Служба поддержки S.T.A.L.K.E.R. 2 случайно сл...",
+        "id": "n_-4021440757146611824",
+        "date": "2026-06-11",
+        "title": "📰 Релиз соулслайка Valor Mortis передвинули на ...",
         "type": "news",
-        "desc": "Служба поддержки S.T.A.L.K.E.R. 2 случайно слила детали релиза первого DLC и патча 2.0",
-        "url": "https://www.playground.ru/stalker_2/news/sluzhba_podderzhki_s_t_a_l_k_e_r_2_sluchajno_slila_detali_reliza_pervogo_dlc_i_patcha_2_0-1851294#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релиз соулслайка Valor Mortis передвинули на 13 октября",
+        "url": "https://stopgame.ru/newsdata/71816/reliz_soulslayka_valor_mortis_peredvinuli_na_13_oktyabrya"
     },
     {
-        "id": "n_6065021281382626187",
-        "date": "2026-06-10",
-        "title": "📰 Bandai Namco анонсировала демо-версию ролевой...",
+        "id": "n_4839282914598782467",
+        "date": "2026-06-11",
+        "title": "📰 Состоялся релиз третьего DLC для Warhammer 40...",
         "type": "news",
-        "desc": "Bandai Namco анонсировала демо-версию ролевой игры Echoes of Aincrad",
-        "url": "https://www.playground.ru/echoes_of_aincrad/news/bandai_namco_anonsirovala_demo_versiyu_rolevoj_igry_echoes_of_aincrad-1851293#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся релиз третьего DLC для Warhammer 40,000: Rogue Trader",
+        "url": "https://stopgame.ru/newsdata/71814/sostoyalsya_reliz_tretego_dlc_dlya_warhammer_40_000_rogue_trader"
+    },
+    {
+        "id": "n_-5797560012230498564",
+        "date": "2026-06-12",
+        "title": "📰 Йоко Таро заявил, что обязательно купит Stell...",
+        "type": "news",
+        "desc": "Йоко Таро заявил, что обязательно купит Stellar Blade: Blood Rain после анонса игры",
+        "url": "https://www.playground.ru/stellar_blade_2/news/joko_taro_zayavil_chto_obyazatelno_kupit_stellar_blade_blood_rain_posle_anonsa_igry-1851616#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-7427460987748553291",
+        "date": "2026-06-12",
+        "title": "📰 Геймплейный трейлер Шион - нового героя Overw...",
+        "type": "news",
+        "desc": "Геймплейный трейлер Шион - нового героя Overwatch",
+        "url": "https://www.playground.ru/overwatch/news/gejmplejnyj_trejler_shion_novogo_geroya_overwatch-1851601#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
