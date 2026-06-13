@@ -1,15 +1,31 @@
 [
     {
-        "id": "navi_cs_1513132",
-        "date": "2026-06-12",
-        "time": "17:00",
-        "title": "🏆 CS2: Round 2: NAVI vs LGC",
+        "id": "navi_cs_1513136",
+        "date": "2026-06-13",
+        "time": "12:00",
+        "title": "🏆 CS2: Round 3: NAVI vs MGLZ",
         "type": "navi",
         "desc": "Турнир: IEM. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-7454320380432096784",
+        "id": "n_-2972174571614166419",
+        "date": "2026-06-12",
+        "title": "📰 Кооперативный ролевой экшен Crimson Moon обрё...",
+        "type": "news",
+        "desc": "Кооперативный ролевой экшен Crimson Moon обрёл окно релиза в свежем трейлере",
+        "url": "https://stopgame.ru/newsdata/71827/kooperativnyy_rolevoy_ekshen_crimson_moon_obrel_okno_reliza_v_svezhem_trailere"
+    },
+    {
+        "id": "n_6773337214042884253",
+        "date": "2026-06-12",
+        "title": "📰 Анонс The Walking Dead: Streets of Survival —...",
+        "type": "news",
+        "desc": "Анонс The Walking Dead: Streets of Survival — аркадного битемапа по мотивам «Ходячих мертвецов»",
+        "url": "https://stopgame.ru/newsdata/71826/anons_the_walking_dead_streets_of_survival_arkadnogo_bitemapa_po_motivam_hodyachih_mertvecov"
+    },
+    {
+        "id": "n_-2855809806662127289",
         "date": "2026-06-11",
         "title": "📰 Анонсирована The Detectorist Guild — воксельн...",
         "type": "news",
@@ -17,43 +33,19 @@
         "url": "https://stopgame.ru/newsdata/71823/anonsirovana_the_detectorist_guild_vokselnyy_rpg_simulyator_pro_poiski_klada"
     },
     {
-        "id": "n_-2869313839767880962",
-        "date": "2026-06-11",
-        "title": "📰 Парные пистолеты и быстрый байк в геймплейном...",
+        "id": "n_1194569205554326578",
+        "date": "2026-06-13",
+        "title": "📰 Кооперативное безумие по Лавкрафту: вышел бол...",
         "type": "news",
-        "desc": "Парные пистолеты и быстрый байк в геймплейном трейлере Шион — новой героини в Overwatch",
-        "url": "https://stopgame.ru/newsdata/71820/parnye_pistolety_i_bystryy_bayk_v_geympleynom_trailere_shion_novoy_geroini_v_overwatch"
+        "desc": "Кооперативное безумие по Лавкрафту: вышел большой обзорный геймплейный трейлер хоррора The Mound: Omen of Cthulhu",
+        "url": "https://www.playground.ru/mound_omen_of_cthulhu/news/kooperativnoe_bezumie_po_lavkraftu_vyshel_bolshoj_obzornyj_gejmplejnyj_trejler_horrora_the_mound_omen_of_cthulhu-1851881#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-4021440757146611824",
-        "date": "2026-06-11",
-        "title": "📰 Релиз соулслайка Valor Mortis передвинули на ...",
+        "id": "n_-2073945863588127059",
+        "date": "2026-06-13",
+        "title": "📰 SNK анонсировала сразу две новые игры по Meta...",
         "type": "news",
-        "desc": "Релиз соулслайка Valor Mortis передвинули на 13 октября",
-        "url": "https://stopgame.ru/newsdata/71816/reliz_soulslayka_valor_mortis_peredvinuli_na_13_oktyabrya"
-    },
-    {
-        "id": "n_4839282914598782467",
-        "date": "2026-06-11",
-        "title": "📰 Состоялся релиз третьего DLC для Warhammer 40...",
-        "type": "news",
-        "desc": "Состоялся релиз третьего DLC для Warhammer 40,000: Rogue Trader",
-        "url": "https://stopgame.ru/newsdata/71814/sostoyalsya_reliz_tretego_dlc_dlya_warhammer_40_000_rogue_trader"
-    },
-    {
-        "id": "n_-5797560012230498564",
-        "date": "2026-06-12",
-        "title": "📰 Йоко Таро заявил, что обязательно купит Stell...",
-        "type": "news",
-        "desc": "Йоко Таро заявил, что обязательно купит Stellar Blade: Blood Rain после анонса игры",
-        "url": "https://www.playground.ru/stellar_blade_2/news/joko_taro_zayavil_chto_obyazatelno_kupit_stellar_blade_blood_rain_posle_anonsa_igry-1851616#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-7427460987748553291",
-        "date": "2026-06-12",
-        "title": "📰 Геймплейный трейлер Шион - нового героя Overw...",
-        "type": "news",
-        "desc": "Геймплейный трейлер Шион - нового героя Overwatch",
-        "url": "https://www.playground.ru/overwatch/news/gejmplejnyj_trejler_shion_novogo_geroya_overwatch-1851601#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "SNK анонсировала сразу две новые игры по Metal Slug",
+        "url": "https://www.playground.ru/metal_slug_3/news/snk_anonsirovala_srazu_dve_novye_igry_po_metal_slug-1851875#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
