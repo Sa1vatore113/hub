@@ -1,15 +1,15 @@
 [
     {
-        "id": "navi_cs_1513136",
-        "date": "2026-06-13",
-        "time": "12:00",
-        "title": "🏆 CS2: Round 3: NAVI vs MGLZ",
+        "id": "navi_cs_1513148",
+        "date": "2026-06-14",
+        "time": "20:00",
+        "title": "🏆 CS2: Round 4: NAVI vs FAL",
         "type": "navi",
         "desc": "Турнир: IEM. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-2972174571614166419",
+        "id": "n_-1274205000600240717",
         "date": "2026-06-12",
         "title": "📰 Кооперативный ролевой экшен Crimson Moon обрё...",
         "type": "news",
@@ -17,7 +17,7 @@
         "url": "https://stopgame.ru/newsdata/71827/kooperativnyy_rolevoy_ekshen_crimson_moon_obrel_okno_reliza_v_svezhem_trailere"
     },
     {
-        "id": "n_6773337214042884253",
+        "id": "n_958671037804761737",
         "date": "2026-06-12",
         "title": "📰 Анонс The Walking Dead: Streets of Survival —...",
         "type": "news",
@@ -25,7 +25,7 @@
         "url": "https://stopgame.ru/newsdata/71826/anons_the_walking_dead_streets_of_survival_arkadnogo_bitemapa_po_motivam_hodyachih_mertvecov"
     },
     {
-        "id": "n_-2855809806662127289",
+        "id": "n_970698501722626792",
         "date": "2026-06-11",
         "title": "📰 Анонсирована The Detectorist Guild — воксельн...",
         "type": "news",
@@ -33,19 +33,19 @@
         "url": "https://stopgame.ru/newsdata/71823/anonsirovana_the_detectorist_guild_vokselnyy_rpg_simulyator_pro_poiski_klada"
     },
     {
-        "id": "n_1194569205554326578",
-        "date": "2026-06-13",
-        "title": "📰 Кооперативное безумие по Лавкрафту: вышел бол...",
+        "id": "n_3267489569690690524",
+        "date": "2026-06-14",
+        "title": "📰 Анонсирован ремастер классической point'n'cli...",
         "type": "news",
-        "desc": "Кооперативное безумие по Лавкрафту: вышел большой обзорный геймплейный трейлер хоррора The Mound: Omen of Cthulhu",
-        "url": "https://www.playground.ru/mound_omen_of_cthulhu/news/kooperativnoe_bezumie_po_lavkraftu_vyshel_bolshoj_obzornyj_gejmplejnyj_trejler_horrora_the_mound_omen_of_cthulhu-1851881#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирован ремастер классической point'n'click-адвенчуры Secret Files: Tunguska",
+        "url": "https://www.playground.ru/secret_files_tunguska/news/anonsirovan_remaster_klassicheskoj_pointnclick_advenchury_secret_files_tunguska-1852083#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-2073945863588127059",
-        "date": "2026-06-13",
-        "title": "📰 SNK анонсировала сразу две новые игры по Meta...",
+        "id": "n_6459621559048660312",
+        "date": "2026-06-14",
+        "title": "📰 Жизнь на спине морского гиганта: для The Wand...",
         "type": "news",
-        "desc": "SNK анонсировала сразу две новые игры по Metal Slug",
-        "url": "https://www.playground.ru/metal_slug_3/news/snk_anonsirovala_srazu_dve_novye_igry_po_metal_slug-1851875#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Жизнь на спине морского гиганта: для The Wandering Village анонсировали дополнение The Last Leviathan",
+        "url": "https://www.playground.ru/wandering_village/news/zhizn_na_spine_morskogo_giganta_dlya_the_wandering_village_anonsirovali_dopolnenie_the_last_leviathan-1852081#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
