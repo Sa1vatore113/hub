@@ -1,15 +1,15 @@
 [
     {
-        "id": "navi_cs_1513148",
-        "date": "2026-06-14",
+        "id": "navi_cs_1513152",
+        "date": "2026-06-15",
         "time": "20:00",
-        "title": "🏆 CS2: Round 4: NAVI vs FAL",
+        "title": "🏆 CS2: Round 5: NAVI vs G2",
         "type": "navi",
         "desc": "Турнир: IEM. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-1274205000600240717",
+        "id": "n_7372513334114722411",
         "date": "2026-06-12",
         "title": "📰 Кооперативный ролевой экшен Crimson Moon обрё...",
         "type": "news",
@@ -17,7 +17,7 @@
         "url": "https://stopgame.ru/newsdata/71827/kooperativnyy_rolevoy_ekshen_crimson_moon_obrel_okno_reliza_v_svezhem_trailere"
     },
     {
-        "id": "n_958671037804761737",
+        "id": "n_8319860503075913668",
         "date": "2026-06-12",
         "title": "📰 Анонс The Walking Dead: Streets of Survival —...",
         "type": "news",
@@ -25,7 +25,7 @@
         "url": "https://stopgame.ru/newsdata/71826/anons_the_walking_dead_streets_of_survival_arkadnogo_bitemapa_po_motivam_hodyachih_mertvecov"
     },
     {
-        "id": "n_970698501722626792",
+        "id": "n_8407634557357094110",
         "date": "2026-06-11",
         "title": "📰 Анонсирована The Detectorist Guild — воксельн...",
         "type": "news",
@@ -33,19 +33,27 @@
         "url": "https://stopgame.ru/newsdata/71823/anonsirovana_the_detectorist_guild_vokselnyy_rpg_simulyator_pro_poiski_klada"
     },
     {
-        "id": "n_3267489569690690524",
-        "date": "2026-06-14",
-        "title": "📰 Анонсирован ремастер классической point'n'cli...",
+        "id": "n_-1596912884684223872",
+        "date": "2026-06-15",
+        "title": "📰 Пиксельный \"Скайрим\" на пороге: World of Ante...",
         "type": "news",
-        "desc": "Анонсирован ремастер классической point'n'click-адвенчуры Secret Files: Tunguska",
-        "url": "https://www.playground.ru/secret_files_tunguska/news/anonsirovan_remaster_klassicheskoj_pointnclick_advenchury_secret_files_tunguska-1852083#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Пиксельный \"Скайрим\" на пороге: World of Anterra получила геймплейный трейлер и готовится к раннему доступу",
+        "url": "https://www.playground.ru/world_of_anterra/news/pikselnyj_skajrim_na_poroge_world_of_anterra_poluchila_gejmplejnyj_trejler_i_gotovitsya_k_rannemu_dostupu-1852293#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_6459621559048660312",
+        "id": "n_-4321023991703613825",
         "date": "2026-06-14",
-        "title": "📰 Жизнь на спине морского гиганта: для The Wand...",
+        "title": "📰 Китайский ответ Hades: был анонсирован стильн...",
         "type": "news",
-        "desc": "Жизнь на спине морского гиганта: для The Wandering Village анонсировали дополнение The Last Leviathan",
-        "url": "https://www.playground.ru/wandering_village/news/zhizn_na_spine_morskogo_giganta_dlya_the_wandering_village_anonsirovali_dopolnenie_the_last_leviathan-1852081#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Китайский ответ Hades: был анонсирован стильный экшен рогалик Dinghai: The Ocean Pillar",
+        "url": "https://www.playground.ru/dinghai_the_ocean_pillar/news/kitajskij_otvet_hades_byl_anonsirovan_stilnyj_ekshen_rogalik_dinghai_the_ocean_pillar-1852270#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_8985819007364970219",
+        "date": "2026-06-14",
+        "title": "📰 Красота рисовки и хардкорные парирования: све...",
+        "type": "news",
+        "desc": "Красота рисовки и хардкорные парирования: свежий геймплейный трейлер Torii Beyond The Gates впечатляет визуальным стилем",
+        "url": "https://www.playground.ru/torii_beyond_the_gates/news/krasota_risovki_i_hardkornye_parirovaniya_svezhij_gejmplejnyj_trejler_torii_beyond_the_gates_vpechatlyaet_vizualnym_stilem-1852256#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
