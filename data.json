@@ -1,59 +1,42 @@
 [
     {
-        "id": "navi_cs_1513152",
+        "id": "n_-64531509863341773",
         "date": "2026-06-15",
-        "time": "20:00",
-        "title": "🏆 CS2: Round 5: NAVI vs G2",
-        "type": "navi",
-        "desc": "Турнир: IEM. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
-    },
-    {
-        "id": "n_7372513334114722411",
-        "date": "2026-06-12",
-        "title": "📰 Кооперативный ролевой экшен Crimson Moon обрё...",
+        "title": "📰 The Blood of Dawnwalker может получить нескол...",
         "type": "news",
-        "desc": "Кооперативный ролевой экшен Crimson Moon обрёл окно релиза в свежем трейлере",
-        "url": "https://stopgame.ru/newsdata/71827/kooperativnyy_rolevoy_ekshen_crimson_moon_obrel_okno_reliza_v_svezhem_trailere"
+        "desc": "The Blood of Dawnwalker может получить несколько бесплатных DLC после релиза",
+        "url": "https://stopgame.ru/newsdata/71841/the_blood_of_dawnwalker_mozhet_poluchit_neskolko_besplatnyh_dlc_posle_reliza"
     },
     {
-        "id": "n_8319860503075913668",
-        "date": "2026-06-12",
-        "title": "📰 Анонс The Walking Dead: Streets of Survival —...",
-        "type": "news",
-        "desc": "Анонс The Walking Dead: Streets of Survival — аркадного битемапа по мотивам «Ходячих мертвецов»",
-        "url": "https://stopgame.ru/newsdata/71826/anons_the_walking_dead_streets_of_survival_arkadnogo_bitemapa_po_motivam_hodyachih_mertvecov"
-    },
-    {
-        "id": "n_8407634557357094110",
-        "date": "2026-06-11",
-        "title": "📰 Анонсирована The Detectorist Guild — воксельн...",
-        "type": "news",
-        "desc": "Анонсирована The Detectorist Guild — воксельный RPG-симулятор про поиски клада",
-        "url": "https://stopgame.ru/newsdata/71823/anonsirovana_the_detectorist_guild_vokselnyy_rpg_simulyator_pro_poiski_klada"
-    },
-    {
-        "id": "n_-1596912884684223872",
+        "id": "n_7233169319864207991",
         "date": "2026-06-15",
-        "title": "📰 Пиксельный \"Скайрим\" на пороге: World of Ante...",
+        "title": "📰 Разработичики Overwatch опубликовали трейлер ...",
         "type": "news",
-        "desc": "Пиксельный \"Скайрим\" на пороге: World of Anterra получила геймплейный трейлер и готовится к раннему доступу",
-        "url": "https://www.playground.ru/world_of_anterra/news/pikselnyj_skajrim_na_poroge_world_of_anterra_poluchila_gejmplejnyj_trejler_i_gotovitsya_k_rannemu_dostupu-1852293#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Разработичики Overwatch опубликовали трейлер запуска сезона - \"В логово тигра\"",
+        "url": "https://www.playground.ru/overwatch/news/razrabotichiki_overwatch_opublikovali_trejler_zapuska_sezona_v_logovo_tigra-1852557#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-4321023991703613825",
-        "date": "2026-06-14",
-        "title": "📰 Китайский ответ Hades: был анонсирован стильн...",
+        "id": "n_-3953944382499375701",
+        "date": "2026-06-15",
+        "title": "📰 Бывший разработчик Naughty Dog объяснил отсут...",
         "type": "news",
-        "desc": "Китайский ответ Hades: был анонсирован стильный экшен рогалик Dinghai: The Ocean Pillar",
-        "url": "https://www.playground.ru/dinghai_the_ocean_pillar/news/kitajskij_otvet_hades_byl_anonsirovan_stilnyj_ekshen_rogalik_dinghai_the_ocean_pillar-1852270#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Бывший разработчик Naughty Dog объяснил отсутствие Intergalactic на State of Play: трейлеры отнимают месяцы разработки",
+        "url": "https://www.playground.ru/intergalactic_the_heretic_prophet/news/byvshij_razrabotchik_naughty_dog_obyasnil_otsutstvie_intergalactic_na_state_of_play_trejlery_otnimayut_mesyatsy_razrabotki-1852549#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_8985819007364970219",
-        "date": "2026-06-14",
-        "title": "📰 Красота рисовки и хардкорные парирования: све...",
+        "id": "n_-1076113380135786788",
+        "date": "2026-06-15",
+        "title": "📰 Релиз гибридного процессора Serpent Lake от I...",
         "type": "news",
-        "desc": "Красота рисовки и хардкорные парирования: свежий геймплейный трейлер Torii Beyond The Gates впечатляет визуальным стилем",
-        "url": "https://www.playground.ru/torii_beyond_the_gates/news/krasota_risovki_i_hardkornye_parirovaniya_svezhij_gejmplejnyj_trejler_torii_beyond_the_gates_vpechatlyaet_vizualnym_stilem-1852256#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релиз гибридного процессора Serpent Lake от Intel и NVIDIA запланирован на первый квартал 2028 года",
+        "url": "https://www.playground.ru/misc/news/reliz_gibridnogo_protsessora_serpent_lake_ot_intel_i_nvidia_zaplanirovan_na_pervyj_kvartal_2028_goda-1852544#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_5159036695814642372",
+        "date": "2026-06-15",
+        "title": "📰 Трейлер обновления 12.0.7 для World of Warcra...",
+        "type": "news",
+        "desc": "Трейлер обновления 12.0.7 для World of Warcraft: Midnight",
+        "url": "https://www.playground.ru/world_of_warcraft/news/trejler_obnovleniya_12_0_7_dlya_world_of_warcraft_midnight-1852542#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
