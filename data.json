@@ -1,50 +1,42 @@
 [
     {
-        "id": "n_-7038277928552139158",
-        "date": "2026-06-16",
-        "title": "📰 Суровые заводы и вулканический пепел в сюжетн...",
-        "type": "news",
-        "desc": "Суровые заводы и вулканический пепел в сюжетном трейлере DLC  Breach of Trust для Frostpunk 2",
-        "url": "https://stopgame.ru/newsdata/71862/surovye_zavody_i_vulkanicheskiy_pepel_v_syuzhetnom_trailere_dlc_breach_of_trust_dlya_frostpunk_2"
-    },
-    {
-        "id": "n_-7181053023588998319",
-        "date": "2026-06-16",
-        "title": "📰 Нарративная RPG The Life and Suffering of Pri...",
-        "type": "news",
-        "desc": "Нарративная RPG The Life and Suffering of Prince Jerian обрела дату релиза — 20 июля",
-        "url": "https://stopgame.ru/newsdata/71861/narrativnaya_rpg_the_life_and_suffering_of_prince_jerian_obrela_datu_reliza_20_iyulya"
-    },
-    {
-        "id": "n_-4075809853849840076",
-        "date": "2026-06-16",
-        "title": "📰 Remedy не собирается переносить релиз Control...",
-        "type": "news",
-        "desc": "Remedy не собирается переносить релиз Control Resonant и готовит большую рекламную кампанию",
-        "url": "https://stopgame.ru/newsdata/71851/remedy_ne_sobiraetsya_perenosit_reliz_control_resonant_i_gotovit_bolshuyu_reklamnuyu_kampaniyu"
-    },
-    {
-        "id": "n_-8217953165577322743",
+        "id": "n_1713904091002909310",
         "date": "2026-06-17",
-        "title": "📰 По сообщениям, Microsoft использовала анонс S...",
+        "title": "📰 СМИ: XBOX позволила Ninja Theory анонсировать...",
         "type": "news",
-        "desc": "По сообщениям, Microsoft использовала анонс Senua для облегчения продажи Ninja Theory",
-        "url": "https://www.playground.ru/senua/news/po_soobscheniyam_microsoft_ispolzovala_anons_senua_dlya_oblegcheniya_prodazhi_ninja_theory-1852847#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "СМИ: XBOX позволила Ninja Theory анонсировать Senua, чтобы привлечь инвесторов",
+        "url": "https://stopgame.ru/newsdata/71866/smi_xbox_pozvolila_ninja_theory_anonsirovat_senua_chtoby_privlech_investorov"
     },
     {
-        "id": "n_6463642716387341814",
+        "id": "n_-6767963060878582202",
         "date": "2026-06-17",
-        "title": "📰 Всю команду Luna Abyss уволили спустя месяц п...",
+        "title": "📰 Вынужденная задержка ради полировки: авторы в...",
         "type": "news",
-        "desc": "Всю команду Luna Abyss уволили спустя месяц после релиза игры",
-        "url": "https://www.playground.ru/luna_abyss/news/vsyu_komandu_luna_abyss_uvolili_spustya_mesyats_posle_reliza_igry-1852838#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Вынужденная задержка ради полировки: авторы выживастика As One We Survive перенесли релиз и выпустили демоверсию",
+        "url": "https://www.playground.ru/as_one_we_survive/news/vynuzhdennaya_zaderzhka_radi_polirovki_avtory_vyzhivastika_as_one_we_survive_perenesli_reliz_i_vypustili_demoversiyu-1853116#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-36286987588263143",
-        "date": "2026-06-16",
-        "title": "📰 Netflix представила эпичный трейлер хоррора \"...",
+        "id": "n_8008182643767218468",
+        "date": "2026-06-17",
+        "title": "📰 Хоррор-ферма на 600 тысяч игроков: создатели ...",
         "type": "news",
-        "desc": "Netflix представила эпичный трейлер хоррора \"Последний дом\" - напряжённая история о семье, запертой в собственном доме",
-        "url": "https://www.playground.ru/misc/news/netflix_predstavila_epichnyj_trejler_horrora_poslednij_dom_napryazhyonnaya_istoriya_o_seme_zapertoj_v_sobstvennom_dome-1852832#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Хоррор-ферма на 600 тысяч игроков: создатели Grave Seasons перенесли дату релиза и показали цикл дня и ночи",
+        "url": "https://www.playground.ru/grave_seasons/news/horror_ferma_na_600_tysyach_igrokov_sozdateli_grave_seasons_perenesli_datu_reliza_i_pokazali_tsikl_dnya_i_nochi-1853104#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_2445772965994304657",
+        "date": "2026-06-17",
+        "title": "📰 Аналитики: Grand Theft Auto 6 уже подталкивае...",
+        "type": "news",
+        "desc": "Аналитики: Grand Theft Auto 6 уже подталкивает игроков к покупке консолей задолго до релиза",
+        "url": "https://www.playground.ru/gta_6/news/analitiki_grand_theft_auto_6_uzhe_podtalkivaet_igrokov_k_pokupke_konsolej_zadolgo_do_reliza-1853098#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_1631647519895204918",
+        "date": "2026-06-17",
+        "title": "📰 Вышел полноценный трейлер фильма \"Человек-пау...",
+        "type": "news",
+        "desc": "Вышел полноценный трейлер фильма \"Человек-паук: Новый день\"",
+        "url": "https://www.playground.ru/misc/news/vyshel_polnotsennyj_trejler_filma_chelovek_pauk_novyj_den-1853096#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
