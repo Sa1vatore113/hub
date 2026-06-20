@@ -1,34 +1,50 @@
 [
     {
-        "id": "n_4784094130656442751",
-        "date": "2026-06-18",
-        "title": "📰 Кот в овощном кошмаре: трейлер платформера Ga...",
-        "type": "news",
-        "desc": "Кот в овощном кошмаре: трейлер платформера Garfield — Escape from Monday",
-        "url": "https://stopgame.ru/newsdata/71894/kot_v_ovoschnom_koshmare_trailer_platformera_garfield_escape_from_monday"
-    },
-    {
-        "id": "n_-2665399995328107444",
-        "date": "2026-06-18",
-        "title": "📰 Состоялся релиз The Adventures of Elliot: The...",
-        "type": "news",
-        "desc": "Состоялся релиз The Adventures of Elliot: The Millennium Tales",
-        "url": "https://stopgame.ru/newsdata/71889/sostoyalsya_reliz_the_adventures_of_elliot_the_millennium_tales"
-    },
-    {
-        "id": "n_-3993034769967626051",
+        "id": "n_-1503114211171087363",
         "date": "2026-06-19",
-        "title": "📰 Rockstar убрала дату выхода Grand Theft Auto ...",
+        "title": "📰 Анонсирована The Grinch 2: Saving Christmas —...",
         "type": "news",
-        "desc": "Rockstar убрала дату выхода Grand Theft Auto 6 с сайта - фанаты опасаются нового переноса",
-        "url": "https://www.playground.ru/gta_6/news/rockstar_ubrala_datu_vyhoda_grand_theft_auto_6_s_sajta_fanaty_opasayutsya_novogo_perenosa-1853376#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирована The Grinch 2: Saving Christmas — 3D-платформер про Гринча",
+        "url": "https://stopgame.ru/newsdata/71906/anonsirovana_the_grinch_2_saving_christmas_3d_platformer_pro_grincha"
     },
     {
-        "id": "n_3031047987128114295",
-        "date": "2026-06-18",
-        "title": "📰 В сеть утекли кадры из нового трейлера \"Одисс...",
+        "id": "n_-6074145702736629680",
+        "date": "2026-06-19",
+        "title": "📰 Слух — релиз Onimusha: Way of the Sword могут...",
         "type": "news",
-        "desc": "В сеть утекли кадры из нового трейлера \"Одиссеи\" Кристофера Нолана: впервые показана Елена Прекрасная",
-        "url": "https://www.playground.ru/misc/news/v_set_utekli_kadry_iz_novogo_trejlera_odissei_kristofera_nolana_vpervye_pokazana_elena_prekrasnaya-1853352#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Слух — релиз Onimusha: Way of the Sword могут перенести на начало сентября",
+        "url": "https://stopgame.ru/newsdata/71899/sluh_reliz_onimusha_way_of_the_sword_mogut_perenesti_na_nachalo_sentyabrya"
+    },
+    {
+        "id": "n_-383059719975743987",
+        "date": "2026-06-19",
+        "title": "📰 SEGA анонсировала отдельную версию Shinobi: A...",
+        "type": "news",
+        "desc": "SEGA анонсировала отдельную версию Shinobi: Art of Vengeance для Nintendo Switch 2",
+        "url": "https://stopgame.ru/newsdata/71897/sega_anonsirovala_otdelnuyu_versiyu_shinobi_art_of_vengeance_dlya_nintendo_switch_2"
+    },
+    {
+        "id": "n_-1264679223688135511",
+        "date": "2026-06-20",
+        "title": "📰 \"Такое бывает раз в жизни\": Тэцуя Номура назв...",
+        "type": "news",
+        "desc": "\"Такое бывает раз в жизни\": Тэцуя Номура назвал анонс FF VII Remake главным моментом своей карьеры",
+        "url": "https://www.playground.ru/final_fantasy_7/news/takoe_byvaet_raz_v_zhizni_tetsuya_nomura_nazval_anons_ff_vii_remake_glavnym_momentom_svoej_karery-1853625#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_5107447509577941367",
+        "date": "2026-06-20",
+        "title": "📰 Анонсировано дополнение Apocalypse для голово...",
+        "type": "news",
+        "desc": "Анонсировано дополнение Apocalypse для головоломки Escape Simulator 2",
+        "url": "https://www.playground.ru/escape_simulator_2/news/anonsirovano_dopolnenie_apocalypse_dlya_golovolomki_escape_simulator_2-1853607#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-4953326026832599951",
+        "date": "2026-06-19",
+        "title": "📰 Релиз пародийной модификации KAYF-LIFE: Compl...",
+        "type": "news",
+        "desc": "Релиз пародийной модификации KAYF-LIFE: Complete Edition для Half-Life 2 в Steam запланирован на 31 июля",
+        "url": "https://www.playground.ru/half_life_2/news/reliz_parodijnoj_modifikatsii_kayf_life_complete_edition_dlya_half_life_2_v_steam_zaplanirovan_na_31_iyulya-1853589#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
