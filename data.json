@@ -1,18 +1,34 @@
 [
     {
-        "id": "n_-4941722365185900859",
-        "date": "2026-06-22",
-        "title": "📰 Состоялся релиз экшен-платформера Dark Scroll...",
+        "id": "n_-8218096252686099714",
+        "date": "2026-06-23",
+        "title": "📰 Смертельные ловушки и командная работа в обзо...",
         "type": "news",
-        "desc": "Состоялся релиз экшен-платформера Dark Scrolls",
-        "url": "https://stopgame.ru/newsdata/71919/sostoyalsya_reliz_ekshen_platformera_dark_scrolls"
+        "desc": "Смертельные ловушки и командная работа в обзорном трейлере геймплея SAW: Genesis",
+        "url": "https://stopgame.ru/newsdata/71936/smertelnye_lovushki_i_komandnaya_rabota_v_reviewnom_trailere_geympleya_saw_genesis"
     },
     {
-        "id": "n_7050274242692557078",
-        "date": "2026-06-22",
-        "title": "📰 Анонсирован кооперативный хоррор Give Us A Si...",
+        "id": "n_-3999444909296980050",
+        "date": "2026-06-23",
+        "title": "📰 Анонс Cresata — нового экшен-платформера в фэ...",
         "type": "news",
-        "desc": "Анонсирован кооперативный хоррор Give Us A Sign в духе знаменитой Phasmophobia",
-        "url": "https://www.playground.ru/give_us_a_sign/news/anonsirovan_kooperativnyj_horror_give_us_a_sign_v_duhe_znamenitoj_phasmophobia-1854315#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонс Cresata — нового экшен-платформера в фэнтезийном сеттинге",
+        "url": "https://stopgame.ru/newsdata/71932/anons_cresata_novogo_ekshen_platformera_v_fenteziynom_settinge"
+    },
+    {
+        "id": "n_-3093154176504732466",
+        "date": "2026-06-23",
+        "title": "📰 Анонс кино по Sea of Thieves и подробнее о Ge...",
+        "type": "news",
+        "desc": "Анонс кино по Sea of Thieves и подробнее о Gears of War — об экранизациях игр XBOX ",
+        "url": "https://stopgame.ru/newsdata/71926/anons_kino_po_sea_of_thieves_i_podrobnee_o_gears_of_war_ob_ekranizaciyah_igr_xbox"
+    },
+    {
+        "id": "n_6669665431895910220",
+        "date": "2026-06-23",
+        "title": "📰 Ubisoft раскрыли важные подробности Assassin'...",
+        "type": "news",
+        "desc": "Ubisoft раскрыли важные подробности Assassin's Creed Black Flag Resynced перед релизом",
+        "url": "https://www.playground.ru/assassins_creed_4_black_flag/news/ubisoft_raskryli_vazhnye_podrobnosti_assassins_creed_black_flag_resynced_pered_relizom-1854577#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
