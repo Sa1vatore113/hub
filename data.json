@@ -1,26 +1,42 @@
 [
     {
-        "id": "n_-810982833616820773",
-        "date": "2026-06-28",
-        "title": "📰 Riot Games анонсировала League of Legends Cla...",
+        "id": "n_8101374549010629523",
+        "date": "2026-06-29",
+        "title": "📰 Взрывы, кровь и киберпсихоз в новом тизер-тре...",
         "type": "news",
-        "desc": "Riot Games анонсировала League of Legends Classic",
-        "url": "https://stopgame.ru/newsdata/71989/riot_games_anonsirovala_league_of_legends_classic"
+        "desc": "Взрывы, кровь и киберпсихоз в новом тизер-трейлере Cyberpunk: Edgerunners 2",
+        "url": "https://stopgame.ru/newsdata/72001/vzryvy_krov_i_kiberpsihoz_v_novom_tizer_trailere_cyberpunk_edgerunners_2"
     },
     {
-        "id": "n_219246292186758277",
-        "date": "2026-06-26",
-        "title": "📰 Смотрите новый трейлер аниме-адаптации Sekiro...",
+        "id": "n_70952779809216744",
+        "date": "2026-06-29",
+        "title": "📰 Продюсер Onimusha: Way of the Sword не боится...",
         "type": "news",
-        "desc": "Смотрите новый трейлер аниме-адаптации Sekiro: Shadows Die Twice",
-        "url": "https://stopgame.ru/newsdata/71976/smotrite_novyy_trailer_anime_adaptacii_sekiro_shadows_die_twice"
+        "desc": "Продюсер Onimusha: Way of the Sword не боится сентябрьской «мясорубки» релизов",
+        "url": "https://stopgame.ru/newsdata/72000/prodyuser_onimusha_way_of_the_sword_ne_boitsya_sentyabrskoy_myasorubki_relizov"
     },
     {
-        "id": "n_9012399795425258509",
-        "date": "2026-06-28",
-        "title": "📰 Разработчики сюжетной выживалки Online 404 пе...",
+        "id": "n_-5073987024532217841",
+        "date": "2026-06-29",
+        "title": "📰 Авторы Virtua Fighter Crossroads показали тре...",
         "type": "news",
-        "desc": "Разработчики сюжетной выживалки Online 404 перенесли релиз раннего доступа на 2 месяца",
-        "url": "https://www.playground.ru/online_404/news/razrabotchiki_syuzhetnoj_vyzhivalki_online_404_perenesli_reliz_rannego_dostupa_na_2_mesyatsa-1855680#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Авторы Virtua Fighter Crossroads показали трейлер зловещего убийцы",
+        "url": "https://stopgame.ru/newsdata/71999/avtory_virtua_fighter_crossroads_pokazali_trailer_zloveschego_ubiycy"
+    },
+    {
+        "id": "n_6570410538350063206",
+        "date": "2026-06-30",
+        "title": "📰 Marvel Tokon: Fighting Souls раскрыла полный ...",
+        "type": "news",
+        "desc": "Marvel Tokon: Fighting Souls раскрыла полный стартовый ростер - 20 персонажей и 5 команд на релизе",
+        "url": "https://www.playground.ru/marvel_tokon_fighting_souls/news/marvel_tokon_fighting_souls_raskryla_polnyj_startovyj_roster_20_personazhej_i_5_komand_na_relize-1855956#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-5684681967731677285",
+        "date": "2026-06-29",
+        "title": "📰 Ubisoft показала трейлер дополнения The Hippo...",
+        "type": "news",
+        "desc": "Ubisoft показала трейлер дополнения The Hippodrome для Anno 117: Pax Romana и запустила творческий конкурс",
+        "url": "https://www.playground.ru/anno_117_pax_romana/news/ubisoft_pokazala_trejler_dopolneniya_the_hippodrome_dlya_anno_117_pax_romana_i_zapustila_tvorcheskij_konkurs-1855933#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
