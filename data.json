@@ -1,6 +1,38 @@
 [
     {
-        "id": "n_8101374549010629523",
+        "id": "n_-5030068167289989445",
+        "date": "2026-06-30",
+        "title": "📰 Тактическая RPG Frosthaven выйдет в полноценн...",
+        "type": "news",
+        "desc": "Тактическая RPG Frosthaven выйдет в полноценный релиз 15 октября",
+        "url": "https://stopgame.ru/newsdata/72013/takticheskaya_rpg_frosthaven_vyydet_v_polnocennyy_reliz_15_oktyabrya"
+    },
+    {
+        "id": "n_5358059683221560509",
+        "date": "2026-06-30",
+        "title": "📰 Saber опубликовала новый геймплейный трейлер ...",
+        "type": "news",
+        "desc": "Saber опубликовала новый геймплейный трейлер Turok: Origins",
+        "url": "https://stopgame.ru/newsdata/72010/saber_opublikovala_novyy_geympleynyy_trailer_turok_origins"
+    },
+    {
+        "id": "n_7170405878422237422",
+        "date": "2026-06-30",
+        "title": "📰 Анонс Guns of Eschaton — соулслайк-вестерна о...",
+        "type": "news",
+        "desc": "Анонс Guns of Eschaton — соулслайк-вестерна от арт-директора Half-Life 2 и Dishonored",
+        "url": "https://stopgame.ru/newsdata/72008/anons_guns_of_eschaton_soulslayk_vesterna_ot_art_direktora_half_life_2_i_dishonored"
+    },
+    {
+        "id": "n_-6892242333326541698",
+        "date": "2026-06-30",
+        "title": "📰 Продажи Dead or Alive 6 составили 1 млн копий...",
+        "type": "news",
+        "desc": "Продажи Dead or Alive 6 составили 1 млн копий спустя 7 лет с релиза",
+        "url": "https://stopgame.ru/newsdata/72007/prodazhi_dead_or_alive_6_sostavili_1_mln_kopiy_spustya_7_let_s_reliza"
+    },
+    {
+        "id": "n_-5604985177216351720",
         "date": "2026-06-29",
         "title": "📰 Взрывы, кровь и киберпсихоз в новом тизер-тре...",
         "type": "news",
@@ -8,35 +40,19 @@
         "url": "https://stopgame.ru/newsdata/72001/vzryvy_krov_i_kiberpsihoz_v_novom_tizer_trailere_cyberpunk_edgerunners_2"
     },
     {
-        "id": "n_70952779809216744",
-        "date": "2026-06-29",
-        "title": "📰 Продюсер Onimusha: Way of the Sword не боится...",
+        "id": "n_-5890595433663542204",
+        "date": "2026-07-01",
+        "title": "📰 Состоялся релиз DLC Holland Style Tuning Pack...",
         "type": "news",
-        "desc": "Продюсер Onimusha: Way of the Sword не боится сентябрьской «мясорубки» релизов",
-        "url": "https://stopgame.ru/newsdata/72000/prodyuser_onimusha_way_of_the_sword_ne_boitsya_sentyabrskoy_myasorubki_relizov"
+        "desc": "Состоялся релиз DLC Holland Style Tuning Pack для Euro Truck Simulator 2",
+        "url": "https://www.playground.ru/euro_truck_simulator_2/news/sostoyalsya_reliz_dlc_holland_style_tuning_pack_dlya_euro_truck_simulator_2-1856209#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-5073987024532217841",
-        "date": "2026-06-29",
-        "title": "📰 Авторы Virtua Fighter Crossroads показали тре...",
-        "type": "news",
-        "desc": "Авторы Virtua Fighter Crossroads показали трейлер зловещего убийцы",
-        "url": "https://stopgame.ru/newsdata/71999/avtory_virtua_fighter_crossroads_pokazali_trailer_zloveschego_ubiycy"
-    },
-    {
-        "id": "n_6570410538350063206",
+        "id": "n_4429630828920394599",
         "date": "2026-06-30",
-        "title": "📰 Marvel Tokon: Fighting Souls раскрыла полный ...",
+        "title": "📰 Состоялся анонс Forsaken Fleet - психологичес...",
         "type": "news",
-        "desc": "Marvel Tokon: Fighting Souls раскрыла полный стартовый ростер - 20 персонажей и 5 команд на релизе",
-        "url": "https://www.playground.ru/marvel_tokon_fighting_souls/news/marvel_tokon_fighting_souls_raskryla_polnyj_startovyj_roster_20_personazhej_i_5_komand_na_relize-1855956#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-5684681967731677285",
-        "date": "2026-06-29",
-        "title": "📰 Ubisoft показала трейлер дополнения The Hippo...",
-        "type": "news",
-        "desc": "Ubisoft показала трейлер дополнения The Hippodrome для Anno 117: Pax Romana и запустила творческий конкурс",
-        "url": "https://www.playground.ru/anno_117_pax_romana/news/ubisoft_pokazala_trejler_dopolneniya_the_hippodrome_dlya_anno_117_pax_romana_i_zapustila_tvorcheskij_konkurs-1855933#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся анонс Forsaken Fleet - психологического пиратского хоррора от первого лица",
+        "url": "https://www.playground.ru/forsaken_fleet/news/sostoyalsya_anons_forsaken_fleet_psihologicheskogo_piratskogo_horrora_ot_pervogo_litsa-1856182#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
