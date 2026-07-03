@@ -45,43 +45,27 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_927786033841985280",
-        "date": "2026-07-01",
-        "title": "📰 Авторы Windrose анонсировали первое контентно...",
-        "type": "news",
-        "desc": "Авторы Windrose анонсировали первое контентное обновление",
-        "url": "https://stopgame.ru/newsdata/72023/avtory_windrose_anonsirovali_pervoe_kontentnoe_obnovlenie"
-    },
-    {
-        "id": "n_3742781904812103117",
+        "id": "n_6676048863841967173",
         "date": "2026-07-02",
-        "title": "📰 Эллиот Пейдж появился в финальном трейлере \"О...",
+        "title": "📰 Ян исследует Оазис в геймплейном трейлере The...",
         "type": "news",
-        "desc": "Эллиот Пейдж появился в финальном трейлере \"Одиссеи\" Нолана",
-        "url": "https://www.playground.ru/misc/news/elliot_pejdzh_poyavilsya_v_finalnom_trejlere_odissei_nolana-1856485#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Ян исследует Оазис в геймплейном трейлере The Alters: Last Variable ",
+        "url": "https://stopgame.ru/newsdata/72040/yan_issleduet_oazis_v_geympleynom_trailere_the_alters_last_variable"
     },
     {
-        "id": "n_2334094075247820851",
+        "id": "n_-5402075912057846294",
         "date": "2026-07-02",
-        "title": "📰 Assassin's Creed Black Flag Resynced прошла п...",
+        "title": "📰 Frictional Games перенесла релиз ONTOS на 202...",
         "type": "news",
-        "desc": "Assassin's Creed Black Flag Resynced прошла проверку для Steam Deck перед релизом",
-        "url": "https://www.playground.ru/assassins_creed_4_black_flag/news/assassins_creed_black_flag_resynced_proshla_proverku_dlya_steam_deck_pered_relizom-1856465#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Frictional Games перенесла релиз ONTOS на 2027 год",
+        "url": "https://stopgame.ru/newsdata/72038/frictional_games_perenesla_reliz_ontos_na_2027_god"
     },
     {
-        "id": "n_-2173252033914393777",
-        "date": "2026-07-01",
-        "title": "📰 Разработчики \"Смуты\" анонсировали новую истор...",
+        "id": "n_904580119881791980",
+        "date": "2026-07-02",
+        "title": "📰 Состоялся показ трейлера симулятора Doloc Tow...",
         "type": "news",
-        "desc": "Разработчики \"Смуты\" анонсировали новую историческую экшен-игру \"Земский собор: Решающий выбор\"",
-        "url": "https://www.playground.ru/zemskij_sobor_reshayushij_vybor/news/razrabotchiki_smuty_anonsirovali_novuyu_istoricheskuyu_ekshen_igru_zemskij_sobor_reshayuschij_vybor-1856455#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_6324790668406734980",
-        "date": "2026-07-01",
-        "title": "📰 Разработчики Duke Nukem: Zero Hour рассказали...",
-        "type": "news",
-        "desc": "Разработчики Duke Nukem: Zero Hour рассказали о трудностях создания шутера спустя 27 лет после релиза",
-        "url": "https://www.playground.ru/duke_nukem_3d/news/razrabotchiki_duke_nukem_zero_hour_rasskazali_o_trudnostyah_sozdaniya_shutera_spustya_27_let_posle_reliza-1856454#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся показ трейлера симулятора Doloc Town с анонсом даты выхода из раннего доступа",
+        "url": "https://www.playground.ru/doloc_town/news/sostoyalsya_pokaz_trejlera_simulyatora_doloc_town_s_anonsom_daty_vyhoda_iz_rannego_dostupa-1856686#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
