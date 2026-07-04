@@ -45,7 +45,39 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_6676048863841967173",
+        "id": "n_4816760623836441493",
+        "date": "2026-07-03",
+        "title": "📰 Forza Horizon 6 и Mina the Hollower среди луч...",
+        "type": "news",
+        "desc": "Forza Horizon 6 и Mina the Hollower среди лучших релизов первой половины 2026-го по версии Metacritic",
+        "url": "https://stopgame.ru/newsdata/72047/forza_horizon_6_i_mina_the_hollower_sredi_luchshih_relizov_pervoy_poloviny_2026_go_po_versii_metacritic"
+    },
+    {
+        "id": "n_-588198338305524949",
+        "date": "2026-07-03",
+        "title": "📰 Утечка: Final Fantasy VII Revelation получит ...",
+        "type": "news",
+        "desc": "Утечка: Final Fantasy VII Revelation получит сюжетное DLC после релиза",
+        "url": "https://stopgame.ru/newsdata/72045/utechka_final_fantasy_vii_revelation_poluchit_syuzhetnoe_dlc_posle_reliza"
+    },
+    {
+        "id": "n_6067804595248041357",
+        "date": "2026-07-03",
+        "title": "📰 Новый трейлер Persona 4 Revival посвятили про...",
+        "type": "news",
+        "desc": "Новый трейлер Persona 4 Revival посвятили протагонисту",
+        "url": "https://stopgame.ru/newsdata/72044/novyy_trailer_persona_4_revival_posvyatili_protagonistu"
+    },
+    {
+        "id": "n_7806564298393798817",
+        "date": "2026-07-03",
+        "title": "📰 Анонсирован стратегический рогалик Company of...",
+        "type": "news",
+        "desc": "Анонсирован стратегический рогалик Company of Heroes 3: Final Stand",
+        "url": "https://stopgame.ru/newsdata/72043/anonsirovan_strategicheskiy_rogalik_company_of_heroes_3_final_stand"
+    },
+    {
+        "id": "n_-653062253231525698",
         "date": "2026-07-02",
         "title": "📰 Ян исследует Оазис в геймплейном трейлере The...",
         "type": "news",
@@ -53,19 +85,11 @@
         "url": "https://stopgame.ru/newsdata/72040/yan_issleduet_oazis_v_geympleynom_trailere_the_alters_last_variable"
     },
     {
-        "id": "n_-5402075912057846294",
-        "date": "2026-07-02",
-        "title": "📰 Frictional Games перенесла релиз ONTOS на 202...",
+        "id": "n_-2771798175146910483",
+        "date": "2026-07-04",
+        "title": "📰 Состоялся релиз пиратского дополнения ARK Tid...",
         "type": "news",
-        "desc": "Frictional Games перенесла релиз ONTOS на 2027 год",
-        "url": "https://stopgame.ru/newsdata/72038/frictional_games_perenesla_reliz_ontos_na_2027_god"
-    },
-    {
-        "id": "n_904580119881791980",
-        "date": "2026-07-02",
-        "title": "📰 Состоялся показ трейлера симулятора Doloc Tow...",
-        "type": "news",
-        "desc": "Состоялся показ трейлера симулятора Doloc Town с анонсом даты выхода из раннего доступа",
-        "url": "https://www.playground.ru/doloc_town/news/sostoyalsya_pokaz_trejlera_simulyatora_doloc_town_s_anonsom_daty_vyhoda_iz_rannego_dostupa-1856686#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся релиз пиратского дополнения ARK Tides of Fortune для симулятора выживания ARK: Survival Ascended",
+        "url": "https://www.playground.ru/ark_survival_evolved/news/sostoyalsya_reliz_piratskogo_dopolneniya_ark_tides_of_fortune_dlya_simulyatora_vyzhivaniya_ark_survival_ascended-1856932#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
