@@ -45,27 +45,43 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_2547874536405074583",
-        "date": "2026-07-06",
-        "title": "📰 Для первой Path of Exile анонсировали глобаль...",
+        "id": "n_5612762666473002494",
+        "date": "2026-07-08",
+        "title": "📰 Анонс Sponge Break — потешного коопа о путеше...",
         "type": "news",
-        "desc": "Для первой Path of Exile анонсировали глобальное обновление «Проклятие Всепламени»",
-        "url": "https://stopgame.ru/newsdata/72058/dlya_pervoy_path_of_exile_anonsirovali_globalnoe_obnovlenie_proklyatie_vseplameni"
+        "desc": "Анонс Sponge Break — потешного коопа о путешествии на плоту",
+        "url": "https://stopgame.ru/newsdata/72079/anons_sponge_break_poteshnogo_koopa_o_puteshestvii_na_plotu"
     },
     {
-        "id": "n_3174609992047467765",
-        "date": "2026-07-06",
-        "title": "📰 Вышел новый демонстрационный трейлер мрачного...",
+        "id": "n_-4103420082916096834",
+        "date": "2026-07-07",
+        "title": "📰 Второй трейлер Flesh &amp; Wire — психологиче...",
         "type": "news",
-        "desc": "Вышел новый демонстрационный трейлер мрачного ролевого экшена Crimson Moon с объяснением игрового процесса",
-        "url": "https://www.playground.ru/crimson_moon/news/vyshel_novyj_demonstratsionnyj_trejler_mrachnogo_rolevogo_ekshena_crimson_moon_s_obyasneniem_igrovogo_protsessa-1857555#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Второй трейлер Flesh &amp; Wire — психологического хоррор-шутера от авторов Postal ",
+        "url": "https://stopgame.ru/newsdata/72075/vtoroy_trailer_flesh_and_wire_psihologicheskogo_horror_shutera_ot_avtorov_postal"
     },
     {
-        "id": "n_-2957873353339262237",
-        "date": "2026-07-06",
-        "title": "📰 Вышел новый трейлер космической песочницы Spa...",
+        "id": "n_5344974622593599179",
+        "date": "2026-07-07",
+        "title": "📰 Assassin’s Creed: Black Flag Resynced вернула...",
         "type": "news",
-        "desc": "Вышел новый трейлер космической песочницы Space Engineers 2 в честь релиза крупного обновления VS2.3",
-        "url": "https://www.playground.ru/space_engineers_2/news/vyshel_novyj_trejler_kosmicheskoj_pesochnitsy_space_engineers_2_v_chest_reliza_krupnogo_obnovleniya_vs2_3-1857550#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Assassin’s Creed: Black Flag Resynced вернулась топ-10 чарта Steam перед релизом",
+        "url": "https://stopgame.ru/newsdata/72072/assassin_s_creed_black_flag_resynced_vernulas_top_10_charta_steam_pered_relizom"
+    },
+    {
+        "id": "n_-9102689590492000875",
+        "date": "2026-07-08",
+        "title": "📰 Появился трейлер \"слитой\" в Сеть \"Легенды об ...",
+        "type": "news",
+        "desc": "Появился трейлер \"слитой\" в Сеть \"Легенды об Аанге\"",
+        "url": "https://www.playground.ru/misc/news/poyavilsya_trejler_slitoj_v_set_legendy_ob_aange-1857883#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-867973669488369616",
+        "date": "2026-07-08",
+        "title": "📰 Надежды больше нет: Джейсон Шрайер предупрежд...",
+        "type": "news",
+        "desc": "Надежды больше нет: Джейсон Шрайер предупреждает, что релиз The Elder Scrolls 6 состоится еще не скоро",
+        "url": "https://www.playground.ru/elder_scrolls_6/news/nadezhdy_bolshe_net_dzhejson_shrajer_preduprezhdaet_chto_reliz_the_elder_scrolls_6_sostoitsya_esche_ne_skoro-1857866#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
