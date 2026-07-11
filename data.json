@@ -45,19 +45,43 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_-6772737474060335251",
-        "date": "2026-07-09",
-        "title": "📰 Новые палы, регионы и не только в релизном тр...",
+        "id": "n_8633379251623489041",
+        "date": "2026-07-10",
+        "title": "📰 За день с релиза Assassin’s Creed: Black Flag...",
         "type": "news",
-        "desc": "Новые палы, регионы и не только в релизном трейлере Palworld ",
-        "url": "https://stopgame.ru/newsdata/72099/novye_paly_regiony_i_ne_tolko_v_reliznom_trailere_palworld"
+        "desc": "За день с релиза Assassin’s Creed: Black Flag Resynced разошлась тиражом в 2 млн копий",
+        "url": "https://stopgame.ru/newsdata/72126/za_den_s_reliza_assassin_s_creed_black_flag_resynced_razoshlas_tirazhom_v_2_mln_kopiy"
     },
     {
-        "id": "n_642611996365971536",
-        "date": "2026-07-09",
-        "title": "📰 Издательство Hooded Horse анонсировало симуля...",
+        "id": "n_8511073835743255699",
+        "date": "2026-07-10",
+        "title": "📰 Palworld вышла в полноценный релиз и получила...",
         "type": "news",
-        "desc": "Издательство Hooded Horse анонсировало симулятор океанского судна Rogue Carrier в жанре Roguelite",
-        "url": "https://www.playground.ru/rogue_carrier/news/izdatelstvo_hooded_horse_anonsirovalo_simulyator_okeanskogo_sudna_rogue_carrier_v_zhanre_roguelite-1858426#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Palworld вышла в полноценный релиз и получила тонну нового контента",
+        "url": "https://stopgame.ru/newsdata/72118/palworld_vyshla_v_polnocennyy_reliz_i_poluchila_tonnu_novogo_kontenta"
+    },
+    {
+        "id": "n_-1076004350369182983",
+        "date": "2026-07-11",
+        "title": "📰 Состоялся релиз постапокалиптической глобальн...",
+        "type": "news",
+        "desc": "Состоялся релиз постапокалиптической глобальной стратегии Machinefall от независимого разработчика",
+        "url": "https://www.playground.ru/machinefall/news/sostoyalsya_reliz_postapokalipticheskoj_globalnoj_strategii_machinefall_ot_nezavisimogo_razrabotchika-1858668#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6278233080381270438",
+        "date": "2026-07-11",
+        "title": "📰 God of War Laufey выйдет на дисках, что подтв...",
+        "type": "news",
+        "desc": "God of War Laufey выйдет на дисках, что подтверждает релиз в 2027 году",
+        "url": "https://www.playground.ru/god_of_war_laufey/news/god_of_war_laufey_vyjdet_na_diskah_chto_podtverzhdaet_reliz_v_2027_godu-1858667#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_3111050470157999401",
+        "date": "2026-07-10",
+        "title": "📰 Состоялся полноценный релиз утилиты Game Comp...",
+        "type": "news",
+        "desc": "Состоялся полноценный релиз утилиты Game Compressor для оптимизации места на накопителях",
+        "url": "https://www.playground.ru/misc/news/sostoyalsya_polnotsennyj_reliz_utility_game_compressor_dlya_optimizatsii_mesta_na_nakopitelyah-1858649#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
