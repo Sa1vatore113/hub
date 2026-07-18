@@ -45,35 +45,59 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_-7766579070839246993",
-        "date": "2026-07-16",
-        "title": "📰 «Не герой» — трейлер Marvel&#039;s Wolverine...",
+        "id": "n_-4147395726640766304",
+        "date": "2026-07-17",
+        "title": "📰 Состоялся релиз очаровательного пазл-приключе...",
         "type": "news",
-        "desc": "«Не герой» — трейлер Marvel&#039;s Wolverine",
-        "url": "https://stopgame.ru/newsdata/72192/ne_geroy_trailer_marvels_wolverine"
+        "desc": "Состоялся релиз очаровательного пазл-приключения Moss: The Forgotten Relic",
+        "url": "https://stopgame.ru/newsdata/72207/sostoyalsya_reliz_ocharovatelnogo_pazl_priklyucheniya_moss_the_forgotten_relic"
     },
     {
-        "id": "n_-2626113143945544929",
-        "date": "2026-07-16",
-        "title": "📰 Инди-разработчик пожаловался, что трейлер его...",
+        "id": "n_-7128007285227282483",
+        "date": "2026-07-17",
+        "title": "📰 Экзистенциальный ужас и мясо в сюжетном трейл...",
         "type": "news",
-        "desc": "Инди-разработчик пожаловался, что трейлер его игры утонул в комментариях против Sony",
-        "url": "https://stopgame.ru/newsdata/72184/indi_razrabotchik_pozhalovalsya_chto_trailer_ego_igry_utonul_v_kommentariyah_protiv_sony"
+        "desc": "Экзистенциальный ужас и мясо в сюжетном трейлере GRAFT",
+        "url": "https://stopgame.ru/newsdata/72205/ekzistencialnyy_uzhas_i_myaso_v_syuzhetnom_trailere_graft"
     },
     {
-        "id": "n_3740090494868670297",
-        "date": "2026-07-16",
-        "title": "📰 \"Мы хотим физические копии\": новый трейлер Ma...",
+        "id": "n_6520980010345073357",
+        "date": "2026-07-17",
+        "title": "📰 Новый трейлер Virtua Fighter Crossroads посвя...",
         "type": "news",
-        "desc": "\"Мы хотим физические копии\": новый трейлер Marvel's Wolverine утонул в требованиях вернуть диски",
-        "url": "https://www.playground.ru/marvels_wolverine/news/my_hotim_fizicheskie_kopii_novyj_trejler_marvels_wolverine_utonul_v_trebovaniyah_vernut_diski-1860008#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Новый трейлер Virtua Fighter Crossroads посвятили битвам 1 на 1",
+        "url": "https://stopgame.ru/newsdata/72201/novyy_trailer_virtua_fighter_crossroads_posvyatili_bitvam_1_na_1"
     },
     {
-        "id": "n_-5489900100552843160",
-        "date": "2026-07-16",
-        "title": "📰 \"Я не герой\" - Sony и Insomniac представили н...",
+        "id": "n_6016437819007467921",
+        "date": "2026-07-17",
+        "title": "📰 Мобильную Final Fantasy XIV закроют — игра та...",
         "type": "news",
-        "desc": "\"Я не герой\" - Sony и Insomniac представили новый кинематографический трейлер Marvel's Wolverine",
-        "url": "https://www.playground.ru/marvels_wolverine/news/ya_ne_geroj_sony_i_insomniac_predstavili_novyj_kinematograficheskij_trejler_marvels_wolverine-1859985#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Мобильную Final Fantasy XIV закроют — игра так и не выйдет в мировой релиз",
+        "url": "https://stopgame.ru/newsdata/72200/mobilnuyu_final_fantasy_xiv_zakroyut_igra_tak_i_ne_vyydet_v_mirovoy_reliz"
+    },
+    {
+        "id": "n_5115715658517405654",
+        "date": "2026-07-18",
+        "title": "📰 Вышел финальный релизный трейлер масштабного ...",
+        "type": "news",
+        "desc": "Вышел финальный релизный трейлер масштабного обновления Scrap Mechanic 1.0 под названием Drilling Thunder",
+        "url": "https://www.playground.ru/scrap_mechanic/news/vyshel_finalnyj_reliznyj_trejler_masshtabnogo_obnovleniya_scrap_mechanic_1_0_pod_nazvaniem_drilling_thunder-1860266#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_8498120829560692322",
+        "date": "2026-07-17",
+        "title": "📰 RTX 50 SUPER уже у партнёров, но NVIDIA замор...",
+        "type": "news",
+        "desc": "RTX 50 SUPER уже у партнёров, но NVIDIA заморозила релиз из-за цен на память",
+        "url": "https://www.playground.ru/misc/news/rtx_50_super_uzhe_u_partnyorov_no_nvidia_zamorozila_reliz_iz_za_tsen_na_pamyat-1860236#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-8774535171082522442",
+        "date": "2026-07-17",
+        "title": "📰 Mistfall Hunter получил кинематографический т...",
+        "type": "news",
+        "desc": "Mistfall Hunter получил кинематографический тизер-трейлер",
+        "url": "https://www.playground.ru/mistfall_hunter/news/mistfall_hunter_poluchil_kinematograficheskij_tizer_trejler-1860224#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
