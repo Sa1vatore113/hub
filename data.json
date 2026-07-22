@@ -1,28 +1,28 @@
 [
     {
-        "id": "f_564630",
-        "date": "2026-08-16",
-        "title": "⚽ Barça — Athletic",
-        "type": "foot",
-        "time": "15:00",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Athletic+match"
-    },
-    {
         "id": "f_564642",
         "date": "2026-08-23",
         "title": "⚽ Elche — Barça",
         "type": "foot",
-        "time": "15:00",
+        "time": "19:30",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Elche+—+Barça+match"
     },
     {
+        "id": "f_564630",
+        "date": "2026-08-27",
+        "title": "⚽ Barça — Athletic",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Athletic+match"
+    },
+    {
         "id": "f_564650",
-        "date": "2026-08-30",
+        "date": "2026-08-31",
         "title": "⚽ Barça — Rayo Vallecano",
         "type": "foot",
-        "time": "15:00",
+        "time": "19:30",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Barça+—+Rayo+Vallecano+match"
     },
@@ -45,83 +45,35 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_-2166306989604976985",
-        "date": "2026-07-20",
-        "title": "📰 Новый кинематографический трейлер Dawn of War...",
-        "type": "news",
-        "desc": "Новый кинематографический трейлер Dawn of War IV посвятили некронам",
-        "url": "https://stopgame.ru/newsdata/72230/novyy_kinematograficheskiy_trailer_dawn_of_war_iv_posvyatili_nekronam"
-    },
-    {
-        "id": "n_-1689186776390220185",
-        "date": "2026-07-20",
-        "title": "📰 Рогалик Gennady поселится и на консолях — смо...",
-        "type": "news",
-        "desc": "Рогалик Gennady поселится и на консолях — смотрите новый трейлер",
-        "url": "https://stopgame.ru/newsdata/72229/rogalik_gennady_poselitsya_i_na_konsolyah_smotrite_novyy_trailer"
-    },
-    {
-        "id": "n_-4215628087888358300",
-        "date": "2026-07-20",
-        "title": "📰 Состоялся релиз The Life and Suffering of Pri...",
-        "type": "news",
-        "desc": "Состоялся релиз The Life and Suffering of Prince Jerian ",
-        "url": "https://stopgame.ru/newsdata/72228/sostoyalsya_reliz_the_life_and_suffering_of_prince_jerian"
-    },
-    {
-        "id": "n_3999645140992460730",
-        "date": "2026-07-20",
-        "title": "📰 Анонсирован анимационный сериал по Wuthering ...",
-        "type": "news",
-        "desc": "Анонсирован анимационный сериал по Wuthering Waves",
-        "url": "https://stopgame.ru/newsdata/72220/anonsirovan_animacionnyy_serial_po_wuthering_waves"
-    },
-    {
-        "id": "n_-6783832645735962029",
+        "id": "n_2975150701743351239",
         "date": "2026-07-21",
-        "title": "📰 Трейлер Fatal Fury: City of the Wolves приотк...",
+        "title": "📰 Анонс Wreckreation 2 — аркадной гонки от соос...",
         "type": "news",
-        "desc": "Трейлер Fatal Fury: City of the Wolves приоткрывает завесу тайны над Риком Строудом",
-        "url": "https://www.playground.ru/fatal_fury_city_of_the_wolves/news/trejler_fatal_fury_city_of_the_wolves_priotkryvaet_zavesu_tajny_nad_rikom_stroudom-1860857#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонс Wreckreation 2 — аркадной гонки от соосновательницы Criterion Games",
+        "url": "https://stopgame.ru/newsdata/72240/anons_wreckreation_2_arkadnoy_gonki_ot_soosnovatelnicy_criterion_games"
     },
     {
-        "id": "n_-6747342013178788388",
-        "date": "2026-07-21",
-        "title": "📰 Kalypso Media представила свежий трейлер Trop...",
+        "id": "n_-7283086855936995555",
+        "date": "2026-07-22",
+        "title": "📰 Анонсировано пиратское приключение Smoky Sail...",
         "type": "news",
-        "desc": "Kalypso Media представила свежий трейлер Tropico 7",
-        "url": "https://www.playground.ru/tropico_7/news/kalypso_media_predstavila_svezhij_trejler_tropico_7-1860848#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсировано пиратское приключение Smoky Sails от создателя атмосферной игры Omno",
+        "url": "https://www.playground.ru/misc/news/anonsirovano_piratskoe_priklyuchenie_smoky_sails_ot_sozdatelya_atmosfernoj_igry_omno-1861107#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_7816758804375990339",
-        "date": "2026-07-21",
-        "title": "📰 Состоялся повторный релиз исправленной демове...",
+        "id": "n_6799319219442207660",
+        "date": "2026-07-22",
+        "title": "📰 Симулятор кондуктора Beholder: Conductor полу...",
         "type": "news",
-        "desc": "Состоялся повторный релиз исправленной демоверсии оккультного экшена The Dark West",
-        "url": "https://www.playground.ru/the_dark_west/news/sostoyalsya_povtornyj_reliz_ispravlennoj_demoversii_okkultnogo_ekshena_the_dark_west-1860841#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Симулятор кондуктора Beholder: Conductor получил самую большую скидку в Steam с момента релиза",
+        "url": "https://www.playground.ru/beholder_conductor/news/simulyator_konduktora_beholder_conductor_poluchil_samuyu_bolshuyu_skidku_v_steam_s_momenta_reliza-1861106#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-768871596551162740",
-        "date": "2026-07-21",
-        "title": "📰 Анонсирован условно-бесплатный мобильный файт...",
+        "id": "n_8604799795757734830",
+        "date": "2026-07-22",
+        "title": "📰 Состоялся официальный релиз приключенческой и...",
         "type": "news",
-        "desc": "Анонсирован условно-бесплатный мобильный файтинг DCKO по вселенной DC",
-        "url": "https://www.playground.ru/misc/news/anonsirovan_uslovno_besplatnyj_mobilnyj_fajting_dcko_po_vselennoj_dc-1860840#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-5787049949732363123",
-        "date": "2026-07-20",
-        "title": "📰 Состоялся цифровой релиз \"Мандалорца и Грогу\"...",
-        "type": "news",
-        "desc": "Состоялся цифровой релиз \"Мандалорца и Грогу\" - новый фильм по \"Звёздным войнам\" уже доступен онлайн",
-        "url": "https://www.playground.ru/misc/news/sostoyalsya_tsifrovoj_reliz_mandalortsa_i_grogu_novyj_film_po_zvyozdnym_vojnam_uzhe_dostupen_onlajn-1860832#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_5787733696832946401",
-        "date": "2026-07-20",
-        "title": "📰 Состоялся цифровой релиз \"Очень страшного кин...",
-        "type": "news",
-        "desc": "Состоялся цифровой релиз \"Очень страшного кино 6\" - фильм уже доступен на популярных онлайн-площадках",
-        "url": "https://www.playground.ru/misc/news/sostoyalsya_tsifrovoj_reliz_ochen_strashnogo_kino_6_film_uzhe_dostupen_na_populyarnyh_onlajn_ploschadkah-1860831#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся официальный релиз приключенческой игры Scarlet Deer Inn в цифровом магазине Steam",
+        "url": "https://www.playground.ru/scarlet_deer_inn/news/sostoyalsya_ofitsialnyj_reliz_priklyuchencheskoj_igry_scarlet_deer_inn_v_tsifrovom_magazine_steam-1861104#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
