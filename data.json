@@ -45,11 +45,59 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_-1523761444660323019",
-        "date": "2026-07-23",
-        "title": "📰 Опубликован обзорный трейлер Avatar Legends: ...",
+        "id": "n_7929589139209386056",
+        "date": "2026-07-24",
+        "title": "📰 Marvel&#039;s Wolverine: трейлер с Джин Грей,...",
         "type": "news",
-        "desc": "Опубликован обзорный трейлер Avatar Legends: The Fighting Game - подробности нового режима и возможностей",
-        "url": "https://www.playground.ru/avatar_legends_the_fighting_game/news/opublikovan_obzornyj_trejler_avatar_legends_the_fighting_game_podrobnosti_novogo_rezhima_i_vozmozhnostej-1861360#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Marvel&#039;s Wolverine: трейлер с Джин Грей, новый арт и не только",
+        "url": "https://stopgame.ru/newsdata/72275/marvels_wolverine_trailer_s_dzhin_grey_novyy_art_i_ne_tolko"
+    },
+    {
+        "id": "n_862585722387440499",
+        "date": "2026-07-23",
+        "title": "📰 Файтинг Avatar Legends: смешанные отзывы в St...",
+        "type": "news",
+        "desc": "Файтинг Avatar Legends: смешанные отзывы в Steam и перенос релиза на Xbox Series",
+        "url": "https://stopgame.ru/newsdata/72274/fayting_avatar_legends_smeshannye_otzyvy_v_steam_i_perenos_reliza_na_xbox_series"
+    },
+    {
+        "id": "n_-1044824667320213803",
+        "date": "2026-07-23",
+        "title": "📰 Новый трейлер The Relic: First Guardian посвя...",
+        "type": "news",
+        "desc": "Новый трейлер The Relic: First Guardian посвятили демонстрации боевой системы",
+        "url": "https://stopgame.ru/newsdata/72271/novyy_trailer_the_relic_first_guardian_posvyatili_demonstracii_boevoy_sistemy"
+    },
+    {
+        "id": "n_5761031420372294200",
+        "date": "2026-07-23",
+        "title": "📰 Снежные локации и жуткие зомби в новом трейле...",
+        "type": "news",
+        "desc": "Снежные локации и жуткие зомби в новом трейлере фильма Resident Evil ",
+        "url": "https://stopgame.ru/newsdata/72269/snezhnye_lokacii_i_zhutkie_zombi_v_novom_trailere_filma_resident_evil"
+    },
+    {
+        "id": "n_-6853485679927283208",
+        "date": "2026-07-24",
+        "title": "📰 Фанаты переносят GTA 5 на Nintendo Switch - и...",
+        "type": "news",
+        "desc": "Фанаты переносят GTA 5 на Nintendo Switch - игра уже запускается и выглядит лучше, чем ожидалось",
+        "url": "https://www.playground.ru/gta_5/news/fanaty_perenosyat_gta_5_na_nintendo_switch_igra_uzhe_zapuskaetsya_i_vyglyadit_luchshe_chem_ozhidalos-1861627#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-3623123609741878339",
+        "date": "2026-07-24",
+        "title": "📰 Анонсировано дополнение \"Балтийские державы\" ...",
+        "type": "news",
+        "desc": "Анонсировано дополнение \"Балтийские державы\" для Age of Empires III: Definitive Edition",
+        "url": "https://www.playground.ru/age_of_empires_3/news/anonsirovano_dopolnenie_baltijskie_derzhavy_dlya_age_of_empires_iii_definitive_edition-1861625#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6442334194366877452",
+        "date": "2026-07-24",
+        "title": "📰 Официально объявлена дата выхода пиксельного ...",
+        "type": "news",
+        "desc": "Официально объявлена дата выхода пиксельного экшена Akatori",
+        "url": "https://www.playground.ru/akatori/news/ofitsialno_obyavlena_data_vyhoda_pikselnogo_ekshena_akatori-1861624#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
