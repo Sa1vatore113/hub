@@ -45,7 +45,31 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_-5276088159917257792",
+        "id": "n_-3189649876094117762",
+        "date": "2026-07-30",
+        "title": "📰 Новый трейлер Metal Gear Solid: Master Collec...",
+        "type": "news",
+        "desc": "Новый трейлер Metal Gear Solid: Master Collection Vol.2 посвятили истории Снейков",
+        "url": "https://stopgame.ru/newsdata/72341/novyy_trailer_metal_gear_solid_master_collection_vol2_posvyatili_istorii_sneykov"
+    },
+    {
+        "id": "n_6773656145332384512",
+        "date": "2026-07-30",
+        "title": "📰 Анонс 9 Yin Sutra: Immortal — красочной песоч...",
+        "type": "news",
+        "desc": "Анонс 9 Yin Sutra: Immortal — красочной песочницы в сеттинге восточного фэнтези",
+        "url": "https://stopgame.ru/newsdata/72339/anons_9_yin_sutra_immortal_krasochnoy_pesochnicy_v_settinge_vostochnogo_fentezi"
+    },
+    {
+        "id": "n_-4212673494165663867",
+        "date": "2026-07-30",
+        "title": "📰 Некроны доминируют на поле боя в новом трейле...",
+        "type": "news",
+        "desc": "Некроны доминируют на поле боя в новом трейлере Dawn of War IV",
+        "url": "https://stopgame.ru/newsdata/72336/nekrony_dominiruyut_na_pole_boya_v_novom_trailere_dawn_of_war_iv"
+    },
+    {
+        "id": "n_5513824971989729564",
         "date": "2026-07-30",
         "title": "📰 Создатель Monkey Island Рон Гилберт анонсиров...",
         "type": "news",
@@ -53,19 +77,27 @@
         "url": "https://stopgame.ru/newsdata/72332/sozdatel_monkey_island_ron_gilbert_anonsiroval_thimbleweed_park_2"
     },
     {
-        "id": "n_9144668530656248051",
-        "date": "2026-07-29",
-        "title": "📰 Новый трейлер 1666: Amsterdam посвятили двум ...",
+        "id": "n_-4228004886510121757",
+        "date": "2026-07-31",
+        "title": "📰 Майка Монро - безумная гувернантка: вышел тре...",
         "type": "news",
-        "desc": "Новый трейлер 1666: Amsterdam посвятили двум главным героям",
-        "url": "https://stopgame.ru/newsdata/72329/novyy_trailer_1666_amsterdam_posvyatili_dvum_glavnym_geroyam"
+        "desc": "Майка Монро - безумная гувернантка: вышел трейлер готического хоррора \"Психопатка\"",
+        "url": "https://www.playground.ru/misc/news/majka_monro_bezumnaya_guvernantka_vyshel_trejler_goticheskogo_horrora_psihopatka-1863362#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-107091406750151716",
-        "date": "2026-07-29",
-        "title": "📰 Анонс The Eventide — мистического детектива о...",
+        "id": "n_-1791569085102355141",
+        "date": "2026-07-31",
+        "title": "📰 Состоялся глобальный релиз мобильного экшена ...",
         "type": "news",
-        "desc": "Анонс The Eventide — мистического детектива от выходцев из BioWare",
-        "url": "https://stopgame.ru/newsdata/72327/anons_the_eventide_misticheskogo_detektiva_ot_vyhodcev_iz_bioware"
+        "desc": "Состоялся глобальный релиз мобильного экшена Dynasty Warriors: Overlords на Android и iOS",
+        "url": "https://www.playground.ru/dynasty_warriors_overlords/news/sostoyalsya_globalnyj_reliz_mobilnogo_ekshena_dynasty_warriors_overlords_na_android_i_ios-1863341#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_8390841178382108471",
+        "date": "2026-07-30",
+        "title": "📰 Keychron анонсировала открытую прошивку ZGM д...",
+        "type": "news",
+        "desc": "Keychron анонсировала открытую прошивку ZGM для игровых мышей и раскрыла детали о модели G6 HE",
+        "url": "https://www.playground.ru/misc/news/keychron_anonsirovala_otkrytuyu_proshivku_zgm_dlya_igrovyh_myshej_i_raskryla_detali_o_modeli_g6_he-1863334#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
