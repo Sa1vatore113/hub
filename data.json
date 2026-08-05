@@ -45,27 +45,51 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_5380488395827570047",
-        "date": "2026-08-03",
-        "title": "📰 Анонсирована Palworld Online для мобильных ус...",
+        "id": "n_3228177922681996627",
+        "date": "2026-08-04",
+        "title": "📰 Новые миссии, оружие и транспорт в геймплейно...",
         "type": "news",
-        "desc": "Анонсирована Palworld Online для мобильных устройств",
-        "url": "https://stopgame.ru/newsdata/72361/anonsirovana_palworld_online_dlya_mobilnyh_ustroystv"
+        "desc": "Новые миссии, оружие и транспорт в геймплейном трейлере Mafia: The Old Country — Man of Honor",
+        "url": "https://stopgame.ru/newsdata/72387/novye_missii_oruzhie_i_transport_v_geympleynom_trailere_mafia_the_old_country_man_of_honor"
     },
     {
-        "id": "n_-8028942517802841526",
-        "date": "2026-08-03",
-        "title": "📰 В Steam состоялся релиз пародийной RTS The Sl...",
+        "id": "n_3881689845410668284",
+        "date": "2026-08-04",
+        "title": "📰 4Х-стратегия Endless Legend 2 выйдет в полноц...",
         "type": "news",
-        "desc": "В Steam состоялся релиз пародийной RTS The Slopstar 2: Slop Wars о конфликте художников и нейросетей",
-        "url": "https://www.playground.ru/misc/news/v_steam_sostoyalsya_reliz_parodijnoj_rts_the_slopstar_2_slop_wars_o_konflikte_hudozhnikov_i_nejrosetej-1864140#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "4Х-стратегия Endless Legend 2 выйдет в полноценный релиз 17 сентября",
+        "url": "https://stopgame.ru/newsdata/72386/4h_strategiya_endless_legend_2_vyydet_v_polnocennyy_reliz_17_sentyabrya"
     },
     {
-        "id": "n_-2957003918953297793",
-        "date": "2026-08-03",
-        "title": "📰 На ПК состоялся релиз утилиты Checkpoint64 дл...",
+        "id": "n_6388181551962040092",
+        "date": "2026-08-05",
+        "title": "📰 Кооперативная игра Big Walk от создателей Unt...",
         "type": "news",
-        "desc": "На ПК состоялся релиз утилиты Checkpoint64 для бэкапа и совместного использования сохранений",
-        "url": "https://www.playground.ru/misc/news/na_pk_sostoyalsya_reliz_utility_checkpoint64_dlya_bekapa_i_sovmestnogo_ispolzovaniya_sohranenij-1864139#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Кооперативная игра Big Walk от создателей Untitled Goose Game возглавила чарты продаж Steam в день релиза",
+        "url": "https://www.playground.ru/big_walk/news/kooperativnaya_igra_big_walk_ot_sozdatelej_untitled_goose_game_vozglavila_charty_prodazh_steam_v_den_reliza-1864410#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_5111713134705750761",
+        "date": "2026-08-05",
+        "title": "📰 Состоялся анонс грибного платформера Heart of...",
+        "type": "news",
+        "desc": "Состоялся анонс грибного платформера Heart of Mycelium",
+        "url": "https://www.playground.ru/misc/news/sostoyalsya_anons_gribnogo_platformera_heart_of_mycelium-1864408#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_2800346348702104524",
+        "date": "2026-08-04",
+        "title": "📰 Авторы \"Симулятора Скуфа\" и \"Г.О.П.О.Т.А\" ано...",
+        "type": "news",
+        "desc": "Авторы \"Симулятора Скуфа\" и \"Г.О.П.О.Т.А\" анонсировали симулятор двора \"ДЕТСТВО\"",
+        "url": "https://www.playground.ru/misc/news/avtory_simulyatora_skufa_i_g_o_p_o_t_a_anonsirovali_simulyator_dvora_detstvo-1864396#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-5597260775370395832",
+        "date": "2026-08-04",
+        "title": "📰 В Steam анонсировали симулятор AI Lab Tycoon ...",
+        "type": "news",
+        "desc": "В Steam анонсировали симулятор AI Lab Tycoon о гонке вооружений в сфере искусственного интеллекта",
+        "url": "https://www.playground.ru/misc/news/v_steam_anonsirovali_simulyator_ai_lab_tycoon_o_gonke_vooruzhenij_v_sfere_iskusstvennogo_intellekta-1864395#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
