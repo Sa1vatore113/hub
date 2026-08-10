@@ -45,7 +45,16 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_-6270643723272222567",
+        "id": "navi_cs_1624319",
+        "date": "2026-08-12",
+        "time": "21:00",
+        "title": "🏆 CS2: Upper bracket quarterfinal 1: NAVI vs 3DMAX",
+        "type": "navi",
+        "desc": "Турнир: Esports World Cup. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
+    },
+    {
+        "id": "n_3227235212808648745",
         "date": "2026-08-08",
         "title": "📰 Анонсы с презентации THQ Nordic — новый конте...",
         "type": "news",
@@ -53,7 +62,7 @@
         "url": "https://stopgame.ru/newsdata/72433/anonsy_s_prezentacii_thq_nordic_novyy_kontent_dlya_remeyka_gotiki_obnovlenie_titan_quest_ii_i_ne_tolko"
     },
     {
-        "id": "n_601887585783717384",
+        "id": "n_7434159066642111842",
         "date": "2026-08-07",
         "title": "📰 Основы управления лендспидерами в трейлере St...",
         "type": "news",
@@ -61,7 +70,7 @@
         "url": "https://stopgame.ru/newsdata/72431/osnovy_upravleniya_lendspiderami_v_trailere_star_wars_galactic_racer"
     },
     {
-        "id": "n_2451234908339902724",
+        "id": "n_983558130292493399",
         "date": "2026-08-07",
         "title": "📰 Авторы Valor Mortis поведали о боевой системе...",
         "type": "news",
@@ -69,7 +78,7 @@
         "url": "https://stopgame.ru/newsdata/72424/avtory_valor_mortis_povedali_o_boevoy_sisteme_v_novom_trailere"
     },
     {
-        "id": "n_5494368433614002124",
+        "id": "n_4202924747926744123",
         "date": "2026-08-07",
         "title": "📰 Falcom опубликовала промо-трейлер Trails in t...",
         "type": "news",
@@ -77,7 +86,7 @@
         "url": "https://stopgame.ru/newsdata/72422/falcom_opublikovala_promo_trailer_trails_in_the_sky_2nd_chapter"
     },
     {
-        "id": "n_1835769163340627549",
+        "id": "n_6515861638147731057",
         "date": "2026-08-07",
         "title": "📰 Новый трейлер и геймплейные превью Onimusha: ...",
         "type": "news",
@@ -85,27 +94,19 @@
         "url": "https://stopgame.ru/newsdata/72421/novyy_trailer_i_geympleynye_preview_onimusha_way_of_the_sword"
     },
     {
-        "id": "n_-7635507960022863743",
-        "date": "2026-08-08",
-        "title": "📰 Анонсирован мрачный соулслайк Godless Dawn от...",
+        "id": "n_-4986538593283925769",
+        "date": "2026-08-09",
+        "title": "📰 Разработчики Jurassic World Evolution 3 показ...",
         "type": "news",
-        "desc": "Анонсирован мрачный соулслайк Godless Dawn от одиночного разработчика с полной русской озвучкой",
-        "url": "https://www.playground.ru/godless_dawn/news/anonsirovan_mrachnyj_soulslajk_godless_dawn_ot_odinochnogo_razrabotchika_s_polnoj_russkoj_ozvuchkoj-1865388#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Разработчики Jurassic World Evolution 3 показали семейства шонизавров и их потомство в новом трейлере",
+        "url": "https://www.playground.ru/jurassic_world_evolution_3/news/razrabotchiki_jurassic_world_evolution_3_pokazali_semejstva_shonizavrov_i_ih_potomstvo_v_novom_trejlere-1865538#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_46131223581063636",
-        "date": "2026-08-08",
-        "title": "📰 На шоу THQ Nordic показали новый атмосферный ...",
+        "id": "n_7231974380991720742",
+        "date": "2026-08-09",
+        "title": "📰 Стали известны подробности предварительной за...",
         "type": "news",
-        "desc": "На шоу THQ Nordic показали новый атмосферный трейлер платформера The Eternal Life of Goldman",
-        "url": "https://www.playground.ru/eternal_life_of_goldman/news/na_shou_thq_nordic_pokazali_novyj_atmosfernyj_trejler_platformera_the_eternal_life_of_goldman-1865364#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_1656548508284729709",
-        "date": "2026-08-08",
-        "title": "📰 Анонсирован симулятор выживания In the Van в ...",
-        "type": "news",
-        "desc": "Анонсирован симулятор выживания In the Van в сеттинге \"уютного\" зомби-апокалипсиса",
-        "url": "https://www.playground.ru/in_the_van/news/anonsirovan_simulyator_vyzhivaniya_in_the_van_v_settinge_uyutnogo_zombi_apokalipsisa-1865350#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Стали известны подробности предварительной загрузки и релиза The Sinking City 2",
+        "url": "https://www.playground.ru/sinking_city_2/news/stali_izvestny_podrobnosti_predvaritelnoj_zagruzki_i_reliza_the_sinking_city_2-1865531#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
