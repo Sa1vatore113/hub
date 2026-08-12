@@ -45,35 +45,36 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_5604963132955637643",
-        "date": "2026-08-10",
-        "title": "📰 Пошаговые бои и красочные локации в геймплейн...",
-        "type": "news",
-        "desc": "Пошаговые бои и красочные локации в геймплейном трейлере Forge of the Fae",
-        "url": "https://stopgame.ru/newsdata/72445/poshagovye_boi_i_krasochnye_lokacii_v_geympleynom_trailere_forge_of_the_fae"
+        "id": "navi_cs_1624319",
+        "date": "2026-08-12",
+        "time": "19:30",
+        "title": "🏆 CS2: Upper bracket quarterfinal 1: NAVI vs 3DMAX",
+        "type": "navi",
+        "desc": "Турнир: Esports World Cup. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_6889897515596191421",
+        "id": "n_-4971438385622099258",
         "date": "2026-08-11",
-        "title": "📰 Фанаты Final Fantasy ждут анонса ремейка Dirg...",
+        "title": "📰 Авторы Persona 4 Revival поведали о нововведе...",
         "type": "news",
-        "desc": "Фанаты Final Fantasy ждут анонса ремейка Dirge of Cerberus после нового появления музыканта Gackt в образе Генезиса",
-        "url": "https://www.playground.ru/final_fantasy_7_part_3/news/fanaty_final_fantasy_zhdut_anonsa_remejka_dirge_of_cerberus_posle_novogo_poyavleniya_muzykanta_gackt_v_obraze_genezisa-1865835#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Авторы Persona 4 Revival поведали о нововведениях ремейка в свежем трейлере",
+        "url": "https://stopgame.ru/newsdata/72471/avtory_persona_4_revival_povedali_o_novovvedeniyah_remeyka_v_svezhem_trailere"
     },
     {
-        "id": "n_7264431847006511177",
+        "id": "n_3952037741563727883",
         "date": "2026-08-11",
-        "title": "📰 Состоялся показ трейлера Into the Abyss - кру...",
+        "title": "📰 Глава Saber подтвердил шутку в адрес главы Ge...",
         "type": "news",
-        "desc": "Состоялся показ трейлера Into the Abyss - крупнейшего подводного обновления для выживалки Grounded 2",
-        "url": "https://www.playground.ru/grounded_2/news/sostoyalsya_pokaz_trejlera_into_the_abyss_krupnejshego_podvodnogo_obnovleniya_dlya_vyzhivalki_grounded_2-1865823#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Глава Saber подтвердил шутку в адрес главы Gearbox в трейлере Rideshare «Stimulator»",
+        "url": "https://stopgame.ru/newsdata/72467/glava_saber_podtverdil_shutku_v_adres_glavy_gearbox_v_trailere_rideshare_stimulator"
     },
     {
-        "id": "n_6297450451929870672",
-        "date": "2026-08-10",
-        "title": "📰 В Steam состоялся релиз мрачного пинбол-рогал...",
+        "id": "n_1870933171310413759",
+        "date": "2026-08-11",
+        "title": "📰 Marvel's Wolverine будет полностью доступна н...",
         "type": "news",
-        "desc": "В Steam состоялся релиз мрачного пинбол-рогалика Cult of PiN",
-        "url": "https://www.playground.ru/misc/news/v_steam_sostoyalsya_reliz_mrachnogo_pinbol_rogalika_cult_of_pin-1865818#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Marvel's Wolverine будет полностью доступна на диске на релизе",
+        "url": "https://www.playground.ru/marvels_wolverine/news/marvels_wolverine_budet_polnostyu_dostupna_na_diske_na_relize-1866106#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
