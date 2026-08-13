@@ -45,36 +45,51 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "navi_cs_1624319",
+        "id": "n_-4564045698933066458",
         "date": "2026-08-12",
-        "time": "19:30",
-        "title": "🏆 CS2: Upper bracket quarterfinal 1: NAVI vs 3DMAX",
-        "type": "navi",
-        "desc": "Турнир: Esports World Cup. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
+        "title": "📰 Релиз Warhammer 40,000: Dawn of War IV перене...",
+        "type": "news",
+        "desc": "Релиз Warhammer 40,000: Dawn of War IV перенесли на декабрь",
+        "url": "https://stopgame.ru/newsdata/72487/reliz_warhammer_40_000_dawn_of_war_iv_perenesli_na_dekabr"
     },
     {
-        "id": "n_-4971438385622099258",
-        "date": "2026-08-11",
-        "title": "📰 Авторы Persona 4 Revival поведали о нововведе...",
+        "id": "n_4478105615964339552",
+        "date": "2026-08-13",
+        "title": "📰 Датамайнеры нашли в Marvel Tokon возможных бу...",
         "type": "news",
-        "desc": "Авторы Persona 4 Revival поведали о нововведениях ремейка в свежем трейлере",
-        "url": "https://stopgame.ru/newsdata/72471/avtory_persona_4_revival_povedali_o_novovvedeniyah_remeyka_v_svezhem_trailere"
+        "desc": "Датамайнеры нашли в Marvel Tokon возможных будущих DLC персонажей",
+        "url": "https://www.playground.ru/marvel_tokon_fighting_souls/news/datamajnery_nashli_v_marvel_tokon_vozmozhnyh_buduschih_dlc_personazhej-1866392#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_3952037741563727883",
-        "date": "2026-08-11",
-        "title": "📰 Глава Saber подтвердил шутку в адрес главы Ge...",
+        "id": "n_1593618200082865192",
+        "date": "2026-08-12",
+        "title": "📰 Новый тизер \"Мстителей: Судный день\" может вы...",
         "type": "news",
-        "desc": "Глава Saber подтвердил шутку в адрес главы Gearbox в трейлере Rideshare «Stimulator»",
-        "url": "https://stopgame.ru/newsdata/72467/glava_saber_podtverdil_shutku_v_adres_glavy_gearbox_v_trailere_rideshare_stimulator"
+        "desc": "Новый тизер \"Мстителей: Судный день\" может выйти уже в эту пятницу - но полноценного трейлера может не быть",
+        "url": "https://www.playground.ru/misc/news/novyj_tizer_mstitelej_sudnyj_den_mozhet_vyjti_uzhe_v_etu_pyatnitsu_no_polnotsennogo_trejlera_mozhet_ne_byt-1866374#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_1870933171310413759",
-        "date": "2026-08-11",
-        "title": "📰 Marvel's Wolverine будет полностью доступна н...",
+        "id": "n_-8593359344652586897",
+        "date": "2026-08-12",
+        "title": "📰 Разработчики мода G1R:MP анонсировали первый ...",
         "type": "news",
-        "desc": "Marvel's Wolverine будет полностью доступна на диске на релизе",
-        "url": "https://www.playground.ru/marvels_wolverine/news/marvels_wolverine_budet_polnostyu_dostupna_na_diske_na_relize-1866106#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Разработчики мода G1R:MP анонсировали первый публичный альфа-тест мультиплеера Gothic 1 Remake",
+        "url": "https://www.playground.ru/gothic/news/razrabotchiki_moda_g1r_mp_anonsirovali_pervyj_publichnyj_alfa_test_multipleera_gothic_1_remake-1866363#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_779092621057880035",
+        "date": "2026-08-12",
+        "title": "📰 Релизный трейлер в честь выхода издания Galac...",
+        "type": "news",
+        "desc": "Релизный трейлер в честь выхода издания Galactic Edition для космического экшена - Everspace 2",
+        "url": "https://www.playground.ru/everspace_2/news/reliznyj_trejler_v_chest_vyhoda_izdaniya_galactic_edition_dlya_kosmicheskogo_ekshena_everspace_2-1866350#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-8785147534878753029",
+        "date": "2026-08-12",
+        "title": "📰 Funko анонсировала новые фигурки Лары Крофт в...",
+        "type": "news",
+        "desc": "Funko анонсировала новые фигурки Лары Крофт в честь 30-летия Tomb Raider",
+        "url": "https://www.playground.ru/misc/news/funko_anonsirovala_novye_figurki_lary_kroft_v_chest_30_letiya_tomb_raider-1866349#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
