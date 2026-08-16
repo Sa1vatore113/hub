@@ -45,16 +45,23 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "navi_cs_1624323",
+        "id": "n_-7450015954228429095",
         "date": "2026-08-15",
-        "time": "14:00",
-        "title": "🏆 CS2: Upper bracket semifinal 1: MGLZ vs NAVI",
-        "type": "navi",
-        "desc": "Турнир: Esports World Cup. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
+        "title": "📰 Авторы Have a Nice Death анонсировали приключ...",
+        "type": "news",
+        "desc": "Авторы Have a Nice Death анонсировали приключение NAUTUS про морские глубины",
+        "url": "https://stopgame.ru/newsdata/72524/avtory_have_a_nice_death_anonsirovali_priklyuchenie_nautus_pro_morskie_glubiny"
     },
     {
-        "id": "n_6416562081778006242",
+        "id": "n_3299404715903421858",
+        "date": "2026-08-15",
+        "title": "📰 Kingdom Hearts IV выйдет в конце 2027-го — см...",
+        "type": "news",
+        "desc": "Kingdom Hearts IV выйдет в конце 2027-го — смотрите новый трейлер",
+        "url": "https://stopgame.ru/newsdata/72517/kingdom_hearts_iv_vyydet_v_konce_2027_go_smotrite_novyy_trailer"
+    },
+    {
+        "id": "n_-4502222369950577167",
         "date": "2026-08-15",
         "title": "📰 Анонс High Roller Penny — рогалика про подпол...",
         "type": "news",
@@ -62,83 +69,19 @@
         "url": "https://stopgame.ru/newsdata/72515/anons_high_roller_penny_rogalika_pro_podpolnye_azartnye_igry_i_pachinko"
     },
     {
-        "id": "n_699353681038912601",
-        "date": "2026-08-14",
-        "title": "📰 Тактический геймплей и разнообразные герои в ...",
+        "id": "n_3215303230933368714",
+        "date": "2026-08-16",
+        "title": "📰 Kingdom Hearts 4 впервые показала играбельных...",
         "type": "news",
-        "desc": "Тактический геймплей и разнообразные герои в обзорном трейлере Star Wars: Zero Company ",
-        "url": "https://stopgame.ru/newsdata/72510/takticheskiy_geympley_i_raznoobraznye_geroi_v_reviewnom_trailere_star_wars_zero_company"
+        "desc": "Kingdom Hearts 4 впервые показала играбельных Микки, Дональда и Гуфи в новом трейлере с D23 2026",
+        "url": "https://www.playground.ru/kingdom_hearts_4/news/kingdom_hearts_4_vpervye_pokazala_igrabelnyh_mikki_donalda_i_gufi_v_novom_trejlere_s_d23_2026-1867125#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_1760086712087632421",
-        "date": "2026-08-14",
-        "title": "📰 Анонс .curator — ролевого приключения от авто...",
-        "type": "news",
-        "desc": "Анонс .curator — ролевого приключения от автора «Видоизменённого углерода»",
-        "url": "https://stopgame.ru/newsdata/72508/anons_curator_rolevogo_priklyucheniya_ot_avtora_vidoizmenennogo_ugleroda"
-    },
-    {
-        "id": "n_-6355074383200816116",
-        "date": "2026-08-14",
-        "title": "📰 «Этот остров… ждал меня» — сюжетный трейлер R...",
-        "type": "news",
-        "desc": "«Этот остров… ждал меня» — сюжетный трейлер Resonance: A Plague Tale Legacy",
-        "url": "https://stopgame.ru/newsdata/72505/etot_ostrov_zhdal_menya_syuzhetnyy_trailer_resonance_a_plague_tale_legacy"
-    },
-    {
-        "id": "n_1179949883267130839",
-        "date": "2026-08-14",
-        "title": "📰 Релиз киберпанк-экшена Neo Berlin 2087 намети...",
-        "type": "news",
-        "desc": "Релиз киберпанк-экшена Neo Berlin 2087 наметили на 2028 год",
-        "url": "https://stopgame.ru/newsdata/72502/reliz_kiberpank_ekshena_neo_berlin_2087_nametili_na_2028_god"
-    },
-    {
-        "id": "n_-1056337667824420568",
+        "id": "n_3346855779044365162",
         "date": "2026-08-15",
-        "title": "📰 Lucasfilm показала \"новый\" трейлер Star Wars ...",
+        "title": "📰 Ветеран инди-сцены рассказал о диктатуре и ру...",
         "type": "news",
-        "desc": "Lucasfilm показала \"новый\" трейлер Star Wars Eclipse на D23, но в нём не оказалось новых кадров",
-        "url": "https://www.playground.ru/star_wars_eclipse/news/lucasfilm_pokazala_novyj_trejler_star_wars_eclipse_na_d23_no_v_nyom_ne_okazalos_novyh_kadrov-1866908#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-3840462599233384521",
-        "date": "2026-08-15",
-        "title": "📰 Анонсирована OMEGA: The Dead Planet - продолж...",
-        "type": "news",
-        "desc": "Анонсирована OMEGA: The Dead Planet - продолжение хоррор-боевика Werewolf: The Inner Beast",
-        "url": "https://www.playground.ru/misc/news/anonsirovana_omega_the_dead_planet_prodolzhenie_horror_boevika_werewolf_the_inner_beast-1866894#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_8900126686126372617",
-        "date": "2026-08-15",
-        "title": "📰 Разработчик The Bold Bogey назвал магазин Ste...",
-        "type": "news",
-        "desc": "Разработчик The Bold Bogey назвал магазин Steam пугающим конвейером из-за огромного числа релизов",
-        "url": "https://www.playground.ru/misc/news/razrabotchik_the_bold_bogey_nazval_magazin_steam_pugayuschim_konvejerom_iz_za_ogromnogo_chisla_relizov-1866889#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_8900126686126372617",
-        "date": "2026-08-15",
-        "title": "📰 Разработчик The Bold Bogey назвал магазин Ste...",
-        "type": "news",
-        "desc": "Разработчик The Bold Bogey назвал магазин Steam пугающим конвейером из-за огромного числа релизов",
-        "url": "https://www.playground.ru/misc/news/razrabotchik_the_bold_bogey_nazval_magazin_steam_pugayuschim_konvejerom_iz_za_ogromnogo_chisla_relizov-1866890#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_4809336856665274655",
-        "date": "2026-08-15",
-        "title": "📰 Принц Ноктис возвращается в бой: новый трейле...",
-        "type": "news",
-        "desc": "Принц Ноктис возвращается в бой: новый трейлер Final Fantasy Resonance показал его способности",
-        "url": "https://www.playground.ru/final_fantasy_resonance/news/prints_noktis_vozvraschaetsya_v_boj_novyj_trejler_final_fantasy_resonance_pokazal_ego_sposobnosti-1866887#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-5396096385829361472",
-        "date": "2026-08-14",
-        "title": "📰 Релиз d7vk 2.1 ускорил загрузку старых игр и ...",
-        "type": "news",
-        "desc": "Релиз d7vk 2.1 ускорил загрузку старых игр и оптимизировал работу Direct3D 7 через Vulkan",
-        "url": "https://www.playground.ru/misc/news/reliz_d7vk_2_1_uskoril_zagruzku_staryh_igr_i_optimiziroval_rabotu_direct3d_7_cherez_vulkan-1866880#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Ветеран инди-сцены рассказал о диктатуре и ручных переносах дат со стороны руководства Steam в 2011 году",
+        "url": "https://www.playground.ru/misc/news/veteran_indi_stseny_rasskazal_o_diktature_i_ruchnyh_perenosah_dat_so_storony_rukovodstva_steam_v_2011_godu-1867078#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
