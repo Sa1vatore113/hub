@@ -45,7 +45,23 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_-1764541197925645333",
+        "id": "n_90896642355479053",
+        "date": "2026-08-17",
+        "title": "📰 Финальный трейлер Star Wars Zero Company — сю...",
+        "type": "news",
+        "desc": "Финальный трейлер Star Wars Zero Company — сюжетной тактики от арт-директора XCOM",
+        "url": "https://stopgame.ru/newsdata/72539/finalnyy_trailer_star_wars_zero_company_syuzhetnoy_taktiki_ot_art_direktora_xcom"
+    },
+    {
+        "id": "n_-7686759033224947105",
+        "date": "2026-08-17",
+        "title": "📰 Состоялся анонс Sally Face 2...",
+        "type": "news",
+        "desc": "Состоялся анонс Sally Face 2",
+        "url": "https://stopgame.ru/newsdata/72533/sostoyalsya_anons_sally_face_2"
+    },
+    {
+        "id": "n_-7570559740479980454",
         "date": "2026-08-16",
         "title": "📰 Новый трейлер Kingdom Hearts IV получил расши...",
         "type": "news",
@@ -53,51 +69,27 @@
         "url": "https://stopgame.ru/newsdata/72528/novyy_trailer_kingdom_hearts_iv_poluchil_rasshirennuyu_versiyu"
     },
     {
-        "id": "n_-1407690945838758808",
-        "date": "2026-08-15",
-        "title": "📰 Авторы Have a Nice Death анонсировали приключ...",
+        "id": "n_5666185382530433925",
+        "date": "2026-08-18",
+        "title": "📰 Mortal Shell II появилась на торрентах за два...",
         "type": "news",
-        "desc": "Авторы Have a Nice Death анонсировали приключение NAUTUS про морские глубины",
-        "url": "https://stopgame.ru/newsdata/72524/avtory_have_a_nice_death_anonsirovali_priklyuchenie_nautus_pro_morskie_glubiny"
+        "desc": "Mortal Shell II появилась на торрентах за два дня до официального релиза",
+        "url": "https://www.playground.ru/mortal_shell_2/news/mortal_shell_ii_poyavilas_na_torrentah_za_dva_dnya_do_ofitsialnogo_reliza-1867598#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_4362835962078982044",
-        "date": "2026-08-15",
-        "title": "📰 Kingdom Hearts IV выйдет в конце 2027-го — см...",
+        "id": "n_2984259686112987635",
+        "date": "2026-08-18",
+        "title": "📰 Авторы шутера Active Matter пообещали назвать...",
         "type": "news",
-        "desc": "Kingdom Hearts IV выйдет в конце 2027-го — смотрите новый трейлер",
-        "url": "https://stopgame.ru/newsdata/72517/kingdom_hearts_iv_vyydet_v_konce_2027_go_smotrite_novyy_trailer"
+        "desc": "Авторы шутера Active Matter пообещали назвать дату релиза до конца августа 2026 года",
+        "url": "https://www.playground.ru/active_matter/news/avtory_shutera_active_matter_poobeschali_nazvat_datu_reliza_do_kontsa_avgusta_2026_goda-1867591#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_4341680652755972455",
-        "date": "2026-08-15",
-        "title": "📰 Анонс High Roller Penny — рогалика про подпол...",
-        "type": "news",
-        "desc": "Анонс High Roller Penny — рогалика про подпольные азартные игры и пачинко",
-        "url": "https://stopgame.ru/newsdata/72515/anons_high_roller_penny_rogalika_pro_podpolnye_azartnye_igry_i_pachinko"
-    },
-    {
-        "id": "n_-6249677922671792316",
+        "id": "n_274377400429945640",
         "date": "2026-08-17",
-        "title": "📰 Спустя 11 лет в The Witcher 3 появилась функц...",
+        "title": "📰 Состоялся релиз раннего доступа фанатского ре...",
         "type": "news",
-        "desc": "Спустя 11 лет в The Witcher 3 появилась функция, от которой CD Projekt Red отказались ещё до релиза",
-        "url": "https://www.playground.ru/witcher_3_wild_hunt/news/spustya_11_let_v_the_witcher_3_poyavilas_funktsiya_ot_kotoroj_cd_projekt_red_otkazalis_eschyo_do_reliza-1867329#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_7236257805826181770",
-        "date": "2026-08-17",
-        "title": "📰 Фанаты нашли в трейлере \"Мстителей: Судный де...",
-        "type": "news",
-        "desc": "Фанаты нашли в трейлере \"Мстителей: Судный день\" намёки на двух Докторов Дума - и вспомнили Киллиана Мёрфи",
-        "url": "https://www.playground.ru/misc/news/fanaty_nashli_v_trejlere_mstitelej_sudnyj_den_namyoki_na_dvuh_doktorov_duma_i_vspomnili_killiana_myorfi-1867323#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_3563207346114318224",
-        "date": "2026-08-17",
-        "title": "📰 PC-версия The Sinking City 2 уже появилась в ...",
-        "type": "news",
-        "desc": "PC-версия The Sinking City 2 уже появилась в сети - за сутки до раннего релиза игры",
-        "url": "https://www.playground.ru/sinking_city_2/news/pc_versiya_the_sinking_city_2_uzhe_poyavilas_v_seti_za_sutki_do_rannego_reliza_igry-1867311#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся релиз раннего доступа фанатского ремейка Pokemon Emerald на движке Unreal Engine 5",
+        "url": "https://www.playground.ru/misc/news/sostoyalsya_reliz_rannego_dostupa_fanatskogo_remejka_pokemon_emerald_na_dvizhke_unreal_engine_5-1867563#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
