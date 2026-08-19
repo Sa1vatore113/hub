@@ -45,51 +45,19 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_90896642355479053",
-        "date": "2026-08-17",
-        "title": "📰 Финальный трейлер Star Wars Zero Company — сю...",
-        "type": "news",
-        "desc": "Финальный трейлер Star Wars Zero Company — сюжетной тактики от арт-директора XCOM",
-        "url": "https://stopgame.ru/newsdata/72539/finalnyy_trailer_star_wars_zero_company_syuzhetnoy_taktiki_ot_art_direktora_xcom"
-    },
-    {
-        "id": "n_-7686759033224947105",
-        "date": "2026-08-17",
-        "title": "📰 Состоялся анонс Sally Face 2...",
-        "type": "news",
-        "desc": "Состоялся анонс Sally Face 2",
-        "url": "https://stopgame.ru/newsdata/72533/sostoyalsya_anons_sally_face_2"
-    },
-    {
-        "id": "n_-7570559740479980454",
-        "date": "2026-08-16",
-        "title": "📰 Новый трейлер Kingdom Hearts IV получил расши...",
-        "type": "news",
-        "desc": "Новый трейлер Kingdom Hearts IV получил расширенную версию",
-        "url": "https://stopgame.ru/newsdata/72528/novyy_trailer_kingdom_hearts_iv_poluchil_rasshirennuyu_versiyu"
-    },
-    {
-        "id": "n_5666185382530433925",
+        "id": "n_5988859890470608810",
         "date": "2026-08-18",
-        "title": "📰 Mortal Shell II появилась на торрентах за два...",
+        "title": "📰 Слух: XBOX анонсирует «неожиданный сиквел» на...",
         "type": "news",
-        "desc": "Mortal Shell II появилась на торрентах за два дня до официального релиза",
-        "url": "https://www.playground.ru/mortal_shell_2/news/mortal_shell_ii_poyavilas_na_torrentah_za_dva_dnya_do_ofitsialnogo_reliza-1867598#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Слух: XBOX анонсирует «неожиданный сиквел» на gamescom",
+        "url": "https://stopgame.ru/newsdata/72547/sluh_xbox_anonsiruet_neozhidannyy_sikvel_na_gamescom"
     },
     {
-        "id": "n_2984259686112987635",
+        "id": "n_1580054420837633583",
         "date": "2026-08-18",
-        "title": "📰 Авторы шутера Active Matter пообещали назвать...",
+        "title": "📰 Авторы Tanks Blitz объявили о релизе в RuStor...",
         "type": "news",
-        "desc": "Авторы шутера Active Matter пообещали назвать дату релиза до конца августа 2026 года",
-        "url": "https://www.playground.ru/active_matter/news/avtory_shutera_active_matter_poobeschali_nazvat_datu_reliza_do_kontsa_avgusta_2026_goda-1867591#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_274377400429945640",
-        "date": "2026-08-17",
-        "title": "📰 Состоялся релиз раннего доступа фанатского ре...",
-        "type": "news",
-        "desc": "Состоялся релиз раннего доступа фанатского ремейка Pokemon Emerald на движке Unreal Engine 5",
-        "url": "https://www.playground.ru/misc/news/sostoyalsya_reliz_rannego_dostupa_fanatskogo_remejka_pokemon_emerald_na_dvizhke_unreal_engine_5-1867563#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Авторы Tanks Blitz объявили о релизе в RuStore для белорусских игроков",
+        "url": "https://stopgame.ru/newsdata/72537/avtory_tanks_blitz_obyavili_o_relize_v_rustore_dlya_belorusskih_igrokov"
     }
 ]
