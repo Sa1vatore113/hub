@@ -45,19 +45,36 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_5988859890470608810",
-        "date": "2026-08-18",
-        "title": "📰 Слух: XBOX анонсирует «неожиданный сиквел» на...",
-        "type": "news",
-        "desc": "Слух: XBOX анонсирует «неожиданный сиквел» на gamescom",
-        "url": "https://stopgame.ru/newsdata/72547/sluh_xbox_anonsiruet_neozhidannyy_sikvel_na_gamescom"
+        "id": "navi_cs_1624401",
+        "date": "2026-08-20",
+        "time": "14:00",
+        "title": "🏆 CS2: Round of 16 match 5: NAVI vs LGC",
+        "type": "navi",
+        "desc": "Турнир: Esports World Cup. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_1580054420837633583",
-        "date": "2026-08-18",
-        "title": "📰 Авторы Tanks Blitz объявили о релизе в RuStor...",
+        "id": "n_4801899499238505403",
+        "date": "2026-08-19",
+        "title": "📰 Анонс Photo Roboto: A Timesnap Adventure — ми...",
         "type": "news",
-        "desc": "Авторы Tanks Blitz объявили о релизе в RuStore для белорусских игроков",
-        "url": "https://stopgame.ru/newsdata/72537/avtory_tanks_blitz_obyavili_o_relize_v_rustore_dlya_belorusskih_igrokov"
+        "desc": "Анонс Photo Roboto: A Timesnap Adventure — милого приключения про фото и путешествия во времени",
+        "url": "https://stopgame.ru/newsdata/72578/anons_photo_roboto_a_timesnap_adventure_milogo_priklyucheniya_pro_foto_i_puteshestviya_vo_vremeni"
+    },
+    {
+        "id": "n_2028093921605206554",
+        "date": "2026-08-19",
+        "title": "📰 Анонс NightRunner — необычного экстракшен-шут...",
+        "type": "news",
+        "desc": "Анонс NightRunner — необычного экстракшен-шутера про оборону бронепоезда",
+        "url": "https://stopgame.ru/newsdata/72573/anons_nightrunner_neobychnogo_ekstrakshen_shutera_pro_oboronu_bronepoezda"
+    },
+    {
+        "id": "n_6720265369848814203",
+        "date": "2026-08-20",
+        "title": "📰 Лайтнинг вернулась: новый трейлер Final Fanta...",
+        "type": "news",
+        "desc": "Лайтнинг вернулась: новый трейлер Final Fantasy Resonance показал разрушительные способности героини",
+        "url": "https://www.playground.ru/final_fantasy_resonance/news/lajtning_vernulas_novyj_trejler_final_fantasy_resonance_pokazal_razrushitelnye_sposobnosti_geroini-1868111#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
