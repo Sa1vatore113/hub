@@ -45,36 +45,35 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "navi_cs_1624401",
+        "id": "n_-2471763317962689685",
         "date": "2026-08-20",
-        "time": "14:00",
-        "title": "🏆 CS2: Round of 16 match 5: NAVI vs LGC",
-        "type": "navi",
-        "desc": "Турнир: Esports World Cup. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
-    },
-    {
-        "id": "n_4801899499238505403",
-        "date": "2026-08-19",
-        "title": "📰 Анонс Photo Roboto: A Timesnap Adventure — ми...",
+        "title": "📰 ПК-версия Resonance: A Plague Tale Legacy уте...",
         "type": "news",
-        "desc": "Анонс Photo Roboto: A Timesnap Adventure — милого приключения про фото и путешествия во времени",
-        "url": "https://stopgame.ru/newsdata/72578/anons_photo_roboto_a_timesnap_adventure_milogo_priklyucheniya_pro_foto_i_puteshestviya_vo_vremeni"
+        "desc": "ПК-версия Resonance: A Plague Tale Legacy утекла в Сеть за неделю до релиза",
+        "url": "https://stopgame.ru/newsdata/72593/pk_versiya_resonance_a_plague_tale_legacy_utekla_v_set_za_nedelyu_do_reliza"
     },
     {
-        "id": "n_2028093921605206554",
-        "date": "2026-08-19",
-        "title": "📰 Анонс NightRunner — необычного экстракшен-шут...",
-        "type": "news",
-        "desc": "Анонс NightRunner — необычного экстракшен-шутера про оборону бронепоезда",
-        "url": "https://stopgame.ru/newsdata/72573/anons_nightrunner_neobychnogo_ekstrakshen_shutera_pro_oboronu_bronepoezda"
-    },
-    {
-        "id": "n_6720265369848814203",
+        "id": "n_747565830938650731",
         "date": "2026-08-20",
-        "title": "📰 Лайтнинг вернулась: новый трейлер Final Fanta...",
+        "title": "📰 Mortal Shell II собирает хвалебные отзывы игр...",
         "type": "news",
-        "desc": "Лайтнинг вернулась: новый трейлер Final Fantasy Resonance показал разрушительные способности героини",
-        "url": "https://www.playground.ru/final_fantasy_resonance/news/lajtning_vernulas_novyj_trejler_final_fantasy_resonance_pokazal_razrushitelnye_sposobnosti_geroini-1868111#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Mortal Shell II собирает хвалебные отзывы игроков на релизе",
+        "url": "https://stopgame.ru/newsdata/72592/mortal_shell_ii_sobiraet_hvalebnye_otzyvy_igrokov_na_relize"
+    },
+    {
+        "id": "n_5917208838449652723",
+        "date": "2026-08-21",
+        "title": "📰 Cyberpunk: Edgerunners 2 получила новый трейл...",
+        "type": "news",
+        "desc": "Cyberpunk: Edgerunners 2 получила новый трейлер - Netflix показал кровавое возвращение в Найт-Сити",
+        "url": "https://www.playground.ru/misc/news/cyberpunk_edgerunners_2_poluchila_novyj_trejler_netflix_pokazal_krovavoe_vozvraschenie_v_najt_siti-1868351#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-471169934419189501",
+        "date": "2026-08-20",
+        "title": "📰 Анонсирован олдскульный арена-шутер от третье...",
+        "type": "news",
+        "desc": "Анонсирован олдскульный арена-шутер от третьего лица A2K: Jet Strikers с полетами на джетпаках и глубоким моддингом",
+        "url": "https://www.playground.ru/misc/news/anonsirovan_oldskulnyj_arena_shuter_ot_tretego_litsa_a2k_jet_strikers_s_poletami_na_dzhetpakah_i_glubokim_moddingom-1868318#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
