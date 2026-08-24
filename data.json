@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564642",
-        "date": "2026-08-23",
-        "title": "⚽ Elche — Barça",
-        "type": "foot",
-        "time": "19:30",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Elche+—+Barça+match"
-    },
-    {
         "id": "f_564630",
         "date": "2026-08-27",
         "title": "⚽ Barça — Athletic",
@@ -45,11 +36,36 @@
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
     {
-        "id": "n_-5601407686861115447",
-        "date": "2026-08-22",
-        "title": "📰 Xbox случайно раскрыл дату выхода Mewgenics н...",
+        "id": "f_564687",
+        "date": "2026-09-16",
+        "title": "⚽ Barça — Santander",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Santander+match"
+    },
+    {
+        "id": "n_-2738155930602447672",
+        "date": "2026-08-24",
+        "title": "📰 Симулятор рыбалки How to Fish привлёк 1 000 0...",
         "type": "news",
-        "desc": "Xbox случайно раскрыл дату выхода Mewgenics на консолях - релиз уже в сентябре",
-        "url": "https://www.playground.ru/mewgenics/news/xbox_sluchajno_raskryl_datu_vyhoda_mewgenics_na_konsolyah_reliz_uzhe_v_sentyabre-1868780#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Симулятор рыбалки How to Fish привлёк 1 000 000 игроков всего за два дня после релиза",
+        "url": "https://www.playground.ru/how_to_fish/news/simulyator_rybalki_how_to_fish_privlyok_1_000_000_igrokov_vsego_za_dva_dnya_posle_reliza-1868966#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_5766783325540195096",
+        "date": "2026-08-23",
+        "title": "📰 На мероприятии One Piece Day 26 анонсировали ...",
+        "type": "news",
+        "desc": "На мероприятии One Piece Day 26 анонсировали два новых фильма по \"One Piece\" и обновленный кастинг 3 сезона сериала",
+        "url": "https://www.playground.ru/misc/news/na_meropriyatii_one_piece_day_26_anonsirovali_dva_novyh_filma_po_one_piece_i_obnovlennyj_kasting_3_sezona_seriala-1868941#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_552884740390550706",
+        "date": "2026-08-23",
+        "title": "📰 В Steam состоялся анонс мрачного соулслайка S...",
+        "type": "news",
+        "desc": "В Steam состоялся анонс мрачного соулслайка Stray Dog: nobody cares про пса с мечом",
+        "url": "https://www.playground.ru/stray_dog_nobody_cares/news/v_steam_sostoyalsya_anons_mrachnogo_soulslajka_stray_dog_nobody_cares_pro_psa_s_mechom-1868928#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
