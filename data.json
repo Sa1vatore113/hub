@@ -45,83 +45,92 @@
         "url": "https://www.google.com/search?q=Barça+—+Santander+match"
     },
     {
-        "id": "n_5200595411409900951",
+        "id": "navi_cs_1640189",
+        "date": "2026-08-26",
+        "time": "17:00",
+        "title": "🏆 CS2: Upper bracket quarterfinal 3: NAVI vs M80",
+        "type": "navi",
+        "desc": "Турнир: BLAST Open. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
+    },
+    {
+        "id": "n_-8939049880714814876",
+        "date": "2026-08-26",
+        "title": "📰 Анонс Worms: Galactic Tactics — тактического ...",
+        "type": "news",
+        "desc": "Анонс Worms: Galactic Tactics — тактического рогалика про червячков",
+        "url": "https://stopgame.ru/newsdata/72650/anons_worms_galactic_tactics_takticheskogo_rogalika_pro_chervyachkov"
+    },
+    {
+        "id": "n_7969990072052415282",
+        "date": "2026-08-26",
+        "title": "📰 Битвы с громадными Оружиями в трейлере Final ...",
+        "type": "news",
+        "desc": "Битвы с громадными Оружиями в трейлере Final Fantasy VII Revelation",
+        "url": "https://stopgame.ru/newsdata/72649/bitvy_s_gromadnymi_oruzhiyami_v_trailere_final_fantasy_vii_revelation"
+    },
+    {
+        "id": "n_1144041013087385359",
         "date": "2026-08-25",
-        "title": "📰 Симулятор жизни лилипута Animula Nook обзавёл...",
+        "title": "📰 Анонсирована HUMANKIND 2...",
         "type": "news",
-        "desc": "Симулятор жизни лилипута Animula Nook обзавёлся трейлером для gamescom 2026",
-        "url": "https://stopgame.ru/newsdata/72631/simulyator_zhizni_liliputa_animula_nook_obzavelsya_trailerom_dlya_gamescom_2026"
+        "desc": "Анонсирована HUMANKIND 2",
+        "url": "https://stopgame.ru/newsdata/72646/anonsirovana_humankind_2"
     },
     {
-        "id": "n_-5778539946253530058",
-        "date": "2026-08-24",
-        "title": "📰 Анонсировано переиздание психологического хор...",
-        "type": "news",
-        "desc": "Анонсировано переиздание психологического хоррор-приключения Sanitarium ",
-        "url": "https://stopgame.ru/newsdata/72627/anonsirovano_pereizdanie_psihologicheskogo_horror_priklyucheniya_sanitarium"
-    },
-    {
-        "id": "n_-3624709566892998070",
-        "date": "2026-08-24",
-        "title": "📰 Метроидвания Well Dweller выйдет 22 сентября ...",
-        "type": "news",
-        "desc": "Метроидвания Well Dweller выйдет 22 сентября — смотрите новый трейлер",
-        "url": "https://stopgame.ru/newsdata/72626/metroidvaniya_well_dweller_vyydet_22_sentyabrya_smotrite_novyy_trailer"
-    },
-    {
-        "id": "n_4788477834699372563",
-        "date": "2026-08-24",
-        "title": "📰 Stellar Blade получила новый трейлер к скором...",
-        "type": "news",
-        "desc": "Stellar Blade получила новый трейлер к скорому релизу на Switch 2",
-        "url": "https://stopgame.ru/newsdata/72619/stellar_blade_poluchila_novyy_trailer_k_skoromu_relizu_na_switch_2"
-    },
-    {
-        "id": "n_6647466986696679982",
-        "date": "2026-08-24",
-        "title": "📰 По слухам, XBOX может скоро анонсировать Ori ...",
-        "type": "news",
-        "desc": "По слухам, XBOX может скоро анонсировать Ori 3. Глава Moon Studios назвал их чушью",
-        "url": "https://stopgame.ru/newsdata/72618/po_sluham_xbox_mozhet_skoro_anonsirovat_ori_3_glava_moon_studios_nazval_ih_chushyu"
-    },
-    {
-        "id": "n_899805513709439726",
+        "id": "n_-2703611275867443087",
         "date": "2026-08-25",
-        "title": "📰 Долгожданное фанатское дополнение с Мексикой ...",
+        "title": "📰 Анонсирован ремейк Heroes of Might and Magic ...",
         "type": "news",
-        "desc": "Долгожданное фанатское дополнение с Мексикой к Red Dead Redemption 2 получило дату релиза - оно выйдет раньше GTA 6",
-        "url": "https://www.playground.ru/red_dead_redemption_2/news/dolgozhdannoe_fanatskoe_dopolnenie_s_meksikoj_k_red_dead_redemption_2_poluchilo_datu_reliza_ono_vyjdet_ranshe_gta_6-1869218#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирован ремейк Heroes of Might and Magic III",
+        "url": "https://stopgame.ru/newsdata/72645/anonsirovan_remeyk_heroes_of_might_and_magic_iii"
     },
     {
-        "id": "n_-3330437444447348085",
-        "date": "2026-08-24",
-        "title": "📰 Создатели DragonSword : Awakening анонсировал...",
+        "id": "n_-1037648241284564973",
+        "date": "2026-08-25",
+        "title": "📰 В Archetype определились с датой релиза Exodu...",
         "type": "news",
-        "desc": "Создатели DragonSword : Awakening анонсировали мастерскую Steam и ввели жесткие ограничения для модов",
-        "url": "https://www.playground.ru/dragonsword_awakening/news/sozdateli_dragonsword_awakening_anonsirovali_masterskuyu_steam_i_vveli_zhestkie_ogranicheniya_dlya_modov-1869195#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "В Archetype определились с датой релиза Exodus — 7 апреля",
+        "url": "https://stopgame.ru/newsdata/72642/v_archetype_opredelilis_s_datoy_reliza_exodus_7_aprelya"
     },
     {
-        "id": "n_7970638588011180961",
-        "date": "2026-08-24",
-        "title": "📰 Анонсирован сборник Alien Breed 35th Annivers...",
+        "id": "n_7641215788459713093",
+        "date": "2026-08-26",
+        "title": "📰 \"Это точно не ИИ\": Amplitude объяснила необыч...",
         "type": "news",
-        "desc": "Анонсирован сборник Alien Breed 35th Anniversary Collection с 6 играми классической серии",
-        "url": "https://www.playground.ru/alien_breed/news/anonsirovan_sbornik_alien_breed_35th_anniversary_collection_s_6_igrami_klassicheskoj_serii-1869182#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "\"Это точно не ИИ\": Amplitude объяснила необычный трейлер Humankind 2",
+        "url": "https://www.playground.ru/humankind_2/news/eto_tochno_ne_ii_amplitude_obyasnila_neobychnyj_trejler_humankind_2-1869539#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_7420024598774841443",
-        "date": "2026-08-24",
-        "title": "📰 Эхо прошлого - новый трейлер Resonance: A Pla...",
+        "id": "n_7205374599128192344",
+        "date": "2026-08-25",
+        "title": "📰 Релиз модификации Painkiller RTX с трассировк...",
         "type": "news",
-        "desc": "Эхо прошлого - новый трейлер Resonance: A Plague Tale Legacy раскрывает секрет связи Софии с древними героями",
-        "url": "https://www.playground.ru/resonance_a_plague_tale_legacy/news/eho_proshlogo_novyj_trejler_resonance_a_plague_tale_legacy_raskryvaet_sekret_svyazi_sofii_s_drevnimi_geroyami-1869177#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релиз модификации Painkiller RTX с трассировкой пути состоялся в цифровом магазине GOG",
+        "url": "https://www.playground.ru/painkiller_2004/news/reliz_modifikatsii_painkiller_rtx_s_trassirovkoj_puti_sostoyalsya_v_tsifrovom_magazine_gog-1869522#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_7906708701780630640",
-        "date": "2026-08-24",
-        "title": "📰 Славянская 2D-метроидвания Volkolak: The Will...",
+        "id": "n_1783779788860874188",
+        "date": "2026-08-25",
+        "title": "📰 Новый трейлер Sea of Remnants и 10 минут гейм...",
         "type": "news",
-        "desc": "Славянская 2D-метроидвания Volkolak: The Will of Gods покинула ранний доступ с релизом версии 1.0",
-        "url": "https://www.playground.ru/volkolak_the_will_of_gods/news/slavyanskaya_2d_metroidvaniya_volkolak_the_will_of_gods_pokinula_rannij_dostup_s_relizom_versii_1_0-1869174#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Новый трейлер Sea of Remnants и 10 минут геймплея пиратского экшена",
+        "url": "https://www.playground.ru/sea_of_remnants/news/novyj_trejler_sea_of_remnants_i_10_minut_gejmpleya_piratskogo_ekshena-1869516#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2504019938758887353",
+        "date": "2026-08-25",
+        "title": "📰 Геральт отправится уничтожать демонов в Diabl...",
+        "type": "news",
+        "desc": "Геральт отправится уничтожать демонов в Diablo 4 - неожиданный анонс от CD Projekt RED",
+        "url": "https://www.playground.ru/witcher_3_wild_hunt/news/geralt_otpravitsya_unichtozhat_demonov_v_diablo_4_neozhidannyj_anons_ot_cd_projekt_red-1869514#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_5418860581139005909",
+        "date": "2026-08-25",
+        "title": "📰 Геймплейный трейлер дополнения The Witcher 3:...",
+        "type": "news",
+        "desc": "Геймплейный трейлер дополнения The Witcher 3: Song of the Past показывает культовое оружие из книг",
+        "url": "https://www.playground.ru/witcher_3_wild_hunt/news/gejmplejnyj_trejler_dopolneniya_the_witcher_3_song_of_the_past_pokazyvaet_kultovoe_oruzhie_iz_knig-1869511#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
