@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564630",
-        "date": "2026-08-27",
-        "title": "⚽ Barça — Athletic",
-        "type": "foot",
-        "time": "19:00",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Athletic+match"
-    },
-    {
         "id": "f_564650",
         "date": "2026-08-31",
         "title": "⚽ Barça — Rayo Vallecano",
@@ -45,43 +36,77 @@
         "url": "https://www.google.com/search?q=Barça+—+Santander+match"
     },
     {
-        "id": "n_6681243895921323015",
-        "date": "2026-08-26",
-        "title": "📰 На Xbox One и Series X позволят переносить ди...",
-        "type": "news",
-        "desc": "На Xbox One и Series X позволят переносить дисковые копии игр в «цифру»",
-        "url": "https://stopgame.ru/newsdata/72665/na_xbox_one_i_series_x_pozvolyat_perenosit_diskovye_kopii_igr_v_cifru"
+        "id": "f_564690",
+        "date": "2026-09-20",
+        "title": "⚽ Sevilla FC — Barça",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Sevilla+FC+—+Barça+match"
     },
     {
-        "id": "n_-6983527282615629428",
-        "date": "2026-08-26",
-        "title": "📰 Сюжетный трейлер и почти час геймплея Persona...",
-        "type": "news",
-        "desc": "Сюжетный трейлер и почти час геймплея Persona 4 Revival",
-        "url": "https://stopgame.ru/newsdata/72664/syuzhetnyy_trailer_i_pochti_chas_geympleya_persona_4_revival"
+        "id": "navi_cs_1640195",
+        "date": "2026-08-28",
+        "time": "17:00",
+        "title": "🏆 CS2: Lower bracket quarterfinal 2: NAVI vs paiN",
+        "type": "navi",
+        "desc": "Турнир: BLAST Open. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-6822544926462754816",
-        "date": "2026-08-26",
-        "title": "📰 Релиз Bloodstained: The Scarlet Engagement пе...",
-        "type": "news",
-        "desc": "Релиз Bloodstained: The Scarlet Engagement перенесли на 2027 год",
-        "url": "https://stopgame.ru/newsdata/72654/reliz_bloodstained_the_scarlet_engagement_perenesli_na_2027_god"
-    },
-    {
-        "id": "n_-952329287102796033",
+        "id": "n_5389581115561516292",
         "date": "2026-08-27",
-        "title": "📰 LEGO Batman: Legacy of the Dark Knight устрои...",
+        "title": "📰 Alien Deathstorm обзавелась окном релиза и де...",
         "type": "news",
-        "desc": "LEGO Batman: Legacy of the Dark Knight устроит хаос в Готэме - DLC Mayhem Collection получило геймплейный трейлер",
-        "url": "https://www.playground.ru/lego_batman_legacy_of_the_dark_knight/news/lego_batman_legacy_of_the_dark_knight_ustroit_haos_v_goteme_dlc_mayhem_collection_poluchilo_gejmplejnyj_trejler-1869869#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Alien Deathstorm обзавелась окном релиза и демонстрацией геймплея",
+        "url": "https://stopgame.ru/newsdata/72678/alien_deathstorm_obzavelas_oknom_reliza_i_demonstraciey_geympleya"
     },
     {
-        "id": "n_-1624448001422051202",
+        "id": "n_7498722210668883063",
         "date": "2026-08-27",
-        "title": "📰 Where Winds Meet получила трейлер третьей гла...",
+        "title": "📰 Дата выхода Boltgun II, симулятор таверны в Ф...",
         "type": "news",
-        "desc": "Where Winds Meet получила трейлер третьей главы Hidden Mountain - финал истории выйдет 10 сентября",
-        "url": "https://www.playground.ru/where_winds_meet/news/where_winds_meet_poluchila_trejler_tretej_glavy_hidden_mountain_final_istorii_vyjdet_10_sentyabrya-1869868#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Дата выхода Boltgun II, симулятор таверны в Фаэруне и не только — анонсы с FGS на gamescom",
+        "url": "https://stopgame.ru/newsdata/72677/data_vyhoda_boltgun_ii_simulyator_taverny_v_faerune_i_ne_tolko_anonsy_s_fgs_na_gamescom"
+    },
+    {
+        "id": "n_-146633250530769304",
+        "date": "2026-08-27",
+        "title": "📰 Новый трейлер Stuntman: Hollywood посвятили у...",
+        "type": "news",
+        "desc": "Новый трейлер Stuntman: Hollywood посвятили уровню «Мира Юрского периода»",
+        "url": "https://stopgame.ru/newsdata/72676/novyy_trailer_stuntman_hollywood_posvyatili_urovnyu_mira_yurskogo_perioda"
+    },
+    {
+        "id": "n_-4813804541149828790",
+        "date": "2026-08-27",
+        "title": "📰 Анонс Rogue Fortune — экшен-рогалика про неут...",
+        "type": "news",
+        "desc": "Анонс Rogue Fortune — экшен-рогалика про неутолимую жажду наживы",
+        "url": "https://stopgame.ru/newsdata/72675/anons_rogue_fortune_ekshen_rogalika_pro_neutolimuyu_zhazhdu_nazhivy"
+    },
+    {
+        "id": "n_1972931951511164209",
+        "date": "2026-08-27",
+        "title": "📰 Состоялся релиз Metal Gear Solid: Master Coll...",
+        "type": "news",
+        "desc": "Состоялся релиз Metal Gear Solid: Master Collection Vol. 2",
+        "url": "https://stopgame.ru/newsdata/72674/sostoyalsya_reliz_metal_gear_solid_master_collection_vol_2"
+    },
+    {
+        "id": "n_-5921823631608273920",
+        "date": "2026-08-27",
+        "title": "📰 Tropico 7 выйдет 28 января — смотрите геймпле...",
+        "type": "news",
+        "desc": "Tropico 7 выйдет 28 января — смотрите геймплейный трейлер",
+        "url": "https://stopgame.ru/newsdata/72672/tropico_7_vyydet_28_yanvarya_smotrite_geympleynyy_trailer"
+    },
+    {
+        "id": "n_-2386435323728395486",
+        "date": "2026-08-28",
+        "title": "📰 Capcom показала механику Перчатки Они в свеже...",
+        "type": "news",
+        "desc": "Capcom показала механику Перчатки Они в свежем трейлере Onimusha: Way of the Sword",
+        "url": "https://www.playground.ru/onimusha_way_of_the_sword/news/capcom_pokazala_mehaniku_perchatki_oni_v_svezhem_trejlere_onimusha_way_of_the_sword-1870184#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
