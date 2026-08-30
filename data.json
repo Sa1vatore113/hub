@@ -18,6 +18,15 @@
         "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
     },
     {
+        "id": "f_575329",
+        "date": "2026-09-09",
+        "title": "⚽ Barça — Feyenoord",
+        "type": "foot",
+        "time": "16:45",
+        "desc": "Лига: UEFA Champions League",
+        "url": "https://www.google.com/search?q=Barça+—+Feyenoord+match"
+    },
+    {
         "id": "f_564675",
         "date": "2026-09-13",
         "title": "⚽ Levante — Barça",
@@ -36,16 +45,16 @@
         "url": "https://www.google.com/search?q=Barça+—+Santander+match"
     },
     {
-        "id": "f_564690",
-        "date": "2026-09-20",
-        "title": "⚽ Sevilla FC — Barça",
-        "type": "foot",
-        "time": "00:00",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Sevilla+FC+—+Barça+match"
+        "id": "navi_cs_1640197",
+        "date": "2026-08-30",
+        "time": "12:00",
+        "title": "🏆 CS2: Lower bracket semifinal 2: G2 vs NAVI",
+        "type": "navi",
+        "desc": "Турнир: BLAST Open. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_3372732521265152607",
+        "id": "n_-7337623601601487117",
         "date": "2026-08-28",
         "title": "📰 Игроки тепло встретили релиз Resonance: A Pla...",
         "type": "news",
@@ -53,7 +62,7 @@
         "url": "https://stopgame.ru/newsdata/72685/igroki_teplo_vstretili_reliz_resonance_a_plague_tale_legacy"
     },
     {
-        "id": "n_4180538159654208482",
+        "id": "n_6043494073455363710",
         "date": "2026-08-28",
         "title": "📰 Новый трейлер Marvel’s Wolverine посвятили ос...",
         "type": "news",
@@ -61,7 +70,7 @@
         "url": "https://stopgame.ru/newsdata/72683/novyy_trailer_marvel_s_wolverine_posvyatili_osnovnym_osobennostyam_igry"
     },
     {
-        "id": "n_-5836182810702518714",
+        "id": "n_-2106033251636181487",
         "date": "2026-08-27",
         "title": "📰 Alien Deathstorm обзавелась окном релиза и де...",
         "type": "news",
@@ -69,7 +78,7 @@
         "url": "https://stopgame.ru/newsdata/72678/alien_deathstorm_obzavelas_oknom_reliza_i_demonstraciey_geympleya"
     },
     {
-        "id": "n_-9037256979778269608",
+        "id": "n_9056286174782527407",
         "date": "2026-08-27",
         "title": "📰 Дата выхода Boltgun II, симулятор таверны в Ф...",
         "type": "news",
@@ -77,7 +86,7 @@
         "url": "https://stopgame.ru/newsdata/72677/data_vyhoda_boltgun_ii_simulyator_taverny_v_faerune_i_ne_tolko_anonsy_s_fgs_na_gamescom"
     },
     {
-        "id": "n_142556218136563408",
+        "id": "n_1766677656945203735",
         "date": "2026-08-27",
         "title": "📰 Новый трейлер Stuntman: Hollywood посвятили у...",
         "type": "news",
@@ -85,19 +94,11 @@
         "url": "https://stopgame.ru/newsdata/72676/novyy_trailer_stuntman_hollywood_posvyatili_urovnyu_mira_yurskogo_perioda"
     },
     {
-        "id": "n_5982875289397379156",
-        "date": "2026-08-29",
-        "title": "📰 \"Пошло не по плану\" - EA Motive подтвердили у...",
+        "id": "n_5497332990445016793",
+        "date": "2026-08-30",
+        "title": "📰 Сюрреализм средневекового художника Босха: Пр...",
         "type": "news",
-        "desc": "\"Пошло не по плану\" - EA Motive подтвердили утечку трейлера об игре Iron Man",
-        "url": "https://www.playground.ru/new_iron_man/news/poshlo_ne_po_planu_ea_motive_podtverdili_utechku_trejlera_ob_igre_iron_man-1870391#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-8584075071790299176",
-        "date": "2026-08-29",
-        "title": "📰 \"Цель: дожить до релиза\" - ожидание GTA 6 зас...",
-        "type": "news",
-        "desc": "\"Цель: дожить до релиза\" - ожидание GTA 6 заставляет игроков задуматься о собственной смертности",
-        "url": "https://www.playground.ru/gta_6/news/tsel_dozhit_do_reliza_ozhidanie_gta_6_zastavlyaet_igrokov_zadumatsya_o_sobstvennoj_smertnosti-1870384#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Сюрреализм средневекового художника Босха: Представлен новый трейлер необычной игры Hieronymus",
+        "url": "https://www.playground.ru/hieronymus/news/syurrealizm_srednevekovogo_hudozhnika_bosha_predstavlen_novyj_trejler_neobychnoj_igry_hieronymus-1870608#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
