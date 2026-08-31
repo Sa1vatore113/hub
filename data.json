@@ -31,7 +31,7 @@
         "date": "2026-09-13",
         "title": "⚽ Levante — Barça",
         "type": "foot",
-        "time": "00:00",
+        "time": "14:15",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Levante+—+Barça+match"
     },
@@ -40,21 +40,12 @@
         "date": "2026-09-16",
         "title": "⚽ Barça — Santander",
         "type": "foot",
-        "time": "00:00",
+        "time": "19:30",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Barça+—+Santander+match"
     },
     {
-        "id": "navi_cs_1640197",
-        "date": "2026-08-30",
-        "time": "12:00",
-        "title": "🏆 CS2: Lower bracket semifinal 2: G2 vs NAVI",
-        "type": "navi",
-        "desc": "Турнир: BLAST Open. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
-    },
-    {
-        "id": "n_-7337623601601487117",
+        "id": "n_-8054807283317835475",
         "date": "2026-08-28",
         "title": "📰 Игроки тепло встретили релиз Resonance: A Pla...",
         "type": "news",
@@ -62,7 +53,7 @@
         "url": "https://stopgame.ru/newsdata/72685/igroki_teplo_vstretili_reliz_resonance_a_plague_tale_legacy"
     },
     {
-        "id": "n_6043494073455363710",
+        "id": "n_-3520504281223413738",
         "date": "2026-08-28",
         "title": "📰 Новый трейлер Marvel’s Wolverine посвятили ос...",
         "type": "news",
@@ -70,7 +61,7 @@
         "url": "https://stopgame.ru/newsdata/72683/novyy_trailer_marvel_s_wolverine_posvyatili_osnovnym_osobennostyam_igry"
     },
     {
-        "id": "n_-2106033251636181487",
+        "id": "n_-1707407011815037928",
         "date": "2026-08-27",
         "title": "📰 Alien Deathstorm обзавелась окном релиза и де...",
         "type": "news",
@@ -78,7 +69,7 @@
         "url": "https://stopgame.ru/newsdata/72678/alien_deathstorm_obzavelas_oknom_reliza_i_demonstraciey_geympleya"
     },
     {
-        "id": "n_9056286174782527407",
+        "id": "n_-1666138318246024646",
         "date": "2026-08-27",
         "title": "📰 Дата выхода Boltgun II, симулятор таверны в Ф...",
         "type": "news",
@@ -86,7 +77,7 @@
         "url": "https://stopgame.ru/newsdata/72677/data_vyhoda_boltgun_ii_simulyator_taverny_v_faerune_i_ne_tolko_anonsy_s_fgs_na_gamescom"
     },
     {
-        "id": "n_1766677656945203735",
+        "id": "n_6050164123544470296",
         "date": "2026-08-27",
         "title": "📰 Новый трейлер Stuntman: Hollywood посвятили у...",
         "type": "news",
@@ -94,11 +85,11 @@
         "url": "https://stopgame.ru/newsdata/72676/novyy_trailer_stuntman_hollywood_posvyatili_urovnyu_mira_yurskogo_perioda"
     },
     {
-        "id": "n_5497332990445016793",
-        "date": "2026-08-30",
-        "title": "📰 Сюрреализм средневекового художника Босха: Пр...",
+        "id": "n_8225728955770938045",
+        "date": "2026-08-31",
+        "title": "📰 Релиз GTA 6, по прогнозам, обойдётся экономик...",
         "type": "news",
-        "desc": "Сюрреализм средневекового художника Босха: Представлен новый трейлер необычной игры Hieronymus",
-        "url": "https://www.playground.ru/hieronymus/news/syurrealizm_srednevekovogo_hudozhnika_bosha_predstavlen_novyj_trejler_neobychnoj_igry_hieronymus-1870608#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релиз GTA 6, по прогнозам, обойдётся экономике США в 1 миллиард долларов",
+        "url": "https://www.playground.ru/gta_6/news/reliz_gta_6_po_prognozam_obojdyotsya_ekonomike_ssha_v_1_milliard_dollarov-1870844#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
