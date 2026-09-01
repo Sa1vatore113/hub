@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564650",
-        "date": "2026-08-31",
-        "title": "⚽ Barça — Rayo Vallecano",
-        "type": "foot",
-        "time": "19:30",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Rayo+Vallecano+match"
-    },
-    {
         "id": "f_564659",
         "date": "2026-09-06",
         "title": "⚽ Valencia — Barça",
@@ -45,51 +36,36 @@
         "url": "https://www.google.com/search?q=Barça+—+Santander+match"
     },
     {
-        "id": "n_-8054807283317835475",
-        "date": "2026-08-28",
-        "title": "📰 Игроки тепло встретили релиз Resonance: A Pla...",
-        "type": "news",
-        "desc": "Игроки тепло встретили релиз Resonance: A Plague Tale Legacy",
-        "url": "https://stopgame.ru/newsdata/72685/igroki_teplo_vstretili_reliz_resonance_a_plague_tale_legacy"
+        "id": "f_564690",
+        "date": "2026-09-19",
+        "title": "⚽ Sevilla FC — Barça",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Sevilla+FC+—+Barça+match"
     },
     {
-        "id": "n_-3520504281223413738",
-        "date": "2026-08-28",
-        "title": "📰 Новый трейлер Marvel’s Wolverine посвятили ос...",
-        "type": "news",
-        "desc": "Новый трейлер Marvel’s Wolverine посвятили основным особенностям игры",
-        "url": "https://stopgame.ru/newsdata/72683/novyy_trailer_marvel_s_wolverine_posvyatili_osnovnym_osobennostyam_igry"
-    },
-    {
-        "id": "n_-1707407011815037928",
-        "date": "2026-08-27",
-        "title": "📰 Alien Deathstorm обзавелась окном релиза и де...",
-        "type": "news",
-        "desc": "Alien Deathstorm обзавелась окном релиза и демонстрацией геймплея",
-        "url": "https://stopgame.ru/newsdata/72678/alien_deathstorm_obzavelas_oknom_reliza_i_demonstraciey_geympleya"
-    },
-    {
-        "id": "n_-1666138318246024646",
-        "date": "2026-08-27",
-        "title": "📰 Дата выхода Boltgun II, симулятор таверны в Ф...",
-        "type": "news",
-        "desc": "Дата выхода Boltgun II, симулятор таверны в Фаэруне и не только — анонсы с FGS на gamescom",
-        "url": "https://stopgame.ru/newsdata/72677/data_vyhoda_boltgun_ii_simulyator_taverny_v_faerune_i_ne_tolko_anonsy_s_fgs_na_gamescom"
-    },
-    {
-        "id": "n_6050164123544470296",
-        "date": "2026-08-27",
-        "title": "📰 Новый трейлер Stuntman: Hollywood посвятили у...",
-        "type": "news",
-        "desc": "Новый трейлер Stuntman: Hollywood посвятили уровню «Мира Юрского периода»",
-        "url": "https://stopgame.ru/newsdata/72676/novyy_trailer_stuntman_hollywood_posvyatili_urovnyu_mira_yurskogo_perioda"
-    },
-    {
-        "id": "n_8225728955770938045",
+        "id": "n_-6200572452776018688",
         "date": "2026-08-31",
-        "title": "📰 Релиз GTA 6, по прогнозам, обойдётся экономик...",
+        "title": "📰 The Witcher 3: подробнее о переносе сейвов в ...",
         "type": "news",
-        "desc": "Релиз GTA 6, по прогнозам, обойдётся экономике США в 1 миллиард долларов",
-        "url": "https://www.playground.ru/gta_6/news/reliz_gta_6_po_prognozam_obojdyotsya_ekonomike_ssha_v_1_milliard_dollarov-1870844#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "The Witcher 3: подробнее о переносе сейвов в ремастер и о новых опциях доступности",
+        "url": "https://stopgame.ru/newsdata/72699/the_witcher_3_podrobnee_o_perenose_seyvov_v_remaster_i_o_novyh_opciyah_dostupnosti"
+    },
+    {
+        "id": "n_2118311366028562253",
+        "date": "2026-09-01",
+        "title": "📰 Onimusha: Way of the Sword: раскрыт размер ск...",
+        "type": "news",
+        "desc": "Onimusha: Way of the Sword: раскрыт размер скачиваемых файлов и дата предзагрузки для PS5",
+        "url": "https://www.playground.ru/onimusha_way_of_the_sword/news/onimusha_way_of_the_sword_raskryt_razmer_skachivaemyh_fajlov_i_data_predzagruzki_dlya_ps5-1871087#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2820069691782641169",
+        "date": "2026-09-01",
+        "title": "📰 Rebel Wolves раскрыли время релиза The Blood ...",
+        "type": "news",
+        "desc": "Rebel Wolves раскрыли время релиза The Blood of Dawnwalker",
+        "url": "https://www.playground.ru/blood_of_dawnwalker/news/rebel_wolves_raskryli_vremya_reliza_the_blood_of_dawnwalker-1871077#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
