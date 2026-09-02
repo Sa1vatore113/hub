@@ -45,27 +45,43 @@
         "url": "https://www.google.com/search?q=Sevilla+FC+—+Barça+match"
     },
     {
-        "id": "n_-6200572452776018688",
-        "date": "2026-08-31",
-        "title": "📰 The Witcher 3: подробнее о переносе сейвов в ...",
+        "id": "n_1786635989112745294",
+        "date": "2026-09-01",
+        "title": "📰 Братская любовь и драка в бане в трейлере фил...",
         "type": "news",
-        "desc": "The Witcher 3: подробнее о переносе сейвов в ремастер и о новых опциях доступности",
-        "url": "https://stopgame.ru/newsdata/72699/the_witcher_3_podrobnee_o_perenose_seyvov_v_remaster_i_o_novyh_opciyah_dostupnosti"
+        "desc": "Братская любовь и драка в бане в трейлере фильма по Street Fighter",
+        "url": "https://stopgame.ru/newsdata/72717/bratskaya_lyubov_i_draka_v_bane_v_trailere_filma_po_street_fighter"
     },
     {
-        "id": "n_2118311366028562253",
+        "id": "n_-875956866762220941",
         "date": "2026-09-01",
-        "title": "📰 Onimusha: Way of the Sword: раскрыт размер ск...",
+        "title": "📰 Около 80% разработчиков Star Wars Zero Compan...",
         "type": "news",
-        "desc": "Onimusha: Way of the Sword: раскрыт размер скачиваемых файлов и дата предзагрузки для PS5",
-        "url": "https://www.playground.ru/onimusha_way_of_the_sword/news/onimusha_way_of_the_sword_raskryt_razmer_skachivaemyh_fajlov_i_data_predzagruzki_dlya_ps5-1871087#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Около 80% разработчиков Star Wars Zero Company отправили в неоплачиваемый отпуск перед релизом",
+        "url": "https://stopgame.ru/newsdata/72716/okolo_80_razrabotchikov_star_wars_zero_company_otpravili_v_neoplachivaemyy_otpusk_pered_relizom"
     },
     {
-        "id": "n_-2820069691782641169",
+        "id": "n_-3370564893388150629",
         "date": "2026-09-01",
-        "title": "📰 Rebel Wolves раскрыли время релиза The Blood ...",
+        "title": "📰 Полноценный релиз No Rest for the Wicked отло...",
         "type": "news",
-        "desc": "Rebel Wolves раскрыли время релиза The Blood of Dawnwalker",
-        "url": "https://www.playground.ru/blood_of_dawnwalker/news/rebel_wolves_raskryli_vremya_reliza_the_blood_of_dawnwalker-1871077#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Полноценный релиз No Rest for the Wicked отложили до марта 2027-го ",
+        "url": "https://stopgame.ru/newsdata/72714/polnocennyy_reliz_no_rest_for_the_wicked_otlozhili_do_marta_2027_go"
+    },
+    {
+        "id": "n_-1124783018204064450",
+        "date": "2026-09-02",
+        "title": "📰 Dragon's Dogma 2 получила новый трейлер с под...",
+        "type": "news",
+        "desc": "Dragon's Dogma 2 получила новый трейлер с подробностями экспедиций в Dark Arisen и обновление 3.2",
+        "url": "https://www.playground.ru/dragons_dogma_2/news/dragons_dogma_2_poluchila_novyj_trejler_s_podrobnostyami_ekspeditsij_v_dark_arisen_i_obnovlenie_3_2-1871332#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2870715357232856903",
+        "date": "2026-09-02",
+        "title": "📰 В новом трейлере Ace Combat 8: Wings of Theve...",
+        "type": "news",
+        "desc": "В новом трейлере Ace Combat 8: Wings of Theve показали многопользовательский режим",
+        "url": "https://www.playground.ru/ace_combat_8/news/v_novom_trejlere_ace_combat_8_wings_of_theve_pokazali_mnogopolzovatelskij_rezhim-1871326#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
