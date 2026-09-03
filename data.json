@@ -45,43 +45,27 @@
         "url": "https://www.google.com/search?q=Sevilla+FC+—+Barça+match"
     },
     {
-        "id": "n_1786635989112745294",
-        "date": "2026-09-01",
-        "title": "📰 Братская любовь и драка в бане в трейлере фил...",
-        "type": "news",
-        "desc": "Братская любовь и драка в бане в трейлере фильма по Street Fighter",
-        "url": "https://stopgame.ru/newsdata/72717/bratskaya_lyubov_i_draka_v_bane_v_trailere_filma_po_street_fighter"
-    },
-    {
-        "id": "n_-875956866762220941",
-        "date": "2026-09-01",
-        "title": "📰 Около 80% разработчиков Star Wars Zero Compan...",
-        "type": "news",
-        "desc": "Около 80% разработчиков Star Wars Zero Company отправили в неоплачиваемый отпуск перед релизом",
-        "url": "https://stopgame.ru/newsdata/72716/okolo_80_razrabotchikov_star_wars_zero_company_otpravili_v_neoplachivaemyy_otpusk_pered_relizom"
-    },
-    {
-        "id": "n_-3370564893388150629",
-        "date": "2026-09-01",
-        "title": "📰 Полноценный релиз No Rest for the Wicked отло...",
-        "type": "news",
-        "desc": "Полноценный релиз No Rest for the Wicked отложили до марта 2027-го ",
-        "url": "https://stopgame.ru/newsdata/72714/polnocennyy_reliz_no_rest_for_the_wicked_otlozhili_do_marta_2027_go"
-    },
-    {
-        "id": "n_-1124783018204064450",
+        "id": "n_-6934198373691812582",
         "date": "2026-09-02",
-        "title": "📰 Dragon's Dogma 2 получила новый трейлер с под...",
+        "title": "📰 Градостроительная головоломка Fangtopia обрел...",
         "type": "news",
-        "desc": "Dragon's Dogma 2 получила новый трейлер с подробностями экспедиций в Dark Arisen и обновление 3.2",
-        "url": "https://www.playground.ru/dragons_dogma_2/news/dragons_dogma_2_poluchila_novyj_trejler_s_podrobnostyami_ekspeditsij_v_dark_arisen_i_obnovlenie_3_2-1871332#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Градостроительная головоломка Fangtopia обрела дату релиза в новом трейлере",
+        "url": "https://stopgame.ru/newsdata/72730/gradostroitelnaya_golovolomka_fangtopia_obrela_datu_reliza_v_novom_trailere"
     },
     {
-        "id": "n_-2870715357232856903",
-        "date": "2026-09-02",
-        "title": "📰 В новом трейлере Ace Combat 8: Wings of Theve...",
+        "id": "n_8677546842507976034",
+        "date": "2026-09-03",
+        "title": "📰 Объявлена дата выхода DLC \"Южная Дакота\" для ...",
         "type": "news",
-        "desc": "В новом трейлере Ace Combat 8: Wings of Theve показали многопользовательский режим",
-        "url": "https://www.playground.ru/ace_combat_8/news/v_novom_trejlere_ace_combat_8_wings_of_theve_pokazali_mnogopolzovatelskij_rezhim-1871326#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Объявлена дата выхода DLC \"Южная Дакота\" для American Truck Simulator",
+        "url": "https://www.playground.ru/american_truck_simulator/news/obyavlena_data_vyhoda_dlc_yuzhnaya_dakota_dlya_american_truck_simulator-1871572#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_3083400273877662497",
+        "date": "2026-09-03",
+        "title": "📰 The Blood of Dawnwalker добралась до релиза -...",
+        "type": "news",
+        "desc": "The Blood of Dawnwalker добралась до релиза - и почти сразу появилась на торрентах",
+        "url": "https://www.playground.ru/blood_of_dawnwalker/news/the_blood_of_dawnwalker_dobralas_do_reliza_i_pochti_srazu_poyavilas_na_torrentah-1871561#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
