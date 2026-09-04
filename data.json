@@ -45,7 +45,23 @@
         "url": "https://www.google.com/search?q=Sevilla+FC+—+Barça+match"
     },
     {
-        "id": "n_-6934198373691812582",
+        "id": "n_-1627122446569512152",
+        "date": "2026-09-03",
+        "title": "📰 «Кровавые слёзы» — геймплейный трейлер Castle...",
+        "type": "news",
+        "desc": "«Кровавые слёзы» — геймплейный трейлер Castlevania: Belmont&#039;s Curse",
+        "url": "https://stopgame.ru/newsdata/72741/krovavye_slezy_geympleynyy_trailer_castlevania_belmonts_curse"
+    },
+    {
+        "id": "n_229368932204339874",
+        "date": "2026-09-03",
+        "title": "📰 Анонсы на State of Play — DLC для Crimson Des...",
+        "type": "news",
+        "desc": "Анонсы на State of Play — DLC для Crimson Desert, Until Dawn 2, Final Fantasy VII Revelation...",
+        "url": "https://stopgame.ru/newsdata/72740/anonsy_na_state_of_play_dlc_dlya_crimson_desert_until_dawn_2_final_fantasy_vii_revelation"
+    },
+    {
+        "id": "n_865035516394933328",
         "date": "2026-09-02",
         "title": "📰 Градостроительная головоломка Fangtopia обрел...",
         "type": "news",
@@ -53,19 +69,19 @@
         "url": "https://stopgame.ru/newsdata/72730/gradostroitelnaya_golovolomka_fangtopia_obrela_datu_reliza_v_novom_trailere"
     },
     {
-        "id": "n_8677546842507976034",
-        "date": "2026-09-03",
-        "title": "📰 Объявлена дата выхода DLC \"Южная Дакота\" для ...",
+        "id": "n_-8030987834861266060",
+        "date": "2026-09-04",
+        "title": "📰 \"Будет ли это нашей собственностью?\" - геймер...",
         "type": "news",
-        "desc": "Объявлена дата выхода DLC \"Южная Дакота\" для American Truck Simulator",
-        "url": "https://www.playground.ru/american_truck_simulator/news/obyavlena_data_vyhoda_dlc_yuzhnaya_dakota_dlya_american_truck_simulator-1871572#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "\"Будет ли это нашей собственностью?\" - геймеры высмеяли анонс DualSense от Sony в стилистике GTA 6",
+        "url": "https://www.playground.ru/gta_6/news/budet_li_eto_nashej_sobstvennostyu_gejmery_vysmeyali_anons_dualsense_ot_sony_v_stilistike_gta_6-1871871#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_3083400273877662497",
-        "date": "2026-09-03",
-        "title": "📰 The Blood of Dawnwalker добралась до релиза -...",
+        "id": "n_1081954115585867369",
+        "date": "2026-09-04",
+        "title": "📰 \"Нет диска - нет покупки\": игроки продолжают ...",
         "type": "news",
-        "desc": "The Blood of Dawnwalker добралась до релиза - и почти сразу появилась на торрентах",
-        "url": "https://www.playground.ru/blood_of_dawnwalker/news/the_blood_of_dawnwalker_dobralas_do_reliza_i_pochti_srazu_poyavilas_na_torrentah-1871561#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "\"Нет диска - нет покупки\": игроки продолжают протестовать в постах о State of Play и анонсах",
+        "url": "https://www.playground.ru/misc/news/net_diska_net_pokupki_igroki_prodolzhayut_protestovat_v_postah_o_state_of_play_i_anonsah-1871861#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
