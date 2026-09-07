@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564659",
-        "date": "2026-09-06",
-        "title": "⚽ Valencia — Barça",
-        "type": "foot",
-        "time": "14:15",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Valencia+—+Barça+match"
-    },
-    {
         "id": "f_575329",
         "date": "2026-09-09",
         "title": "⚽ Barça — Feyenoord",
@@ -45,7 +36,16 @@
         "url": "https://www.google.com/search?q=Sevilla+FC+—+Barça+match"
     },
     {
-        "id": "n_-2356266418395876502",
+        "id": "f_564700",
+        "date": "2026-10-11",
+        "title": "⚽ Barça — Getafe",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Getafe+match"
+    },
+    {
+        "id": "n_-8746516934663593209",
         "date": "2026-09-05",
         "title": "📰 Amplitude Studios опровергла обвинения в испо...",
         "type": "news",
@@ -53,19 +53,11 @@
         "url": "https://stopgame.ru/newsdata/72761/amplitude_studios_oprovergla_obvineniya_v_ispolzovanii_ii_v_trailere_humankind_2"
     },
     {
-        "id": "n_6704061418731465537",
+        "id": "n_-3356946941699682234",
         "date": "2026-09-06",
-        "title": "📰 Трейлер Left 4 Dead 2 был слит намеренно - Va...",
+        "title": "📰 Состоялся релиз открытой беты American Conque...",
         "type": "news",
-        "desc": "Трейлер Left 4 Dead 2 был слит намеренно - Valve раскрыла правду спустя 17 лет",
-        "url": "https://www.playground.ru/left_4_dead_2/news/trejler_left_4_dead_2_byl_slit_namerenno_valve_raskryla_pravdu_spustya_17_let-1872339#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-7159757215837144804",
-        "date": "2026-09-05",
-        "title": "📰 Он вернулся! Voices38 взломал Mortal Kombat 1...",
-        "type": "news",
-        "desc": "Он вернулся! Voices38 взломал Mortal Kombat 1 - файтинг с защитой Denuvo продержался более трёх лет после релиза",
-        "url": "https://www.playground.ru/mortal_kombat_1/news/on_vernulsya_voices38_vzlomal_mortal_kombat_1_fajting_s_zaschitoj_denuvo_proderzhalsya_bolee_tryoh_let_posle_reliza-1872316#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся релиз открытой беты American Conquest Remaster с обновленным движком и рабочим мультиплеером",
+        "url": "https://www.playground.ru/american_conquest/news/sostoyalsya_reliz_otkrytoj_bety_american_conquest_remaster_s_obnovlennym_dvizhkom_i_rabochim_multipleerom-1872523#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
