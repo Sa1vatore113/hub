@@ -45,43 +45,35 @@
         "url": "https://www.google.com/search?q=Barça+—+Getafe+match"
     },
     {
-        "id": "n_-1632737296641672628",
+        "id": "n_729017668925256655",
+        "date": "2026-09-08",
+        "title": "📰 Бывший сценарист Valve: компания сама устроил...",
+        "type": "news",
+        "desc": "Бывший сценарист Valve: компания сама устроила утечку трейлера Left 4 Dead 2 из-за ESRB",
+        "url": "https://stopgame.ru/newsdata/72784/byvshiy_scenarist_valve_kompaniya_sama_ustroila_utechku_trailera_left_4_dead_2_iz_za_esrb"
+    },
+    {
+        "id": "n_8947503600526637872",
+        "date": "2026-09-08",
+        "title": "📰 Горр убивает Локи в трейлере десятого сезона ...",
+        "type": "news",
+        "desc": "Горр убивает Локи в трейлере десятого сезона Marvel Rivals",
+        "url": "https://stopgame.ru/newsdata/72783/gorr_ubivaet_loki_v_trailere_desyatogo_sezona_marvel_rivals"
+    },
+    {
+        "id": "n_4043376117378393336",
+        "date": "2026-09-08",
+        "title": "📰 FuturLab провела сокращения и отменила неанон...",
+        "type": "news",
+        "desc": "FuturLab провела сокращения и отменила неанонсированную игру",
+        "url": "https://stopgame.ru/newsdata/72775/futurlab_provela_sokrascheniya_i_otmenila_neanonsirovannuyu_igru"
+    },
+    {
+        "id": "n_685137373401370283",
         "date": "2026-09-07",
         "title": "📰 Анонс CaTHaRSiS: The last of atelier — адвенч...",
         "type": "news",
         "desc": "Анонс CaTHaRSiS: The last of atelier — адвенчуры про блуждание по картинам великих художников",
         "url": "https://stopgame.ru/newsdata/72772/anons_catharsis_the_last_of_atelier_advenchury_pro_bluzhdanie_po_kartinam_velikih_hudozhnikov"
-    },
-    {
-        "id": "n_6609597130471248366",
-        "date": "2026-09-07",
-        "title": "📰 Onimusha: Way of the Sword разошлась миллионн...",
-        "type": "news",
-        "desc": "Onimusha: Way of the Sword разошлась миллионным тиражом в первый же день с релиза",
-        "url": "https://stopgame.ru/newsdata/72763/onimusha_way_of_the_sword_razoshlas_millionnym_tirazhom_v_pervyy_zhe_den_s_reliza"
-    },
-    {
-        "id": "n_-4199270918847107571",
-        "date": "2026-09-05",
-        "title": "📰 Amplitude Studios опровергла обвинения в испо...",
-        "type": "news",
-        "desc": "Amplitude Studios опровергла обвинения в использовании ИИ в трейлере HUMANKIND 2",
-        "url": "https://stopgame.ru/newsdata/72761/amplitude_studios_oprovergla_obvineniya_v_ispolzovanii_ii_v_trailere_humankind_2"
-    },
-    {
-        "id": "n_-3572315948027583319",
-        "date": "2026-09-08",
-        "title": "📰 Разработчики Path of Exile троллили датамайне...",
-        "type": "news",
-        "desc": "Разработчики Path of Exile троллили датамайнеров фальшивыми ассетами - но признали, что это пустая трата времени",
-        "url": "https://www.playground.ru/path_of_exile_2/news/razrabotchiki_path_of_exile_trollili_datamajnerov_falshivymi_assetami_no_priznali_chto_eto_pustaya_trata_vremeni-1872789#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_1270316387759835673",
-        "date": "2026-09-07",
-        "title": "📰 Акции Capcom обновили годовой максимум на фон...",
-        "type": "news",
-        "desc": "Акции Capcom обновили годовой максимум на фоне успешного релиза Onimusha: Way of the Sword",
-        "url": "https://www.playground.ru/onimusha_way_of_the_sword/news/aktsii_capcom_obnovili_godovoj_maksimum_na_fone_uspeshnogo_reliza_onimusha_way_of_the_sword-1872770#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
