@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_575329",
-        "date": "2026-09-09",
-        "title": "⚽ Barça — Feyenoord",
-        "type": "foot",
-        "time": "16:45",
-        "desc": "Лига: UEFA Champions League",
-        "url": "https://www.google.com/search?q=Barça+—+Feyenoord+match"
-    },
-    {
         "id": "f_564675",
         "date": "2026-09-13",
         "title": "⚽ Levante — Barça",
@@ -45,7 +36,40 @@
         "url": "https://www.google.com/search?q=Barça+—+Getafe+match"
     },
     {
-        "id": "n_729017668925256655",
+        "id": "f_575344",
+        "date": "2026-10-13",
+        "title": "⚽ Galatasaray — Barça",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Лига: UEFA Champions League",
+        "url": "https://www.google.com/search?q=Galatasaray+—+Barça+match"
+    },
+    {
+        "id": "n_-779941862348139203",
+        "date": "2026-09-09",
+        "title": "📰 Valheim вышла в полноценный релиз...",
+        "type": "news",
+        "desc": "Valheim вышла в полноценный релиз",
+        "url": "https://stopgame.ru/newsdata/72797/valheim_vyshla_v_polnocennyy_reliz"
+    },
+    {
+        "id": "n_-3377203682215122722",
+        "date": "2026-09-09",
+        "title": "📰 Анонсы на Nintendo Direct — новая Metroid, Ki...",
+        "type": "news",
+        "desc": "Анонсы на Nintendo Direct — новая Metroid, Kirby и многое другое",
+        "url": "https://stopgame.ru/newsdata/72792/anonsy_na_nintendo_direct_novaya_metroid_kirby_i_mnogoe_drugoe"
+    },
+    {
+        "id": "n_-2193467785024371228",
+        "date": "2026-09-09",
+        "title": "📰 Появились ачивки Persona 6, Kingdom Hearts IV...",
+        "type": "news",
+        "desc": "Появились ачивки Persona 6, Kingdom Hearts IV и ряда неанонсированных игр из-за утечки в Steam",
+        "url": "https://stopgame.ru/newsdata/72787/poyavilis_achivki_persona_6_kingdom_hearts_iv_i_ryada_neanonsirovannyh_igr_iz_za_utechki_v_steam"
+    },
+    {
+        "id": "n_4208303826626655546",
         "date": "2026-09-08",
         "title": "📰 Бывший сценарист Valve: компания сама устроил...",
         "type": "news",
@@ -53,27 +77,19 @@
         "url": "https://stopgame.ru/newsdata/72784/byvshiy_scenarist_valve_kompaniya_sama_ustroila_utechku_trailera_left_4_dead_2_iz_za_esrb"
     },
     {
-        "id": "n_8947503600526637872",
-        "date": "2026-09-08",
-        "title": "📰 Горр убивает Локи в трейлере десятого сезона ...",
+        "id": "n_2292970398263663652",
+        "date": "2026-09-10",
+        "title": "📰 Фанаты Marvel's Guardians of the Galaxy прося...",
         "type": "news",
-        "desc": "Горр убивает Локи в трейлере десятого сезона Marvel Rivals",
-        "url": "https://stopgame.ru/newsdata/72783/gorr_ubivaet_loki_v_trailere_desyatogo_sezona_marvel_rivals"
+        "desc": "Фанаты Marvel's Guardians of the Galaxy просят сиквел после анонса версии для Switch 2",
+        "url": "https://www.playground.ru/marvels_guardians_of_the_galaxy/news/fanaty_marvels_guardians_of_the_galaxy_prosyat_sikvel_posle_anonsa_versii_dlya_switch_2-1873311#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_4043376117378393336",
-        "date": "2026-09-08",
-        "title": "📰 FuturLab провела сокращения и отменила неанон...",
+        "id": "n_3259667427920408973",
+        "date": "2026-09-09",
+        "title": "📰 Состоялся релиз исторической самурайской стра...",
         "type": "news",
-        "desc": "FuturLab провела сокращения и отменила неанонсированную игру",
-        "url": "https://stopgame.ru/newsdata/72775/futurlab_provela_sokrascheniya_i_otmenila_neanonsirovannuyu_igru"
-    },
-    {
-        "id": "n_685137373401370283",
-        "date": "2026-09-07",
-        "title": "📰 Анонс CaTHaRSiS: The last of atelier — адвенч...",
-        "type": "news",
-        "desc": "Анонс CaTHaRSiS: The last of atelier — адвенчуры про блуждание по картинам великих художников",
-        "url": "https://stopgame.ru/newsdata/72772/anons_catharsis_the_last_of_atelier_advenchury_pro_bluzhdanie_po_kartinam_velikih_hudozhnikov"
+        "desc": "Состоялся релиз исторической самурайской стратегии Warlord: Awaji",
+        "url": "https://www.playground.ru/warlord_awaji/news/sostoyalsya_reliz_istoricheskoj_samurajskoj_strategii_warlord_awaji-1873287#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
