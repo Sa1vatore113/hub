@@ -28,10 +28,10 @@
     },
     {
         "id": "f_564700",
-        "date": "2026-10-11",
+        "date": "2026-10-10",
         "title": "⚽ Barça — Getafe",
         "type": "foot",
-        "time": "00:00",
+        "time": "16:30",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Barça+—+Getafe+match"
     },
@@ -45,7 +45,7 @@
         "url": "https://www.google.com/search?q=Galatasaray+—+Barça+match"
     },
     {
-        "id": "n_-779941862348139203",
+        "id": "n_6843713224878137006",
         "date": "2026-09-09",
         "title": "📰 Valheim вышла в полноценный релиз...",
         "type": "news",
@@ -53,43 +53,11 @@
         "url": "https://stopgame.ru/newsdata/72797/valheim_vyshla_v_polnocennyy_reliz"
     },
     {
-        "id": "n_-3377203682215122722",
-        "date": "2026-09-09",
-        "title": "📰 Анонсы на Nintendo Direct — новая Metroid, Ki...",
-        "type": "news",
-        "desc": "Анонсы на Nintendo Direct — новая Metroid, Kirby и многое другое",
-        "url": "https://stopgame.ru/newsdata/72792/anonsy_na_nintendo_direct_novaya_metroid_kirby_i_mnogoe_drugoe"
-    },
-    {
-        "id": "n_-2193467785024371228",
-        "date": "2026-09-09",
-        "title": "📰 Появились ачивки Persona 6, Kingdom Hearts IV...",
-        "type": "news",
-        "desc": "Появились ачивки Persona 6, Kingdom Hearts IV и ряда неанонсированных игр из-за утечки в Steam",
-        "url": "https://stopgame.ru/newsdata/72787/poyavilis_achivki_persona_6_kingdom_hearts_iv_i_ryada_neanonsirovannyh_igr_iz_za_utechki_v_steam"
-    },
-    {
-        "id": "n_4208303826626655546",
-        "date": "2026-09-08",
-        "title": "📰 Бывший сценарист Valve: компания сама устроил...",
-        "type": "news",
-        "desc": "Бывший сценарист Valve: компания сама устроила утечку трейлера Left 4 Dead 2 из-за ESRB",
-        "url": "https://stopgame.ru/newsdata/72784/byvshiy_scenarist_valve_kompaniya_sama_ustroila_utechku_trailera_left_4_dead_2_iz_za_esrb"
-    },
-    {
-        "id": "n_2292970398263663652",
+        "id": "n_403191673344269161",
         "date": "2026-09-10",
-        "title": "📰 Фанаты Marvel's Guardians of the Galaxy прося...",
+        "title": "📰 AMD без анонса выпустила Ryzen 5 7500 для AM5...",
         "type": "news",
-        "desc": "Фанаты Marvel's Guardians of the Galaxy просят сиквел после анонса версии для Switch 2",
-        "url": "https://www.playground.ru/marvels_guardians_of_the_galaxy/news/fanaty_marvels_guardians_of_the_galaxy_prosyat_sikvel_posle_anonsa_versii_dlya_switch_2-1873311#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_3259667427920408973",
-        "date": "2026-09-09",
-        "title": "📰 Состоялся релиз исторической самурайской стра...",
-        "type": "news",
-        "desc": "Состоялся релиз исторической самурайской стратегии Warlord: Awaji",
-        "url": "https://www.playground.ru/warlord_awaji/news/sostoyalsya_reliz_istoricheskoj_samurajskoj_strategii_warlord_awaji-1873287#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "AMD без анонса выпустила Ryzen 5 7500 для AM5 и Ryzen 5 5500F для AM4",
+        "url": "https://www.playground.ru/misc/news/amd_bez_anonsa_vypustila_ryzen_5_7500_dlya_am5_i_ryzen_5_5500f_dlya_am4-1873521#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
