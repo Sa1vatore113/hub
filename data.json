@@ -45,19 +45,27 @@
         "url": "https://www.google.com/search?q=Galatasaray+—+Barça+match"
     },
     {
-        "id": "n_6843713224878137006",
-        "date": "2026-09-09",
-        "title": "📰 Valheim вышла в полноценный релиз...",
+        "id": "n_3697747525093091157",
+        "date": "2026-09-11",
+        "title": "📰 Метроидвания Aeterna Lucis обрела дату релиза...",
         "type": "news",
-        "desc": "Valheim вышла в полноценный релиз",
-        "url": "https://stopgame.ru/newsdata/72797/valheim_vyshla_v_polnocennyy_reliz"
+        "desc": "Метроидвания Aeterna Lucis обрела дату релиза — 3 декабря",
+        "url": "https://stopgame.ru/newsdata/72813/metroidvaniya_aeterna_lucis_obrela_datu_reliza_3_dekabrya"
     },
     {
-        "id": "n_403191673344269161",
-        "date": "2026-09-10",
-        "title": "📰 AMD без анонса выпустила Ryzen 5 7500 для AM5...",
+        "id": "n_-8947750327108019924",
+        "date": "2026-09-11",
+        "title": "📰 Геймплейный трейлер в честь запуска третьей в...",
         "type": "news",
-        "desc": "AMD без анонса выпустила Ryzen 5 7500 для AM5 и Ryzen 5 5500F для AM4",
-        "url": "https://www.playground.ru/misc/news/amd_bez_anonsa_vypustila_ryzen_5_7500_dlya_am5_i_ryzen_5_5500f_dlya_am4-1873521#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Геймплейный трейлер в честь запуска третьей волны коллаборации Overwatch x Le Sserafim",
+        "url": "https://www.playground.ru/overwatch/news/gejmplejnyj_trejler_v_chest_zapuska_tretej_volny_kollaboratsii_overwatch_x_le_sserafim-1873725#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_1360315123334805794",
+        "date": "2026-09-11",
+        "title": "📰 Разработчики The Blood of Dawnwalker выпустил...",
+        "type": "news",
+        "desc": "Разработчики The Blood of Dawnwalker выпустили хвалебный трейлер игры с высокими оценками от прессы",
+        "url": "https://www.playground.ru/blood_of_dawnwalker/news/razrabotchiki_the_blood_of_dawnwalker_vypustili_hvalebnyj_trejler_igry_s_vysokimi_otsenkami_ot_pressy-1873722#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
