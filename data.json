@@ -45,7 +45,23 @@
         "url": "https://www.google.com/search?q=Galatasaray+—+Barça+match"
     },
     {
-        "id": "n_3697747525093091157",
+        "id": "n_-1547282135406194411",
+        "date": "2026-09-12",
+        "title": "📰 Blizzard анонсировала Diablo V и анимационный...",
+        "type": "news",
+        "desc": "Blizzard анонсировала Diablo V и анимационный сериал от Netflix",
+        "url": "https://stopgame.ru/newsdata/72823/blizzard_anonsirovala_diablo_v_i_animacionnyy_serial_ot_netflix"
+    },
+    {
+        "id": "n_-8616195798474265150",
+        "date": "2026-09-12",
+        "title": "📰 Шутер по StarCraft выйдет в 2030 году — смотр...",
+        "type": "news",
+        "desc": "Шутер по StarCraft выйдет в 2030 году — смотрите дебютный трейлер",
+        "url": "https://stopgame.ru/newsdata/72822/shuter_po_starcraft_vyydet_v_2030_godu_smotrite_debyutnyy_trailer"
+    },
+    {
+        "id": "n_389672621565865199",
         "date": "2026-09-11",
         "title": "📰 Метроидвания Aeterna Lucis обрела дату релиза...",
         "type": "news",
@@ -53,19 +69,27 @@
         "url": "https://stopgame.ru/newsdata/72813/metroidvaniya_aeterna_lucis_obrela_datu_reliza_3_dekabrya"
     },
     {
-        "id": "n_-8947750327108019924",
-        "date": "2026-09-11",
-        "title": "📰 Геймплейный трейлер в честь запуска третьей в...",
+        "id": "n_-1204526690416660366",
+        "date": "2026-09-13",
+        "title": "📰 Мощно, мрачно и гнетуще - Gears of War: E-Day...",
         "type": "news",
-        "desc": "Геймплейный трейлер в честь запуска третьей волны коллаборации Overwatch x Le Sserafim",
-        "url": "https://www.playground.ru/overwatch/news/gejmplejnyj_trejler_v_chest_zapuska_tretej_volny_kollaboratsii_overwatch_x_le_sserafim-1873725#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Мощно, мрачно и гнетуще - Gears of War: E-Day получила новый сюжетный трейлер",
+        "url": "https://www.playground.ru/gears_of_war_e_day/news/moschno_mrachno_i_gnetusche_gears_of_war_e_day_poluchila_novyj_syuzhetnyj_trejler-1873974#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_1360315123334805794",
-        "date": "2026-09-11",
-        "title": "📰 Разработчики The Blood of Dawnwalker выпустил...",
+        "id": "n_-1449680078178475748",
+        "date": "2026-09-13",
+        "title": "📰 \"Научились у Тодда Говарда?\" - фанаты высмеив...",
         "type": "news",
-        "desc": "Разработчики The Blood of Dawnwalker выпустили хвалебный трейлер игры с высокими оценками от прессы",
-        "url": "https://www.playground.ru/blood_of_dawnwalker/news/razrabotchiki_the_blood_of_dawnwalker_vypustili_hvalebnyj_trejler_igry_s_vysokimi_otsenkami_ot_pressy-1873722#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "\"Научились у Тодда Говарда?\" - фанаты высмеивают слишком ранние анонсы Diablo V и нового StarCraft от Blizzard",
+        "url": "https://www.playground.ru/diablo_5/news/nauchilis_u_todda_govarda_fanaty_vysmeivayut_slishkom_rannie_anonsy_diablo_v_i_novogo_starcraft_ot_blizzard-1873953#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_4609934296816035047",
+        "date": "2026-09-12",
+        "title": "📰 World of Warcraft Forever анонсирована - Bliz...",
+        "type": "news",
+        "desc": "World of Warcraft Forever анонсирована - Blizzard наконец-то делает ту самую Classic Plus, о которой просили фанаты",
+        "url": "https://www.playground.ru/world_of_warcraft/news/world_of_warcraft_forever_anonsirovana_blizzard_nakonets_to_delaet_tu_samuyu_classic_plus_o_kotoroj_prosili_fanaty-1873939#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
