@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564675",
-        "date": "2026-09-13",
-        "title": "⚽ Levante — Barça",
-        "type": "foot",
-        "time": "14:15",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Levante+—+Barça+match"
-    },
-    {
         "id": "f_564687",
         "date": "2026-09-16",
         "title": "⚽ Barça — Santander",
@@ -45,7 +36,16 @@
         "url": "https://www.google.com/search?q=Galatasaray+—+Barça+match"
     },
     {
-        "id": "n_-1547282135406194411",
+        "id": "f_564713",
+        "date": "2026-10-18",
+        "title": "⚽ Real Betis — Barça",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Real+Betis+—+Barça+match"
+    },
+    {
+        "id": "n_3805726369631902111",
         "date": "2026-09-12",
         "title": "📰 Blizzard анонсировала Diablo V и анимационный...",
         "type": "news",
@@ -53,7 +53,7 @@
         "url": "https://stopgame.ru/newsdata/72823/blizzard_anonsirovala_diablo_v_i_animacionnyy_serial_ot_netflix"
     },
     {
-        "id": "n_-8616195798474265150",
+        "id": "n_3942601809701513907",
         "date": "2026-09-12",
         "title": "📰 Шутер по StarCraft выйдет в 2030 году — смотр...",
         "type": "news",
@@ -61,7 +61,7 @@
         "url": "https://stopgame.ru/newsdata/72822/shuter_po_starcraft_vyydet_v_2030_godu_smotrite_debyutnyy_trailer"
     },
     {
-        "id": "n_389672621565865199",
+        "id": "n_5187376659989924526",
         "date": "2026-09-11",
         "title": "📰 Метроидвания Aeterna Lucis обрела дату релиза...",
         "type": "news",
@@ -69,27 +69,11 @@
         "url": "https://stopgame.ru/newsdata/72813/metroidvaniya_aeterna_lucis_obrela_datu_reliza_3_dekabrya"
     },
     {
-        "id": "n_-1204526690416660366",
-        "date": "2026-09-13",
-        "title": "📰 Мощно, мрачно и гнетуще - Gears of War: E-Day...",
+        "id": "n_-4695131457293562099",
+        "date": "2026-09-14",
+        "title": "📰 GTA 6 не получила обычный геймплейный трейлер...",
         "type": "news",
-        "desc": "Мощно, мрачно и гнетуще - Gears of War: E-Day получила новый сюжетный трейлер",
-        "url": "https://www.playground.ru/gears_of_war_e_day/news/moschno_mrachno_i_gnetusche_gears_of_war_e_day_poluchila_novyj_syuzhetnyj_trejler-1873974#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-1449680078178475748",
-        "date": "2026-09-13",
-        "title": "📰 \"Научились у Тодда Говарда?\" - фанаты высмеив...",
-        "type": "news",
-        "desc": "\"Научились у Тодда Говарда?\" - фанаты высмеивают слишком ранние анонсы Diablo V и нового StarCraft от Blizzard",
-        "url": "https://www.playground.ru/diablo_5/news/nauchilis_u_todda_govarda_fanaty_vysmeivayut_slishkom_rannie_anonsy_diablo_v_i_novogo_starcraft_ot_blizzard-1873953#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_4609934296816035047",
-        "date": "2026-09-12",
-        "title": "📰 World of Warcraft Forever анонсирована - Bliz...",
-        "type": "news",
-        "desc": "World of Warcraft Forever анонсирована - Blizzard наконец-то делает ту самую Classic Plus, о которой просили фанаты",
-        "url": "https://www.playground.ru/world_of_warcraft/news/world_of_warcraft_forever_anonsirovana_blizzard_nakonets_to_delaet_tu_samuyu_classic_plus_o_kotoroj_prosili_fanaty-1873939#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "GTA 6 не получила обычный геймплейный трейлер из-за огромного количества контента",
+        "url": "https://www.playground.ru/gta_6/news/gta_6_ne_poluchila_obychnyj_gejmplejnyj_trejler_iz_za_ogromnogo_kolichestva_kontenta-1874158#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
