@@ -45,35 +45,43 @@
         "url": "https://www.google.com/search?q=Real+Betis+—+Barça+match"
     },
     {
-        "id": "n_3805726369631902111",
-        "date": "2026-09-12",
-        "title": "📰 Blizzard анонсировала Diablo V и анимационный...",
-        "type": "news",
-        "desc": "Blizzard анонсировала Diablo V и анимационный сериал от Netflix",
-        "url": "https://stopgame.ru/newsdata/72823/blizzard_anonsirovala_diablo_v_i_animacionnyy_serial_ot_netflix"
-    },
-    {
-        "id": "n_3942601809701513907",
-        "date": "2026-09-12",
-        "title": "📰 Шутер по StarCraft выйдет в 2030 году — смотр...",
-        "type": "news",
-        "desc": "Шутер по StarCraft выйдет в 2030 году — смотрите дебютный трейлер",
-        "url": "https://stopgame.ru/newsdata/72822/shuter_po_starcraft_vyydet_v_2030_godu_smotrite_debyutnyy_trailer"
-    },
-    {
-        "id": "n_5187376659989924526",
-        "date": "2026-09-11",
-        "title": "📰 Метроидвания Aeterna Lucis обрела дату релиза...",
-        "type": "news",
-        "desc": "Метроидвания Aeterna Lucis обрела дату релиза — 3 декабря",
-        "url": "https://stopgame.ru/newsdata/72813/metroidvaniya_aeterna_lucis_obrela_datu_reliza_3_dekabrya"
-    },
-    {
-        "id": "n_-4695131457293562099",
+        "id": "n_-7927177572162340316",
         "date": "2026-09-14",
-        "title": "📰 GTA 6 не получила обычный геймплейный трейлер...",
+        "title": "📰 Bandai Namco выпустила сюжетный трейлер Ace C...",
         "type": "news",
-        "desc": "GTA 6 не получила обычный геймплейный трейлер из-за огромного количества контента",
-        "url": "https://www.playground.ru/gta_6/news/gta_6_ne_poluchila_obychnyj_gejmplejnyj_trejler_iz_za_ogromnogo_kolichestva_kontenta-1874158#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Bandai Namco выпустила сюжетный трейлер Ace Combat 8",
+        "url": "https://stopgame.ru/newsdata/72832/bandai_namco_vypustila_syuzhetnyy_trailer_ace_combat_8"
+    },
+    {
+        "id": "n_-149627722260059037",
+        "date": "2026-09-14",
+        "title": "📰 Никаких переносов — Blizzard обещает выпустит...",
+        "type": "news",
+        "desc": "Никаких переносов — Blizzard обещает выпустить Diablo V и шутер по StarCraft в срок",
+        "url": "https://stopgame.ru/newsdata/72829/nikakih_perenosov_blizzard_obeschaet_vypustit_diablo_v_i_shuter_po_starcraft_v_srok"
+    },
+    {
+        "id": "n_-457897980998787636",
+        "date": "2026-09-15",
+        "title": "📰 Состоялся релиз Marvel's Wolverine на PS5 - в...",
+        "type": "news",
+        "desc": "Состоялся релиз Marvel's Wolverine на PS5 - в честь этого Insomniac Games опубликовала эмоциональное обращение к фанатам",
+        "url": "https://www.playground.ru/marvels_wolverine/news/sostoyalsya_reliz_marvels_wolverine_na_ps5_v_chest_etogo_insomniac_games_opublikovala_emotsionalnoe_obraschenie_k_fanatam-1874435#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2889969518741586187",
+        "date": "2026-09-15",
+        "title": "📰 По слухам, Game Pass ждут масштабные изменени...",
+        "type": "news",
+        "desc": "По слухам, Game Pass ждут масштабные изменения - игры перестанут выходить в сервисе в день релиза",
+        "url": "https://www.playground.ru/misc/news/po_sluham_game_pass_zhdut_masshtabnye_izmeneniya_igry_perestanut_vyhodit_v_servise_v_den_reliza-1874426#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2127997971808309923",
+        "date": "2026-09-14",
+        "title": "📰 8BitDo анонсировала лимитированные геймпады в...",
+        "type": "news",
+        "desc": "8BitDo анонсировала лимитированные геймпады в честь 30-летия франшизы Tomb Raider",
+        "url": "https://www.playground.ru/misc/news/8bitdo_anonsirovala_limitirovannye_gejmpady_v_chest_30_letiya_franshizy_tomb_raider-1874392#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
