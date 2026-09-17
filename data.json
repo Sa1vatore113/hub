@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564687",
-        "date": "2026-09-16",
-        "title": "⚽ Barça — Santander",
-        "type": "foot",
-        "time": "19:30",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Santander+match"
-    },
-    {
         "id": "f_564690",
         "date": "2026-09-19",
         "title": "⚽ Sevilla FC — Barça",
@@ -37,51 +28,69 @@
     },
     {
         "id": "f_564713",
-        "date": "2026-10-18",
+        "date": "2026-10-17",
         "title": "⚽ Real Betis — Barça",
         "type": "foot",
-        "time": "00:00",
+        "time": "16:30",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Real+Betis+—+Barça+match"
     },
     {
-        "id": "n_-3735702552189134165",
-        "date": "2026-09-15",
-        "title": "📰 SEGA анонсировала Total War: SHOGUN 2 — Compl...",
-        "type": "news",
-        "desc": "SEGA анонсировала Total War: SHOGUN 2 — Complete Edition",
-        "url": "https://stopgame.ru/newsdata/72847/sega_anonsirovala_total_war_shogun_2_complete_edition"
+        "id": "f_575367",
+        "date": "2026-10-20",
+        "title": "⚽ PSG — Barça",
+        "type": "foot",
+        "time": "19:00",
+        "desc": "Лига: UEFA Champions League",
+        "url": "https://www.google.com/search?q=PSG+—+Barça+match"
     },
     {
-        "id": "n_-4980692698898668630",
-        "date": "2026-09-15",
-        "title": "📰 Релиз сурвайвор-клона Jujutsu Kaisen Rumble: ...",
-        "type": "news",
-        "desc": "Релиз сурвайвор-клона Jujutsu Kaisen Rumble: Survivaton переехал на 2027 год",
-        "url": "https://stopgame.ru/newsdata/72845/reliz_survayvor_klona_jujutsu_kaisen_rumble_survivaton_pereehal_na_2027_god"
+        "id": "navi_cs_1685163",
+        "date": "2026-09-17",
+        "time": "18:00",
+        "title": "🏆 CS2: Upper Bracket Quarterfinal 2: NAVI vs AUR",
+        "type": "navi",
+        "desc": "Турнир: StarLadder StarSeries. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_4531474303305042116",
-        "date": "2026-09-15",
-        "title": "📰 Релиз 007 First Light на Switch 2 отложили до...",
-        "type": "news",
-        "desc": "Релиз 007 First Light на Switch 2 отложили до марта 2027-го",
-        "url": "https://stopgame.ru/newsdata/72839/reliz_007_first_light_na_switch_2_otlozhili_do_marta_2027_go"
-    },
-    {
-        "id": "n_8442436482819468073",
+        "id": "n_297060121403870868",
         "date": "2026-09-16",
-        "title": "📰 Sony анонсировала ряд товаров, посвящённых Ma...",
+        "title": "📰 Кооперативный экшен Kemuri получил новый трей...",
         "type": "news",
-        "desc": "Sony анонсировала ряд товаров, посвящённых Marvel's Wolverine, включая мини-холодильник с уникальным дизайном",
-        "url": "https://www.playground.ru/marvels_wolverine/news/sony_anonsirovala_ryad_tovarov_posvyaschyonnyh_marvels_wolverine_vklyuchaya_mini_holodilnik_s_unikalnym_dizajnom-1874694#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Кооперативный экшен Kemuri получил новый трейлер на Tokyo Game Show",
+        "url": "https://stopgame.ru/newsdata/72855/kooperativnyy_ekshen_kemuri_poluchil_novyy_trailer_na_tokyo_game_show"
     },
     {
-        "id": "n_4235012733637831502",
-        "date": "2026-09-15",
-        "title": "📰 Для PowerWash Simulator 2 анонсировали DLC по...",
+        "id": "n_1882287870016922112",
+        "date": "2026-09-16",
+        "title": "📰 Wo Long 2: Wings of Ember получила дату релиз...",
         "type": "news",
-        "desc": "Для PowerWash Simulator 2 анонсировали DLC по мотивам Barbie",
-        "url": "https://www.playground.ru/powerwash_simulator_2/news/dlya_powerwash_simulator_2_anonsirovali_dlc_po_motivam_barbie-1874670#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Wo Long 2: Wings of Ember получила дату релиза и демоверсию",
+        "url": "https://stopgame.ru/newsdata/72854/wo_long_2_wings_of_ember_poluchila_datu_reliza_i_demoversiyu"
+    },
+    {
+        "id": "n_-480363157794731002",
+        "date": "2026-09-17",
+        "title": "📰 Официально анонсирована Lollipop Chainsaw 2 B...",
+        "type": "news",
+        "desc": "Официально анонсирована Lollipop Chainsaw 2 Back2Back - похоже, игра будет временным эксклюзивом PS5",
+        "url": "https://www.playground.ru/misc/news/ofitsialno_anonsirovana_lollipop_chainsaw_2_back2back_pohozhe_igra_budet_vremennym_eksklyuzivom_ps5-1874920#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6391739067157438048",
+        "date": "2026-09-16",
+        "title": "📰 Модификация Postal Adrenalin для Postal 2 пол...",
+        "type": "news",
+        "desc": "Модификация Postal Adrenalin для Postal 2 получила две кампании и перенос релиза на Хэллоуин",
+        "url": "https://www.playground.ru/postal_2/news/modifikatsiya_postal_adrenalin_dlya_postal_2_poluchila_dve_kampanii_i_perenos_reliza_na_hellouin-1874907#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6449743532849629195",
+        "date": "2026-09-16",
+        "title": "📰 Перед релизом Control Resonant студия Remedy ...",
+        "type": "news",
+        "desc": "Перед релизом Control Resonant студия Remedy выпустила документалку про разработку экшена с новыми кадрами из игры",
+        "url": "https://www.playground.ru/control_2/news/pered_relizom_control_resonant_studiya_remedy_vypustila_dokumentalku_pro_razrabotku_ekshena_s_novymi_kadrami_iz_igry-1874900#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
