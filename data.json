@@ -45,52 +45,52 @@
         "url": "https://www.google.com/search?q=PSG+—+Barça+match"
     },
     {
-        "id": "navi_cs_1685163",
-        "date": "2026-09-17",
-        "time": "18:00",
-        "title": "🏆 CS2: Upper Bracket Quarterfinal 2: NAVI vs AUR",
+        "id": "navi_cs_1685166",
+        "date": "2026-09-18",
+        "time": "13:00",
+        "title": "🏆 CS2: Lower Bracket Round 1 Match 1: MOUZ vs NAVI",
         "type": "navi",
         "desc": "Турнир: StarLadder StarSeries. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_297060121403870868",
-        "date": "2026-09-16",
-        "title": "📰 Кооперативный экшен Kemuri получил новый трей...",
-        "type": "news",
-        "desc": "Кооперативный экшен Kemuri получил новый трейлер на Tokyo Game Show",
-        "url": "https://stopgame.ru/newsdata/72855/kooperativnyy_ekshen_kemuri_poluchil_novyy_trailer_na_tokyo_game_show"
-    },
-    {
-        "id": "n_1882287870016922112",
-        "date": "2026-09-16",
-        "title": "📰 Wo Long 2: Wings of Ember получила дату релиз...",
-        "type": "news",
-        "desc": "Wo Long 2: Wings of Ember получила дату релиза и демоверсию",
-        "url": "https://stopgame.ru/newsdata/72854/wo_long_2_wings_of_ember_poluchila_datu_reliza_i_demoversiyu"
-    },
-    {
-        "id": "n_-480363157794731002",
+        "id": "n_1649217440497210249",
         "date": "2026-09-17",
-        "title": "📰 Официально анонсирована Lollipop Chainsaw 2 B...",
+        "title": "📰 СМИ: новую игру от Media Molecule анонсируют ...",
         "type": "news",
-        "desc": "Официально анонсирована Lollipop Chainsaw 2 Back2Back - похоже, игра будет временным эксклюзивом PS5",
-        "url": "https://www.playground.ru/misc/news/ofitsialno_anonsirovana_lollipop_chainsaw_2_back2back_pohozhe_igra_budet_vremennym_eksklyuzivom_ps5-1874920#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "СМИ: новую игру от Media Molecule анонсируют в 2027 году",
+        "url": "https://stopgame.ru/newsdata/72876/smi_novuyu_igru_ot_media_molecule_anonsiruyut_v_2027_godu"
     },
     {
-        "id": "n_-6391739067157438048",
-        "date": "2026-09-16",
-        "title": "📰 Модификация Postal Adrenalin для Postal 2 пол...",
+        "id": "n_-7844668497445237901",
+        "date": "2026-09-17",
+        "title": "📰 Новый трейлер Crazy Taxi: World Tour посвятил...",
         "type": "news",
-        "desc": "Модификация Postal Adrenalin для Postal 2 получила две кампании и перенос релиза на Хэллоуин",
-        "url": "https://www.playground.ru/postal_2/news/modifikatsiya_postal_adrenalin_dlya_postal_2_poluchila_dve_kampanii_i_perenos_reliza_na_hellouin-1874907#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Новый трейлер Crazy Taxi: World Tour посвятили японской карте",
+        "url": "https://stopgame.ru/newsdata/72875/novyy_trailer_crazy_taxi_world_tour_posvyatili_yaponskoy_karte"
     },
     {
-        "id": "n_-6449743532849629195",
-        "date": "2026-09-16",
-        "title": "📰 Перед релизом Control Resonant студия Remedy ...",
+        "id": "n_1550036696685407409",
+        "date": "2026-09-17",
+        "title": "📰 «Не думал, что будет ради чего пожертвовать ж...",
         "type": "news",
-        "desc": "Перед релизом Control Resonant студия Remedy выпустила документалку про разработку экшена с новыми кадрами из игры",
-        "url": "https://www.playground.ru/control_2/news/pered_relizom_control_resonant_studiya_remedy_vypustila_dokumentalku_pro_razrabotku_ekshena_s_novymi_kadrami_iz_igry-1874900#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "«Не думал, что будет ради чего пожертвовать жизнью» — трейлер к запуску Control Resonant",
+        "url": "https://stopgame.ru/newsdata/72874/ne_dumal_chto_budet_radi_chego_pozhertvovat_zhiznyu_trailer_k_zapusku_control_resonant"
+    },
+    {
+        "id": "n_-5713175320864077311",
+        "date": "2026-09-17",
+        "title": "📰 Полёты на драконах и запутанный замок в новом...",
+        "type": "news",
+        "desc": "Полёты на драконах и запутанный замок в новом трейлере Bloodstained: The Scarlet Engagement",
+        "url": "https://stopgame.ru/newsdata/72870/polety_na_drakonah_i_zaputannyy_zamok_v_novom_trailere_bloodstained_the_scarlet_engagement"
+    },
+    {
+        "id": "n_-908483659133918543",
+        "date": "2026-09-17",
+        "title": "📰 Джульет возвращается — анонсирована Lollipop ...",
+        "type": "news",
+        "desc": "Джульет возвращается — анонсирована Lollipop Chainsaw 2",
+        "url": "https://stopgame.ru/newsdata/72865/dzhulet_vozvraschaetsya_anonsirovana_lollipop_chainsaw_2"
     }
 ]
