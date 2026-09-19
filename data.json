@@ -45,52 +45,51 @@
         "url": "https://www.google.com/search?q=PSG+—+Barça+match"
     },
     {
-        "id": "navi_cs_1685166",
+        "id": "n_6486343234294961182",
         "date": "2026-09-18",
-        "time": "13:00",
-        "title": "🏆 CS2: Lower Bracket Round 1 Match 1: MOUZ vs NAVI",
-        "type": "navi",
-        "desc": "Турнир: StarLadder StarSeries. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
+        "title": "📰 Аналитик: Marvel&#039;s Wolverine — самый усп...",
+        "type": "news",
+        "desc": "Аналитик: Marvel&#039;s Wolverine — самый успешный PS5-релиз Sony в 2026 году",
+        "url": "https://stopgame.ru/newsdata/72892/analitik_marvels_wolverine_samyy_uspeshnyy_ps5_reliz_sony_v_2026_godu"
     },
     {
-        "id": "n_1649217440497210249",
-        "date": "2026-09-17",
-        "title": "📰 СМИ: новую игру от Media Molecule анонсируют ...",
+        "id": "n_4189683754487270989",
+        "date": "2026-09-18",
+        "title": "📰 Endless Legend 2 покинула ранний доступ и выш...",
         "type": "news",
-        "desc": "СМИ: новую игру от Media Molecule анонсируют в 2027 году",
-        "url": "https://stopgame.ru/newsdata/72876/smi_novuyu_igru_ot_media_molecule_anonsiruyut_v_2027_godu"
+        "desc": "Endless Legend 2 покинула ранний доступ и вышла в полноценный релиз",
+        "url": "https://stopgame.ru/newsdata/72888/endless_legend_2_pokinula_ranniy_dostup_i_vyshla_v_polnocennyy_reliz"
     },
     {
-        "id": "n_-7844668497445237901",
-        "date": "2026-09-17",
-        "title": "📰 Новый трейлер Crazy Taxi: World Tour посвятил...",
+        "id": "n_-5067726288578148989",
+        "date": "2026-09-18",
+        "title": "📰 Жестокие якудза и атмосферные локации в новом...",
         "type": "news",
-        "desc": "Новый трейлер Crazy Taxi: World Tour посвятили японской карте",
-        "url": "https://stopgame.ru/newsdata/72875/novyy_trailer_crazy_taxi_world_tour_posvyatili_yaponskoy_karte"
+        "desc": "Жестокие якудза и атмосферные локации в новом трейлере  Stranger Than Heaven ",
+        "url": "https://stopgame.ru/newsdata/72887/zhestokie_yakudza_i_atmosfernye_lokacii_v_novom_trailere_stranger_than_heaven"
     },
     {
-        "id": "n_1550036696685407409",
-        "date": "2026-09-17",
-        "title": "📰 «Не думал, что будет ради чего пожертвовать ж...",
+        "id": "n_3747421888258655995",
+        "date": "2026-09-18",
+        "title": "📰 Состоялся релиз Trails in the Sky 2nd Chapter...",
         "type": "news",
-        "desc": "«Не думал, что будет ради чего пожертвовать жизнью» — трейлер к запуску Control Resonant",
-        "url": "https://stopgame.ru/newsdata/72874/ne_dumal_chto_budet_radi_chego_pozhertvovat_zhiznyu_trailer_k_zapusku_control_resonant"
+        "desc": "Состоялся релиз Trails in the Sky 2nd Chapter",
+        "url": "https://stopgame.ru/newsdata/72885/sostoyalsya_reliz_trails_in_the_sky_2nd_chapter"
     },
     {
-        "id": "n_-5713175320864077311",
-        "date": "2026-09-17",
-        "title": "📰 Полёты на драконах и запутанный замок в новом...",
+        "id": "n_3647704644053895275",
+        "date": "2026-09-19",
+        "title": "📰 Вышел второй официальный тизер-трейлер грядущ...",
         "type": "news",
-        "desc": "Полёты на драконах и запутанный замок в новом трейлере Bloodstained: The Scarlet Engagement",
-        "url": "https://stopgame.ru/newsdata/72870/polety_na_drakonah_i_zaputannyy_zamok_v_novom_trailere_bloodstained_the_scarlet_engagement"
+        "desc": "Вышел второй официальный тизер-трейлер грядущего анимационного сериала \"Астартес 2\" во вселенной Warhammer 40,000",
+        "url": "https://www.playground.ru/misc/news/vyshel_vtoroj_ofitsialnyj_tizer_trejler_gryaduschego_animatsionnogo_seriala_astartes_2_vo_vselennoj_warhammer_40_000-1875427#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-908483659133918543",
-        "date": "2026-09-17",
-        "title": "📰 Джульет возвращается — анонсирована Lollipop ...",
+        "id": "n_4181789439415668561",
+        "date": "2026-09-19",
+        "title": "📰 Состоялся анонс классического анимационного э...",
         "type": "news",
-        "desc": "Джульет возвращается — анонсирована Lollipop Chainsaw 2",
-        "url": "https://stopgame.ru/newsdata/72865/dzhulet_vozvraschaetsya_anonsirovana_lollipop_chainsaw_2"
+        "desc": "Состоялся анонс классического анимационного экшена Moylo в духе Cuphead и показ дебютного тизер-трейлера",
+        "url": "https://www.playground.ru/misc/news/sostoyalsya_anons_klassicheskogo_animatsionnogo_ekshena_moylo_v_duhe_cuphead_i_pokaz_debyutnogo_tizer_trejlera-1875416#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
