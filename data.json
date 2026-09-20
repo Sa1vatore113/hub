@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564690",
-        "date": "2026-09-19",
-        "title": "⚽ Sevilla FC — Barça",
-        "type": "foot",
-        "time": "19:00",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Sevilla+FC+—+Barça+match"
-    },
-    {
         "id": "f_564700",
         "date": "2026-10-10",
         "title": "⚽ Barça — Getafe",
@@ -45,7 +36,16 @@
         "url": "https://www.google.com/search?q=PSG+—+Barça+match"
     },
     {
-        "id": "n_6486343234294961182",
+        "id": "f_564723",
+        "date": "2026-10-25",
+        "title": "⚽ Barça — Real Madrid",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
+    },
+    {
+        "id": "n_-8843000142696602025",
         "date": "2026-09-18",
         "title": "📰 Аналитик: Marvel&#039;s Wolverine — самый усп...",
         "type": "news",
@@ -53,7 +53,7 @@
         "url": "https://stopgame.ru/newsdata/72892/analitik_marvels_wolverine_samyy_uspeshnyy_ps5_reliz_sony_v_2026_godu"
     },
     {
-        "id": "n_4189683754487270989",
+        "id": "n_8506798656738033604",
         "date": "2026-09-18",
         "title": "📰 Endless Legend 2 покинула ранний доступ и выш...",
         "type": "news",
@@ -61,7 +61,7 @@
         "url": "https://stopgame.ru/newsdata/72888/endless_legend_2_pokinula_ranniy_dostup_i_vyshla_v_polnocennyy_reliz"
     },
     {
-        "id": "n_-5067726288578148989",
+        "id": "n_-6373996149487968869",
         "date": "2026-09-18",
         "title": "📰 Жестокие якудза и атмосферные локации в новом...",
         "type": "news",
@@ -69,7 +69,7 @@
         "url": "https://stopgame.ru/newsdata/72887/zhestokie_yakudza_i_atmosfernye_lokacii_v_novom_trailere_stranger_than_heaven"
     },
     {
-        "id": "n_3747421888258655995",
+        "id": "n_-6788403588295455202",
         "date": "2026-09-18",
         "title": "📰 Состоялся релиз Trails in the Sky 2nd Chapter...",
         "type": "news",
@@ -77,19 +77,11 @@
         "url": "https://stopgame.ru/newsdata/72885/sostoyalsya_reliz_trails_in_the_sky_2nd_chapter"
     },
     {
-        "id": "n_3647704644053895275",
+        "id": "n_2503057341009546657",
         "date": "2026-09-19",
-        "title": "📰 Вышел второй официальный тизер-трейлер грядущ...",
+        "title": "📰 Состоялся анонс симулятора выживания HODKA в ...",
         "type": "news",
-        "desc": "Вышел второй официальный тизер-трейлер грядущего анимационного сериала \"Астартес 2\" во вселенной Warhammer 40,000",
-        "url": "https://www.playground.ru/misc/news/vyshel_vtoroj_ofitsialnyj_tizer_trejler_gryaduschego_animatsionnogo_seriala_astartes_2_vo_vselennoj_warhammer_40_000-1875427#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_4181789439415668561",
-        "date": "2026-09-19",
-        "title": "📰 Состоялся анонс классического анимационного э...",
-        "type": "news",
-        "desc": "Состоялся анонс классического анимационного экшена Moylo в духе Cuphead и показ дебютного тизер-трейлера",
-        "url": "https://www.playground.ru/misc/news/sostoyalsya_anons_klassicheskogo_animatsionnogo_ekshena_moylo_v_duhe_cuphead_i_pokaz_debyutnogo_tizer_trejlera-1875416#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся анонс симулятора выживания HODKA в духе Dredge в таежных лесах",
+        "url": "https://www.playground.ru/misc/news/sostoyalsya_anons_simulyatora_vyzhivaniya_hodka_v_duhe_dredge_v_taezhnyh_lesah-1875579#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
