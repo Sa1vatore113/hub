@@ -45,7 +45,7 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "n_-8843000142696602025",
+        "id": "n_941089519118950865",
         "date": "2026-09-18",
         "title": "📰 Аналитик: Marvel&#039;s Wolverine — самый усп...",
         "type": "news",
@@ -53,7 +53,7 @@
         "url": "https://stopgame.ru/newsdata/72892/analitik_marvels_wolverine_samyy_uspeshnyy_ps5_reliz_sony_v_2026_godu"
     },
     {
-        "id": "n_8506798656738033604",
+        "id": "n_-7295030840652534218",
         "date": "2026-09-18",
         "title": "📰 Endless Legend 2 покинула ранний доступ и выш...",
         "type": "news",
@@ -61,7 +61,7 @@
         "url": "https://stopgame.ru/newsdata/72888/endless_legend_2_pokinula_ranniy_dostup_i_vyshla_v_polnocennyy_reliz"
     },
     {
-        "id": "n_-6373996149487968869",
+        "id": "n_-2699004058944571649",
         "date": "2026-09-18",
         "title": "📰 Жестокие якудза и атмосферные локации в новом...",
         "type": "news",
@@ -69,7 +69,7 @@
         "url": "https://stopgame.ru/newsdata/72887/zhestokie_yakudza_i_atmosfernye_lokacii_v_novom_trailere_stranger_than_heaven"
     },
     {
-        "id": "n_-6788403588295455202",
+        "id": "n_119341793045441699",
         "date": "2026-09-18",
         "title": "📰 Состоялся релиз Trails in the Sky 2nd Chapter...",
         "type": "news",
@@ -77,11 +77,43 @@
         "url": "https://stopgame.ru/newsdata/72885/sostoyalsya_reliz_trails_in_the_sky_2nd_chapter"
     },
     {
-        "id": "n_2503057341009546657",
-        "date": "2026-09-19",
-        "title": "📰 Состоялся анонс симулятора выживания HODKA в ...",
+        "id": "n_-4467873360866317581",
+        "date": "2026-09-21",
+        "title": "📰 Объявлена официальная дата релиза и цена кооп...",
         "type": "news",
-        "desc": "Состоялся анонс симулятора выживания HODKA в духе Dredge в таежных лесах",
-        "url": "https://www.playground.ru/misc/news/sostoyalsya_anons_simulyatora_vyzhivaniya_hodka_v_duhe_dredge_v_taezhnyh_lesah-1875579#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Объявлена официальная дата релиза и цена кооперативного приключения We Were Here Tomorrow",
+        "url": "https://www.playground.ru/where_are_we/news/obyavlena_ofitsialnaya_data_reliza_i_tsena_kooperativnogo_priklyucheniya_we_were_here_tomorrow-1875810#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_7978935876711484511",
+        "date": "2026-09-21",
+        "title": "📰 Стратегия Stronghold 4 получила свежий геймпл...",
+        "type": "news",
+        "desc": "Стратегия Stronghold 4 получила свежий геймплейный трейлер",
+        "url": "https://www.playground.ru/stronghold_4/news/strategiya_stronghold_4_poluchila_svezhij_gejmplejnyj_trejler-1875800#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-5776536078431626227",
+        "date": "2026-09-20",
+        "title": "📰 Mob Entertainment показала новый трейлер Esca...",
+        "type": "news",
+        "desc": "Mob Entertainment показала новый трейлер Escape from Playtime - релиз 21 октября",
+        "url": "https://www.playground.ru/escape_from_playtime/news/mob_entertainment_pokazala_novyj_trejler_escape_from_playtime_reliz_21_oktyabrya-1875787#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-3561927886561074021",
+        "date": "2026-09-20",
+        "title": "📰 SCS Software представила трейлер дополнения \"...",
+        "type": "news",
+        "desc": "SCS Software представила трейлер дополнения \"Road Trip: Ford\" для American Truck Simulator - релиз 29 сентября",
+        "url": "https://www.playground.ru/american_truck_simulator/news/scs_software_predstavila_trejler_dopolneniya_road_trip_ford_dlya_american_truck_simulator_reliz_29_sentyabrya-1875781#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-8013265110769549287",
+        "date": "2026-09-20",
+        "title": "📰 Авторы былинной ролевой игры \"Гардарики\" пока...",
+        "type": "news",
+        "desc": "Авторы былинной ролевой игры \"Гардарики\" показали геймплей на Unreal Engine 5 и подтвердили релиз в 2027 году",
+        "url": "https://www.playground.ru/gardariki/news/avtory_bylinnoj_rolevoj_igry_gardariki_pokazali_gejmplej_na_unreal_engine_5_i_podtverdili_reliz_v_2027_godu-1875775#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
