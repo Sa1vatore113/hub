@@ -45,7 +45,23 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "n_-1940385131177503659",
+        "id": "n_-8915162008668824344",
+        "date": "2026-09-23",
+        "title": "📰 Состоялся полноценный релиз метроидвании Fall...",
+        "type": "news",
+        "desc": "Состоялся полноценный релиз метроидвании Fallen Tear: The Ascension",
+        "url": "https://stopgame.ru/newsdata/72926/sostoyalsya_polnocennyy_reliz_metroidvanii_fallen_tear_the_ascension"
+    },
+    {
+        "id": "n_-5163949309018730168",
+        "date": "2026-09-23",
+        "title": "📰 Знакомимся с геймплеем Clive Barker’s Hellrai...",
+        "type": "news",
+        "desc": "Знакомимся с геймплеем Clive Barker’s Hellraiser: Revival в обзорном трейлере",
+        "url": "https://stopgame.ru/newsdata/72922/znakomimsya_s_geympleem_clive_barker_s_hellraiser_revival_v_reviewnom_trailere"
+    },
+    {
+        "id": "n_7600264438136193798",
         "date": "2026-09-22",
         "title": "📰 Обзорный трейлер Rayman Legends Retold...",
         "type": "news",
@@ -53,19 +69,19 @@
         "url": "https://stopgame.ru/newsdata/72919/obzornyy_trailer_rayman_legends_retold"
     },
     {
-        "id": "n_-1790346205093502212",
-        "date": "2026-09-21",
-        "title": "📰 DLC для BALL x PIT, жуткий симулятор уборки и...",
+        "id": "n_4157578300018195778",
+        "date": "2026-09-24",
+        "title": "📰 Состоялся анонс cRPG Olympus 2249 от отечеств...",
         "type": "news",
-        "desc": "DLC для BALL x PIT, жуткий симулятор уборки и не только — главные анонсы PC Gaming Show Tokyo Direct",
-        "url": "https://stopgame.ru/newsdata/72906/dlc_dlya_ball_x_pit_zhutkiy_simulyator_uborki_i_ne_tolko_glavnye_anonsy_pc_gaming_show_tokyo_direct"
+        "desc": "Состоялся анонс cRPG Olympus 2249 от отечественных создателей мода Olympus 2207 для Fallout 2",
+        "url": "https://www.playground.ru/misc/news/sostoyalsya_anons_crpg_olympus_2249_ot_otechestvennyh_sozdatelej_moda_olympus_2207_dlya_fallout_2-1876583#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_3371433319715709567",
-        "date": "2026-09-23",
-        "title": "📰 Разработчики Marvel Rivals показали трейлер н...",
+        "id": "n_-4015283993957961857",
+        "date": "2026-09-24",
+        "title": "📰 Разработчик Ubisoft подтвердил, что Beyond Go...",
         "type": "news",
-        "desc": "Разработчики Marvel Rivals показали трейлер новой карты God Quarry - кладбища поверженных богов",
-        "url": "https://www.playground.ru/marvel_rivals/news/razrabotchiki_marvel_rivals_pokazali_trejler_novoj_karty_god_quarry_kladbischa_poverzhennyh_bogov-1876297#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Разработчик Ubisoft подтвердил, что Beyond Good & Evil 2 всё ещё в разработке - спустя 18 лет после анонса",
+        "url": "https://www.playground.ru/beyond_good_and_evil_2/news/razrabotchik_ubisoft_podtverdil_chto_beyond_good_evil_2_vsyo_eschyo_v_razrabotke_spustya_18_let_posle_anonsa-1876579#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
