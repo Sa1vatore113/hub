@@ -45,43 +45,27 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "n_3813926043681910661",
-        "date": "2026-09-24",
-        "title": "📰 Capcom анонсировала VR-версию Phoenix Wright:...",
-        "type": "news",
-        "desc": "Capcom анонсировала VR-версию Phoenix Wright: Ace Attorney – Dual Destinies",
-        "url": "https://stopgame.ru/newsdata/72938/capcom_anonsirovala_vr_versiyu_phoenix_wright_ace_attorney_dual_destinies"
-    },
-    {
-        "id": "n_-8203872482399271802",
-        "date": "2026-09-24",
-        "title": "📰 Состоялся релиз SiN Reloaded — ремастера SiN ...",
-        "type": "news",
-        "desc": "Состоялся релиз SiN Reloaded — ремастера SiN от Nightdive ",
-        "url": "https://stopgame.ru/newsdata/72936/sostoyalsya_reliz_sin_reloaded_remastera_sin_ot_nightdive"
-    },
-    {
-        "id": "n_3657188612335571260",
+        "id": "n_-5600442474655771151",
         "date": "2026-09-25",
-        "title": "📰 Вышел первый трейлер новой экранизации \"Остро...",
+        "title": "📰 CD Projekt RED раскрыла точное время релиза р...",
         "type": "news",
-        "desc": "Вышел первый трейлер новой экранизации \"Острова сокровищ\"",
-        "url": "https://www.playground.ru/misc/news/vyshel_pervyj_trejler_novoj_ekranizatsii_ostrova_sokrovisch-1876874#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "CD Projekt RED раскрыла точное время релиза ремастера The Witcher 3: Wild Hunt",
+        "url": "https://stopgame.ru/newsdata/72950/cd_projekt_red_raskryla_tochnoe_vremya_reliza_remastera_the_witcher_3_wild_hunt"
     },
     {
-        "id": "n_-832216670963570243",
-        "date": "2026-09-25",
-        "title": "📰 Релиз первой главы Hytale с гоблинами и рунам...",
+        "id": "n_9084965583398598297",
+        "date": "2026-09-26",
+        "title": "📰 Для бесплатного ретро-шутера Darkenstein 3D а...",
         "type": "news",
-        "desc": "Релиз первой главы Hytale с гоблинами и рунами состоится 12 октября",
-        "url": "https://www.playground.ru/hytale/news/reliz_pervoj_glavy_hytale_s_goblinami_i_runami_sostoitsya_12_oktyabrya-1876852#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Для бесплатного ретро-шутера Darkenstein 3D анонсировано платное дополнение Total Trampage",
+        "url": "https://www.playground.ru/darkenstein_3d/news/dlya_besplatnogo_retro_shutera_darkenstein_3d_anonsirovano_platnoe_dopolnenie_total_trampage-1877102#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-2464442306953815431",
+        "id": "n_2653308082543131727",
         "date": "2026-09-25",
-        "title": "📰 Состоялся релиз Garfield: Escape from Monday ...",
+        "title": "📰 Stranger Than Heaven получила новый трейлер с...",
         "type": "news",
-        "desc": "Состоялся релиз Garfield: Escape from Monday - 3D-платформера про Гарфилда в овощном кошмаре",
-        "url": "https://www.playground.ru/garfield_escape_from_monday/news/sostoyalsya_reliz_garfield_escape_from_monday_3d_platformera_pro_garfilda_v_ovoschnom_koshmare-1876850#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Stranger Than Heaven получила новый трейлер с подробностями о жизни героев и шоу-бизнесе",
+        "url": "https://www.playground.ru/project_century/news/stranger_than_heaven_poluchila_novyj_trejler_s_podrobnostyami_o_zhizni_geroev_i_shou_biznese-1877072#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
