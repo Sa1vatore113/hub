@@ -45,19 +45,51 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "n_2968574629329671505",
-        "date": "2026-09-25",
-        "title": "📰 CD Projekt RED раскрыла точное время релиза р...",
+        "id": "n_842303385879096191",
+        "date": "2026-09-28",
+        "title": "📰 Релизный трейлер Ace Combat 8: Wings of Theve...",
         "type": "news",
-        "desc": "CD Projekt RED раскрыла точное время релиза ремастера The Witcher 3: Wild Hunt",
-        "url": "https://stopgame.ru/newsdata/72950/cd_projekt_red_raskryla_tochnoe_vremya_reliza_remastera_the_witcher_3_wild_hunt"
+        "desc": "Релизный трейлер Ace Combat 8: Wings of Theve",
+        "url": "https://stopgame.ru/newsdata/72971/reliznyy_trailer_ace_combat_8_wings_of_theve"
     },
     {
-        "id": "n_-7431397377222332902",
+        "id": "n_-8395770152767116688",
         "date": "2026-09-28",
-        "title": "📰 На выходных CONTROL Resonant собрала более 42...",
+        "title": "📰 Экшен-платформер SURI: The Seventh Note обрёл...",
         "type": "news",
-        "desc": "На выходных CONTROL Resonant собрала более 42 тыс игроков онлайн и стала крупнейшим релизом Remedy в Steam",
-        "url": "https://www.playground.ru/control_2/news/na_vyhodnyh_control_resonant_sobrala_bolee_42_tys_igrokov_onlajn_i_stala_krupnejshim_relizom_remedy_v_steam-1877464#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Экшен-платформер SURI: The Seventh Note обрёл дату релиза в свежем трейлере",
+        "url": "https://stopgame.ru/newsdata/72970/ekshen_platformer_suri_the_seventh_note_obrel_datu_reliza_v_svezhem_trailere"
+    },
+    {
+        "id": "n_-6131860766014150578",
+        "date": "2026-09-28",
+        "title": "📰 Summer Eternal анонсирует свою дебютную игру ...",
+        "type": "news",
+        "desc": "Summer Eternal анонсирует свою дебютную игру в октябре",
+        "url": "https://stopgame.ru/newsdata/72968/summer_eternal_anonsiruet_svoyu_debyutnuyu_igru_v_oktyabre"
+    },
+    {
+        "id": "n_537367169865666869",
+        "date": "2026-09-29",
+        "title": "📰 Ничего не изменилось - ARTIFACT выпустили гип...",
+        "type": "news",
+        "desc": "Ничего не изменилось - ARTIFACT выпустили гипервизор-обход Ace Combat 8 за два дня до официального релиза",
+        "url": "https://www.playground.ru/ace_combat_8/news/nichego_ne_izmenilos_artifact_vypustili_gipervizor_obhod_ace_combat_8_za_dva_dnya_do_ofitsialnogo_reliza-1877709#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-3416124300045673440",
+        "date": "2026-09-29",
+        "title": "📰 Вышел русский трейлер спин-оффа \"Однажды в Го...",
+        "type": "news",
+        "desc": "Вышел русский трейлер спин-оффа \"Однажды в Голливуде\" с Брэдом Питтом",
+        "url": "https://www.playground.ru/misc/news/vyshel_russkij_trejler_spin_offa_odnazhdy_v_gollivude_s_bredom_pittom-1877699#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_2180444696397814354",
+        "date": "2026-09-29",
+        "title": "📰 Потери, предательство и инстинкты Нью-Йорка: ...",
+        "type": "news",
+        "desc": "Потери, предательство и инстинкты Нью-Йорка: вышел трейлер 4-го сезона \"Короля Талсы\"",
+        "url": "https://www.playground.ru/misc/news/poteri_predatelstvo_i_instinkty_nyu_jorka_vyshel_trejler_4_go_sezona_korolya_talsy-1877698#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
