@@ -45,43 +45,35 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "n_8760913778143962922",
-        "date": "2026-09-30",
-        "title": "📰 Обзорный трейлер Valor Mortis — соулслайка от...",
+        "id": "n_-96196318248720444",
+        "date": "2026-10-02",
+        "title": "📰 Экшен-платформер Elta: Defy All Gods получил ...",
         "type": "news",
-        "desc": "Обзорный трейлер Valor Mortis — соулслайка от создателей Ghostrunner",
-        "url": "https://stopgame.ru/newsdata/73007/obzornyy_trailer_valor_mortis_soulslayka_ot_sozdateley_ghostrunner"
+        "desc": "Экшен-платформер Elta: Defy All Gods получил демоверсию и дату релиза",
+        "url": "https://stopgame.ru/newsdata/73031/ekshen_platformer_elta_defy_all_gods_poluchil_demoversiyu_i_datu_reliza"
     },
     {
-        "id": "n_-6688787011476121455",
-        "date": "2026-09-30",
-        "title": "📰 «Мы — его меч!» — новый кинематографический т...",
-        "type": "news",
-        "desc": "«Мы — его меч!» — новый кинематографический трейлер Dawn of War IV посвятили Космодесантникам",
-        "url": "https://stopgame.ru/newsdata/73006/my_ego_mech_novyy_kinematograficheskiy_trailer_dawn_of_war_iv_posvyatili_kosmodesantnikam"
-    },
-    {
-        "id": "n_4589704652339258886",
-        "date": "2026-09-30",
-        "title": "📰 Заснеженные улицы и модернизация в новом трей...",
-        "type": "news",
-        "desc": "Заснеженные улицы и модернизация в новом трейлере Stranger Than Heaven ",
-        "url": "https://stopgame.ru/newsdata/73003/zasnezhennye_ulicy_i_modernizaciya_v_novom_trailere_stranger_than_heaven"
-    },
-    {
-        "id": "n_5051227948111275906",
-        "date": "2026-09-30",
-        "title": "📰 Геймплейный трейлер Догмата — нового героя по...",
-        "type": "news",
-        "desc": "Геймплейный трейлер Догмата — нового героя поддержки в Overwatch",
-        "url": "https://stopgame.ru/newsdata/73002/geympleynyy_trailer_dogmata_novogo_geroya_podderzhki_v_overwatch"
-    },
-    {
-        "id": "n_-1309921118982404036",
+        "id": "n_4177342579995321954",
         "date": "2026-10-01",
-        "title": "📰 Состоялся релиз Songs of Glimmerwick - музыка...",
+        "title": "📰 Релиз Kena: Scars of Kosmora задержится до 20...",
         "type": "news",
-        "desc": "Состоялся релиз Songs of Glimmerwick - музыкальная ролевая игра добралась до Steam",
-        "url": "https://www.playground.ru/songs_of_glimmerwick/news/sostoyalsya_reliz_songs_of_glimmerwick_muzykalnaya_rolevaya_igra_dobralas_do_steam-1878242#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релиз Kena: Scars of Kosmora задержится до 2027 года",
+        "url": "https://stopgame.ru/newsdata/73018/reliz_kena_scars_of_kosmora_zaderzhitsya_do_2027_goda"
+    },
+    {
+        "id": "n_-357247336599400756",
+        "date": "2026-10-02",
+        "title": "📰 Джонни Депп и призраки: вышел новый трейлер м...",
+        "type": "news",
+        "desc": "Джонни Депп и призраки: вышел новый трейлер мрачной комедии \"Скрудж\"",
+        "url": "https://www.playground.ru/misc/news/dzhonni_depp_i_prizraki_vyshel_novyj_trejler_mrachnoj_komedii_skrudzh-1878510#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6274539685500836333",
+        "date": "2026-10-02",
+        "title": "📰 March of Giants получила новый геймплейный тр...",
+        "type": "news",
+        "desc": "March of Giants получила новый геймплейный трейлер - открытое тестирование пройдёт с 7 по 18 октября",
+        "url": "https://www.playground.ru/march_of_giants/news/march_of_giants_poluchila_novyj_gejmplejnyj_trejler_otkrytoe_testirovanie_projdyot_s_7_po_18_oktyabrya-1878503#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
