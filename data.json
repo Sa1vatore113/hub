@@ -45,16 +45,16 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "navi_cs_1711376",
-        "date": "2026-10-03",
+        "id": "navi_cs_1711382",
+        "date": "2026-10-04",
         "time": "19:30",
-        "title": "🏆 CS2: Round 1: G2 vs NAVI",
+        "title": "🏆 CS2: Round 2: VIT vs NAVI",
         "type": "navi",
         "desc": "Турнир: ESL Pro League. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-4639508407585526389",
+        "id": "n_6818944236949890929",
         "date": "2026-10-02",
         "title": "📰 СМИ — в The Coalition опасаются сокращений ср...",
         "type": "news",
@@ -62,7 +62,7 @@
         "url": "https://stopgame.ru/newsdata/73032/smi_v_the_coalition_opasayutsya_sokrascheniy_srazu_posle_reliza_gears_of_war_e_day"
     },
     {
-        "id": "n_-270319715970383043",
+        "id": "n_8810007663476827140",
         "date": "2026-10-02",
         "title": "📰 Экшен-платформер Elta: Defy All Gods получил ...",
         "type": "news",
@@ -70,11 +70,19 @@
         "url": "https://stopgame.ru/newsdata/73031/ekshen_platformer_elta_defy_all_gods_poluchil_demoversiyu_i_datu_reliza"
     },
     {
-        "id": "n_-7638027043002309816",
-        "date": "2026-10-03",
-        "title": "📰 Игроки могут перестать покупать новые релизы ...",
+        "id": "n_-7093426460717724008",
+        "date": "2026-10-04",
+        "title": "📰 Энтузиаст переносит Silent Hills P.T. на PC -...",
         "type": "news",
-        "desc": "Игроки могут перестать покупать новые релизы благодаря сборке собственных проектов из старых игр",
-        "url": "https://www.playground.ru/misc/news/igroki_mogut_perestat_pokupat_novye_relizy_blagodarya_sborke_sobstvennyh_proektov_iz_staryh_igr-1878833#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Энтузиаст переносит Silent Hills P.T. на PC - неофициальный порт уже работает в 60+ FPS",
+        "url": "https://www.playground.ru/silent_hills/news/entuziast_perenosit_silent_hills_p_t_na_pc_neofitsialnyj_port_uzhe_rabotaet_v_60_fps-1879078#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_2877134558353403911",
+        "date": "2026-10-04",
+        "title": "📰 Jagex анонсировала новую RuneScape на Unreal ...",
+        "type": "news",
+        "desc": "Jagex анонсировала новую RuneScape на Unreal Engine - игра станет четвёртой в серии",
+        "url": "https://www.playground.ru/misc/news/jagex_anonsirovala_novuyu_runescape_na_unreal_engine_igra_stanet_chetvyortoj_v_serii-1879072#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
