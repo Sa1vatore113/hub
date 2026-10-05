@@ -45,16 +45,16 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "navi_cs_1711382",
-        "date": "2026-10-04",
-        "time": "19:30",
-        "title": "🏆 CS2: Round 2: VIT vs NAVI",
+        "id": "navi_cs_1711390",
+        "date": "2026-10-05",
+        "time": "14:30",
+        "title": "🏆 CS2: Round 3: 9z vs NAVI",
         "type": "navi",
         "desc": "Турнир: ESL Pro League. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_6818944236949890929",
+        "id": "n_-2266383928770212036",
         "date": "2026-10-02",
         "title": "📰 СМИ — в The Coalition опасаются сокращений ср...",
         "type": "news",
@@ -62,27 +62,11 @@
         "url": "https://stopgame.ru/newsdata/73032/smi_v_the_coalition_opasayutsya_sokrascheniy_srazu_posle_reliza_gears_of_war_e_day"
     },
     {
-        "id": "n_8810007663476827140",
+        "id": "n_8269648778255469973",
         "date": "2026-10-02",
         "title": "📰 Экшен-платформер Elta: Defy All Gods получил ...",
         "type": "news",
         "desc": "Экшен-платформер Elta: Defy All Gods получил демоверсию и дату релиза",
         "url": "https://stopgame.ru/newsdata/73031/ekshen_platformer_elta_defy_all_gods_poluchil_demoversiyu_i_datu_reliza"
-    },
-    {
-        "id": "n_-7093426460717724008",
-        "date": "2026-10-04",
-        "title": "📰 Энтузиаст переносит Silent Hills P.T. на PC -...",
-        "type": "news",
-        "desc": "Энтузиаст переносит Silent Hills P.T. на PC - неофициальный порт уже работает в 60+ FPS",
-        "url": "https://www.playground.ru/silent_hills/news/entuziast_perenosit_silent_hills_p_t_na_pc_neofitsialnyj_port_uzhe_rabotaet_v_60_fps-1879078#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_2877134558353403911",
-        "date": "2026-10-04",
-        "title": "📰 Jagex анонсировала новую RuneScape на Unreal ...",
-        "type": "news",
-        "desc": "Jagex анонсировала новую RuneScape на Unreal Engine - игра станет четвёртой в серии",
-        "url": "https://www.playground.ru/misc/news/jagex_anonsirovala_novuyu_runescape_na_unreal_engine_igra_stanet_chetvyortoj_v_serii-1879072#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
