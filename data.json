@@ -45,28 +45,44 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "navi_cs_1711390",
-        "date": "2026-10-05",
-        "time": "14:30",
-        "title": "🏆 CS2: Round 3: 9z vs NAVI",
+        "id": "navi_cs_1711470",
+        "date": "2026-10-06",
+        "time": "20:00",
+        "title": "🏆 CS2: Round 4: FAL vs NAVI",
         "type": "navi",
         "desc": "Турнир: ESL Pro League. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-2266383928770212036",
-        "date": "2026-10-02",
-        "title": "📰 СМИ — в The Coalition опасаются сокращений ср...",
+        "id": "n_-8211608458954050118",
+        "date": "2026-10-05",
+        "title": "📰 Утечка: в Сеть попал трейлер Project Comet — ...",
         "type": "news",
-        "desc": "СМИ — в The Coalition опасаются сокращений сразу после релиза Gears of War: E-Day",
-        "url": "https://stopgame.ru/newsdata/73032/smi_v_the_coalition_opasayutsya_sokrascheniy_srazu_posle_reliza_gears_of_war_e_day"
+        "desc": "Утечка: в Сеть попал трейлер Project Comet — супергеройской гачи по Marvel",
+        "url": "https://stopgame.ru/newsdata/73052/utechka_v_set_popal_trailer_project_comet_supergeroyskoy_gachi_po_marvel"
     },
     {
-        "id": "n_8269648778255469973",
-        "date": "2026-10-02",
-        "title": "📰 Экшен-платформер Elta: Defy All Gods получил ...",
+        "id": "n_-8007117560178519110",
+        "date": "2026-10-05",
+        "title": "📰 Наперегонки с Севером — трейлер режима DMZ из...",
         "type": "news",
-        "desc": "Экшен-платформер Elta: Defy All Gods получил демоверсию и дату релиза",
-        "url": "https://stopgame.ru/newsdata/73031/ekshen_platformer_elta_defy_all_gods_poluchil_demoversiyu_i_datu_reliza"
+        "desc": "Наперегонки с Севером — трейлер режима DMZ из Call of Duty: Modern Warfare 4",
+        "url": "https://stopgame.ru/newsdata/73045/naperegonki_s_severom_trailer_rezhima_dmz_iz_call_of_duty_modern_warfare_4"
+    },
+    {
+        "id": "n_5997557259813413139",
+        "date": "2026-10-05",
+        "title": "📰 Jagex анонсировала новую MMO по RuneScape...",
+        "type": "news",
+        "desc": "Jagex анонсировала новую MMO по RuneScape",
+        "url": "https://stopgame.ru/newsdata/73044/jagex_anonsirovala_novuyu_mmo_po_runescape"
+    },
+    {
+        "id": "n_-4607276884256838576",
+        "date": "2026-10-05",
+        "title": "📰 Хэллоуинская тематика и коллаборация с Solo L...",
+        "type": "news",
+        "desc": "Хэллоуинская тематика и коллаборация с Solo Leveling: вышел релизный трейлер 5-го сезона Overwatch",
+        "url": "https://www.playground.ru/overwatch/news/hellouinskaya_tematika_i_kollaboratsiya_s_solo_leveling_vyshel_reliznyj_trejler_5_go_sezona_overwatch-1879483#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
