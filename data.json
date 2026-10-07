@@ -45,44 +45,20 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "navi_cs_1711470",
-        "date": "2026-10-06",
-        "time": "20:00",
-        "title": "🏆 CS2: Round 4: FAL vs NAVI",
+        "id": "navi_cs_1711473",
+        "date": "2026-10-07",
+        "time": "17:30",
+        "title": "🏆 CS2: Round 5: PRV vs NAVI",
         "type": "navi",
         "desc": "Турнир: ESL Pro League. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-8211608458954050118",
-        "date": "2026-10-05",
-        "title": "📰 Утечка: в Сеть попал трейлер Project Comet — ...",
+        "id": "n_4368297756004917361",
+        "date": "2026-10-06",
+        "title": "📰 Авторы At Fate’s End перенесли релиз на 2027 ...",
         "type": "news",
-        "desc": "Утечка: в Сеть попал трейлер Project Comet — супергеройской гачи по Marvel",
-        "url": "https://stopgame.ru/newsdata/73052/utechka_v_set_popal_trailer_project_comet_supergeroyskoy_gachi_po_marvel"
-    },
-    {
-        "id": "n_-8007117560178519110",
-        "date": "2026-10-05",
-        "title": "📰 Наперегонки с Севером — трейлер режима DMZ из...",
-        "type": "news",
-        "desc": "Наперегонки с Севером — трейлер режима DMZ из Call of Duty: Modern Warfare 4",
-        "url": "https://stopgame.ru/newsdata/73045/naperegonki_s_severom_trailer_rezhima_dmz_iz_call_of_duty_modern_warfare_4"
-    },
-    {
-        "id": "n_5997557259813413139",
-        "date": "2026-10-05",
-        "title": "📰 Jagex анонсировала новую MMO по RuneScape...",
-        "type": "news",
-        "desc": "Jagex анонсировала новую MMO по RuneScape",
-        "url": "https://stopgame.ru/newsdata/73044/jagex_anonsirovala_novuyu_mmo_po_runescape"
-    },
-    {
-        "id": "n_-4607276884256838576",
-        "date": "2026-10-05",
-        "title": "📰 Хэллоуинская тематика и коллаборация с Solo L...",
-        "type": "news",
-        "desc": "Хэллоуинская тематика и коллаборация с Solo Leveling: вышел релизный трейлер 5-го сезона Overwatch",
-        "url": "https://www.playground.ru/overwatch/news/hellouinskaya_tematika_i_kollaboratsiya_s_solo_leveling_vyshel_reliznyj_trejler_5_go_sezona_overwatch-1879483#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Авторы At Fate’s End перенесли релиз на 2027 год и выпустили демоверсию",
+        "url": "https://stopgame.ru/newsdata/73065/avtory_at_fate_s_end_perenesli_reliz_na_2027_god_i_vypustili_demoversiyu"
     }
 ]
