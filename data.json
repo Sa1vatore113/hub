@@ -45,20 +45,27 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "navi_cs_1711473",
+        "id": "n_1240019154732000039",
         "date": "2026-10-07",
-        "time": "17:30",
-        "title": "🏆 CS2: Round 5: PRV vs NAVI",
-        "type": "navi",
-        "desc": "Турнир: ESL Pro League. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
+        "title": "📰 Новый трейлер Warhammer 40,000: Dark Heresy п...",
+        "type": "news",
+        "desc": "Новый трейлер Warhammer 40,000: Dark Heresy посвятили системе расследований",
+        "url": "https://stopgame.ru/newsdata/73078/novyy_trailer_warhammer_40_000_dark_heresy_posvyatili_sisteme_rassledovaniy"
     },
     {
-        "id": "n_4368297756004917361",
-        "date": "2026-10-06",
-        "title": "📰 Авторы At Fate’s End перенесли релиз на 2027 ...",
+        "id": "n_3031293365112998005",
+        "date": "2026-10-08",
+        "title": "📰 Трейлер Resident Evil Veronica за 4 месяца ст...",
         "type": "news",
-        "desc": "Авторы At Fate’s End перенесли релиз на 2027 год и выпустили демоверсию",
-        "url": "https://stopgame.ru/newsdata/73065/avtory_at_fate_s_end_perenesli_reliz_na_2027_god_i_vypustili_demoversiyu"
+        "desc": "Трейлер Resident Evil Veronica за 4 месяца стал вторым самым просматриваемым в истории франшизы",
+        "url": "https://www.playground.ru/resident_evil_code_veronica_x/news/trejler_resident_evil_veronica_za_4_mesyatsa_stal_vtorym_samym_prosmatrivaemym_v_istorii_franshizy-1880066#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6604299284854484529",
+        "date": "2026-10-08",
+        "title": "📰 Несмотря на релиз 4 месяца назад, 007 First L...",
+        "type": "news",
+        "desc": "Несмотря на релиз 4 месяца назад, 007 First Light продолжает набирать вишлисты: за 7 млн игроки получат бульдога Джека",
+        "url": "https://www.playground.ru/007_first_light/news/nesmotrya_na_reliz_4_mesyatsa_nazad_007_first_light_prodolzhaet_nabirat_vishlisty_za_7_mln_igroki_poluchat_buldoga_dzheka-1880043#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
