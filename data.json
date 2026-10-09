@@ -45,27 +45,59 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "n_1240019154732000039",
-        "date": "2026-10-07",
-        "title": "📰 Новый трейлер Warhammer 40,000: Dark Heresy п...",
+        "id": "n_164848255812134001",
+        "date": "2026-10-08",
+        "title": "📰 Machinarium 2, апдейт Windrose и финальное DL...",
         "type": "news",
-        "desc": "Новый трейлер Warhammer 40,000: Dark Heresy посвятили системе расследований",
-        "url": "https://stopgame.ru/newsdata/73078/novyy_trailer_warhammer_40_000_dark_heresy_posvyatili_sisteme_rassledovaniy"
+        "desc": "Machinarium 2, апдейт Windrose и финальное DLC для Dave the Diver — все анонсы Triple-i Initiative",
+        "url": "https://stopgame.ru/newsdata/73094/machinarium_2_apdeyt_windrose_i_finalnoe_dlc_dlya_dave_the_diver_vse_anonsy_triple_i_initiative"
     },
     {
-        "id": "n_3031293365112998005",
+        "id": "n_3522649144689063519",
         "date": "2026-10-08",
-        "title": "📰 Трейлер Resident Evil Veronica за 4 месяца ст...",
+        "title": "📰 Состоялся релиз Clive Barker&#039;s Hellraise...",
         "type": "news",
-        "desc": "Трейлер Resident Evil Veronica за 4 месяца стал вторым самым просматриваемым в истории франшизы",
-        "url": "https://www.playground.ru/resident_evil_code_veronica_x/news/trejler_resident_evil_veronica_za_4_mesyatsa_stal_vtorym_samym_prosmatrivaemym_v_istorii_franshizy-1880066#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся релиз Clive Barker&#039;s Hellraiser: Revival",
+        "url": "https://stopgame.ru/newsdata/73089/sostoyalsya_reliz_clive_barkers_hellraiser_revival"
     },
     {
-        "id": "n_-6604299284854484529",
-        "date": "2026-10-08",
-        "title": "📰 Несмотря на релиз 4 месяца назад, 007 First L...",
+        "id": "n_-8754674164821044199",
+        "date": "2026-10-09",
+        "title": "📰 Анонсирован новый необычный научно-фантастиче...",
         "type": "news",
-        "desc": "Несмотря на релиз 4 месяца назад, 007 First Light продолжает набирать вишлисты: за 7 млн игроки получат бульдога Джека",
-        "url": "https://www.playground.ru/007_first_light/news/nesmotrya_na_reliz_4_mesyatsa_nazad_007_first_light_prodolzhaet_nabirat_vishlisty_za_7_mln_igroki_poluchat_buldoga_dzheka-1880043#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирован новый необычный научно-фантастический рогалик Volatiles от издательства 11 bit studios",
+        "url": "https://www.playground.ru/misc/news/anonsirovan_novyj_neobychnyj_nauchno_fantasticheskij_rogalik_volatiles_ot_izdatelstva_11_bit_studios-1880296#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2284930474431456094",
+        "date": "2026-10-09",
+        "title": "📰 Издательство Raw Fury анонсировало дополнение...",
+        "type": "news",
+        "desc": "Издательство Raw Fury анонсировало дополнение Pharaoh Lands для Kingdom Two Crowns",
+        "url": "https://www.playground.ru/kingdom_two_crowns/news/izdatelstvo_raw_fury_anonsirovalo_dopolnenie_pharaoh_lands_dlya_kingdom_two_crowns-1880293#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_9059461168759396714",
+        "date": "2026-10-09",
+        "title": "📰 Игроки сомневаются, что некоторые элементы, п...",
+        "type": "news",
+        "desc": "Игроки сомневаются, что некоторые элементы, показанные в последней утечке GTA 6, появятся в релизной версии",
+        "url": "https://www.playground.ru/gta_6/news/igroki_somnevayutsya_chto_nekotorye_elementy_pokazannye_v_poslednej_utechke_gta_6_poyavyatsya_v_reliznoj_versii-1880282#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-970648329847456261",
+        "date": "2026-10-09",
+        "title": "📰 Хвалебный трейлер Ghost of Yotei: Complete Ed...",
+        "type": "news",
+        "desc": "Хвалебный трейлер Ghost of Yotei: Complete Edition демонстрирует восторженные отзывы критиков",
+        "url": "https://www.playground.ru/ghost_of_yotei/news/hvalebnyj_trejler_ghost_of_yotei_complete_edition_demonstriruet_vostorzhennye_otzyvy_kritikov-1880278#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-2174340602634699892",
+        "date": "2026-10-09",
+        "title": "📰 Marvel анонсировала шпионский сериал \"Зодиак\"...",
+        "type": "news",
+        "desc": "Marvel анонсировала шпионский сериал \"Зодиак\" - премьера запланирована на 2028 год",
+        "url": "https://www.playground.ru/misc/news/marvel_anonsirovala_shpionskij_serial_zodiak_premera_zaplanirovana_na_2028_god-1880264#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
