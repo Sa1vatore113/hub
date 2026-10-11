@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564700",
-        "date": "2026-10-10",
-        "title": "⚽ Barça — Getafe",
-        "type": "foot",
-        "time": "16:30",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Getafe+match"
-    },
-    {
         "id": "f_575344",
         "date": "2026-10-13",
         "title": "⚽ Galatasaray — Barça",
@@ -45,7 +36,16 @@
         "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
     },
     {
-        "id": "n_1889920504020544827",
+        "id": "f_564732",
+        "date": "2026-10-31",
+        "title": "⚽ Barça — Alavés",
+        "type": "foot",
+        "time": "20:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Alavés+match"
+    },
+    {
+        "id": "n_5253566082776251785",
         "date": "2026-10-09",
         "title": "📰 Анонс Cat and Paste! — милой игры про прятки ...",
         "type": "news",
@@ -53,7 +53,7 @@
         "url": "https://stopgame.ru/newsdata/73119/anons_cat_and_paste_miloy_igry_pro_pryatki_s_kotami"
     },
     {
-        "id": "n_-5127580450577915181",
+        "id": "n_-6438395864426526798",
         "date": "2026-10-09",
         "title": "📰 Чарли Кокс признался, что ему досталась роль ...",
         "type": "news",
@@ -61,35 +61,35 @@
         "url": "https://stopgame.ru/newsdata/73111/charli_koks_priznalsya_chto_emu_dostalas_rol_v_neanonsirovannoy_igre_sega"
     },
     {
-        "id": "n_-6366561359731714749",
-        "date": "2026-10-09",
-        "title": "📰 Состоялся релиз Dragon&#039;s Dogma II: Dark ...",
+        "id": "n_-8676698521559285412",
+        "date": "2026-10-11",
+        "title": "📰 Вышел новый трейлер \"Бегущего по лезвию 2099\"...",
         "type": "news",
-        "desc": "Состоялся релиз Dragon&#039;s Dogma II: Dark Arisen",
-        "url": "https://stopgame.ru/newsdata/73106/sostoyalsya_reliz_dragons_dogma_ii_dark_arisen"
+        "desc": "Вышел новый трейлер \"Бегущего по лезвию 2099\": Хантер Шафер и Мишель Йео расследуют исчезновение репликантов",
+        "url": "https://www.playground.ru/misc/news/vyshel_novyj_trejler_beguschego_po_lezviyu_2099_hanter_shafer_i_mishel_jeo_rassleduyut_ischeznovenie_replikantov-1880774#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-407791867569422701",
+        "id": "n_6371883078362039683",
         "date": "2026-10-10",
-        "title": "📰 Разработчики Forza Horizon 6 представили трей...",
+        "title": "📰 Для модификации Command and Conquer: Generals...",
         "type": "news",
-        "desc": "Разработчики Forza Horizon 6 представили трейлер обновления Horizon Meets",
-        "url": "https://www.playground.ru/forza_horizon_6/news/razrabotchiki_forza_horizon_6_predstavili_trejler_obnovleniya_horizon_meets-1880566#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Для модификации Command and Conquer: Generals Evolution анонсировали сюжетную кампанию с релизом в 2027 году",
+        "url": "https://www.playground.ru/command_and_conquer_generals/news/dlya_modifikatsii_command_and_conquer_generals_evolution_anonsirovali_syuzhetnuyu_kampaniyu_s_relizom_v_2027_godu-1880758#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-5354145459521574936",
+        "id": "n_8544106413127679158",
         "date": "2026-10-10",
-        "title": "📰 Энтузиаст воссоздал мультиплеер Call of Duty ...",
+        "title": "📰 Разработчики Age of the Ring для The Battle f...",
         "type": "news",
-        "desc": "Энтузиаст воссоздал мультиплеер Call of Duty 4 на движке Bevy с переносом оружия из Black Ops и World at War",
-        "url": "https://www.playground.ru/call_of_duty_4_modern_warfare/news/entuziast_vossozdal_multipleer_call_of_duty_4_na_dvizhke_bevy_s_perenosom_oruzhiya_iz_black_ops_i_world_at_war-1880541#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Разработчики Age of the Ring для The Battle for Middle-earth II представили кампанию версии 10.0 и назвали дату релиза",
+        "url": "https://www.playground.ru/lord_of_the_rings_the_battle_for_middle-earth_2/news/razrabotchiki_age_of_the_ring_dlya_the_battle_for_middle_earth_ii_predstavili_kampaniyu_versii_10_0_i_nazvali_datu_reliza-1880757#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-6806258309099508433",
-        "date": "2026-10-09",
-        "title": "📰 Вышел хвалебный трейлер Gears of War: E-Day...",
+        "id": "n_1051760066457647338",
+        "date": "2026-10-10",
+        "title": "📰 \"Ванпанчмен\" возвращается: вышел трейлер втор...",
         "type": "news",
-        "desc": "Вышел хвалебный трейлер Gears of War: E-Day",
-        "url": "https://www.playground.ru/gears_of_war_e_day/news/vyshel_hvalebnyj_trejler_gears_of_war_e_day-1880528#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "\"Ванпанчмен\" возвращается: вышел трейлер второй части третьего сезона - премьера в январе 2027 года",
+        "url": "https://www.playground.ru/misc/news/vanpanchmen_vozvraschaetsya_vyshel_trejler_vtoroj_chasti_tretego_sezona_premera_v_yanvare_2027_goda-1880737#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
