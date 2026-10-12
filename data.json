@@ -45,7 +45,15 @@
         "url": "https://www.google.com/search?q=Barça+—+Alavés+match"
     },
     {
-        "id": "n_5253566082776251785",
+        "id": "n_1417624380335134368",
+        "date": "2026-10-11",
+        "title": "📰 У Squadron 42 появилась страница в Steam и но...",
+        "type": "news",
+        "desc": "У Squadron 42 появилась страница в Steam и новый трейлер",
+        "url": "https://stopgame.ru/newsdata/73124/u_squadron_42_poyavilas_stranica_v_steam_i_novyy_trailer"
+    },
+    {
+        "id": "n_280485966044154238",
         "date": "2026-10-09",
         "title": "📰 Анонс Cat and Paste! — милой игры про прятки ...",
         "type": "news",
@@ -53,7 +61,7 @@
         "url": "https://stopgame.ru/newsdata/73119/anons_cat_and_paste_miloy_igry_pro_pryatki_s_kotami"
     },
     {
-        "id": "n_-6438395864426526798",
+        "id": "n_-6307534738850119865",
         "date": "2026-10-09",
         "title": "📰 Чарли Кокс признался, что ему досталась роль ...",
         "type": "news",
@@ -61,35 +69,35 @@
         "url": "https://stopgame.ru/newsdata/73111/charli_koks_priznalsya_chto_emu_dostalas_rol_v_neanonsirovannoy_igre_sega"
     },
     {
-        "id": "n_-8676698521559285412",
-        "date": "2026-10-11",
-        "title": "📰 Вышел новый трейлер \"Бегущего по лезвию 2099\"...",
+        "id": "n_-4323532954136345009",
+        "date": "2026-10-12",
+        "title": "📰 Более 130 костюмов: новый трейлер Stellar Bla...",
         "type": "news",
-        "desc": "Вышел новый трейлер \"Бегущего по лезвию 2099\": Хантер Шафер и Мишель Йео расследуют исчезновение репликантов",
-        "url": "https://www.playground.ru/misc/news/vyshel_novyj_trejler_beguschego_po_lezviyu_2099_hanter_shafer_i_mishel_jeo_rassleduyut_ischeznovenie_replikantov-1880774#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Более 130 костюмов: новый трейлер Stellar Blade для Nintendo Switch 2 посвящен коллекционированию",
+        "url": "https://www.playground.ru/stellar_blade/news/bolee_130_kostyumov_novyj_trejler_stellar_blade_dlya_nintendo_switch_2_posvyaschen_kollektsionirovaniyu-1880995#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_6371883078362039683",
-        "date": "2026-10-10",
-        "title": "📰 Для модификации Command and Conquer: Generals...",
+        "id": "n_-7969427120540385664",
+        "date": "2026-10-12",
+        "title": "📰 Lords of the Fallen II приближается к релизу ...",
         "type": "news",
-        "desc": "Для модификации Command and Conquer: Generals Evolution анонсировали сюжетную кампанию с релизом в 2027 году",
-        "url": "https://www.playground.ru/command_and_conquer_generals/news/dlya_modifikatsii_command_and_conquer_generals_evolution_anonsirovali_syuzhetnuyu_kampaniyu_s_relizom_v_2027_godu-1880758#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Lords of the Fallen II приближается к релизу - игра достигла нового этапа разработки",
+        "url": "https://www.playground.ru/lords_of_the_fallen_2/news/lords_of_the_fallen_ii_priblizhaetsya_k_relizu_igra_dostigla_novogo_etapa_razrabotki-1880988#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_8544106413127679158",
-        "date": "2026-10-10",
-        "title": "📰 Разработчики Age of the Ring для The Battle f...",
+        "id": "n_2622575969233070754",
+        "date": "2026-10-12",
+        "title": "📰 Bandai Namco показала трейлеры Юдзиро Ханмы и...",
         "type": "news",
-        "desc": "Разработчики Age of the Ring для The Battle for Middle-earth II представили кампанию версии 10.0 и назвали дату релиза",
-        "url": "https://www.playground.ru/lord_of_the_rings_the_battle_for_middle-earth_2/news/razrabotchiki_age_of_the_ring_dlya_the_battle_for_middle_earth_ii_predstavili_kampaniyu_versii_10_0_i_nazvali_datu_reliza-1880757#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Bandai Namco показала трейлеры Юдзиро Ханмы и Роджера-младшего для Tekken 8",
+        "url": "https://www.playground.ru/tekken_8/news/bandai_namco_pokazala_trejlery_yudziro_hanmy_i_rodzhera_mladshego_dlya_tekken_8-1880973#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_1051760066457647338",
-        "date": "2026-10-10",
-        "title": "📰 \"Ванпанчмен\" возвращается: вышел трейлер втор...",
+        "id": "n_7514009947295294765",
+        "date": "2026-10-12",
+        "title": "📰 Релиз Shadow of the Road отложили до марта 20...",
         "type": "news",
-        "desc": "\"Ванпанчмен\" возвращается: вышел трейлер второй части третьего сезона - премьера в январе 2027 года",
-        "url": "https://www.playground.ru/misc/news/vanpanchmen_vozvraschaetsya_vyshel_trejler_vtoroj_chasti_tretego_sezona_premera_v_yanvare_2027_goda-1880737#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релиз Shadow of the Road отложили до марта 2027 года ради доработки тактики и баланса",
+        "url": "https://www.playground.ru/shadow_of_the_road/news/reliz_shadow_of_the_road_otlozhili_do_marta_2027_goda_radi_dorabotki_taktiki_i_balansa-1880972#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
