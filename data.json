@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_575344",
-        "date": "2026-10-13",
-        "title": "⚽ Galatasaray — Barça",
-        "type": "foot",
-        "time": "19:00",
-        "desc": "Лига: UEFA Champions League",
-        "url": "https://www.google.com/search?q=Galatasaray+—+Barça+match"
-    },
-    {
         "id": "f_564713",
         "date": "2026-10-17",
         "title": "⚽ Real Betis — Barça",
@@ -45,43 +36,60 @@
         "url": "https://www.google.com/search?q=Barça+—+Alavés+match"
     },
     {
-        "id": "n_-4791743574047220727",
-        "date": "2026-10-12",
-        "title": "📰 Шрайер: Epic Games отложила релиз шутера по ф...",
-        "type": "news",
-        "desc": "Шрайер: Epic Games отложила релиз шутера по франшизам Disney, чтобы сосредоточиться на ИИ-разработке",
-        "url": "https://stopgame.ru/newsdata/73140/shrayer_epic_games_otlozhila_reliz_shutera_po_franshizam_disney_chtoby_sosredotochitsya_na_ii_razrabotke"
+        "id": "f_575380",
+        "date": "2026-11-03",
+        "title": "⚽ Barça — Aston Villa",
+        "type": "foot",
+        "time": "20:00",
+        "desc": "Лига: UEFA Champions League",
+        "url": "https://www.google.com/search?q=Barça+—+Aston+Villa+match"
     },
     {
-        "id": "n_-8912473328697208874",
-        "date": "2026-10-12",
-        "title": "📰 Битемап He-Man and the Masters of the Univers...",
-        "type": "news",
-        "desc": "Битемап He-Man and the Masters of the Universe: Dragon Pearl of Destruction обрёл новую дату релиза",
-        "url": "https://stopgame.ru/newsdata/73135/bitemap_he_man_and_the_masters_of_the_universe_dragon_pearl_of_destruction_obrel_novuyu_datu_reliza"
-    },
-    {
-        "id": "n_-360302881131337114",
-        "date": "2026-10-12",
-        "title": "📰 Посещаем Бразилию в свежем трейлере Crazy Tax...",
-        "type": "news",
-        "desc": "Посещаем Бразилию в свежем трейлере Crazy Taxi: World Tour",
-        "url": "https://stopgame.ru/newsdata/73128/poseschaem_braziliyu_v_svezhem_trailere_crazy_taxi_world_tour"
-    },
-    {
-        "id": "n_-3143365325327664714",
+        "id": "n_3010243964733377915",
         "date": "2026-10-13",
-        "title": "📰 Usual June перенесли на январь 2027 года - ми...",
+        "title": "📰 Авторы RimWorld анонсировали переезд игры на ...",
         "type": "news",
-        "desc": "Usual June перенесли на январь 2027 года - мистическое приключение пропустит октябрьский релиз",
-        "url": "https://www.playground.ru/usual_june/news/usual_june_perenesli_na_yanvar_2027_goda_misticheskoe_priklyuchenie_propustit_oktyabrskij_reliz-1881252#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Авторы RimWorld анонсировали переезд игры на новый движок",
+        "url": "https://stopgame.ru/newsdata/73145/avtory_rimworld_anonsirovali_pereezd_igry_na_novyy_dvizhok"
     },
     {
-        "id": "n_-4295130991092617221",
-        "date": "2026-10-13",
-        "title": "📰 Системные требования Valor Mortis резко измен...",
+        "id": "n_-5596060830007881511",
+        "date": "2026-10-14",
+        "title": "📰 Релизный трейлер Star Wars: Unlimited — Homew...",
         "type": "news",
-        "desc": "Системные требования Valor Mortis резко изменились в лучшую сторону прямо перед релизом",
-        "url": "https://www.playground.ru/valor_mortis/news/sistemnye_trebovaniya_valor_mortis_rezko_izmenilis_v_luchshuyu_storonu_pryamo_pered_relizom-1881239#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релизный трейлер Star Wars: Unlimited — Homeworlds",
+        "url": "https://www.playground.ru/misc/news/reliznyj_trejler_star_wars_unlimited_homeworlds-1881501#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-4479861146748154646",
+        "date": "2026-10-14",
+        "title": "📰 Трейлер дополнения Rebel and Empire Reinforce...",
+        "type": "news",
+        "desc": "Трейлер дополнения Rebel and Empire Reinforcements для STAR WARS: The Deckbuilding Game",
+        "url": "https://www.playground.ru/misc/news/trejler_dopolneniya_rebel_and_empire_reinforcements_dlya_star_wars_the_deckbuilding_game-1881500#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_1111134429246339179",
+        "date": "2026-10-14",
+        "title": "📰 Трейлер дополнения Fear No Evil для Marvel Ch...",
+        "type": "news",
+        "desc": "Трейлер дополнения Fear No Evil для Marvel Champions: The Card Game",
+        "url": "https://www.playground.ru/misc/news/trejler_dopolneniya_fear_no_evil_dlya_marvel_champions_the_card_game-1881499#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_2034674508801786484",
+        "date": "2026-10-14",
+        "title": "📰 Анонсирован экшн-рогалик Modulink - постапока...",
+        "type": "news",
+        "desc": "Анонсирован экшн-рогалик Modulink - постапокалипсис и способности из хлама",
+        "url": "https://www.playground.ru/misc/news/anonsirovan_ekshn_rogalik_modulink_postapokalipsis_i_sposobnosti_iz_hlama-1881495#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-7158354551672799096",
+        "date": "2026-10-13",
+        "title": "📰 Культисты, оккультные ритуалы и Америка 1950-...",
+        "type": "news",
+        "desc": "Культисты, оккультные ритуалы и Америка 1950-х в дебютном трейлере хоррор-шутера Mark of The Ram",
+        "url": "https://www.playground.ru/mark_of_the_ram/news/kultisty_okkultnye_ritualy_i_amerika_1950_h_v_debyutnom_trejlere_horror_shutera_mark_of_the_ram-1881466#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
