@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564713",
-        "date": "2026-10-17",
-        "title": "⚽ Real Betis — Barça",
-        "type": "foot",
-        "time": "16:30",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Real+Betis+—+Barça+match"
-    },
-    {
         "id": "f_575367",
         "date": "2026-10-20",
         "title": "⚽ PSG — Barça",
@@ -45,7 +36,24 @@
         "url": "https://www.google.com/search?q=Barça+—+Aston+Villa+match"
     },
     {
-        "id": "n_148915356730982943",
+        "id": "f_564746",
+        "date": "2026-11-08",
+        "title": "⚽ Atleti — Barça",
+        "type": "foot",
+        "time": "20:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Atleti+—+Barça+match"
+    },
+    {
+        "id": "n_3941613784316004279",
+        "date": "2026-10-17",
+        "title": "📰 Анонс Encryption — психологического хоррора о...",
+        "type": "news",
+        "desc": "Анонс Encryption — психологического хоррора о поисках дочери в горящей Италии",
+        "url": "https://stopgame.ru/newsdata/73212/anons_encryption_psihologicheskogo_horrora_o_poiskah_docheri_v_goryaschey_italii"
+    },
+    {
+        "id": "n_1704323059546258751",
         "date": "2026-10-16",
         "title": "📰 Авторы Stranger Than Heaven представили сюжет...",
         "type": "news",
@@ -53,7 +61,7 @@
         "url": "https://stopgame.ru/newsdata/73210/avtory_stranger_than_heaven_predstavili_syuzhetnyy_trailer_pervoy_glavy"
     },
     {
-        "id": "n_6420993777010463708",
+        "id": "n_3607316083466952501",
         "date": "2026-10-16",
         "title": "📰 Анонсирована адвенчура о выживании в вечной з...",
         "type": "news",
@@ -61,19 +69,59 @@
         "url": "https://stopgame.ru/newsdata/73204/anonsirovana_advenchura_o_vyzhivanii_v_vechnoy_zime_afterzero_the_last_drive"
     },
     {
-        "id": "n_1006491967549566917",
-        "date": "2026-10-16",
-        "title": "📰 ZERO PARADES поселится на Switch 2 в один ден...",
+        "id": "n_-3307627287369586586",
+        "date": "2026-10-18",
+        "title": "📰 Call of Duty: Modern Warfare 4 превзошла пико...",
         "type": "news",
-        "desc": "ZERO PARADES поселится на Switch 2 в один день с релизом версии для PS5",
-        "url": "https://stopgame.ru/newsdata/73196/zero_parades_poselitsya_na_switch_2_v_odin_den_s_relizom_versii_dlya_ps5"
+        "desc": "Call of Duty: Modern Warfare 4 превзошла пиковый онлайн Black Ops 7 ещё до полноценного релиза",
+        "url": "https://www.playground.ru/call_of_duty_2026/news/call_of_duty_modern_warfare_4_prevzoshla_pikovyj_onlajn_black_ops_7_eschyo_do_polnotsennogo_reliza-1882595#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-4109327757684788363",
-        "date": "2026-10-17",
-        "title": "📰 Фильм Street Fighter покажут в кинотеатрах Ро...",
+        "id": "n_-3777587206121700205",
+        "date": "2026-10-18",
+        "title": "📰 Киберпанковый рогалик SlashZero получил новый...",
         "type": "news",
-        "desc": "Фильм Street Fighter покажут в кинотеатрах России - названа дата",
-        "url": "https://www.playground.ru/misc/news/film_street_fighter_pokazhut_v_kinoteatrah_rossii_nazvana_data-1882358#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Киберпанковый рогалик SlashZero получил новый трейлер и демоверсию",
+        "url": "https://www.playground.ru/slashzero/news/kiberpankovyj_rogalik_slashzero_poluchil_novyj_trejler_i_demoversiyu-1882582#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-1601404908553247537",
+        "date": "2026-10-18",
+        "title": "📰 Toxic Crusaders получила новый трейлер в духе...",
+        "type": "news",
+        "desc": "Toxic Crusaders получила новый трейлер в духе классических аркадных боевиков",
+        "url": "https://www.playground.ru/toxic_crusaders/news/toxic_crusaders_poluchila_novyj_trejler_v_duhe_klassicheskih_arkadnyh_boevikov-1882576#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-7347795865877461697",
+        "date": "2026-10-18",
+        "title": "📰 Уличные драки возвращаются - анонсирован арка...",
+        "type": "news",
+        "desc": "Уличные драки возвращаются - анонсирован аркадный боевик The Takeover 2",
+        "url": "https://www.playground.ru/misc/news/ulichnye_draki_vozvraschayutsya_anonsirovan_arkadnyj_boevik_the_takeover_2-1882575#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_5834659022637630783",
+        "date": "2026-10-18",
+        "title": "📰 В трейлере GTA 6 нашли отсылку к первой игре ...",
+        "type": "news",
+        "desc": "В трейлере GTA 6 нашли отсылку к первой игре серии, которая может раскрыть прошлое Джейсона и Люсии",
+        "url": "https://www.playground.ru/gta_6/news/v_trejlere_gta_6_nashli_otsylku_k_pervoj_igre_serii_kotoraya_mozhet_raskryt_proshloe_dzhejsona_i_lyusii-1882574#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_7246823917229478163",
+        "date": "2026-10-17",
+        "title": "📰 Into The Fire показывает спасение людей из ву...",
+        "type": "news",
+        "desc": "Into The Fire показывает спасение людей из вулкана перед релизом в 2026 году",
+        "url": "https://www.playground.ru/into_the_fire/news/into_the_fire_pokazyvaet_spasenie_lyudej_iz_vulkana_pered_relizom_v_2026_godu-1882571#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-7580721724442530046",
+        "date": "2026-10-17",
+        "title": "📰 Новый трейлер Iron Bramble показывает платфор...",
+        "type": "news",
+        "desc": "Новый трейлер Iron Bramble показывает платформенный экшен с крюком-кошкой",
+        "url": "https://www.playground.ru/iron_bramble/news/novyj_trejler_iron_bramble_pokazyvaet_platformennyj_ekshen_s_kryukom_koshkoj-1882570#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
