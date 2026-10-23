@@ -40,12 +40,36 @@
         "date": "2026-11-22",
         "title": "⚽ Barça — Villarreal",
         "type": "foot",
-        "time": "00:00",
+        "time": "13:00",
         "desc": "Лига: Primera Division",
         "url": "https://www.google.com/search?q=Barça+—+Villarreal+match"
     },
     {
-        "id": "n_7861227676939929965",
+        "id": "n_-2466589903673147832",
+        "date": "2026-10-22",
+        "title": "📰 Похоже, в Сети оказался трейлер отменённой Ma...",
+        "type": "news",
+        "desc": "Похоже, в Сети оказался трейлер отменённой Mass Effect 5",
+        "url": "https://stopgame.ru/newsdata/73268/pohozhe_v_seti_okazalsya_trailer_otmenennoy_mass_effect_5"
+    },
+    {
+        "id": "n_-2986920852981953074",
+        "date": "2026-10-22",
+        "title": "📰 Вампирский симулятор управления отелем Bloody...",
+        "type": "news",
+        "desc": "Вампирский симулятор управления отелем Bloody Hell Hotel обрёл окно релиза",
+        "url": "https://stopgame.ru/newsdata/73259/vampirskiy_simulyator_upravleniya_otelem_bloody_hell_hotel_obrel_okno_reliza"
+    },
+    {
+        "id": "n_-6676574195739379089",
+        "date": "2026-10-22",
+        "title": "📰 Авторы Phantom Blade Zero выложили релизный т...",
+        "type": "news",
+        "desc": "Авторы Phantom Blade Zero выложили релизный трейлер и анонсировали физическое издание",
+        "url": "https://stopgame.ru/newsdata/73258/avtory_phantom_blade_zero_vylozhili_reliznyy_trailer_i_anonsirovali_fizicheskoe_izdanie"
+    },
+    {
+        "id": "n_-9217005373013013569",
         "date": "2026-10-21",
         "title": "📰 Анонсирована Serious Sam: The Third Encounter...",
         "type": "news",
@@ -53,35 +77,11 @@
         "url": "https://stopgame.ru/newsdata/73255/anonsirovana_serious_sam_the_third_encounter"
     },
     {
-        "id": "n_-4624797228033231380",
-        "date": "2026-10-21",
-        "title": "📰 Tencent анонсировала Ordinary Oddness — «необ...",
-        "type": "news",
-        "desc": "Tencent анонсировала Ordinary Oddness — «необычную RPG с открытым миром»",
-        "url": "https://stopgame.ru/newsdata/73244/tencent_anonsirovala_ordinary_oddness_neobychnuyu_rpg_s_otkrytym_mirom"
-    },
-    {
-        "id": "n_1259139816267732318",
-        "date": "2026-10-21",
-        "title": "📰 Мореходство, романы и новые истории в обзорно...",
-        "type": "news",
-        "desc": "Мореходство, романы и новые истории в обзорном трейлере DLC для Crimson Desert",
-        "url": "https://stopgame.ru/newsdata/73243/morehodstvo_romany_i_novye_istorii_v_reviewnom_trailere_dlc_dlya_crimson_desert"
-    },
-    {
-        "id": "n_8111225744739423764",
+        "id": "n_337394931425476217",
         "date": "2026-10-22",
-        "title": "📰 Phantom Blade Zero получила захватывающий рел...",
+        "title": "📰 Фанаты PlayStation сделали выбор: трейлер Shr...",
         "type": "news",
-        "desc": "Phantom Blade Zero получила захватывающий релизный трейлер; физические издания для PS5 выйдут в 2027 году",
-        "url": "https://www.playground.ru/phantom_blade_zero/news/phantom_blade_zero_poluchila_zahvatyvayuschij_reliznyj_trejler_fizicheskie_izdaniya_dlya_ps5_vyjdut_v_2027_godu-1883719#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_6390517445214070830",
-        "date": "2026-10-22",
-        "title": "📰 Спаслись от космоса, но попали на дно океана:...",
-        "type": "news",
-        "desc": "Спаслись от космоса, но попали на дно океана: трейлер фильма \"Над глубиной\"",
-        "url": "https://www.playground.ru/misc/news/spaslis_ot_kosmosa_no_popali_na_dno_okeana_trejler_filma_nad_glubinoj-1883696#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Фанаты PlayStation сделали выбор: трейлер Shrek 2 Remastered обошёл GTA VI по просмотрам на YouTube-канале PlayStation",
+        "url": "https://www.playground.ru/gta_6/news/fanaty_playstation_sdelali_vybor_trejler_shrek_2_remastered_oboshyol_gta_vi_po_prosmotram_na_youtube_kanale_playstation-1883983#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
