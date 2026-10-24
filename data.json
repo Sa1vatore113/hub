@@ -45,43 +45,28 @@
         "url": "https://www.google.com/search?q=Barça+—+Villarreal+match"
     },
     {
-        "id": "n_-2466589903673147832",
+        "id": "navi_cs_1752691",
+        "date": "2026-10-24",
+        "time": "19:00",
+        "title": "🏆 CS2: Round 1: G2 vs NAVI",
+        "type": "navi",
+        "desc": "Турнир: PGL Masters. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
+    },
+    {
+        "id": "n_953102550576404786",
+        "date": "2026-10-23",
+        "title": "📰 Годовщина Dispatch: обновление Deluxe-издания...",
+        "type": "news",
+        "desc": "Годовщина Dispatch: обновление Deluxe-издания и анонс мобильных версий ",
+        "url": "https://stopgame.ru/newsdata/73272/godovschina_dispatch_obnovlenie_deluxe_izdaniya_i_anons_mobilnyh_versiy"
+    },
+    {
+        "id": "n_-1729596702181914895",
         "date": "2026-10-22",
         "title": "📰 Похоже, в Сети оказался трейлер отменённой Ma...",
         "type": "news",
         "desc": "Похоже, в Сети оказался трейлер отменённой Mass Effect 5",
         "url": "https://stopgame.ru/newsdata/73268/pohozhe_v_seti_okazalsya_trailer_otmenennoy_mass_effect_5"
-    },
-    {
-        "id": "n_-2986920852981953074",
-        "date": "2026-10-22",
-        "title": "📰 Вампирский симулятор управления отелем Bloody...",
-        "type": "news",
-        "desc": "Вампирский симулятор управления отелем Bloody Hell Hotel обрёл окно релиза",
-        "url": "https://stopgame.ru/newsdata/73259/vampirskiy_simulyator_upravleniya_otelem_bloody_hell_hotel_obrel_okno_reliza"
-    },
-    {
-        "id": "n_-6676574195739379089",
-        "date": "2026-10-22",
-        "title": "📰 Авторы Phantom Blade Zero выложили релизный т...",
-        "type": "news",
-        "desc": "Авторы Phantom Blade Zero выложили релизный трейлер и анонсировали физическое издание",
-        "url": "https://stopgame.ru/newsdata/73258/avtory_phantom_blade_zero_vylozhili_reliznyy_trailer_i_anonsirovali_fizicheskoe_izdanie"
-    },
-    {
-        "id": "n_-9217005373013013569",
-        "date": "2026-10-21",
-        "title": "📰 Анонсирована Serious Sam: The Third Encounter...",
-        "type": "news",
-        "desc": "Анонсирована Serious Sam: The Third Encounter",
-        "url": "https://stopgame.ru/newsdata/73255/anonsirovana_serious_sam_the_third_encounter"
-    },
-    {
-        "id": "n_337394931425476217",
-        "date": "2026-10-22",
-        "title": "📰 Фанаты PlayStation сделали выбор: трейлер Shr...",
-        "type": "news",
-        "desc": "Фанаты PlayStation сделали выбор: трейлер Shrek 2 Remastered обошёл GTA VI по просмотрам на YouTube-канале PlayStation",
-        "url": "https://www.playground.ru/gta_6/news/fanaty_playstation_sdelali_vybor_trejler_shrek_2_remastered_oboshyol_gta_vi_po_prosmotram_na_youtube_kanale_playstation-1883983#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
