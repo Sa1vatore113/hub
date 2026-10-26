@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564723",
-        "date": "2026-10-25",
-        "title": "⚽ Barça — Real Madrid",
-        "type": "foot",
-        "time": "20:00",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Real+Madrid+match"
-    },
-    {
         "id": "f_564732",
         "date": "2026-10-31",
         "title": "⚽ Barça — Alavés",
@@ -45,16 +36,25 @@
         "url": "https://www.google.com/search?q=Barça+—+Villarreal+match"
     },
     {
-        "id": "navi_cs_1753703",
-        "date": "2026-10-25",
+        "id": "f_575404",
+        "date": "2026-11-25",
+        "title": "⚽ Sabah FK — Barça",
+        "type": "foot",
+        "time": "17:45",
+        "desc": "Лига: UEFA Champions League",
+        "url": "https://www.google.com/search?q=Sabah+FK+—+Barça+match"
+    },
+    {
+        "id": "navi_cs_1753710",
+        "date": "2026-10-26",
         "time": "20:00",
-        "title": "🏆 CS2: Round 2: FURIA vs NAVI",
+        "title": "🏆 CS2: Round 3: BB vs NAVI",
         "type": "navi",
         "desc": "Турнир: PGL Masters. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-1043420571224504730",
+        "id": "n_1940802033066292846",
         "date": "2026-10-23",
         "title": "📰 Годовщина Dispatch: обновление Deluxe-издания...",
         "type": "news",
@@ -62,19 +62,11 @@
         "url": "https://stopgame.ru/newsdata/73272/godovschina_dispatch_obnovlenie_deluxe_izdaniya_i_anons_mobilnyh_versiy"
     },
     {
-        "id": "n_1265536714326938838",
-        "date": "2026-10-22",
-        "title": "📰 Похоже, в Сети оказался трейлер отменённой Ma...",
+        "id": "n_6849475689918467989",
+        "date": "2026-10-25",
+        "title": "📰 Релиз Shenmue 3 Enhanced перенесли на начало ...",
         "type": "news",
-        "desc": "Похоже, в Сети оказался трейлер отменённой Mass Effect 5",
-        "url": "https://stopgame.ru/newsdata/73268/pohozhe_v_seti_okazalsya_trailer_otmenennoy_mass_effect_5"
-    },
-    {
-        "id": "n_6187613342774373418",
-        "date": "2026-10-24",
-        "title": "📰 Хакер Zecoxao анонсировал эксплойт ядра Prola...",
-        "type": "news",
-        "desc": "Хакер Zecoxao анонсировал эксплойт ядра Prolapse для PlayStation 5 на прошивках 14.00 и 14.10",
-        "url": "https://www.playground.ru/misc/news/haker_zecoxao_anonsiroval_eksplojt_yadra_prolapse_dlya_playstation_5_na_proshivkah_14_00_i_14_10-1884504#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релиз Shenmue 3 Enhanced перенесли на начало 2027 года",
+        "url": "https://www.playground.ru/shenmue_3/news/reliz_shenmue_3_enhanced_perenesli_na_nachalo_2027_goda-1884759#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
