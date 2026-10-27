@@ -45,28 +45,68 @@
         "url": "https://www.google.com/search?q=Sabah+FK+—+Barça+match"
     },
     {
-        "id": "navi_cs_1753710",
-        "date": "2026-10-26",
+        "id": "navi_cs_1753717",
+        "date": "2026-10-27",
         "time": "20:00",
-        "title": "🏆 CS2: Round 3: BB vs NAVI",
+        "title": "🏆 CS2: Round 4: VIT vs NAVI",
         "type": "navi",
         "desc": "Турнир: PGL Masters. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_1940802033066292846",
-        "date": "2026-10-23",
-        "title": "📰 Годовщина Dispatch: обновление Deluxe-издания...",
+        "id": "n_1649160694609517010",
+        "date": "2026-10-26",
+        "title": "📰 Пиксельная экшен-RPG Emberville получила аним...",
         "type": "news",
-        "desc": "Годовщина Dispatch: обновление Deluxe-издания и анонс мобильных версий ",
-        "url": "https://stopgame.ru/newsdata/73272/godovschina_dispatch_obnovlenie_deluxe_izdaniya_i_anons_mobilnyh_versiy"
+        "desc": "Пиксельная экшен-RPG Emberville получила анимационный трейлер перед запуском в раннем доступе",
+        "url": "https://stopgame.ru/newsdata/73288/pikselnaya_ekshen_rpg_emberville_poluchila_animacionnyy_trailer_pered_zapuskom_v_rannem_dostupe"
     },
     {
-        "id": "n_6849475689918467989",
-        "date": "2026-10-25",
-        "title": "📰 Релиз Shenmue 3 Enhanced перенесли на начало ...",
+        "id": "n_4286725116110947845",
+        "date": "2026-10-26",
+        "title": "📰 Релиз «улучшенного издания» Shenmue III перее...",
         "type": "news",
-        "desc": "Релиз Shenmue 3 Enhanced перенесли на начало 2027 года",
-        "url": "https://www.playground.ru/shenmue_3/news/reliz_shenmue_3_enhanced_perenesli_na_nachalo_2027_goda-1884759#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Релиз «улучшенного издания» Shenmue III переехал на 2027 год",
+        "url": "https://stopgame.ru/newsdata/73287/reliz_uluchshennogo_izdaniya_shenmue_iii_pereehal_na_2027_god"
+    },
+    {
+        "id": "n_5646644588221157121",
+        "date": "2026-10-26",
+        "title": "📰 «Один из лучших релизов в текущем поколении» ...",
+        "type": "news",
+        "desc": "«Один из лучших релизов в текущем поколении» — что пишут СМИ о Phantom Blade Zero",
+        "url": "https://stopgame.ru/newsdata/73286/odin_iz_luchshih_relizov_v_tekuschem_pokolenii_chto_pishut_smi_o_phantom_blade_zero"
+    },
+    {
+        "id": "n_-2492795506418716654",
+        "date": "2026-10-27",
+        "title": "📰 Перед релизом Phantom Blade Zero достигла зна...",
+        "type": "news",
+        "desc": "Перед релизом Phantom Blade Zero достигла значимого рубежа - игра заняла 2-е место в списке бестселлеров Steam",
+        "url": "https://www.playground.ru/phantom_blade_zero/news/pered_relizom_phantom_blade_zero_dostigla_znachimogo_rubezha_igra_zanyala_2_e_mesto_v_spiske_bestsellerov_steam-1885087#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_2400720845815079469",
+        "date": "2026-10-27",
+        "title": "📰 Последний геймплейный трейлер Tomb Raider: Le...",
+        "type": "news",
+        "desc": "Последний геймплейный трейлер Tomb Raider: Legacy of Atlantis набрал 3 миллиона просмотров за 24 часа",
+        "url": "https://www.playground.ru/tomb_raider_1996/news/poslednij_gejmplejnyj_trejler_tomb_raider_legacy_of_atlantis_nabral_3_milliona_prosmotrov_za_24_chasa-1885085#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_1489192774519495191",
+        "date": "2026-10-27",
+        "title": "📰 В сеть утёк финальный трейлер отменённой Tran...",
+        "type": "news",
+        "desc": "В сеть утёк финальный трейлер отменённой Transformers: Reactivate с полноценной кампанией",
+        "url": "https://www.playground.ru/transformers_reactivate/news/v_set_utyok_finalnyj_trejler_otmenyonnoj_transformers_reactivate_s_polnotsennoj_kampaniej-1885080#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-8646170982676390282",
+        "date": "2026-10-27",
+        "title": "📰 Для Beast of Reincarnation вышло последнее пл...",
+        "type": "news",
+        "desc": "Для Beast of Reincarnation вышло последнее плановое обновление после релиза",
+        "url": "https://www.playground.ru/beast_of_reincarnation/news/dlya_beast_of_reincarnation_vyshlo_poslednee_planovoe_obnovlenie_posle_reliza-1885072#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
