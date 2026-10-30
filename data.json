@@ -45,36 +45,28 @@
         "url": "https://www.google.com/search?q=Sabah+FK+—+Barça+match"
     },
     {
-        "id": "navi_cs_1753683",
-        "date": "2026-10-29",
-        "time": "14:00",
-        "title": "🏆 CS2: Quarterfinal 2: VIT vs NAVI",
+        "id": "navi_cs_1774351",
+        "date": "2026-10-30",
+        "time": "13:15",
+        "title": "🏆 CS2: Winners Match: NAVI vs TBD",
         "type": "navi",
-        "desc": "Турнир: PGL Masters. Статус: NOT_STARTED.",
+        "desc": "Турнир: Circuito Retake. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-5121642012059767813",
-        "date": "2026-10-28",
-        "title": "📰 Дата релиза Witchbrook, новая игра от соавтор...",
+        "id": "n_8899335036233398334",
+        "date": "2026-10-29",
+        "title": "📰 СМИ — XBOX скоро анонсирует The Elder Scrolls...",
         "type": "news",
-        "desc": "Дата релиза Witchbrook, новая игра от соавтора Celeste и не только — анонсы на Indie World Showcase",
-        "url": "https://stopgame.ru/newsdata/73314/data_reliza_witchbrook_novaya_igra_ot_soavtora_celeste_i_ne_tolko_anonsy_na_indie_world_showcase"
+        "desc": "СМИ — XBOX скоро анонсирует The Elder Scrolls VI: Sentinel",
+        "url": "https://stopgame.ru/newsdata/73332/smi_xbox_skoro_anonsiruet_the_elder_scrolls_vi_sentinel"
     },
     {
-        "id": "n_2816134544244214424",
-        "date": "2026-10-28",
-        "title": "📰 Авторы Crimson Desert назвали точное время ре...",
+        "id": "n_9101957275939036194",
+        "date": "2026-10-29",
+        "title": "📰 FromSoftware перенесла релиз The Duskbloods н...",
         "type": "news",
-        "desc": "Авторы Crimson Desert назвали точное время релиза DLC Charting the Unknown",
-        "url": "https://stopgame.ru/newsdata/73312/avtory_crimson_desert_nazvali_tochnoe_vremya_reliza_dlc_charting_the_unknown"
-    },
-    {
-        "id": "n_-3623298887569128061",
-        "date": "2026-10-28",
-        "title": "📰 Датамайнер: размер загружаемых файлов GTA VI ...",
-        "type": "news",
-        "desc": "Датамайнер: размер загружаемых файлов GTA VI на PS5 составит 210 Гб",
-        "url": "https://stopgame.ru/newsdata/73310/datamayner_razmer_zagruzhaemyh_faylov_gta_vi_na_ps5_sostavit_210_gb"
+        "desc": "FromSoftware перенесла релиз The Duskbloods на 2027 год",
+        "url": "https://stopgame.ru/newsdata/73327/fromsoftware_perenesla_reliz_the_duskbloods_na_2027_god"
     }
 ]
