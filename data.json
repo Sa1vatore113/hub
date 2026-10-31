@@ -45,16 +45,23 @@
         "url": "https://www.google.com/search?q=Sabah+FK+—+Barça+match"
     },
     {
-        "id": "navi_cs_1774351",
+        "id": "n_-4771945666594190870",
         "date": "2026-10-30",
-        "time": "13:15",
-        "title": "🏆 CS2: Winners Match: NAVI vs TBD",
-        "type": "navi",
-        "desc": "Турнир: Circuito Retake. Статус: NOT_STARTED.",
-        "url": "https://www.hltv.org/matches"
+        "title": "📰 Редактор персонажей и анонс альфа-тестировани...",
+        "type": "news",
+        "desc": "Редактор персонажей и анонс альфа-тестирования Hunter: The Reckoning — Deathwish",
+        "url": "https://stopgame.ru/newsdata/73340/redaktor_personazhey_i_anons_alfa_testirovaniya_hunter_the_reckoning_deathwish"
     },
     {
-        "id": "n_8899335036233398334",
+        "id": "n_4085261629784023003",
+        "date": "2026-10-30",
+        "title": "📰 Grinding Gear Games опубликовала тизер релизн...",
+        "type": "news",
+        "desc": "Grinding Gear Games опубликовала тизер релизной версии Path of Exile 2",
+        "url": "https://stopgame.ru/newsdata/73339/grinding_gear_games_opublikovala_tizer_reliznoy_versii_path_of_exile_2"
+    },
+    {
+        "id": "n_-4274636232366051611",
         "date": "2026-10-29",
         "title": "📰 СМИ — XBOX скоро анонсирует The Elder Scrolls...",
         "type": "news",
@@ -62,11 +69,19 @@
         "url": "https://stopgame.ru/newsdata/73332/smi_xbox_skoro_anonsiruet_the_elder_scrolls_vi_sentinel"
     },
     {
-        "id": "n_9101957275939036194",
-        "date": "2026-10-29",
-        "title": "📰 FromSoftware перенесла релиз The Duskbloods н...",
+        "id": "n_-4267557390289095881",
+        "date": "2026-10-31",
+        "title": "📰 Вышел трейлер открытого бета-тестирования The...",
         "type": "news",
-        "desc": "FromSoftware перенесла релиз The Duskbloods на 2027 год",
-        "url": "https://stopgame.ru/newsdata/73327/fromsoftware_perenesla_reliz_the_duskbloods_na_2027_god"
+        "desc": "Вышел трейлер открытого бета-тестирования The Eternal Conflict - масштабного любительского дополнения для Warcraft 3",
+        "url": "https://www.playground.ru/warcraft_3/news/vyshel_trejler_otkrytogo_beta_testirovaniya_the_eternal_conflict_masshtabnogo_lyubitelskogo_dopolneniya_dlya_warcraft_3-1886458#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_9211899956596751569",
+        "date": "2026-10-30",
+        "title": "📰 Разработчик анонсировал Gothic 2 Beyond - пер...",
+        "type": "news",
+        "desc": "Разработчик анонсировал Gothic 2 Beyond - перенос мира Gothic 3 на движок второй части с новым сюжетом",
+        "url": "https://www.playground.ru/gothic_3/news/razrabotchik_anonsiroval_gothic_2_beyond_perenos_mira_gothic_3_na_dvizhok_vtoroj_chasti_s_novym_syuzhetom-1886424#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
