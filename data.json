@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564732",
-        "date": "2026-10-31",
-        "title": "⚽ Barça — Alavés",
-        "type": "foot",
-        "time": "20:00",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Alavés+match"
-    },
-    {
         "id": "f_575380",
         "date": "2026-11-03",
         "title": "⚽ Barça — Aston Villa",
@@ -45,7 +36,25 @@
         "url": "https://www.google.com/search?q=Sabah+FK+—+Barça+match"
     },
     {
-        "id": "n_-4771945666594190870",
+        "id": "f_564766",
+        "date": "2026-11-29",
+        "title": "⚽ Deportivo — Barça",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Deportivo+—+Barça+match"
+    },
+    {
+        "id": "navi_cs_1761573",
+        "date": "2026-11-02",
+        "time": "12:30",
+        "title": "🏆 CS2: Upper Bracket Quarterfinal 4: NAVI vs FAL",
+        "type": "navi",
+        "desc": "Турнир: IEM. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
+    },
+    {
+        "id": "n_8543268982050865562",
         "date": "2026-10-30",
         "title": "📰 Редактор персонажей и анонс альфа-тестировани...",
         "type": "news",
@@ -53,7 +62,7 @@
         "url": "https://stopgame.ru/newsdata/73340/redaktor_personazhey_i_anons_alfa_testirovaniya_hunter_the_reckoning_deathwish"
     },
     {
-        "id": "n_4085261629784023003",
+        "id": "n_-6496779416782763332",
         "date": "2026-10-30",
         "title": "📰 Grinding Gear Games опубликовала тизер релизн...",
         "type": "news",
@@ -61,27 +70,11 @@
         "url": "https://stopgame.ru/newsdata/73339/grinding_gear_games_opublikovala_tizer_reliznoy_versii_path_of_exile_2"
     },
     {
-        "id": "n_-4274636232366051611",
-        "date": "2026-10-29",
-        "title": "📰 СМИ — XBOX скоро анонсирует The Elder Scrolls...",
-        "type": "news",
-        "desc": "СМИ — XBOX скоро анонсирует The Elder Scrolls VI: Sentinel",
-        "url": "https://stopgame.ru/newsdata/73332/smi_xbox_skoro_anonsiruet_the_elder_scrolls_vi_sentinel"
-    },
-    {
-        "id": "n_-4267557390289095881",
+        "id": "n_-4219356148181026504",
         "date": "2026-10-31",
-        "title": "📰 Вышел трейлер открытого бета-тестирования The...",
+        "title": "📰 Цифровой релиз откладывается? \"Обитель зла\" в...",
         "type": "news",
-        "desc": "Вышел трейлер открытого бета-тестирования The Eternal Conflict - масштабного любительского дополнения для Warcraft 3",
-        "url": "https://www.playground.ru/warcraft_3/news/vyshel_trejler_otkrytogo_beta_testirovaniya_the_eternal_conflict_masshtabnogo_lyubitelskogo_dopolneniya_dlya_warcraft_3-1886458#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_9211899956596751569",
-        "date": "2026-10-30",
-        "title": "📰 Разработчик анонсировал Gothic 2 Beyond - пер...",
-        "type": "news",
-        "desc": "Разработчик анонсировал Gothic 2 Beyond - перенос мира Gothic 3 на движок второй части с новым сюжетом",
-        "url": "https://www.playground.ru/gothic_3/news/razrabotchik_anonsiroval_gothic_2_beyond_perenos_mira_gothic_3_na_dvizhok_vtoroj_chasti_s_novym_syuzhetom-1886424#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Цифровой релиз откладывается? \"Обитель зла\" вернулась в IMAX на фоне провала \"Уличного бойца\"",
+        "url": "https://www.playground.ru/misc/news/tsifrovoj_reliz_otkladyvaetsya_obitel_zla_vernulas_v_imax_na_fone_provala_ulichnogo_bojtsa-1886642#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
