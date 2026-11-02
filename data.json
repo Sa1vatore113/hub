@@ -54,7 +54,15 @@
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_8543268982050865562",
+        "id": "n_3865481882653801232",
+        "date": "2026-11-01",
+        "title": "📰 Релиз дополнения Evercold для Final Fantasy X...",
+        "type": "news",
+        "desc": "Релиз дополнения Evercold для Final Fantasy XIV переехал на 23 февраля",
+        "url": "https://stopgame.ru/newsdata/73351/reliz_dopolneniya_evercold_dlya_final_fantasy_xiv_pereehal_na_23_fevralya"
+    },
+    {
+        "id": "n_8594146850233140824",
         "date": "2026-10-30",
         "title": "📰 Редактор персонажей и анонс альфа-тестировани...",
         "type": "news",
@@ -62,7 +70,7 @@
         "url": "https://stopgame.ru/newsdata/73340/redaktor_personazhey_i_anons_alfa_testirovaniya_hunter_the_reckoning_deathwish"
     },
     {
-        "id": "n_-6496779416782763332",
+        "id": "n_-2901779006659803164",
         "date": "2026-10-30",
         "title": "📰 Grinding Gear Games опубликовала тизер релизн...",
         "type": "news",
@@ -70,11 +78,11 @@
         "url": "https://stopgame.ru/newsdata/73339/grinding_gear_games_opublikovala_tizer_reliznoy_versii_path_of_exile_2"
     },
     {
-        "id": "n_-4219356148181026504",
-        "date": "2026-10-31",
-        "title": "📰 Цифровой релиз откладывается? \"Обитель зла\" в...",
+        "id": "n_-7271674382015986429",
+        "date": "2026-11-02",
+        "title": "📰 Square Enix показала новые регионы Final Fant...",
         "type": "news",
-        "desc": "Цифровой релиз откладывается? \"Обитель зла\" вернулась в IMAX на фоне провала \"Уличного бойца\"",
-        "url": "https://www.playground.ru/misc/news/tsifrovoj_reliz_otkladyvaetsya_obitel_zla_vernulas_v_imax_na_fone_provala_ulichnogo_bojtsa-1886642#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Square Enix показала новые регионы Final Fantasy XIV: Evercold в свежем трейлере",
+        "url": "https://www.playground.ru/final_fantasy_14_a_realm_reborn/news/square_enix_pokazala_novye_regiony_final_fantasy_xiv_evercold_v_svezhem_trejlere-1886936#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
