@@ -45,16 +45,24 @@
         "url": "https://www.google.com/search?q=Deportivo+—+Barça+match"
     },
     {
-        "id": "navi_cs_1761573",
-        "date": "2026-11-02",
+        "id": "navi_cs_1781462",
+        "date": "2026-11-03",
         "time": "12:30",
-        "title": "🏆 CS2: Upper Bracket Quarterfinal 4: NAVI vs FAL",
+        "title": "🏆 CS2: Upper Bracket Semifinal 2: FURIA vs NAVI",
         "type": "navi",
         "desc": "Турнир: IEM. Статус: NOT_STARTED.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_3865481882653801232",
+        "id": "n_-3676486313921713609",
+        "date": "2026-11-02",
+        "title": "📰 Авторы PowerWash Simulator 2 раскрыли дату ре...",
+        "type": "news",
+        "desc": "Авторы PowerWash Simulator 2 раскрыли дату релиза DLC Barbie Pack",
+        "url": "https://stopgame.ru/newsdata/73361/avtory_powerwash_simulator_2_raskryli_datu_reliza_dlc_barbie_pack"
+    },
+    {
+        "id": "n_8289352605178492384",
         "date": "2026-11-01",
         "title": "📰 Релиз дополнения Evercold для Final Fantasy X...",
         "type": "news",
@@ -62,27 +70,19 @@
         "url": "https://stopgame.ru/newsdata/73351/reliz_dopolneniya_evercold_dlya_final_fantasy_xiv_pereehal_na_23_fevralya"
     },
     {
-        "id": "n_8594146850233140824",
-        "date": "2026-10-30",
-        "title": "📰 Редактор персонажей и анонс альфа-тестировани...",
+        "id": "n_7822227049442978220",
+        "date": "2026-11-03",
+        "title": "📰 Шварценеггер и Алан Ричсон спасают Рождество ...",
         "type": "news",
-        "desc": "Редактор персонажей и анонс альфа-тестирования Hunter: The Reckoning — Deathwish",
-        "url": "https://stopgame.ru/newsdata/73340/redaktor_personazhey_i_anons_alfa_testirovaniya_hunter_the_reckoning_deathwish"
+        "desc": "Шварценеггер и Алан Ричсон спасают Рождество в первом трейлере комедии \"Человек с мешком\" от Amazon",
+        "url": "https://www.playground.ru/misc/news/shvartsenegger_i_alan_richson_spasayut_rozhdestvo_v_pervom_trejlere_komedii_chelovek_s_meshkom_ot_amazon-1887274#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_-2901779006659803164",
-        "date": "2026-10-30",
-        "title": "📰 Grinding Gear Games опубликовала тизер релизн...",
+        "id": "n_6507744274062196031",
+        "date": "2026-11-03",
+        "title": "📰 DOOBAK анонсировали как кооперативное приключ...",
         "type": "news",
-        "desc": "Grinding Gear Games опубликовала тизер релизной версии Path of Exile 2",
-        "url": "https://stopgame.ru/newsdata/73339/grinding_gear_games_opublikovala_tizer_reliznoy_versii_path_of_exile_2"
-    },
-    {
-        "id": "n_-7271674382015986429",
-        "date": "2026-11-02",
-        "title": "📰 Square Enix показала новые регионы Final Fant...",
-        "type": "news",
-        "desc": "Square Enix показала новые регионы Final Fantasy XIV: Evercold в свежем трейлере",
-        "url": "https://www.playground.ru/final_fantasy_14_a_realm_reborn/news/square_enix_pokazala_novye_regiony_final_fantasy_xiv_evercold_v_svezhem_trejlere-1886936#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "DOOBAK анонсировали как кооперативное приключение о спасении из снежной ловушки",
+        "url": "https://www.playground.ru/misc/news/doobak_anonsirovali_kak_kooperativnoe_priklyuchenie_o_spasenii_iz_snezhnoj_lovushki-1887249#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
