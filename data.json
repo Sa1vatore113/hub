@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_575380",
-        "date": "2026-11-03",
-        "title": "⚽ Barça — Aston Villa",
-        "type": "foot",
-        "time": "20:00",
-        "desc": "Лига: UEFA Champions League",
-        "url": "https://www.google.com/search?q=Barça+—+Aston+Villa+match"
-    },
-    {
         "id": "f_564746",
         "date": "2026-11-08",
         "title": "⚽ Atleti — Barça",
@@ -45,44 +36,45 @@
         "url": "https://www.google.com/search?q=Deportivo+—+Barça+match"
     },
     {
-        "id": "navi_cs_1781462",
-        "date": "2026-11-03",
-        "time": "12:30",
-        "title": "🏆 CS2: Upper Bracket Semifinal 2: FURIA vs NAVI",
+        "id": "f_564773",
+        "date": "2026-12-06",
+        "title": "⚽ Barça — Celta",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Celta+match"
+    },
+    {
+        "id": "navi_cs_1781466",
+        "date": "2026-11-04",
+        "time": "07:33",
+        "title": "🏆 CS2: Lower Bracket Semifinal 1: NAVI vs B8",
         "type": "navi",
-        "desc": "Турнир: IEM. Статус: NOT_STARTED.",
+        "desc": "Турнир: IEM. Статус: RUNNING.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-3676486313921713609",
-        "date": "2026-11-02",
-        "title": "📰 Авторы PowerWash Simulator 2 раскрыли дату ре...",
+        "id": "n_5561132597177136049",
+        "date": "2026-11-04",
+        "title": "📰 Для Like a Dragon: Ishin! вышел нейросетевой ...",
         "type": "news",
-        "desc": "Авторы PowerWash Simulator 2 раскрыли дату релиза DLC Barbie Pack",
-        "url": "https://stopgame.ru/newsdata/73361/avtory_powerwash_simulator_2_raskryli_datu_reliza_dlc_barbie_pack"
+        "desc": "Для Like a Dragon: Ishin! вышел нейросетевой текстовый русификатор - спустя три года после релиза игры",
+        "url": "https://www.playground.ru/yakuza_restoration/news/dlya_like_a_dragon_ishin_vyshel_nejrosetevoj_tekstovyj_rusifikator_spustya_tri_goda_posle_reliza_igry-1887637#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_8289352605178492384",
-        "date": "2026-11-01",
-        "title": "📰 Релиз дополнения Evercold для Final Fantasy X...",
+        "id": "n_-7602990477096881972",
+        "date": "2026-11-04",
+        "title": "📰 ARTIFACT выпустили гипервизор-взлом Denuvo дл...",
         "type": "news",
-        "desc": "Релиз дополнения Evercold для Final Fantasy XIV переехал на 23 февраля",
-        "url": "https://stopgame.ru/newsdata/73351/reliz_dopolneniya_evercold_dlya_final_fantasy_xiv_pereehal_na_23_fevralya"
+        "desc": "ARTIFACT выпустили гипервизор-взлом Denuvo для Football Manager 27 - полноценный релиз игры состоится лишь 10 ноября",
+        "url": "https://www.playground.ru/football_manager_27/news/artifact_vypustili_gipervizor_vzlom_denuvo_dlya_football_manager_27_polnotsennyj_reliz_igry_sostoitsya_lish_10_noyabrya-1887636#utm_source=rss&utm_medium=referral&utm_campaign=news"
     },
     {
-        "id": "n_7822227049442978220",
-        "date": "2026-11-03",
-        "title": "📰 Шварценеггер и Алан Ричсон спасают Рождество ...",
+        "id": "n_-1685383634446135233",
+        "date": "2026-11-04",
+        "title": "📰 Steam обновил процесс предрелизной проверки и...",
         "type": "news",
-        "desc": "Шварценеггер и Алан Ричсон спасают Рождество в первом трейлере комедии \"Человек с мешком\" от Amazon",
-        "url": "https://www.playground.ru/misc/news/shvartsenegger_i_alan_richson_spasayut_rozhdestvo_v_pervom_trejlere_komedii_chelovek_s_meshkom_ot_amazon-1887274#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_6507744274062196031",
-        "date": "2026-11-03",
-        "title": "📰 DOOBAK анонсировали как кооперативное приключ...",
-        "type": "news",
-        "desc": "DOOBAK анонсировали как кооперативное приключение о спасении из снежной ловушки",
-        "url": "https://www.playground.ru/misc/news/doobak_anonsirovali_kak_kooperativnoe_priklyuchenie_o_spasenii_iz_snezhnoj_lovushki-1887249#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Steam обновил процесс предрелизной проверки игр - добавлены новые требования к чек-листу",
+        "url": "https://www.playground.ru/misc/news/steam_obnovil_protsess_predreliznoj_proverki_igr_dobavleny_novye_trebovaniya_k_chek_listu-1887604#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
