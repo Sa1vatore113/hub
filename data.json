@@ -45,36 +45,27 @@
         "url": "https://www.google.com/search?q=Barça+—+Celta+match"
     },
     {
-        "id": "navi_cs_1781466",
+        "id": "n_-3538225635464542815",
         "date": "2026-11-04",
-        "time": "07:33",
-        "title": "🏆 CS2: Lower Bracket Semifinal 1: NAVI vs B8",
-        "type": "navi",
-        "desc": "Турнир: IEM. Статус: RUNNING.",
-        "url": "https://www.hltv.org/matches"
+        "title": "📰 Новый трейлер Lords of the Fallen II посвятил...",
+        "type": "news",
+        "desc": "Новый трейлер Lords of the Fallen II посвятили улучшенной боевой системе",
+        "url": "https://stopgame.ru/newsdata/73387/novyy_trailer_lords_of_the_fallen_ii_posvyatili_uluchshennoy_boevoy_sisteme"
     },
     {
-        "id": "n_5561132597177136049",
+        "id": "n_-6852904896036718482",
         "date": "2026-11-04",
-        "title": "📰 Для Like a Dragon: Ishin! вышел нейросетевой ...",
+        "title": "📰 Для Guild Wars анонсировали дополнение Afterl...",
         "type": "news",
-        "desc": "Для Like a Dragon: Ishin! вышел нейросетевой текстовый русификатор - спустя три года после релиза игры",
-        "url": "https://www.playground.ru/yakuza_restoration/news/dlya_like_a_dragon_ishin_vyshel_nejrosetevoj_tekstovyj_rusifikator_spustya_tri_goda_posle_reliza_igry-1887637#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Для Guild Wars анонсировали дополнение Afterlife — первое за почти 20 лет",
+        "url": "https://stopgame.ru/newsdata/73381/dlya_guild_wars_anonsirovali_dopolnenie_afterlife_pervoe_za_pochti_20_let"
     },
     {
-        "id": "n_-7602990477096881972",
+        "id": "n_-245023614709299423",
         "date": "2026-11-04",
-        "title": "📰 ARTIFACT выпустили гипервизор-взлом Denuvo дл...",
+        "title": "📰 Bethesda разочаровала фанатов Fallout 3 публи...",
         "type": "news",
-        "desc": "ARTIFACT выпустили гипервизор-взлом Denuvo для Football Manager 27 - полноценный релиз игры состоится лишь 10 ноября",
-        "url": "https://www.playground.ru/football_manager_27/news/artifact_vypustili_gipervizor_vzlom_denuvo_dlya_football_manager_27_polnotsennyj_reliz_igry_sostoitsya_lish_10_noyabrya-1887636#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-1685383634446135233",
-        "date": "2026-11-04",
-        "title": "📰 Steam обновил процесс предрелизной проверки и...",
-        "type": "news",
-        "desc": "Steam обновил процесс предрелизной проверки игр - добавлены новые требования к чек-листу",
-        "url": "https://www.playground.ru/misc/news/steam_obnovil_protsess_predreliznoj_proverki_igr_dobavleny_novye_trebovaniya_k_chek_listu-1887604#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Bethesda разочаровала фанатов Fallout 3 публикацией старого трейлера вместо новостей о ремастере",
+        "url": "https://www.playground.ru/fallout_3/news/bethesda_razocharovala_fanatov_fallout_3_publikatsiej_starogo_trejlera_vmesto_novostej_o_remastere-1887878#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
