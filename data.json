@@ -45,27 +45,36 @@
         "url": "https://www.google.com/search?q=Barça+—+Celta+match"
     },
     {
-        "id": "n_-3538225635464542815",
-        "date": "2026-11-04",
-        "title": "📰 Новый трейлер Lords of the Fallen II посвятил...",
-        "type": "news",
-        "desc": "Новый трейлер Lords of the Fallen II посвятили улучшенной боевой системе",
-        "url": "https://stopgame.ru/newsdata/73387/novyy_trailer_lords_of_the_fallen_ii_posvyatili_uluchshennoy_boevoy_sisteme"
+        "id": "navi_cs_1781482",
+        "date": "2026-11-06",
+        "time": "09:30",
+        "title": "🏆 CS2: Quarterfinal 1: PRV vs NAVI",
+        "type": "navi",
+        "desc": "Турнир: IEM. Статус: NOT_STARTED.",
+        "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_-6852904896036718482",
-        "date": "2026-11-04",
-        "title": "📰 Для Guild Wars анонсировали дополнение Afterl...",
+        "id": "n_1668966202223369910",
+        "date": "2026-11-05",
+        "title": "📰 Rockstar выложила «релизную галерею» с новыми...",
         "type": "news",
-        "desc": "Для Guild Wars анонсировали дополнение Afterlife — первое за почти 20 лет",
-        "url": "https://stopgame.ru/newsdata/73381/dlya_guild_wars_anonsirovali_dopolnenie_afterlife_pervoe_za_pochti_20_let"
+        "desc": "Rockstar выложила «релизную галерею» с новыми скриншотами GTA VI",
+        "url": "https://stopgame.ru/newsdata/73400/rockstar_vylozhila_reliznuyu_galereyu_s_novymi_skrinshotami_gta_vi"
     },
     {
-        "id": "n_-245023614709299423",
-        "date": "2026-11-04",
-        "title": "📰 Bethesda разочаровала фанатов Fallout 3 публи...",
+        "id": "n_4058292783207007623",
+        "date": "2026-11-06",
+        "title": "📰 Развитие ИИ может столкнуться с нехваткой эле...",
         "type": "news",
-        "desc": "Bethesda разочаровала фанатов Fallout 3 публикацией старого трейлера вместо новостей о ремастере",
-        "url": "https://www.playground.ru/fallout_3/news/bethesda_razocharovala_fanatov_fallout_3_publikatsiej_starogo_trejlera_vmesto_novostej_o_remastere-1887878#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Развитие ИИ может столкнуться с нехваткой электричества: дата-центры не готовы к новым ускорителям NVIDIA",
+        "url": "https://www.playground.ru/misc/news/razvitie_ii_mozhet_stolknutsya_s_nehvatkoj_elektrichestva_data_tsentry_ne_gotovy_k_novym_uskoritelyam_nvidia-1888228#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-298519754213179657",
+        "date": "2026-11-05",
+        "title": "📰 Company of Heroes 3 получила крупное обновлен...",
+        "type": "news",
+        "desc": "Company of Heroes 3 получила крупное обновление 3.0 - разработчики показали изменения в новом трейлере",
+        "url": "https://www.playground.ru/company_of_heroes_3/news/company_of_heroes_3_poluchila_krupnoe_obnovlenie_3_0_razrabotchiki_pokazali_izmeneniya_v_novom_trejlere-1888212#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
