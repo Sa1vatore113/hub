@@ -36,53 +36,37 @@
         "url": "https://www.google.com/search?q=Deportivo+—+Barça+match"
     },
     {
-        "id": "f_564773",
-        "date": "2026-12-06",
-        "title": "⚽ Barça — Celta",
+        "id": "f_564857",
+        "date": "2026-12-02",
+        "title": "⚽ Barça — Atleti",
         "type": "foot",
-        "time": "00:00",
+        "time": "20:30",
         "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Barça+—+Celta+match"
+        "url": "https://www.google.com/search?q=Barça+—+Atleti+match"
     },
     {
-        "id": "navi_cs_1781484",
-        "date": "2026-11-07",
-        "time": "09:30",
-        "title": "🏆 CS2: Semifinal 1: MGLZ vs NAVI",
+        "id": "navi_cs_1781487",
+        "date": "2026-11-08",
+        "time": "07:06",
+        "title": "🏆 CS2: Third Place Match: NAVI vs BB",
         "type": "navi",
-        "desc": "Турнир: IEM. Статус: NOT_STARTED.",
+        "desc": "Турнир: IEM. Статус: RUNNING.",
         "url": "https://www.hltv.org/matches"
     },
     {
-        "id": "n_5671086370237738672",
+        "id": "n_-1065731931260758913",
+        "date": "2026-11-07",
+        "title": "📰 Два новых класса и завершённый сюжет — детали...",
+        "type": "news",
+        "desc": "Два новых класса и завершённый сюжет — детали релизного обновления Path of Exile 2",
+        "url": "https://stopgame.ru/newsdata/73419/dva_novyh_klassa_i_zavershennyy_syuzhet_detali_reliznogo_obnovleniya_path_of_exile_2"
+    },
+    {
+        "id": "n_6233108932852697786",
         "date": "2026-11-06",
-        "title": "📰 Live action трейлер к релизу Stellar Blade на...",
+        "title": "📰 Live action трейлер к запуску Stellar Blade н...",
         "type": "news",
-        "desc": "Live action трейлер к релизу Stellar Blade на Switch 2",
-        "url": "https://stopgame.ru/newsdata/73415/live_action_trailer_k_relizu_stellar_blade_na_switch_2"
-    },
-    {
-        "id": "n_7379127997311910219",
-        "date": "2026-11-07",
-        "title": "📰 Path of Exile расширят лигой испытаний и улуч...",
-        "type": "news",
-        "desc": "Path of Exile расширят лигой испытаний и улучшениями эндгейма - свежий трейлер и детали Covens of Umbra",
-        "url": "https://www.playground.ru/path_of_exile/news/path_of_exile_rasshiryat_ligoj_ispytanij_i_uluchsheniyami_endgejma_svezhij_trejler_i_detali_covens_of_umbra-1888506#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-3384167377182193341",
-        "date": "2026-11-07",
-        "title": "📰 С релизом Path of Exile 2 получит завершённую...",
-        "type": "news",
-        "desc": "С релизом Path of Exile 2 получит завершённую кампанию с актами 5 и 6 - разработчики показали трейлер новых актов",
-        "url": "https://www.playground.ru/path_of_exile_2/news/s_relizom_path_of_exile_2_poluchit_zavershyonnuyu_kampaniyu_s_aktami_5_i_6_razrabotchiki_pokazali_trejler_novyh_aktov-1888497#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-3555091661165008066",
-        "date": "2026-11-07",
-        "title": "📰 Вышел тизер-трейлер анимационного сериала LEG...",
-        "type": "news",
-        "desc": "Вышел тизер-трейлер анимационного сериала LEGO NINJAGO Legends: Embers + Ashes - премьера в марте 2027-го",
-        "url": "https://www.playground.ru/misc/news/vyshel_tizer_trejler_animatsionnogo_seriala_lego_ninjago_legends_embers_ashes_premera_v_marte_2027_go-1888496#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Live action трейлер к запуску Stellar Blade на Switch 2",
+        "url": "https://stopgame.ru/newsdata/73415/live_action_trailer_k_zapusku_stellar_blade_na_switch_2"
     }
 ]
