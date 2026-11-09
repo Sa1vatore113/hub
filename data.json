@@ -1,14 +1,5 @@
 [
     {
-        "id": "f_564746",
-        "date": "2026-11-08",
-        "title": "⚽ Atleti — Barça",
-        "type": "foot",
-        "time": "20:00",
-        "desc": "Лига: Primera Division",
-        "url": "https://www.google.com/search?q=Atleti+—+Barça+match"
-    },
-    {
         "id": "f_564749",
         "date": "2026-11-22",
         "title": "⚽ Barça — Villarreal",
@@ -45,16 +36,16 @@
         "url": "https://www.google.com/search?q=Barça+—+Atleti+match"
     },
     {
-        "id": "navi_cs_1781487",
-        "date": "2026-11-08",
-        "time": "07:06",
-        "title": "🏆 CS2: Third Place Match: NAVI vs BB",
-        "type": "navi",
-        "desc": "Турнир: IEM. Статус: RUNNING.",
-        "url": "https://www.hltv.org/matches"
+        "id": "f_564773",
+        "date": "2026-12-06",
+        "title": "⚽ Barça — Celta",
+        "type": "foot",
+        "time": "00:00",
+        "desc": "Лига: Primera Division",
+        "url": "https://www.google.com/search?q=Barça+—+Celta+match"
     },
     {
-        "id": "n_-1065731931260758913",
+        "id": "n_-3017034168033048525",
         "date": "2026-11-07",
         "title": "📰 Два новых класса и завершённый сюжет — детали...",
         "type": "news",
@@ -62,11 +53,27 @@
         "url": "https://stopgame.ru/newsdata/73419/dva_novyh_klassa_i_zavershennyy_syuzhet_detali_reliznogo_obnovleniya_path_of_exile_2"
     },
     {
-        "id": "n_6233108932852697786",
+        "id": "n_3914317161108918943",
         "date": "2026-11-06",
         "title": "📰 Live action трейлер к запуску Stellar Blade н...",
         "type": "news",
         "desc": "Live action трейлер к запуску Stellar Blade на Switch 2",
         "url": "https://stopgame.ru/newsdata/73415/live_action_trailer_k_zapusku_stellar_blade_na_switch_2"
+    },
+    {
+        "id": "n_-3242897494516964581",
+        "date": "2026-11-09",
+        "title": "📰 Хоррор от двух человек: разбор нового трейлер...",
+        "type": "news",
+        "desc": "Хоррор от двух человек: разбор нового трейлера Jeff The Killer и интервью с автором",
+        "url": "https://www.playground.ru/jeff_the_killer_horror_game/news/horror_ot_dvuh_chelovek_razbor_novogo_trejlera_jeff_the_killer_i_intervyu_s_avtorom-1888957#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_-6872049167512105085",
+        "date": "2026-11-08",
+        "title": "📰 Американцы массово выступили против строитель...",
+        "type": "news",
+        "desc": "Американцы массово выступили против строительства дата-центров - развитие ИИ может замедлиться",
+        "url": "https://www.playground.ru/misc/news/amerikantsy_massovo_vystupili_protiv_stroitelstva_data_tsentrov_razvitie_ii_mozhet_zamedlitsya-1888906#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
