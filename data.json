@@ -45,7 +45,23 @@
         "url": "https://www.google.com/search?q=Barça+—+Celta+match"
     },
     {
-        "id": "n_-3017034168033048525",
+        "id": "n_-2217608058726577580",
+        "date": "2026-11-09",
+        "title": "📰 Анонсирована Beholder 4...",
+        "type": "news",
+        "desc": "Анонсирована Beholder 4",
+        "url": "https://stopgame.ru/newsdata/73431/anonsirovana_beholder_4"
+    },
+    {
+        "id": "n_3906831141028456374",
+        "date": "2026-11-09",
+        "title": "📰 Релиз Warhammer 40,000: Dark Heresy состоится...",
+        "type": "news",
+        "desc": "Релиз Warhammer 40,000: Dark Heresy состоится 28 января",
+        "url": "https://stopgame.ru/newsdata/73429/reliz_warhammer_40_000_dark_heresy_sostoitsya_28_yanvarya"
+    },
+    {
+        "id": "n_-65258018325911380",
         "date": "2026-11-07",
         "title": "📰 Два новых класса и завершённый сюжет — детали...",
         "type": "news",
@@ -53,27 +69,11 @@
         "url": "https://stopgame.ru/newsdata/73419/dva_novyh_klassa_i_zavershennyy_syuzhet_detali_reliznogo_obnovleniya_path_of_exile_2"
     },
     {
-        "id": "n_3914317161108918943",
-        "date": "2026-11-06",
-        "title": "📰 Live action трейлер к запуску Stellar Blade н...",
+        "id": "n_5993176994503635440",
+        "date": "2026-11-10",
+        "title": "📰 Take-Two намерена ускорить выпуск новых часте...",
         "type": "news",
-        "desc": "Live action трейлер к запуску Stellar Blade на Switch 2",
-        "url": "https://stopgame.ru/newsdata/73415/live_action_trailer_k_zapusku_stellar_blade_na_switch_2"
-    },
-    {
-        "id": "n_-3242897494516964581",
-        "date": "2026-11-09",
-        "title": "📰 Хоррор от двух человек: разбор нового трейлер...",
-        "type": "news",
-        "desc": "Хоррор от двух человек: разбор нового трейлера Jeff The Killer и интервью с автором",
-        "url": "https://www.playground.ru/jeff_the_killer_horror_game/news/horror_ot_dvuh_chelovek_razbor_novogo_trejlera_jeff_the_killer_i_intervyu_s_avtorom-1888957#utm_source=rss&utm_medium=referral&utm_campaign=news"
-    },
-    {
-        "id": "n_-6872049167512105085",
-        "date": "2026-11-08",
-        "title": "📰 Американцы массово выступили против строитель...",
-        "type": "news",
-        "desc": "Американцы массово выступили против строительства дата-центров - развитие ИИ может замедлиться",
-        "url": "https://www.playground.ru/misc/news/amerikantsy_massovo_vystupili_protiv_stroitelstva_data_tsentrov_razvitie_ii_mozhet_zamedlitsya-1888906#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Take-Two намерена ускорить выпуск новых частей GTA после релиза шестой игры",
+        "url": "https://www.playground.ru/gta_6/news/take_two_namerena_uskorit_vypusk_novyh_chastej_gta_posle_reliza_shestoj_igry-1889273#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
