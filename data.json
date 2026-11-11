@@ -45,35 +45,35 @@
         "url": "https://www.google.com/search?q=Barça+—+Celta+match"
     },
     {
-        "id": "n_-2217608058726577580",
-        "date": "2026-11-09",
-        "title": "📰 Анонсирована Beholder 4...",
-        "type": "news",
-        "desc": "Анонсирована Beholder 4",
-        "url": "https://stopgame.ru/newsdata/73431/anonsirovana_beholder_4"
-    },
-    {
-        "id": "n_3906831141028456374",
-        "date": "2026-11-09",
-        "title": "📰 Релиз Warhammer 40,000: Dark Heresy состоится...",
-        "type": "news",
-        "desc": "Релиз Warhammer 40,000: Dark Heresy состоится 28 января",
-        "url": "https://stopgame.ru/newsdata/73429/reliz_warhammer_40_000_dark_heresy_sostoitsya_28_yanvarya"
-    },
-    {
-        "id": "n_-65258018325911380",
-        "date": "2026-11-07",
-        "title": "📰 Два новых класса и завершённый сюжет — детали...",
-        "type": "news",
-        "desc": "Два новых класса и завершённый сюжет — детали релизного обновления Path of Exile 2",
-        "url": "https://stopgame.ru/newsdata/73419/dva_novyh_klassa_i_zavershennyy_syuzhet_detali_reliznogo_obnovleniya_path_of_exile_2"
-    },
-    {
-        "id": "n_5993176994503635440",
+        "id": "n_-5159295699815806222",
         "date": "2026-11-10",
-        "title": "📰 Take-Two намерена ускорить выпуск новых часте...",
+        "title": "📰 Анонс All Army Attack — забавного рогалика пр...",
         "type": "news",
-        "desc": "Take-Two намерена ускорить выпуск новых частей GTA после релиза шестой игры",
-        "url": "https://www.playground.ru/gta_6/news/take_two_namerena_uskorit_vypusk_novyh_chastej_gta_posle_reliza_shestoj_igry-1889273#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонс All Army Attack — забавного рогалика про битвы куриц и растений против инопланетян",
+        "url": "https://stopgame.ru/newsdata/73450/anons_all_army_attack_zabavnogo_rogalika_pro_bitvy_kuric_i_rasteniy_protiv_inoplanetyan"
+    },
+    {
+        "id": "n_-2579794904469768378",
+        "date": "2026-11-10",
+        "title": "📰 Найткроулер пытается спасти день в трейлере 1...",
+        "type": "news",
+        "desc": "Найткроулер пытается спасти день в трейлере 11 сезона Marvel Rivals ",
+        "url": "https://stopgame.ru/newsdata/73445/naytkrouler_pytaetsya_spasti_den_v_trailere_11_sezona_marvel_rivals"
+    },
+    {
+        "id": "n_-4431466315277129069",
+        "date": "2026-11-11",
+        "title": "📰 Бросай кубики и выбирай, как умереть - анонси...",
+        "type": "news",
+        "desc": "Бросай кубики и выбирай, как умереть - анонсирован необычный рогалик Die or Die",
+        "url": "https://www.playground.ru/misc/news/brosaj_kubiki_i_vybiraj_kak_umeret_anonsirovan_neobychnyj_rogalik_die_or_die-1889566#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_1053018941691313908",
+        "date": "2026-11-11",
+        "title": "📰 Origin Point Games анонсировала шоу африканск...",
+        "type": "news",
+        "desc": "Origin Point Games анонсировала шоу африканских игр для мировой аудитории",
+        "url": "https://www.playground.ru/misc/news/origin_point_games_anonsirovala_shou_afrikanskih_igr_dlya_mirovoj_auditorii-1889564#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
