@@ -45,35 +45,27 @@
         "url": "https://www.google.com/search?q=Barça+—+Celta+match"
     },
     {
-        "id": "n_-5159295699815806222",
-        "date": "2026-11-10",
-        "title": "📰 Анонс All Army Attack — забавного рогалика пр...",
-        "type": "news",
-        "desc": "Анонс All Army Attack — забавного рогалика про битвы куриц и растений против инопланетян",
-        "url": "https://stopgame.ru/newsdata/73450/anons_all_army_attack_zabavnogo_rogalika_pro_bitvy_kuric_i_rasteniy_protiv_inoplanetyan"
-    },
-    {
-        "id": "n_-2579794904469768378",
-        "date": "2026-11-10",
-        "title": "📰 Найткроулер пытается спасти день в трейлере 1...",
-        "type": "news",
-        "desc": "Найткроулер пытается спасти день в трейлере 11 сезона Marvel Rivals ",
-        "url": "https://stopgame.ru/newsdata/73445/naytkrouler_pytaetsya_spasti_den_v_trailere_11_sezona_marvel_rivals"
-    },
-    {
-        "id": "n_-4431466315277129069",
+        "id": "n_-4728255085867918357",
         "date": "2026-11-11",
-        "title": "📰 Бросай кубики и выбирай, как умереть - анонси...",
+        "title": "📰 Анонсирована Conan: The Black Pyramid — брута...",
         "type": "news",
-        "desc": "Бросай кубики и выбирай, как умереть - анонсирован необычный рогалик Die or Die",
-        "url": "https://www.playground.ru/misc/news/brosaj_kubiki_i_vybiraj_kak_umeret_anonsirovan_neobychnyj_rogalik_die_or_die-1889566#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Анонсирована Conan: The Black Pyramid — брутальный экшен-роуглайт про великого воина",
+        "url": "https://stopgame.ru/newsdata/73468/anonsirovana_conan_the_black_pyramid_brutalnyy_ekshen_rouglayt_pro_velikogo_voina"
     },
     {
-        "id": "n_1053018941691313908",
-        "date": "2026-11-11",
-        "title": "📰 Origin Point Games анонсировала шоу африканск...",
+        "id": "n_-2144010146859260956",
+        "date": "2026-11-12",
+        "title": "📰 На Shrek 2 Remastered пока нет рецензий от пр...",
         "type": "news",
-        "desc": "Origin Point Games анонсировала шоу африканских игр для мировой аудитории",
-        "url": "https://www.playground.ru/misc/news/origin_point_games_anonsirovala_shou_afrikanskih_igr_dlya_mirovoj_auditorii-1889564#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "На Shrek 2 Remastered пока нет рецензий от прессы - вероятно, пресс-копии рассылалась перед самым релизом игры",
+        "url": "https://www.playground.ru/shrek_2_the_game/news/na_shrek_2_remastered_poka_net_retsenzij_ot_pressy_veroyatno_press_kopii_rassylalas_pered_samym_relizom_igry-1889911#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_3555238126664394811",
+        "date": "2026-11-12",
+        "title": "📰 Poppy Playtime Chapter 5 вышла на iOS и Andro...",
+        "type": "news",
+        "desc": "Poppy Playtime Chapter 5 вышла на iOS и Android - с новым мобильным трейлером",
+        "url": "https://www.playground.ru/poppy_playtime/news/poppy_playtime_chapter_5_vyshla_na_ios_i_android_s_novym_mobilnym_trejlerom-1889887#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
