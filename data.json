@@ -45,27 +45,59 @@
         "url": "https://www.google.com/search?q=Barça+—+Celta+match"
     },
     {
-        "id": "n_-4728255085867918357",
-        "date": "2026-11-11",
-        "title": "📰 Анонсирована Conan: The Black Pyramid — брута...",
+        "id": "n_-2478907694790326103",
+        "date": "2026-11-13",
+        "title": "📰 MachineGames анонсировала Wolfenstein 3...",
         "type": "news",
-        "desc": "Анонсирована Conan: The Black Pyramid — брутальный экшен-роуглайт про великого воина",
-        "url": "https://stopgame.ru/newsdata/73468/anonsirovana_conan_the_black_pyramid_brutalnyy_ekshen_rouglayt_pro_velikogo_voina"
+        "desc": "MachineGames анонсировала Wolfenstein 3",
+        "url": "https://stopgame.ru/newsdata/73485/machinegames_anonsirovala_wolfenstein_3"
     },
     {
-        "id": "n_-2144010146859260956",
+        "id": "n_6968066340547503040",
         "date": "2026-11-12",
-        "title": "📰 На Shrek 2 Remastered пока нет рецензий от пр...",
+        "title": "📰 Авторы слэшера TSAREVNA. Age of Tales показал...",
         "type": "news",
-        "desc": "На Shrek 2 Remastered пока нет рецензий от прессы - вероятно, пресс-копии рассылалась перед самым релизом игры",
-        "url": "https://www.playground.ru/shrek_2_the_game/news/na_shrek_2_remastered_poka_net_retsenzij_ot_pressy_veroyatno_press_kopii_rassylalas_pered_samym_relizom_igry-1889911#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Авторы слэшера TSAREVNA. Age of Tales показали трейлер с новым обликом героини",
+        "url": "https://stopgame.ru/newsdata/73481/avtory_sleshera_tsarevna_age_of_tales_pokazali_trailer_s_novym_oblikom_geroini"
     },
     {
-        "id": "n_3555238126664394811",
+        "id": "n_-951086994095018484",
         "date": "2026-11-12",
-        "title": "📰 Poppy Playtime Chapter 5 вышла на iOS и Andro...",
+        "title": "📰 Состоялся полноценный анонс Lola&#039;s Famil...",
         "type": "news",
-        "desc": "Poppy Playtime Chapter 5 вышла на iOS и Android - с новым мобильным трейлером",
-        "url": "https://www.playground.ru/poppy_playtime/news/poppy_playtime_chapter_5_vyshla_na_ios_i_android_s_novym_mobilnym_trejlerom-1889887#utm_source=rss&utm_medium=referral&utm_campaign=news"
+        "desc": "Состоялся полноценный анонс Lola&#039;s Familiars — милой метроидвании от hongga17",
+        "url": "https://stopgame.ru/newsdata/73480/sostoyalsya_polnocennyy_anons_lolas_familiars_miloy_metroidvanii_ot_hongga17"
+    },
+    {
+        "id": "n_2701753505391228459",
+        "date": "2026-11-12",
+        "title": "📰 Становление капитаном в новом геймплейном тре...",
+        "type": "news",
+        "desc": "Становление капитаном в новом геймплейном трейлере The Expanse: Osiris Reborn",
+        "url": "https://stopgame.ru/newsdata/73474/stanovlenie_kapitanom_v_novom_geympleynom_trailere_the_expanse_osiris_reborn"
+    },
+    {
+        "id": "n_8399588146525145556",
+        "date": "2026-11-13",
+        "title": "📰 Netflix выпустил новый трейлер футуристическо...",
+        "type": "news",
+        "desc": "Netflix выпустил новый трейлер футуристического мультфильма \"Рэй Ганн\"",
+        "url": "https://www.playground.ru/misc/news/netflix_vypustil_novyj_trejler_futuristicheskogo_multfilma_rej_gann-1890244#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_8868374360202838850",
+        "date": "2026-11-13",
+        "title": "📰 Анонсирована необычная MOBA Manum с боями 4 н...",
+        "type": "news",
+        "desc": "Анонсирована необычная MOBA Manum с боями 4 на 4 с захватом точек и свободой от линий",
+        "url": "https://www.playground.ru/misc/news/anonsirovana_neobychnaya_moba_manum_s_boyami_4_na_4_s_zahvatom_tochek_i_svobodoj_ot_linij-1890230#utm_source=rss&utm_medium=referral&utm_campaign=news"
+    },
+    {
+        "id": "n_5899185611708976145",
+        "date": "2026-11-13",
+        "title": "📰 Геймплейный трейлер Rescue Drone Simulator: S...",
+        "type": "news",
+        "desc": "Геймплейный трейлер Rescue Drone Simulator: Second Chance показал спасательные операции с дронами",
+        "url": "https://www.playground.ru/rescue_drone_simulator_second_chance/news/gejmplejnyj_trejler_rescue_drone_simulator_second_chance_pokazal_spasatelnye_operatsii_s_dronami-1890222#utm_source=rss&utm_medium=referral&utm_campaign=news"
     }
 ]
